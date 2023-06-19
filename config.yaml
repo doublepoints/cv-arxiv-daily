@@ -38,7 +38,7 @@ keywords:
     "NeRF":
         filters: ["NeRF"]
     "GNN,GCN":
-        filters: ["GNN","GCNs","graph neural networks","graph Convolution networks
+        filters: ["GNN","GCNs","graph neural networks","graph Convolution networks"]
     "Event-Camera":
         filters: ["Event-Camera","event camera","event"]
     "SNNs":
