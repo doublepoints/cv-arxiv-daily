@@ -22,8 +22,8 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
+    "SLAM,Navigation": 
+        filters: ["SLAM", "Visual Odometry","Navigation","Dyanmic","long-term","life-long","mapless"]
     "SFM":
         filters: ["SFM", "Structure from Motion"]
     "Visual Localization":
@@ -37,3 +37,11 @@ keywords:
                   "Line Segment Detection", "Local Feature Matching"]
     "NeRF":
         filters: ["NeRF"]
+    "GNN,GCN":
+        filters: ["GNN","GCNs","graph neural networks","graph Convolution networks
+    "Event-Camera":
+        filters: ["Event-Camera","event camera","event"]
+    "SNNs":
+        filters: ["spiking"]
+    "neuron":
+        filters: ["neuron model","synapse","dendrites","dendritic","Dendrodendritic"]
