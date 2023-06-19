@@ -15,6 +15,11 @@
     <li><a href=#Keypoint-Detection>Keypoint Detection</a></li>
     <li><a href=#Image-Matching>Image Matching</a></li>
     <li><a href=#NeRF>NeRF</a></li>
+    <li><a href=#SLAM,Navigation>SLAM,Navigation</a></li>
+    <li><a href=#GNN,GCN>GNN,GCN</a></li>
+    <li><a href=#Event-Camera>Event-Camera</a></li>
+    <li><a href=#SNNs>SNNs</a></li>
+    <li><a href=#neuron>neuron</a></li>
   </ol>
 </details>
 
@@ -1666,6 +1671,91 @@
 |**2022-08-01**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741](http://arxiv.org/abs/2207.14741)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
+
+<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
+
+## SLAM,Navigation
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-06-01**|**Event-based Visual Odometry with Full Temporal Resolution via Continuous-time Gaussian Process Regression**|Jianeng Wang et.al.|[2306.01188](http://arxiv.org/abs/2306.01188)|null|
+|**2023-05-28**|**OSPC: Online Sequential Photometric Calibration**|Jawad Haidar et.al.|[2305.17673](http://arxiv.org/abs/2305.17673)|null|
+|**2023-05-15**|**Event Camera-based Visual Odometry for Dynamic Motion Tracking of a Legged Robot Using Adaptive Time Surface**|Shifan Zhu et.al.|[2305.08962](http://arxiv.org/abs/2305.08962)|null|
+|**2023-05-10**|**Transformer-based model for monocular visual odometry: a video understanding approach**|André O. Françani et.al.|[2305.06121](http://arxiv.org/abs/2305.06121)|**[link](https://github.com/aofrancani/tsformer-vo)**|
+|**2023-04-29**|**Modality-invariant Visual Odometry for Embodied Vision**|Marius Memmel et.al.|[2305.00348](http://arxiv.org/abs/2305.00348)|**[link](https://github.com/memmelma/vo-transformer)**|
+|**2023-04-21**|**FSNet: Redesign Self-Supervised MonoDepth for Full-Scale Depth Prediction for Autonomous Driving**|Yuxuan Liu et.al.|[2304.10719](http://arxiv.org/abs/2304.10719)|null|
+|**2023-04-18**|**Visual-LiDAR Odometry and Mapping with Monocular Scale Correction and Motion Compensation**|Hanyu Cai et.al.|[2304.08978](http://arxiv.org/abs/2304.08978)|null|
+|**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize et.al.|[2304.06194](http://arxiv.org/abs/2304.06194)|**[link](https://github.com/facebookresearch/silk)**|
+|**2023-04-11**|**ClusterFusion: Real-time Relative Positioning and Dense Reconstruction for UAV Cluster**|Yifei Dong et.al.|[2304.04943](http://arxiv.org/abs/2304.04943)|null|
+|**2023-03-21**|**Learning a Depth Covariance Function**|Eric Dexheimer et.al.|[2303.12157](http://arxiv.org/abs/2303.12157)|null|
+
+<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
+
+## GNN,GCN
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-06-15**|**The Split Matters: Flat Minima Methods for Improving the Performance of GNNs**|Nicolas Lell et.al.|[2306.09121](http://arxiv.org/abs/2306.09121)|**[link](https://github.com/foisunt/fmms-in-gnns)**|
+|**2023-06-15**|**On Strengthening and Defending Graph Reconstruction Attack with Markov Chain Approximation**|Zhanke Zhou et.al.|[2306.09104](http://arxiv.org/abs/2306.09104)|**[link](https://github.com/tmlr-group/mc-gra)**|
+|**2023-06-15**|**Scalable Resource Management for Dynamic MEC: An Unsupervised Link-Output Graph Neural Network Approach**|Xiucheng Wang et.al.|[2306.08938](http://arxiv.org/abs/2306.08938)|**[link](https://github.com/UNIC-Lab/LOGNN)**|
+|**2023-06-15**|**Multi-Temporal Relationship Inference in Urban Areas**|Shuangli Li et.al.|[2306.08921](http://arxiv.org/abs/2306.08921)|**[link](https://github.com/agave233/seenet)**|
+|**2023-06-15**|**A Gromov--Wasserstein Geometric View of Spectrum-Preserving Graph Coarsening**|Yifan Chen et.al.|[2306.08854](http://arxiv.org/abs/2306.08854)|**[link](https://github.com/ychen-stat-ml/gw-graph-coarsening)**|
+|**2023-06-15**|**Graph Convolution Based Efficient Re-Ranking for Visual Retrieval**|Yuqi Zhang et.al.|[2306.08792](http://arxiv.org/abs/2306.08792)|**[link](https://github.com/WesleyZhang1991/GCN_rerank)**|
+|**2023-06-14**|**A Unified Framework of Graph Information Bottleneck for Robustness and Membership Privacy**|Enyan Dai et.al.|[2306.08604](http://arxiv.org/abs/2306.08604)|null|
+|**2023-06-14**|**Self-supervised Learning and Graph Classification under Heterophily**|Yilin Ding et.al.|[2306.08469](http://arxiv.org/abs/2306.08469)|null|
+|**2023-06-14**|**NodeFormer: A Scalable Graph Structure Learning Transformer for Node Classification**|Qitian Wu et.al.|[2306.08385](http://arxiv.org/abs/2306.08385)|**[link](https://github.com/qitianwu/nodeformer)**|
+|**2023-06-14**|**A semantically enhanced dual encoder for aspect sentiment triplet extraction**|Baoxing Jiang et.al.|[2306.08373](http://arxiv.org/abs/2306.08373)|**[link](https://github.com/baosir529/dual-encoder4aste)**|
+
+<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
+
+## Event-Camera
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-06-15**|**E-Calib: A Fast, Robust and Accurate Calibration Toolbox for Event Cameras**|Mohammed Salah et.al.|[2306.09078](http://arxiv.org/abs/2306.09078)|**[link](https://github.com/mohammedsalah98/e_calib)**|
+|**2023-06-10**|**EventCLIP: Adapting CLIP for Event-based Object Recognition**|Ziyi Wu et.al.|[2306.06354](http://arxiv.org/abs/2306.06354)|null|
+|**2023-06-05**|**Best of Both Worlds: Hybrid SNN-ANN Architecture for Event-based Optical Flow Estimation**|Shubham Negi et.al.|[2306.02960](http://arxiv.org/abs/2306.02960)|null|
+|**2023-06-01**|**Experimental Energy Consumption Analysis of a Flapping-Wing Robot**|Raul Tapia et.al.|[2306.00848](http://arxiv.org/abs/2306.00848)|null|
+|**2023-06-01**|**Deformable Convolutions and LSTM-based Flexible Event Frame Fusion Network for Motion Deblurring**|Dan Yang et.al.|[2306.00834](http://arxiv.org/abs/2306.00834)|null|
+|**2023-05-29**|**Pedestrian detection with high-resolution event camera**|Piotr Wzorek et.al.|[2305.18008](http://arxiv.org/abs/2305.18008)|null|
+|**2023-05-24**|**Learning INR for Event-guided Rolling Shutter Frame Correction, Deblur, and Interpolation**|Yunfan Lu et.al.|[2305.15078](http://arxiv.org/abs/2305.15078)|**[link](https://github.com/yunfanLu/EG-RSDBI)**|
+|**2023-05-18**|**IDO-VFI: Identifying Dynamics via Optical Flow Guidance for Video Frame Interpolation with Events**|Chenyang Shi et.al.|[2305.10198](http://arxiv.org/abs/2305.10198)|null|
+|**2023-05-15**|**Event Camera-based Visual Odometry for Dynamic Motion Tracking of a Legged Robot Using Adaptive Time Surface**|Shifan Zhu et.al.|[2305.08962](http://arxiv.org/abs/2305.08962)|null|
+|**2023-05-13**|**EV-MGRFlowNet: Motion-Guided Recurrent Network for Unsupervised Event-based Optical Flow with Hybrid Motion-Compensation Loss**|Hao Zhuang et.al.|[2305.07853](http://arxiv.org/abs/2305.07853)|null|
+
+<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
+
+## SNNs
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-06-15**|**Orthogonal Extended Infomax Algorithm**|Nicole Ille et.al.|[2306.09180](http://arxiv.org/abs/2306.09180)|null|
+|**2023-06-14**|**Are training trajectories of deep single-spike and deep ReLU network equivalent?**|Ana Stanojevic et.al.|[2306.08744](http://arxiv.org/abs/2306.08744)|null|
+|**2023-06-14**|**Towards trustworthy seizure onset detection using workflow notes**|Khaled Saab et.al.|[2306.08728](http://arxiv.org/abs/2306.08728)|**[link](https://github.com/khaledsaab/eeg_robustness)**|
+|**2023-06-14**|**A Novel Channel-Constrained Model for 6G Vehicular Networks with Traffic Spikes**|Ke Deng et.al.|[2306.08417](http://arxiv.org/abs/2306.08417)|null|
+|**2023-06-13**|**Phase synchronization in a sparse network of randomly connected neurons under the effect of Poissonian spike inputs**|Bruno R. R. Boaretto et.al.|[2306.08077](http://arxiv.org/abs/2306.08077)|null|
+|**2023-06-13**|**Multiple-Step Quantized Triplet STDP Implemented with Memristive Synapse**|Y. Liu et.al.|[2306.07712](http://arxiv.org/abs/2306.07712)|null|
+|**2023-06-13**|**Maximization of the olfactory receptor neuron selectivity in the sub-threshold regime**|Alexander Vidybida et.al.|[2306.07676](http://arxiv.org/abs/2306.07676)|null|
+|**2023-06-12**|**Locally adaptive cellular automata for goal-oriented self-organization**|Sina Khajehabdollahi et.al.|[2306.07067](http://arxiv.org/abs/2306.07067)|null|
+|**2023-06-11**|**Proteinoid microspheres as proto-neural networks**|Panagiotis Mougkogiannis et.al.|[2306.06719](http://arxiv.org/abs/2306.06719)|null|
+|**2023-06-11**|**An Efficient and Accurate Memristive Memory for Array-based Spiking Neural Networks**|Hritom Das et.al.|[2306.06551](http://arxiv.org/abs/2306.06551)|null|
+
+<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
+
+## neuron
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-06-06**|**Spike-based computation using classical recurrent neural networks**|Florent De Geeter et.al.|[2306.03623](http://arxiv.org/abs/2306.03623)|null|
+|**2023-05-31**|**Fast-SNN: Fast Spiking Neural Network by Converting Quantized ANN**|Yangfan Hu et.al.|[2305.19868](http://arxiv.org/abs/2305.19868)|**[link](https://github.com/yangfan-hu/fast-snn)**|
+|**2023-06-05**|**Exploiting Noise as a Resource for Computation and Learning in Spiking Neural Networks**|Gehua Ma et.al.|[2305.16044](http://arxiv.org/abs/2305.16044)|**[link](https://github.com/genema/Noisy-Spiking-Neuron-Nets)**|
+|**2023-05-22**|**An Analytically Solvable Model of Firing Rate Heterogeneity in Balanced State Networks**|Alexander Schmidt et.al.|[2305.13420](http://arxiv.org/abs/2305.13420)|null|
+|**2023-05-21**|**Mapping Biological Neuron Dynamics into an Interpretable Two-layer Artificial Neural Network**|Jingyang Ma et.al.|[2305.12471](http://arxiv.org/abs/2305.12471)|null|
+|**2023-05-13**|**Quantization in Spiking Neural Networks**|Bernhard A. Moser et.al.|[2305.08012](http://arxiv.org/abs/2305.08012)|**[link](https://github.com/lunglmayrmoser/alexsnn)**|
+|**2023-05-09**|**Spiking Neural Networks in the Alexiewicz Topology: A New Perspective on Analysis and Error Bounds**|Bernhard A. Moser et.al.|[2305.05772](http://arxiv.org/abs/2305.05772)|**[link](https://github.com/lunglmayrmoser/alexsnn)**|
+|**2023-04-26**|**Splitting physics-informed neural networks for inferring the dynamics of integer- and fractional-order neuron models**|Simin Shekarpaz et.al.|[2304.13205](http://arxiv.org/abs/2304.13205)|null|
+|**2023-04-19**|**Pulse shape and voltage-dependent synchronization in spiking neuron networks**|Bastian Pietras et.al.|[2304.09813](http://arxiv.org/abs/2304.09813)|null|
+|**2023-04-18**|**Exact analysis of the subthreshold variability for conductance-based neuronal models with synchronous synaptic inputs**|Logan A. Becker et.al.|[2304.09280](http://arxiv.org/abs/2304.09280)|null|
 
 <p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
 
