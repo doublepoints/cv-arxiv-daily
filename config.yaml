@@ -45,3 +45,5 @@ keywords:
         filters: ["spiking"]
     "neuron":
         filters: ["neuron model","synapse","dendrites","dendritic","Dendrodendritic"]
+    "Localization":
+        filters: ["localization"]
