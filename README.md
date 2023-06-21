@@ -540,6 +540,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-20**|**Annotation Cost Efficient Active Learning for Content Based Image Retrieval**|Julia Henkel et.al.|[2306.11605](http://arxiv.org/abs/2306.11605)|null|
+|**2023-06-19**|**Cross-Modal Attribute Insertions for Assessing the Robustness of Vision-and-Language Learning**|Shivaen Ramshetty et.al.|[2306.11065](http://arxiv.org/abs/2306.11065)|**[link](https://github.com/claws-lab/multimodal-robustness-xmai)**|
+|**2023-06-18**|**LiDAR-Based Place Recognition For Autonomous Driving: A Survey**|Pengcheng Shi et.al.|[2306.10561](http://arxiv.org/abs/2306.10561)|null|
 |**2023-06-15**|**Yes, we CANN: Constrained Approximate Nearest Neighbors for local feature-based visual localization**|Dror Aiger et.al.|[2306.09012](http://arxiv.org/abs/2306.09012)|null|
 |**2023-06-15**|**Prompt Performance Prediction for Generative IR**|Nicolas Bizzozzero et.al.|[2306.08915](http://arxiv.org/abs/2306.08915)|null|
 |**2023-06-15**|**Graph Convolution Based Efficient Re-Ranking for Visual Retrieval**|Yuqi Zhang et.al.|[2306.08792](http://arxiv.org/abs/2306.08792)|**[link](https://github.com/WesleyZhang1991/GCN_rerank)**|
@@ -1135,6 +1138,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-19**|**Graph Self-Supervised Learning for Endoscopic Image Matching**|Manel Farhat et.al.|[2306.11141](http://arxiv.org/abs/2306.11141)|**[link](https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching)**|
 |**2023-06-09**|**Leaving the Lines Behind: Vision-Based Crop Row Exit for Agricultural Robot Navigation**|Rajitha de Silva et.al.|[2306.05869](http://arxiv.org/abs/2306.05869)|null|
 |**2023-06-07**|**A2B: Anchor to Barycentric Coordinate for Robust Correspondence**|Weiyue Zhao et.al.|[2306.02760](http://arxiv.org/abs/2306.02760)|null|
 |**2023-05-27**|**Pentagon-Match (PMatch): Identification of View-Invariant Planar Feature for Local Feature Matching-Based Homography Estimation**|Yueh-Cheng Huang et.al.|[2305.17463](http://arxiv.org/abs/2305.17463)|null|
@@ -1282,6 +1286,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-20**|**NeRF synthesis with shading guidance**|Chenbin Li et.al.|[2306.11556](http://arxiv.org/abs/2306.11556)|null|
+|**2023-06-17**|**MA-NeRF: Motion-Assisted Neural Radiance Fields for Face Synthesis from Sparse Images**|Weichen Zhang et.al.|[2306.10350](http://arxiv.org/abs/2306.10350)|null|
 |**2023-06-15**|**Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model**|Lu Yu et.al.|[2306.09551](http://arxiv.org/abs/2306.09551)|null|
 |**2023-06-16**|**UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video**|Zhi-Hao Lin et.al.|[2306.09349](http://arxiv.org/abs/2306.09349)|null|
 |**2023-06-13**|**DORSal: Diffusion for Object-centric Representations of Scenes $\textit{et al.}$**|Allan Jabri et.al.|[2306.08068](http://arxiv.org/abs/2306.08068)|null|
@@ -1697,6 +1703,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-20**|**Principles for Initialization and Architecture Selection in Graph Neural Networks with ReLU Activations**|Gage DeZoort et.al.|[2306.11668](http://arxiv.org/abs/2306.11668)|null|
+|**2023-06-20**|**Provably Powerful Graph Neural Networks for Directed Multigraphs**|Béni Egressy et.al.|[2306.11586](http://arxiv.org/abs/2306.11586)|null|
+|**2023-06-20**|**Hypergraph Classification via Persistent Homology**|Mehmet Emin Aktas et.al.|[2306.11484](http://arxiv.org/abs/2306.11484)|null|
+|**2023-06-20**|**Graph Neural Stochastic Differential Equations for Learning Brownian Dynamics**|Suresh Bishnoi et.al.|[2306.11435](http://arxiv.org/abs/2306.11435)|null|
+|**2023-06-20**|**Hierarchical GNNs for Large Graph Generation**|Alex O. Davies et.al.|[2306.11412](http://arxiv.org/abs/2306.11412)|null|
+|**2023-06-20**|**Low Latency Edge Classification GNN for Particle Trajectory Tracking on FPGAs**|Shi-Yu Huang et.al.|[2306.11330](http://arxiv.org/abs/2306.11330)|null|
+|**2023-06-20**|**Deep graph kernel point processes**|Zheng Dong et.al.|[2306.11313](http://arxiv.org/abs/2306.11313)|null|
+|**2023-06-20**|**GraphGLOW: Universal and Generalizable Structure Learning for Graph Neural Networks**|Wentao Zhao et.al.|[2306.11264](http://arxiv.org/abs/2306.11264)|**[link](https://github.com/wtaozhao/graphglow)**|
+|**2023-06-19**|**Learning Models of Adversarial Agent Behavior under Partial Observability**|Sean Ye et.al.|[2306.11168](http://arxiv.org/abs/2306.11168)|**[link](https://github.com/core-robotics-lab/opponent-modeling)**|
+|**2023-06-19**|**Graph Self-Supervised Learning for Endoscopic Image Matching**|Manel Farhat et.al.|[2306.11141](http://arxiv.org/abs/2306.11141)|**[link](https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching)**|
 |**2023-06-16**|**Uncertainty Quantification via Spatial-Temporal Tweedie Model for Zero-inflated and Long-tail Travel Demand Prediction**|Xinke Jiang et.al.|[2306.09882](http://arxiv.org/abs/2306.09882)|**[link](https://github.com/sttdanonymous/sttd)**|
 |**2023-06-16**|**Learning CO $_2$ plume migration in faulted reservoirs with Graph Neural Networks**|Xin Ju et.al.|[2306.09648](http://arxiv.org/abs/2306.09648)|null|
 |**2023-06-16**|**Fusing Structural and Functional Connectivities using Disentangled VAE for Detecting MCI**|Qiankun Zuo et.al.|[2306.09629](http://arxiv.org/abs/2306.09629)|null|
@@ -1739,6 +1755,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-20**|**Emergence of tip singularities in dissolution patterns**|Martin Chaigne et.al.|[2306.11676](http://arxiv.org/abs/2306.11676)|null|
+|**2023-06-19**|**Bayesian Variable Selection in Double Generalized Linear Tweedie Spatial Process Models**|Aritra Halder et.al.|[2306.11165](http://arxiv.org/abs/2306.11165)|null|
 |**2023-06-16**|**Parametrisation of decorated Margulis spacetimes using strip deformations**|Pallavi Panda et.al.|[2306.09985](http://arxiv.org/abs/2306.09985)|null|
 |**2023-06-16**|**Runtime Construction of Large-Scale Spiking Neuronal Network Models on GPU Devices**|Bruno Golosio et.al.|[2306.09855](http://arxiv.org/abs/2306.09855)|null|
 |**2023-06-15**|**Orthogonal Extended Infomax Algorithm**|Nicole Ille et.al.|[2306.09180](http://arxiv.org/abs/2306.09180)|null|
@@ -1776,6 +1794,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-20**|**Dense Video Object Captioning from Disjoint Supervision**|Xingyi Zhou et.al.|[2306.11729](http://arxiv.org/abs/2306.11729)|null|
+|**2023-06-20**|**Topological insulator and quantum memory**|M. Kulig et.al.|[2306.11691](http://arxiv.org/abs/2306.11691)|null|
+|**2023-06-20**|**Controlling secondary flows in Taylor-Couette flow using spanwise superhydrophobic surfaces**|Vignesh Jeganathan et.al.|[2306.11687](http://arxiv.org/abs/2306.11687)|null|
+|**2023-06-20**|**Insights of quantum time for quantum evolution**|Ngo Phuc Duc Loc et.al.|[2306.11675](http://arxiv.org/abs/2306.11675)|null|
+|**2023-06-20**|**Seiberg-Witten curves with O7 $^\pm$ -planes**|Hirotaka Hayashi et.al.|[2306.11631](http://arxiv.org/abs/2306.11631)|null|
+|**2023-06-20**|**Emergence of Gaussian fields in noisy quantum chaotic dynamics**|Maxime Ingremeau et.al.|[2306.11617](http://arxiv.org/abs/2306.11617)|null|
+|**2023-06-20**|**Fine-grained Policy-driven I/O Sharing for Burst Buffers**|Ed Karrels et.al.|[2306.11615](http://arxiv.org/abs/2306.11615)|null|
+|**2023-06-20**|**Polynomial approximation on disjoint segments and amplification of approximation**|Yuri Malykhin et.al.|[2306.11613](http://arxiv.org/abs/2306.11613)|null|
+|**2023-06-20**|**Visual Analysis of Large Multi-Field AMR Data on GPUs Using Interactive Volume Lines**|Stefan Zellmann et.al.|[2306.11612](http://arxiv.org/abs/2306.11612)|null|
+|**2023-06-20**|**Chemodynamical models of our Galaxy**|James Binney et.al.|[2306.11602](http://arxiv.org/abs/2306.11602)|null|
 |**2023-06-16**|**Just One Byte (per gradient): A Note on Low-Bandwidth Decentralized Language Model Finetuning Using Shared Randomness**|Eric Zelikman et.al.|[2306.10015](http://arxiv.org/abs/2306.10015)|**[link](https://github.com/ezelikman/justonebyte)**|
 |**2023-06-16**|**PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation**|Yuqi Wang et.al.|[2306.10013](http://arxiv.org/abs/2306.10013)|null|
 |**2023-06-16**|**Damping of MHD Turbulence in A Partially Ionized Medium**|Yue Hu et.al.|[2306.10010](http://arxiv.org/abs/2306.10010)|null|
