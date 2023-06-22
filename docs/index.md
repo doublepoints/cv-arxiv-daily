@@ -1262,6 +1262,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423](http://arxiv.org/abs/2306.12423)|**[link](https://github.com/qiuyu96/carver)**|
+|**2023-06-21**|**DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation**|Yukun Huang et.al.|[2306.12422](http://arxiv.org/abs/2306.12422)|null|
 |**2023-06-20**|**NeRF synthesis with shading guidance**|Chenbin Li et.al.|[2306.11556](http://arxiv.org/abs/2306.11556)|null|
 |**2023-06-17**|**MA-NeRF: Motion-Assisted Neural Radiance Fields for Face Synthesis from Sparse Images**|Weichen Zhang et.al.|[2306.10350](http://arxiv.org/abs/2306.10350)|null|
 |**2023-06-15**|**Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model**|Lu Yu et.al.|[2306.09551](http://arxiv.org/abs/2306.09551)|null|
@@ -1675,6 +1677,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-21**|**Learning the galaxy-environment connection with graph neural networks**|John F. Wu et.al.|[2306.12327](http://arxiv.org/abs/2306.12327)|null|
+|**2023-06-21**|**GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection**|Jianheng Tang et.al.|[2306.12251](http://arxiv.org/abs/2306.12251)|**[link](https://github.com/squareroot3/gadbench)**|
+|**2023-06-21**|**Predicting protein variants with equivariant graph neural networks**|Antonia Boca et.al.|[2306.12231](http://arxiv.org/abs/2306.12231)|null|
+|**2023-06-21**|**Spatial Heterophily Aware Graph Neural Networks**|Congxi Xiao et.al.|[2306.12139](http://arxiv.org/abs/2306.12139)|**[link](https://github.com/paddlepaddle/paddlespatial)**|
+|**2023-06-21**|**Structure-Aware DropEdge Towards Deep Graph Convolutional Networks**|Jiaqi Han et.al.|[2306.12091](http://arxiv.org/abs/2306.12091)|null|
 |**2023-06-20**|**Principles for Initialization and Architecture Selection in Graph Neural Networks with ReLU Activations**|Gage DeZoort et.al.|[2306.11668](http://arxiv.org/abs/2306.11668)|null|
 |**2023-06-20**|**Provably Powerful Graph Neural Networks for Directed Multigraphs**|Béni Egressy et.al.|[2306.11586](http://arxiv.org/abs/2306.11586)|null|
 |**2023-06-20**|**Hypergraph Classification via Persistent Homology**|Mehmet Emin Aktas et.al.|[2306.11484](http://arxiv.org/abs/2306.11484)|null|
@@ -1723,8 +1730,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-21**|**NeuroCLIP: Neuromorphic Data Understanding by CLIP and SNN**|Yufei Guo et.al.|[2306.12073](http://arxiv.org/abs/2306.12073)|**[link](https://github.com/yfguo91/neuroclip)**|
+|**2023-06-21**|**Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes**|Gehua Ma et.al.|[2306.12045](http://arxiv.org/abs/2306.12045)|null|
+|**2023-06-21**|**Spiking Neural Network for Ultra-low-latency and High-accurate Object Detection**|Jinye Qu et.al.|[2306.12010](http://arxiv.org/abs/2306.12010)|null|
+|**2023-06-20**|**The Bayesian Regularized Quantile Varying Coefficient Model**|Fei Zhou et.al.|[2306.11880](http://arxiv.org/abs/2306.11880)|null|
+|**2023-06-20**|**Gravitational Radiation from hyperbolic encounters in the presence of dark matter**|Abhishek Chowdhuri et.al.|[2306.11787](http://arxiv.org/abs/2306.11787)|null|
 |**2023-06-20**|**Emergence of tip singularities in dissolution patterns**|Martin Chaigne et.al.|[2306.11676](http://arxiv.org/abs/2306.11676)|null|
-|**2023-06-19**|**Bayesian Variable Selection in Double Generalized Linear Tweedie Spatial Process Models**|Aritra Halder et.al.|[2306.11165](http://arxiv.org/abs/2306.11165)|null|
+|**2023-06-19**|**Bayesian Variable Selection in Double Generalized Linear Tweedie Spatial Process Models**|Aritra Halder et.al.|[2306.11165](http://arxiv.org/abs/2306.11165)|**[link](https://github.com/arh926/sptwdglm)**|
 |**2023-06-16**|**Parametrisation of decorated Margulis spacetimes using strip deformations**|Pallavi Panda et.al.|[2306.09985](http://arxiv.org/abs/2306.09985)|null|
 |**2023-06-16**|**Runtime Construction of Large-Scale Spiking Neuronal Network Models on GPU Devices**|Bruno Golosio et.al.|[2306.09855](http://arxiv.org/abs/2306.09855)|null|
 |**2023-06-15**|**Orthogonal Extended Infomax Algorithm**|Nicole Ille et.al.|[2306.09180](http://arxiv.org/abs/2306.09180)|null|
@@ -1758,6 +1770,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-21**|**Ray-Knight Theorems for Spectrally Negative Lévy Processes**|Jesús Contreras et.al.|[2306.12407](http://arxiv.org/abs/2306.12407)|null|
+|**2023-06-21**|**Gradient Flow of the Sinai-Ruelle-Bowen Entropy**|Miaohua Jiang et.al.|[2306.12401](http://arxiv.org/abs/2306.12401)|null|
+|**2023-06-21**|**Timely Asynchronous Hierarchical Federated Learning: Age of Convergence**|Purbesh Mitra et.al.|[2306.12400](http://arxiv.org/abs/2306.12400)|null|
+|**2023-06-21**|**Spatio-temporal dynamics in a diffusive Bazykin model: effects of group defense and prey-taxis**|Subrata Dey et.al.|[2306.12393](http://arxiv.org/abs/2306.12393)|null|
+|**2023-06-21**|**Sample Complexity for Quadratic Bandits: Hessian Dependent Bounds and Optimal Algorithms**|Qian Yu et.al.|[2306.12383](http://arxiv.org/abs/2306.12383)|null|
+|**2023-06-21**|**Fast QSC Solver: tool for systematic study of N=4 Super-Yang-Mills spectrum**|Nikolay Gromov et.al.|[2306.12379](http://arxiv.org/abs/2306.12379)|null|
+|**2023-06-21**|**Memristive effects in YBa2Cu3O7-x devices with transistor-like structure**|Aurélien Lagarrigue et.al.|[2306.12373](http://arxiv.org/abs/2306.12373)|null|
+|**2023-06-21**|**Towards Efficient MPPI Trajectory Generation with Unscented Guidance: U-MPPI Control Strategy**|Ihab S. Mohamed et.al.|[2306.12369](http://arxiv.org/abs/2306.12369)|null|
+|**2023-06-21**|**Best-case scenarios for neutrino capture experiments**|Kyrylo Bondarenko et.al.|[2306.12366](http://arxiv.org/abs/2306.12366)|null|
+|**2023-06-21**|**Incompatibility of gravity theories with auxiliary fields with the Standard Model**|Giulia Ventagli et.al.|[2306.12350](http://arxiv.org/abs/2306.12350)|null|
 |**2023-06-20**|**Dense Video Object Captioning from Disjoint Supervision**|Xingyi Zhou et.al.|[2306.11729](http://arxiv.org/abs/2306.11729)|**[link](https://github.com/google-research/scenic)**|
 |**2023-06-20**|**Topological insulator and quantum memory**|M. Kulig et.al.|[2306.11691](http://arxiv.org/abs/2306.11691)|null|
 |**2023-06-20**|**Controlling secondary flows in Taylor-Couette flow using spanwise superhydrophobic surfaces**|Vignesh Jeganathan et.al.|[2306.11687](http://arxiv.org/abs/2306.11687)|null|
