@@ -414,6 +414,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-22**|**3D Reconstruction of Spherical Images based on Incremental Structure from Motion**|San Jiang et.al.|[2306.12770](http://arxiv.org/abs/2306.12770)|null|
 |**2023-06-15**|**NAVI: Category-Agnostic Image Collections with High-Quality 3D Shape and Pose Annotations**|Varun Jampani et.al.|[2306.09109](http://arxiv.org/abs/2306.09109)|null|
 |**2023-06-15**|**Yes, we CANN: Constrained Approximate Nearest Neighbors for local feature-based visual localization**|Dror Aiger et.al.|[2306.09012](http://arxiv.org/abs/2306.09012)|null|
 |**2023-06-10**|**3D reconstruction using Structure for Motion**|Kshitij Karnawat et.al.|[2306.06360](http://arxiv.org/abs/2306.06360)|**[link](https://github.com/kshitijkarnawat/structure-from-motion)**|
@@ -522,6 +523,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-22**|**Deep Metric Learning with Soft Orthogonal Proxies**|Farshad Saberi-Movahed et.al.|[2306.13055](http://arxiv.org/abs/2306.13055)|null|
+|**2023-06-22**|**What to Learn: Features, Image Transformations, or Both?**|Yuxuan Chen et.al.|[2306.13040](http://arxiv.org/abs/2306.13040)|null|
+|**2023-06-22**|**Critical-Reflective Human-AI Collaboration: Exploring Computational Tools for Art Historical Image Retrieval**|Katrin Glinka et.al.|[2306.12843](http://arxiv.org/abs/2306.12843)|null|
 |**2023-06-20**|**Annotation Cost Efficient Active Learning for Content Based Image Retrieval**|Julia Henkel et.al.|[2306.11605](http://arxiv.org/abs/2306.11605)|null|
 |**2023-06-19**|**Cross-Modal Attribute Insertions for Assessing the Robustness of Vision-and-Language Learning**|Shivaen Ramshetty et.al.|[2306.11065](http://arxiv.org/abs/2306.11065)|**[link](https://github.com/claws-lab/multimodal-robustness-xmai)**|
 |**2023-06-18**|**LiDAR-Based Place Recognition For Autonomous Driving: A Survey**|Pengcheng Shi et.al.|[2306.10561](http://arxiv.org/abs/2306.10561)|null|
@@ -1262,6 +1266,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-22**|**Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields**|Ori Gordon et.al.|[2306.12760](http://arxiv.org/abs/2306.12760)|null|
+|**2023-06-21**|**Local 3D Editing via 3D Distillation of CLIP Knowledge**|Junha Hyung et.al.|[2306.12570](http://arxiv.org/abs/2306.12570)|null|
 |**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423](http://arxiv.org/abs/2306.12423)|**[link](https://github.com/qiuyu96/carver)**|
 |**2023-06-21**|**DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation**|Yukun Huang et.al.|[2306.12422](http://arxiv.org/abs/2306.12422)|null|
 |**2023-06-20**|**NeRF synthesis with shading guidance**|Chenbin Li et.al.|[2306.11556](http://arxiv.org/abs/2306.11556)|null|
@@ -1677,7 +1683,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-21**|**Learning the galaxy-environment connection with graph neural networks**|John F. Wu et.al.|[2306.12327](http://arxiv.org/abs/2306.12327)|null|
+|**2023-06-22**|**Conversation Derailment Forecasting with Graph Convolutional Networks**|Enas Altarawneh et.al.|[2306.12982](http://arxiv.org/abs/2306.12982)|null|
+|**2023-06-22**|**Evolving Computation Graphs**|Andreea Deac et.al.|[2306.12943](http://arxiv.org/abs/2306.12943)|null|
+|**2023-06-22**|**StrainNet: Predicting crystal structure elastic properties using SE(3)-equivariant graph neural networks**|Teerachote Pakornchote et.al.|[2306.12818](http://arxiv.org/abs/2306.12818)|null|
+|**2023-06-22**|**On Addressing the Limitations of Graph Neural Networks**|Sitao Luan et.al.|[2306.12640](http://arxiv.org/abs/2306.12640)|null|
+|**2023-06-21**|**DGC-GNN: Descriptor-free Geometric-Color Graph Neural Network for 2D-3D Matching**|Shuzhe Wang et.al.|[2306.12547](http://arxiv.org/abs/2306.12547)|null|
+|**2023-06-21**|**Learning the galaxy-environment connection with graph neural networks**|John F. Wu et.al.|[2306.12327](http://arxiv.org/abs/2306.12327)|**[link](https://github.com/jwuphysics/halo-gnns)**|
 |**2023-06-21**|**GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection**|Jianheng Tang et.al.|[2306.12251](http://arxiv.org/abs/2306.12251)|**[link](https://github.com/squareroot3/gadbench)**|
 |**2023-06-21**|**Predicting protein variants with equivariant graph neural networks**|Antonia Boca et.al.|[2306.12231](http://arxiv.org/abs/2306.12231)|null|
 |**2023-06-21**|**Spatial Heterophily Aware Graph Neural Networks**|Congxi Xiao et.al.|[2306.12139](http://arxiv.org/abs/2306.12139)|**[link](https://github.com/paddlepaddle/paddlespatial)**|
@@ -1730,10 +1741,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-22**|**Stress-induced Artificial neuron spiking in Diffusive memristors**|Debi Pattnaik et.al.|[2306.12853](http://arxiv.org/abs/2306.12853)|null|
+|**2023-06-22**|**To Spike or Not to Spike? A Quantitative Comparison of SNN and CNN FPGA Implementations**|Patrick Plagwitz et.al.|[2306.12742](http://arxiv.org/abs/2306.12742)|null|
+|**2023-06-22**|**Memristive Reservoirs Learn to Learn**|Ruomin Zhu et.al.|[2306.12676](http://arxiv.org/abs/2306.12676)|null|
+|**2023-06-22**|**Accelerating SNN Training with Stochastic Parallelizable Spiking Neurons**|Sidi Yaya Arnaud Yarga et.al.|[2306.12666](http://arxiv.org/abs/2306.12666)|null|
+|**2023-06-21**|**Efficient Deep Spiking Multi-Layer Perceptrons with Multiplication-Free Inference**|Boyan Li et.al.|[2306.12465](http://arxiv.org/abs/2306.12465)|null|
 |**2023-06-21**|**NeuroCLIP: Neuromorphic Data Understanding by CLIP and SNN**|Yufei Guo et.al.|[2306.12073](http://arxiv.org/abs/2306.12073)|**[link](https://github.com/yfguo91/neuroclip)**|
 |**2023-06-21**|**Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes**|Gehua Ma et.al.|[2306.12045](http://arxiv.org/abs/2306.12045)|null|
 |**2023-06-21**|**Spiking Neural Network for Ultra-low-latency and High-accurate Object Detection**|Jinye Qu et.al.|[2306.12010](http://arxiv.org/abs/2306.12010)|null|
-|**2023-06-20**|**The Bayesian Regularized Quantile Varying Coefficient Model**|Fei Zhou et.al.|[2306.11880](http://arxiv.org/abs/2306.11880)|null|
+|**2023-06-20**|**The Bayesian Regularized Quantile Varying Coefficient Model**|Fei Zhou et.al.|[2306.11880](http://arxiv.org/abs/2306.11880)|**[link](https://github.com/cenwu/pqrbayes)**|
 |**2023-06-20**|**Gravitational Radiation from hyperbolic encounters in the presence of dark matter**|Abhishek Chowdhuri et.al.|[2306.11787](http://arxiv.org/abs/2306.11787)|null|
 |**2023-06-20**|**Emergence of tip singularities in dissolution patterns**|Martin Chaigne et.al.|[2306.11676](http://arxiv.org/abs/2306.11676)|null|
 |**2023-06-19**|**Bayesian Variable Selection in Double Generalized Linear Tweedie Spatial Process Models**|Aritra Halder et.al.|[2306.11165](http://arxiv.org/abs/2306.11165)|**[link](https://github.com/arh926/sptwdglm)**|
@@ -1770,6 +1786,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-22**|**Disorder-induced topological quantum phase transitions in Euler semimetals**|Wojciech J. Jankowski et.al.|[2306.13084](http://arxiv.org/abs/2306.13084)|null|
+|**2023-06-22**|**Phase transition for random walks on graphs with added weighted random matching**|Zsuzsanna Baran et.al.|[2306.13077](http://arxiv.org/abs/2306.13077)|null|
+|**2023-06-22**|**Unitary Complexity and the Uhlmann Transformation Problem**|John Bostanci et.al.|[2306.13073](http://arxiv.org/abs/2306.13073)|null|
+|**2023-06-22**|**Perfect transfer of arbitrary continuous variable states across optical waveguide lattices**|Tonipe Anuradha et.al.|[2306.13068](http://arxiv.org/abs/2306.13068)|null|
+|**2023-06-22**|**X-ray photodesorption of complex organic molecules in protoplanetary disks -- I. Acetonitrile CH3CN**|R. Basalgète et.al.|[2306.13048](http://arxiv.org/abs/2306.13048)|null|
+|**2023-06-22**|**What to Learn: Features, Image Transformations, or Both?**|Yuxuan Chen et.al.|[2306.13040](http://arxiv.org/abs/2306.13040)|null|
+|**2023-06-22**|**A Lotka-Volterra type model analyzed through different techniques**|Jorge Pinto et.al.|[2306.13031](http://arxiv.org/abs/2306.13031)|null|
+|**2023-06-22**|**Decentralized Online Federated G-Network Learning for Lightweight Intrusion Detection**|Mert Nakıp et.al.|[2306.13029](http://arxiv.org/abs/2306.13029)|null|
+|**2023-06-22**|**Toward Automated Detection of Microbleeds with Anatomical Scale Localization: A Complete Clinical Diagnosis Support Using Deep Learning**|Jun-Ho Kim et.al.|[2306.13020](http://arxiv.org/abs/2306.13020)|null|
+|**2023-06-22**|**Gilbert damping in metallic ferromagnets from Schwinger-Keldysh field theory: Nonlocality, nonuniformity, and anisotropy in the presence of spin-orbit coupling**|Felipe Reyes-Osorio et.al.|[2306.13013](http://arxiv.org/abs/2306.13013)|null|
 |**2023-06-21**|**Ray-Knight Theorems for Spectrally Negative Lévy Processes**|Jesús Contreras et.al.|[2306.12407](http://arxiv.org/abs/2306.12407)|null|
 |**2023-06-21**|**Gradient Flow of the Sinai-Ruelle-Bowen Entropy**|Miaohua Jiang et.al.|[2306.12401](http://arxiv.org/abs/2306.12401)|null|
 |**2023-06-21**|**Timely Asynchronous Hierarchical Federated Learning: Age of Convergence**|Purbesh Mitra et.al.|[2306.12400](http://arxiv.org/abs/2306.12400)|null|
