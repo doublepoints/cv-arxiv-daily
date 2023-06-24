@@ -1685,7 +1685,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-22**|**Conversation Derailment Forecasting with Graph Convolutional Networks**|Enas Altarawneh et.al.|[2306.12982](http://arxiv.org/abs/2306.12982)|null|
 |**2023-06-22**|**Evolving Computation Graphs**|Andreea Deac et.al.|[2306.12943](http://arxiv.org/abs/2306.12943)|null|
-|**2023-06-22**|**StrainNet: Predicting crystal structure elastic properties using SE(3)-equivariant graph neural networks**|Teerachote Pakornchote et.al.|[2306.12818](http://arxiv.org/abs/2306.12818)|null|
+|**2023-06-22**|**StrainNet: Predicting crystal structure elastic properties using SE(3)-equivariant graph neural networks**|Teerachote Pakornchote et.al.|[2306.12818](http://arxiv.org/abs/2306.12818)|**[link](https://github.com/trachote/predict_elastic_tensor)**|
 |**2023-06-22**|**On Addressing the Limitations of Graph Neural Networks**|Sitao Luan et.al.|[2306.12640](http://arxiv.org/abs/2306.12640)|null|
 |**2023-06-21**|**DGC-GNN: Descriptor-free Geometric-Color Graph Neural Network for 2D-3D Matching**|Shuzhe Wang et.al.|[2306.12547](http://arxiv.org/abs/2306.12547)|null|
 |**2023-06-21**|**Learning the galaxy-environment connection with graph neural networks**|John F. Wu et.al.|[2306.12327](http://arxiv.org/abs/2306.12327)|**[link](https://github.com/jwuphysics/halo-gnns)**|
@@ -1744,7 +1744,7 @@ layout: default
 |**2023-06-22**|**Stress-induced Artificial neuron spiking in Diffusive memristors**|Debi Pattnaik et.al.|[2306.12853](http://arxiv.org/abs/2306.12853)|null|
 |**2023-06-22**|**To Spike or Not to Spike? A Quantitative Comparison of SNN and CNN FPGA Implementations**|Patrick Plagwitz et.al.|[2306.12742](http://arxiv.org/abs/2306.12742)|null|
 |**2023-06-22**|**Memristive Reservoirs Learn to Learn**|Ruomin Zhu et.al.|[2306.12676](http://arxiv.org/abs/2306.12676)|null|
-|**2023-06-22**|**Accelerating SNN Training with Stochastic Parallelizable Spiking Neurons**|Sidi Yaya Arnaud Yarga et.al.|[2306.12666](http://arxiv.org/abs/2306.12666)|null|
+|**2023-06-22**|**Accelerating SNN Training with Stochastic Parallelizable Spiking Neurons**|Sidi Yaya Arnaud Yarga et.al.|[2306.12666](http://arxiv.org/abs/2306.12666)|**[link](https://github.com/necotis/stochastic-parallelizable-spiking-neuron-spsn)**|
 |**2023-06-21**|**Efficient Deep Spiking Multi-Layer Perceptrons with Multiplication-Free Inference**|Boyan Li et.al.|[2306.12465](http://arxiv.org/abs/2306.12465)|null|
 |**2023-06-21**|**NeuroCLIP: Neuromorphic Data Understanding by CLIP and SNN**|Yufei Guo et.al.|[2306.12073](http://arxiv.org/abs/2306.12073)|**[link](https://github.com/yfguo91/neuroclip)**|
 |**2023-06-21**|**Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes**|Gehua Ma et.al.|[2306.12045](http://arxiv.org/abs/2306.12045)|null|
