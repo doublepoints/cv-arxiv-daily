@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.25
+## Updated on 2023.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1801,11 +1801,11 @@ layout: default
 |**2023-06-21**|**Timely Asynchronous Hierarchical Federated Learning: Age of Convergence**|Purbesh Mitra et.al.|[2306.12400](http://arxiv.org/abs/2306.12400)|null|
 |**2023-06-21**|**Spatio-temporal dynamics in a diffusive Bazykin model: effects of group defense and prey-taxis**|Subrata Dey et.al.|[2306.12393](http://arxiv.org/abs/2306.12393)|null|
 |**2023-06-22**|**Sample Complexity for Quadratic Bandits: Hessian Dependent Bounds and Optimal Algorithms**|Qian Yu et.al.|[2306.12383](http://arxiv.org/abs/2306.12383)|null|
-|**2023-06-21**|**Fast QSC Solver: tool for systematic study of N=4 Super-Yang-Mills spectrum**|Nikolay Gromov et.al.|[2306.12379](http://arxiv.org/abs/2306.12379)|null|
+|**2023-06-21**|**Fast QSC Solver: tool for systematic study of N=4 Super-Yang-Mills spectrum**|Nikolay Gromov et.al.|[2306.12379](http://arxiv.org/abs/2306.12379)|**[link](https://github.com/julius-julius/qsc)**|
 |**2023-06-21**|**Memristive effects in YBa2Cu3O7-x devices with transistor-like structure**|Aurélien Lagarrigue et.al.|[2306.12373](http://arxiv.org/abs/2306.12373)|null|
 |**2023-06-21**|**Towards Efficient MPPI Trajectory Generation with Unscented Guidance: U-MPPI Control Strategy**|Ihab S. Mohamed et.al.|[2306.12369](http://arxiv.org/abs/2306.12369)|null|
 |**2023-06-21**|**Best-case scenarios for neutrino capture experiments**|Kyrylo Bondarenko et.al.|[2306.12366](http://arxiv.org/abs/2306.12366)|null|
-|**2023-06-21**|**Incompatibility of gravity theories with auxiliary fields with the Standard Model**|Giulia Ventagli et.al.|[2306.12350](http://arxiv.org/abs/2306.12350)|null|
+|**2023-06-21**|**Incompatibility of gravity theories with auxiliary fields with the Standard Model**|Giulia Ventagli et.al.|[2306.12350](http://arxiv.org/abs/2306.12350)|**[link](https://github.com/giuliaventagli/gravitywithauxiliaryfields)**|
 |**2023-06-20**|**Dense Video Object Captioning from Disjoint Supervision**|Xingyi Zhou et.al.|[2306.11729](http://arxiv.org/abs/2306.11729)|**[link](https://github.com/google-research/scenic)**|
 |**2023-06-20**|**Topological insulator and quantum memory**|M. Kulig et.al.|[2306.11691](http://arxiv.org/abs/2306.11691)|null|
 |**2023-06-20**|**Controlling secondary flows in Taylor-Couette flow using spanwise superhydrophobic surfaces**|Vignesh Jeganathan et.al.|[2306.11687](http://arxiv.org/abs/2306.11687)|null|
@@ -1822,7 +1822,7 @@ layout: default
 |**2023-06-16**|**C2F2NeUS: Cascade Cost Frustum Fusion for High Fidelity and Generalizable Neural Surface Reconstruction**|Luoyuan Xu et.al.|[2306.10003](http://arxiv.org/abs/2306.10003)|null|
 |**2023-06-16**|**Magnetochiral anisotropy-induced nonlinear Hall effect in spin-orbit coupled Rashba conductors**|D. C. Marinescu et.al.|[2306.09993](http://arxiv.org/abs/2306.09993)|null|
 |**2023-06-16**|**Formation of trapped vacuum bubbles during inflation, and consequences for PBH scenarios**|Albert Escrivà et.al.|[2306.09990](http://arxiv.org/abs/2306.09990)|null|
-|**2023-06-16**|**Catch me if you can: Signal localization with knockoff e-values**|Paula Gablenz et.al.|[2306.09976](http://arxiv.org/abs/2306.09976)|null|
+|**2023-06-16**|**Catch me if you can: Signal localization with knockoff e-values**|Paula Gablenz et.al.|[2306.09976](http://arxiv.org/abs/2306.09976)|**[link](https://github.com/pmgblz/kelp)**|
 |**2023-06-16**|**Approximate lattices: structure in linear groups, definition(s) and beyond**|Simon Machado et.al.|[2306.09899](http://arxiv.org/abs/2306.09899)|null|
 |**2023-06-16**|**Density and current statistics in boundary-driven monitored fermionic chains**|Xhek Turkeshi et.al.|[2306.09893](http://arxiv.org/abs/2306.09893)|null|
 |**2023-06-16**|**Improving Spectrum-Based Localization of Multiple Faults by Iterative Test Suite Reduction**|Dylan Callaghan et.al.|[2306.09892](http://arxiv.org/abs/2306.09892)|null|
