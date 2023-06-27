@@ -541,6 +541,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-26**|**Hierarchical Matching and Reasoning for Multi-Query Image Retrieval**|Zhong Ji et.al.|[2306.14460](http://arxiv.org/abs/2306.14460)|null|
+|**2023-06-25**|**Enhancing Dynamic Image Advertising with Vision-Language Pre-training**|Zhoufutu Wen et.al.|[2306.14112](http://arxiv.org/abs/2306.14112)|null|
 |**2023-06-23**|**Catching Image Retrieval Generalization**|Maksim Zhdanov et.al.|[2306.13357](http://arxiv.org/abs/2306.13357)|null|
 |**2023-06-22**|**Deep Metric Learning with Soft Orthogonal Proxies**|Farshad Saberi-Movahed et.al.|[2306.13055](http://arxiv.org/abs/2306.13055)|null|
 |**2023-06-22**|**What to Learn: Features, Image Transformations, or Both?**|Yuxuan Chen et.al.|[2306.13040](http://arxiv.org/abs/2306.13040)|null|
@@ -1143,6 +1145,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-25**|**Enhancing Dynamic Image Advertising with Vision-Language Pre-training**|Zhoufutu Wen et.al.|[2306.14112](http://arxiv.org/abs/2306.14112)|null|
 |**2023-06-23**|**LightGlue: Local Feature Matching at Light Speed**|Philipp Lindenberger et.al.|[2306.13643](http://arxiv.org/abs/2306.13643)|**[link](https://github.com/cvg/lightglue)**|
 |**2023-06-19**|**Graph Self-Supervised Learning for Endoscopic Image Matching**|Manel Farhat et.al.|[2306.11141](http://arxiv.org/abs/2306.11141)|**[link](https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching)**|
 |**2023-06-09**|**Leaving the Lines Behind: Vision-Based Crop Row Exit for Agricultural Robot Navigation**|Rajitha de Silva et.al.|[2306.05869](http://arxiv.org/abs/2306.05869)|null|
@@ -1713,6 +1716,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-26**|**Metapopulation Graph Neural Networks: Deep Metapopulation Epidemic Modeling with Human Mobility**|Qi Cao et.al.|[2306.14857](http://arxiv.org/abs/2306.14857)|null|
+|**2023-06-26**|**Accelerating Molecular Graph Neural Networks via Knowledge Distillation**|Filip Ekström Kelvinius et.al.|[2306.14818](http://arxiv.org/abs/2306.14818)|null|
+|**2023-06-26**|**Community Detection Graph Convolutional Network for Overlap-Aware Speaker Diarization**|Jie Wang et.al.|[2306.14530](http://arxiv.org/abs/2306.14530)|null|
+|**2023-06-26**|**Learning Prompt-Enhanced Context Features for Weakly-Supervised Video Anomaly Detection**|Yujiang Pu et.al.|[2306.14451](http://arxiv.org/abs/2306.14451)|null|
+|**2023-06-26**|**RoboCook: Long-Horizon Elasto-Plastic Object Manipulation with Diverse Tools**|Haochen Shi et.al.|[2306.14447](http://arxiv.org/abs/2306.14447)|null|
+|**2023-06-26**|**Interpretable Sparsification of Brain Graphs: Better Practices and Effective Designs for Graph Neural Networks**|Gaotang Li et.al.|[2306.14375](http://arxiv.org/abs/2306.14375)|**[link](https://github.com/motivationss/igs)**|
+|**2023-06-25**|**PolicyClusterGCN: Identifying Efficient Clusters for Training Graph Convolutional Networks**|Saket Gurukar et.al.|[2306.14357](http://arxiv.org/abs/2306.14357)|null|
+|**2023-06-25**|**GPatcher: A Simple and Adaptive MLP Model for Alleviating Graph Heterophily**|Shuaicheng Zhang et.al.|[2306.14340](http://arxiv.org/abs/2306.14340)|null|
+|**2023-06-25**|**Real-time Seismic Intensity Prediction using Self-supervised Contrastive GNN for Earthquake Early Warning**|Rafid Umayer Murshed et.al.|[2306.14336](http://arxiv.org/abs/2306.14336)|null|
+|**2023-06-25**|**A Closer Look at Geometric Temporal Dynamics for Face Anti-Spoofing**|Chih-Jung Chang et.al.|[2306.14313](http://arxiv.org/abs/2306.14313)|null|
 |**2023-06-23**|**Torsion Graph Neural Networks**|Cong Shen et.al.|[2306.13541](http://arxiv.org/abs/2306.13541)|**[link](https://github.com/cs-bio/torgnn)**|
 |**2023-06-23**|**PathMLP: Smooth Path Towards High-order Homophily**|Chenxuan Xie et.al.|[2306.13532](http://arxiv.org/abs/2306.13532)|null|
 |**2023-06-23**|**A Graph Neural Network Approach for Temporal Mesh Blending and Correspondence**|Aalok Gangopadhyay et.al.|[2306.13452](http://arxiv.org/abs/2306.13452)|null|
@@ -1764,6 +1777,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-25**|**High-precision and low-latency widefield diamond quantum sensing with neuromorphic vision sensors**|Zhiyuan Du et.al.|[2306.14099](http://arxiv.org/abs/2306.14099)|null|
 |**2023-06-15**|**E-Calib: A Fast, Robust and Accurate Calibration Toolbox for Event Cameras**|Mohammed Salah et.al.|[2306.09078](http://arxiv.org/abs/2306.09078)|**[link](https://github.com/mohammedsalah98/e_calib)**|
 |**2023-06-10**|**EventCLIP: Adapting CLIP for Event-based Object Recognition**|Ziyi Wu et.al.|[2306.06354](http://arxiv.org/abs/2306.06354)|null|
 |**2023-06-05**|**Best of Both Worlds: Hybrid SNN-ANN Architecture for Event-based Optical Flow Estimation**|Shubham Negi et.al.|[2306.02960](http://arxiv.org/abs/2306.02960)|null|
@@ -1781,6 +1795,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-26**|**CIMulator: A Comprehensive Simulation Platform for Computing-In-Memory Circuit Macros with Low Bit-Width and Real Memory Materials**|Hoang-Hiep Le et.al.|[2306.14649](http://arxiv.org/abs/2306.14649)|null|
+|**2023-06-25**|**Learning in ensembles of proteinoid microspheres**|Panagiotis Mougkogiannis et.al.|[2306.14362](http://arxiv.org/abs/2306.14362)|null|
+|**2023-06-25**|**SpikeCodec: An End-to-end Learned Compression Framework for Spiking Camera**|Kexiang Feng et.al.|[2306.14108](http://arxiv.org/abs/2306.14108)|null|
+|**2023-06-25**|**High-precision and low-latency widefield diamond quantum sensing with neuromorphic vision sensors**|Zhiyuan Du et.al.|[2306.14099](http://arxiv.org/abs/2306.14099)|null|
+|**2023-06-23**|**Spiking Two-Stream Methods with Unsupervised STDP-based Learning for Action Recognition**|Mireille El-Assal et.al.|[2306.13783](http://arxiv.org/abs/2306.13783)|null|
+|**2023-06-23**|**Enhanced Read Resolution in Reconfigurable Memristive Synapses for Spiking Neural Networks**|Hritom Das et.al.|[2306.13721](http://arxiv.org/abs/2306.13721)|null|
 |**2023-06-22**|**Stress-induced Artificial neuron spiking in Diffusive memristors**|Debi Pattnaik et.al.|[2306.12853](http://arxiv.org/abs/2306.12853)|null|
 |**2023-06-22**|**To Spike or Not to Spike? A Quantitative Comparison of SNN and CNN FPGA Implementations**|Patrick Plagwitz et.al.|[2306.12742](http://arxiv.org/abs/2306.12742)|null|
 |**2023-06-22**|**Memristive Reservoirs Learn to Learn**|Ruomin Zhu et.al.|[2306.12676](http://arxiv.org/abs/2306.12676)|null|
@@ -1830,6 +1850,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-26**|**FunQA: Towards Surprising Video Comprehension**|Binzhu Xie et.al.|[2306.14899](http://arxiv.org/abs/2306.14899)|**[link](https://github.com/jingkang50/funqa)**|
+|**2023-06-26**|**Probing angle dependent thermal conductivity in twisted bilayer MoSe2**|Manab Mandal et.al.|[2306.14897](http://arxiv.org/abs/2306.14897)|null|
+|**2023-06-26**|**LongCoder: A Long-Range Pre-trained Language Model for Code Completion**|Daya Guo et.al.|[2306.14893](http://arxiv.org/abs/2306.14893)|**[link](https://github.com/microsoft/CodeBERT)**|
+|**2023-06-26**|**Molecular gas distribution and CO-to-H2 conversion factors in CO-faint low-metallicity dwarf galaxies**|L. Ramambason et.al.|[2306.14881](http://arxiv.org/abs/2306.14881)|null|
+|**2023-06-26**|**Hemispherical Power Asymmetry in intensity and polarization for Planck PR4 data**|C. Gimeno-Amo et.al.|[2306.14880](http://arxiv.org/abs/2306.14880)|null|
+|**2023-06-26**|**Quantum trajectories for time-local non-Lindblad master equations**|Tobias Becker et.al.|[2306.14876](http://arxiv.org/abs/2306.14876)|null|
+|**2023-06-26**|**Proportional Aggregation of Preferences for Sequential Decision Making**|Nikhil Chandak et.al.|[2306.14858](http://arxiv.org/abs/2306.14858)|null|
+|**2023-06-26**|**On planar Brownian motion singularly tilted through a point potential**|Jeremy Clark et.al.|[2306.14849](http://arxiv.org/abs/2306.14849)|null|
+|**2023-06-26**|**Correlated electronic structure, orbital-selective behavior, and magnetic correlations in double-layer La $_3$Ni$_2$O$_7$ under pressure**|D. A. Shilenko et.al.|[2306.14841](http://arxiv.org/abs/2306.14841)|null|
+|**2023-06-26**|**Observing Schrödinger's Cat with Artificial Intelligence: Emergent Classicality from Information Bottleneck**|Zhelun Zhang et.al.|[2306.14838](http://arxiv.org/abs/2306.14838)|null|
 |**2023-06-23**|**Classical time crystal Ginzburg-Landau study of coupled parametric oscillators**|Stuart N. Thomas et.al.|[2306.13652](http://arxiv.org/abs/2306.13652)|null|
 |**2023-06-23**|**LightGlue: Local Feature Matching at Light Speed**|Philipp Lindenberger et.al.|[2306.13643](http://arxiv.org/abs/2306.13643)|**[link](https://github.com/cvg/lightglue)**|
 |**2023-06-23**|**Supersymmetry and trace formulas II. Selberg trace formula**|Changha Choi et.al.|[2306.13636](http://arxiv.org/abs/2306.13636)|null|
