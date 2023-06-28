@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.27
+## Updated on 2023.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1688,7 +1688,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-26**|**Metapopulation Graph Neural Networks: Deep Metapopulation Epidemic Modeling with Human Mobility**|Qi Cao et.al.|[2306.14857](http://arxiv.org/abs/2306.14857)|null|
+|**2023-06-27**|**Metapopulation Graph Neural Networks: Deep Metapopulation Epidemic Modeling with Human Mobility**|Qi Cao et.al.|[2306.14857](http://arxiv.org/abs/2306.14857)|null|
 |**2023-06-26**|**Accelerating Molecular Graph Neural Networks via Knowledge Distillation**|Filip Ekström Kelvinius et.al.|[2306.14818](http://arxiv.org/abs/2306.14818)|null|
 |**2023-06-26**|**Community Detection Graph Convolutional Network for Overlap-Aware Speaker Diarization**|Jie Wang et.al.|[2306.14530](http://arxiv.org/abs/2306.14530)|null|
 |**2023-06-26**|**Learning Prompt-Enhanced Context Features for Weakly-Supervised Video Anomaly Detection**|Yujiang Pu et.al.|[2306.14451](http://arxiv.org/abs/2306.14451)|null|
