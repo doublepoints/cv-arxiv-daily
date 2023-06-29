@@ -1697,6 +1697,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-28**|**Accelerating Sampling and Aggregation Operations in GNN Frameworks with GPU Initiated Direct Storage Accesses**|Jeongmin Brian Park et.al.|[2306.16384](http://arxiv.org/abs/2306.16384)|**[link](https://github.com/jeongminpark417/gids)**|
+|**2023-06-28**|**Theater Aid System for the Visually Impaired Through Transfer Learning of Spatio-Temporal Graph Convolution Networks**|Leyla Benhamida et.al.|[2306.16357](http://arxiv.org/abs/2306.16357)|null|
+|**2023-06-28**|**Enhancing Dialogue Generation via Dynamic Graph Knowledge Aggregation**|Chen Tang et.al.|[2306.16195](http://arxiv.org/abs/2306.16195)|null|
+|**2023-06-28**|**Mass Spectra Prediction with Structural Motif-based Graph Neural Networks**|Jiwon Park et.al.|[2306.16085](http://arxiv.org/abs/2306.16085)|null|
+|**2023-06-28**|**Graph neural networks for sound source localization on distributed microphone networks**|Eric Grinstein et.al.|[2306.16081](http://arxiv.org/abs/2306.16081)|null|
+|**2023-06-28**|**Graph Interpolation via Fast Fused-Gromovization**|Xinyu Ma et.al.|[2306.15963](http://arxiv.org/abs/2306.15963)|null|
+|**2023-06-28**|**Learning Dynamic Graphs from All Contextual Information for Accurate Point-of-Interest Visit Forecasting**|Arash Hajisafi et.al.|[2306.15927](http://arxiv.org/abs/2306.15927)|null|
+|**2023-06-28**|**Hierarchical Graph Neural Networks for Proprioceptive 6D Pose Estimation of In-hand Objects**|Alireza Rezazadeh et.al.|[2306.15858](http://arxiv.org/abs/2306.15858)|null|
+|**2023-06-27**|**Physics-inspired spatiotemporal-graph AI ensemble for gravitational wave detection**|Minyang Tian et.al.|[2306.15728](http://arxiv.org/abs/2306.15728)|null|
 |**2023-06-28**|**Asynchronous Algorithmic Alignment with Cocycles**|Andrew Dudzik et.al.|[2306.15632](http://arxiv.org/abs/2306.15632)|null|
 |**2023-06-27**|**Higher-order Graph Attention Network for Stock Selection with Joint Analysis**|Yang Qiao et.al.|[2306.15526](http://arxiv.org/abs/2306.15526)|null|
 |**2023-06-27**|**Adversarial Training for Graph Neural Networks**|Lukas Gosch et.al.|[2306.15427](http://arxiv.org/abs/2306.15427)|null|
@@ -1778,6 +1787,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-28**|**Characterizing the Spectral Structure of Weak Impulsive Narrowband Quiet Sun Emissions**|Surajit Mondal et.al.|[2306.16390](http://arxiv.org/abs/2306.16390)|null|
+|**2023-06-28**|**Discovering stochastic partial differential equations from limited data using variational Bayes inference**|Yogesh Chandrakant Mathpati et.al.|[2306.15873](http://arxiv.org/abs/2306.15873)|null|
+|**2023-06-28**|**Evaluation of dynamic causal modelling and Bayesian model selection using simulations of networks of spiking neurons**|Matthew G. Thomas et.al.|[2306.15859](http://arxiv.org/abs/2306.15859)|null|
+|**2023-06-27**|**To Spike or Not To Spike: A Digital Hardware Perspective on Deep Learning Acceleration**|Fabrizio Ottati et.al.|[2306.15749](http://arxiv.org/abs/2306.15749)|null|
 |**2023-06-27**|**Approximate Message Passing for the Matrix Tensor Product Model**|Riccardo Rossetti et.al.|[2306.15580](http://arxiv.org/abs/2306.15580)|null|
 |**2023-06-27**|**S-TLLR: STDP-inspired Temporal Local Learning Rule for Spiking Neural Networks**|Marco Paul E. Apolinario et.al.|[2306.15220](http://arxiv.org/abs/2306.15220)|null|
 |**2023-06-26**|**C3S Micro-architectural Enhancement: Spike Encoder Block and Relaxing Gamma Clock (Asynchronous)**|Alok Anand et.al.|[2306.15093](http://arxiv.org/abs/2306.15093)|null|
@@ -1832,6 +1845,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-28**|**Accelerating Sampling and Aggregation Operations in GNN Frameworks with GPU Initiated Direct Storage Accesses**|Jeongmin Brian Park et.al.|[2306.16384](http://arxiv.org/abs/2306.16384)|**[link](https://github.com/jeongminpark417/gids)**|
+|**2023-06-28**|**Time-dependent Schwinger boson mean-field theory of supermagnonic propagation in 2D antiferromagnets**|M. D. Bouman et.al.|[2306.16382](http://arxiv.org/abs/2306.16382)|null|
+|**2023-06-28**|**PTArcade**|Andrea Mitridate et.al.|[2306.16377](http://arxiv.org/abs/2306.16377)|null|
+|**2023-06-28**|**Si/SiGe QuBus for single electron information-processing devices with memory and micron-scale connectivity function**|Ran Xue et.al.|[2306.16375](http://arxiv.org/abs/2306.16375)|null|
+|**2023-06-28**|**Complete equational theories for the sum-over-paths with unbalanced amplitudes**|Matthew Amy et.al.|[2306.16369](http://arxiv.org/abs/2306.16369)|null|
+|**2023-06-28**|**On topological groupoids that represent theories**|Joshua Wrigley et.al.|[2306.16331](http://arxiv.org/abs/2306.16331)|null|
+|**2023-06-28**|**DiffComplete: Diffusion-based Generative 3D Shape Completion**|Ruihang Chu et.al.|[2306.16329](http://arxiv.org/abs/2306.16329)|null|
+|**2023-06-28**|**Nonergodic Brownian oscillator: Low-frequency response**|Alex V. Plyukhin et.al.|[2306.16328](http://arxiv.org/abs/2306.16328)|null|
+|**2023-06-28**|**Point2Point : A Framework for Efficient Deep Learning on Hilbert sorted Point Clouds with applications in Spatio-Temporal Occupancy Prediction**|Athrva Atul Pandhare et.al.|[2306.16306](http://arxiv.org/abs/2306.16306)|null|
+|**2023-06-28**|**Symmetries and Covering Maps for the Minimal Tension String on $\mathbf{AdS_3\times S^3\times T^4}$**|N. M. McStay et.al.|[2306.16280](http://arxiv.org/abs/2306.16280)|null|
 |**2023-06-27**|**Physion++: Evaluating Physical Scene Understanding that Requires Online Inference of Different Physical Properties**|Hsiao-Yu Tung et.al.|[2306.15668](http://arxiv.org/abs/2306.15668)|null|
 |**2023-06-27**|**Flat-band induced local Hilbert space fragmentation**|Eulàlia Nicolau et.al.|[2306.15660](http://arxiv.org/abs/2306.15660)|null|
 |**2023-06-27**|**Adaptive local density estimation in tomography**|Sergio Brenner Miguel et.al.|[2306.15640](http://arxiv.org/abs/2306.15640)|null|
