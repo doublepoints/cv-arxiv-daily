@@ -430,6 +430,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**The Drunkard's Odometry: Estimating Camera Motion in Deforming Scenes**|David Recasens et.al.|[2306.16917](http://arxiv.org/abs/2306.16917)|**[link](https://github.com/UZ-SLAMLab/DrunkardsOdometry)**|
 |**2023-06-27**|**Detector-Free Structure from Motion**|Xingyi He et.al.|[2306.15669](http://arxiv.org/abs/2306.15669)|null|
 |**2023-06-28**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667](http://arxiv.org/abs/2306.15667)|null|
 |**2023-06-24**|**3D Reconstruction of Spherical Images based on Incremental Structure from Motion**|San Jiang et.al.|[2306.12770](http://arxiv.org/abs/2306.12770)|null|
@@ -1303,6 +1304,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-28**|**Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**|Chuanyue Shen et.al.|[2306.16541](http://arxiv.org/abs/2306.16541)|null|
 |**2023-06-27**|**Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2306.15203](http://arxiv.org/abs/2306.15203)|null|
 |**2023-06-22**|**Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields**|Ori Gordon et.al.|[2306.12760](http://arxiv.org/abs/2306.12760)|null|
 |**2023-06-21**|**Local 3D Editing via 3D Distillation of CLIP Knowledge**|Junha Hyung et.al.|[2306.12570](http://arxiv.org/abs/2306.12570)|null|
@@ -1725,6 +1727,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**Sparsity exploitation via discovering graphical models in multi-variate time-series forecasting**|Ngoc-Dung Do et.al.|[2306.17090](http://arxiv.org/abs/2306.17090)|null|
+|**2023-06-29**|**Diffusion-Jump GNNs: Homophiliation via Learnable Metric Filters**|Ahmed Begga et.al.|[2306.16976](http://arxiv.org/abs/2306.16976)|null|
+|**2023-06-29**|**Dynamic-Resolution Model Learning for Object Pile Manipulation**|Yixuan Wang et.al.|[2306.16700](http://arxiv.org/abs/2306.16700)|null|
 |**2023-06-28**|**Accelerating Sampling and Aggregation Operations in GNN Frameworks with GPU Initiated Direct Storage Accesses**|Jeongmin Brian Park et.al.|[2306.16384](http://arxiv.org/abs/2306.16384)|**[link](https://github.com/jeongminpark417/gids)**|
 |**2023-06-28**|**Theater Aid System for the Visually Impaired Through Transfer Learning of Spatio-Temporal Graph Convolution Networks**|Leyla Benhamida et.al.|[2306.16357](http://arxiv.org/abs/2306.16357)|null|
 |**2023-06-28**|**Enhancing Dialogue Generation via Dynamic Graph Knowledge Aggregation**|Chen Tang et.al.|[2306.16195](http://arxiv.org/abs/2306.16195)|null|
@@ -1819,6 +1824,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**Dark Matter Spike surrounding Supermassive Black Holes Binary and the nanohertz Stochastic Gravitational Wave Background**|Zhao-Qiang Shen et.al.|[2306.17143](http://arxiv.org/abs/2306.17143)|null|
+|**2023-06-29**|**Spiking Denoising Diffusion Probabilistic Models**|Jiahang Cao et.al.|[2306.17046](http://arxiv.org/abs/2306.17046)|null|
+|**2023-06-29**|**Robust Time-inconsistent Linear-Quadratic Stochastic Controls: A Stochastic Differential Game Approach**|Bingyan Han et.al.|[2306.16982](http://arxiv.org/abs/2306.16982)|null|
+|**2023-06-29**|**Ongoing EEG artifact correction using blind source separation**|Nicole Ille et.al.|[2306.16910](http://arxiv.org/abs/2306.16910)|null|
+|**2023-06-29**|**Unresolved Rossby and gravity modes in 214 A and F stars showing rotational modulation**|Andreea I. Henriksen et.al.|[2306.16766](http://arxiv.org/abs/2306.16766)|null|
+|**2023-06-29**|**Decomposing spiking neural networks with Graphical Neural Activity Threads**|Bradley H. Theilman et.al.|[2306.16684](http://arxiv.org/abs/2306.16684)|null|
 |**2023-06-28**|**Characterizing the Spectral Structure of Weak Impulsive Narrowband Quiet Sun Emissions**|Surajit Mondal et.al.|[2306.16390](http://arxiv.org/abs/2306.16390)|null|
 |**2023-06-28**|**Discovering stochastic partial differential equations from limited data using variational Bayes inference**|Yogesh Chandrakant Mathpati et.al.|[2306.15873](http://arxiv.org/abs/2306.15873)|null|
 |**2023-06-28**|**Evaluation of dynamic causal modelling and Bayesian model selection using simulations of networks of spiking neurons**|Matthew G. Thomas et.al.|[2306.15859](http://arxiv.org/abs/2306.15859)|null|
@@ -1863,6 +1874,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-14**|**The ELM Neuron: an Efficient and Expressive Cortical Neuron Model Can Solve Long-Horizon Tasks**|Aaron Spieler et.al.|[2306.16922](http://arxiv.org/abs/2306.16922)|null|
 |**2023-06-16**|**Runtime Construction of Large-Scale Spiking Neuronal Network Models on GPU Devices**|Bruno Golosio et.al.|[2306.09855](http://arxiv.org/abs/2306.09855)|null|
 |**2023-06-06**|**Spike-based computation using classical recurrent neural networks**|Florent De Geeter et.al.|[2306.03623](http://arxiv.org/abs/2306.03623)|null|
 |**2023-05-31**|**Fast-SNN: Fast Spiking Neural Network by Converting Quantized ANN**|Yangfan Hu et.al.|[2305.19868](http://arxiv.org/abs/2305.19868)|**[link](https://github.com/yangfan-hu/fast-snn)**|
@@ -1881,6 +1893,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**Optimized trajectory unraveling for classical simulation of noisy quantum dynamics**|Zhuo Chen et.al.|[2306.17161](http://arxiv.org/abs/2306.17161)|null|
+|**2023-06-29**|**FogROS2-SGC: A ROS2 Cloud Robotics Platform for Secure Global Connectivity**|Kaiyuan Chen et.al.|[2306.17157](http://arxiv.org/abs/2306.17157)|null|
+|**2023-06-29**|**Broken-symmetry magnetic phases in two-dimensional triangulene crystals**|G. Catarina et.al.|[2306.17153](http://arxiv.org/abs/2306.17153)|null|
+|**2023-06-29**|**Boundedness, Ultracontractive Bounds and Optimal Evolution of the Support for Doubly Nonlinear Anisotropic Diffusion**|Simone Ciani et.al.|[2306.17152](http://arxiv.org/abs/2306.17152)|null|
+|**2023-06-29**|**Local Risk Bounds for Statistical Aggregation**|Jaouad Mourtada et.al.|[2306.17151](http://arxiv.org/abs/2306.17151)|null|
+|**2023-06-29**|**ItyFuzz: Snapshot-Based Fuzzer for Smart Contract**|Chaofan Shou et.al.|[2306.17135](http://arxiv.org/abs/2306.17135)|null|
+|**2023-06-29**|**Topological diffusive metal in amorphous transition metal mono-silicides**|Selma Franca et.al.|[2306.17117](http://arxiv.org/abs/2306.17117)|null|
+|**2023-06-29**|**Annihilation-Gamma-based Diagnostic Techniques for Magnetically Confined Electron-Positron Pair Plasma**|J. von der Linden et.al.|[2306.17110](http://arxiv.org/abs/2306.17110)|null|
+|**2023-06-29**|**Re-Rank - Expand - Repeat: Adaptive Query Expansion for Document Retrieval Using Words and Entities**|Iain Mackie et.al.|[2306.17082](http://arxiv.org/abs/2306.17082)|null|
+|**2023-06-29**|**Detect Any Deepfakes: Segment Anything Meets Face Forgery Detection and Localization**|Yingxin Lai et.al.|[2306.17075](http://arxiv.org/abs/2306.17075)|**[link](https://github.com/laiyingxin2/dadf)**|
 |**2023-06-28**|**Accelerating Sampling and Aggregation Operations in GNN Frameworks with GPU Initiated Direct Storage Accesses**|Jeongmin Brian Park et.al.|[2306.16384](http://arxiv.org/abs/2306.16384)|**[link](https://github.com/jeongminpark417/gids)**|
 |**2023-06-28**|**Time-dependent Schwinger boson mean-field theory of supermagnonic propagation in 2D antiferromagnets**|M. D. Bouman et.al.|[2306.16382](http://arxiv.org/abs/2306.16382)|null|
 |**2023-06-28**|**PTArcade**|Andrea Mitridate et.al.|[2306.16377](http://arxiv.org/abs/2306.16377)|null|
