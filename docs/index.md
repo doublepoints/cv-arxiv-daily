@@ -526,6 +526,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-30**|**DisPlacing Objects: Improving Dynamic Vehicle Detection via Visual Place Recognition under Adverse Conditions**|Stephen Hausler et.al.|[2306.17536](http://arxiv.org/abs/2306.17536)|null|
+|**2023-06-30**|**Locking On: Leveraging Dynamic Vehicle-Imposed Motion Constraints to Improve Visual Localization**|Stephen Hausler et.al.|[2306.17529](http://arxiv.org/abs/2306.17529)|null|
 |**2023-06-27**|**Dental CLAIRES: Contrastive LAnguage Image REtrieval Search for Dental Research**|Tanjida Kabir et.al.|[2306.15651](http://arxiv.org/abs/2306.15651)|null|
 |**2023-06-27**|**Mean Field Theory in Deep Metric Learning**|Takuya Furusawa et.al.|[2306.15368](http://arxiv.org/abs/2306.15368)|null|
 |**2023-06-26**|**Hierarchical Matching and Reasoning for Multi-Query Image Retrieval**|Zhong Ji et.al.|[2306.14460](http://arxiv.org/abs/2306.14460)|null|
@@ -1280,6 +1282,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723](http://arxiv.org/abs/2306.17723)|null|
+|**2023-06-30**|**Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions**|Gengchen Mai et.al.|[2306.17624](http://arxiv.org/abs/2306.17624)|null|
 |**2023-06-28**|**Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**|Chuanyue Shen et.al.|[2306.16541](http://arxiv.org/abs/2306.16541)|null|
 |**2023-06-27**|**Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2306.15203](http://arxiv.org/abs/2306.15203)|null|
 |**2023-06-22**|**Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields**|Ori Gordon et.al.|[2306.12760](http://arxiv.org/abs/2306.12760)|null|
@@ -1699,6 +1703,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-30**|**Topologically Attributed Graphs for Shape Discrimination**|Justin Curry et.al.|[2306.17805](http://arxiv.org/abs/2306.17805)|null|
+|**2023-06-30**|**Miniaturized Graph Convolutional Networks with Topologically Consistent Pruning**|Hichem Sahbi et.al.|[2306.17590](http://arxiv.org/abs/2306.17590)|null|
+|**2023-06-30**|**Graphtester: Exploring Theoretical Boundaries of GNNs on Graph Datasets**|Eren Akbiyik et.al.|[2306.17482](http://arxiv.org/abs/2306.17482)|null|
+|**2023-06-30**|**LMBot: Distilling Graph Knowledge into Language Model for Graph-less Deployment in Twitter Bot Detection**|Zijian Cai et.al.|[2306.17408](http://arxiv.org/abs/2306.17408)|null|
+|**2023-06-29**|**A Neural Separation Algorithm for the Rounded Capacity Inequalities**|Hyeonah Kim et.al.|[2306.17283](http://arxiv.org/abs/2306.17283)|null|
 |**2023-06-29**|**Sparsity exploitation via discovering graphical models in multi-variate time-series forecasting**|Ngoc-Dung Do et.al.|[2306.17090](http://arxiv.org/abs/2306.17090)|null|
 |**2023-06-29**|**Diffusion-Jump GNNs: Homophiliation via Learnable Metric Filters**|Ahmed Begga et.al.|[2306.16976](http://arxiv.org/abs/2306.16976)|null|
 |**2023-06-30**|**Dynamic-Resolution Model Learning for Object Pile Manipulation**|Yixuan Wang et.al.|[2306.16700](http://arxiv.org/abs/2306.16700)|null|
@@ -1792,6 +1801,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-30**|**Scale-free avalanches in arrays of FitzHugh-Nagumo oscillators**|Max Contreras et.al.|[2306.17730](http://arxiv.org/abs/2306.17730)|null|
+|**2023-06-30**|**Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings**|Ilyass Hammouamri et.al.|[2306.17670](http://arxiv.org/abs/2306.17670)|null|
+|**2023-06-30**|**Razor SNN: Efficient Spiking Neural Network with Temporal Embeddings**|Yuan Zhang et.al.|[2306.17597](http://arxiv.org/abs/2306.17597)|null|
 |**2023-06-29**|**Dark Matter Spike surrounding Supermassive Black Holes Binary and the nanohertz Stochastic Gravitational Wave Background**|Zhao-Qiang Shen et.al.|[2306.17143](http://arxiv.org/abs/2306.17143)|null|
 |**2023-06-29**|**Spiking Denoising Diffusion Probabilistic Models**|Jiahang Cao et.al.|[2306.17046](http://arxiv.org/abs/2306.17046)|null|
 |**2023-06-29**|**Robust Time-inconsistent Linear-Quadratic Stochastic Controls: A Stochastic Differential Game Approach**|Bingyan Han et.al.|[2306.16982](http://arxiv.org/abs/2306.16982)|**[link](https://github.com/hanbingyan/diffgame)**|
@@ -1857,6 +1869,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-30**|**Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing**|Ariel N. Lee et.al.|[2306.17848](http://arxiv.org/abs/2306.17848)|null|
+|**2023-06-30**|**Yukawa theory in non-perturbative regimes: towards confinement, exact $β$ -function and conformal phase**|Marco Frasca et.al.|[2306.17818](http://arxiv.org/abs/2306.17818)|null|
+|**2023-06-30**|**A Massive Scale Semantic Similarity Dataset of Historical English**|Emily Silcock et.al.|[2306.17810](http://arxiv.org/abs/2306.17810)|null|
+|**2023-06-30**|**Theoretical Analysis of Heterodyne Rydberg Atomic Receiver Sensitivity Based on Transit Relaxation Effect and Frequency Detuning**|Shanchi Wu et.al.|[2306.17790](http://arxiv.org/abs/2306.17790)|null|
+|**2023-06-30**|**Superheavy quasi-stable strings and walls bounded by strings in the light of NANOGrav 15 year data**|George Lazarides et.al.|[2306.17788](http://arxiv.org/abs/2306.17788)|null|
+|**2023-06-30**|**Immersions of Sasaki-Ricci solitons into homogeneous Sasakian manifolds**|Roberto Mossa et.al.|[2306.17783](http://arxiv.org/abs/2306.17783)|null|
+|**2023-06-30**|**MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying**|Shaoshuai Shi et.al.|[2306.17770](http://arxiv.org/abs/2306.17770)|null|
+|**2023-06-30**|**Autonomous and asymptotically quasiconvex functionals with general growth conditions**|Francesca Angrisani et.al.|[2306.17768](http://arxiv.org/abs/2306.17768)|null|
+|**2023-06-30**|**Boundary-induced topological transition in an open SSH model**|Alexei Bissonnette et.al.|[2306.17761](http://arxiv.org/abs/2306.17761)|null|
+|**2023-06-30**|**Scale-free avalanches in arrays of FitzHugh-Nagumo oscillators**|Max Contreras et.al.|[2306.17730](http://arxiv.org/abs/2306.17730)|null|
 |**2023-06-29**|**Optimized trajectory unraveling for classical simulation of noisy quantum dynamics**|Zhuo Chen et.al.|[2306.17161](http://arxiv.org/abs/2306.17161)|null|
 |**2023-06-29**|**FogROS2-SGC: A ROS2 Cloud Robotics Platform for Secure Global Connectivity**|Kaiyuan Chen et.al.|[2306.17157](http://arxiv.org/abs/2306.17157)|null|
 |**2023-06-29**|**Broken-symmetry magnetic phases in two-dimensional triangulene crystals**|G. Catarina et.al.|[2306.17153](http://arxiv.org/abs/2306.17153)|null|
