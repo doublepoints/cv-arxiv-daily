@@ -526,6 +526,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-03**|**Cross-modal Place Recognition in Image Databases using Event-based Sensors**|Xiang Ji et.al.|[2307.01047](http://arxiv.org/abs/2307.01047)|null|
 |**2023-06-30**|**DisPlacing Objects: Improving Dynamic Vehicle Detection via Visual Place Recognition under Adverse Conditions**|Stephen Hausler et.al.|[2306.17536](http://arxiv.org/abs/2306.17536)|null|
 |**2023-06-30**|**Locking On: Leveraging Dynamic Vehicle-Imposed Motion Constraints to Improve Visual Localization**|Stephen Hausler et.al.|[2306.17529](http://arxiv.org/abs/2306.17529)|null|
 |**2023-06-27**|**Dental CLAIRES: Contrastive LAnguage Image REtrieval Search for Dental Research**|Tanjida Kabir et.al.|[2306.15651](http://arxiv.org/abs/2306.15651)|null|
@@ -983,6 +984,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-01**|**SyMFM6D: Symmetry-aware Multi-directional Fusion for Multi-View 6D Object Pose Estimation**|Fabian Duffhauss et.al.|[2307.00306](http://arxiv.org/abs/2307.00306)|null|
 |**2023-06-27**|**Detector-Free Structure from Motion**|Xingyi He et.al.|[2306.15669](http://arxiv.org/abs/2306.15669)|**[link](https://github.com/zju3dv/DetectorFreeSfM)**|
 |**2023-06-26**|**CLERA: A Unified Model for Joint Cognitive Load and Eye Region Analysis in the Wild**|Li Ding et.al.|[2306.15073](http://arxiv.org/abs/2306.15073)|null|
 |**2023-06-28**|**Topology Repairing of Disconnected Pulmonary Airways and Vessels: Baselines and a Dataset**|Ziqiao Weng et.al.|[2306.07089](http://arxiv.org/abs/2306.07089)|null|
@@ -1132,6 +1134,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-02**|**TopicFM+: Boosting Accuracy and Efficiency of Topic-Assisted Feature Matching**|Khang Truong Giang et.al.|[2307.00485](http://arxiv.org/abs/2307.00485)|**[link](https://github.com/truongkhang/topicfm)**|
 |**2023-06-27**|**Detector-Free Structure from Motion**|Xingyi He et.al.|[2306.15669](http://arxiv.org/abs/2306.15669)|**[link](https://github.com/zju3dv/DetectorFreeSfM)**|
 |**2023-06-28**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667](http://arxiv.org/abs/2306.15667)|null|
 |**2023-06-25**|**Enhancing Dynamic Image Advertising with Vision-Language Pre-training**|Zhoufutu Wen et.al.|[2306.14112](http://arxiv.org/abs/2306.14112)|null|
@@ -1703,6 +1706,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-03**|**PlanE: Representation Learning over Planar Graphs**|Radoslav Dimitrov et.al.|[2307.01180](http://arxiv.org/abs/2307.01180)|null|
+|**2023-07-03**|**Node-weighted Graph Convolutional Network for Depression Detection in Transcribed Clinical Interviews**|Sergio Burdisso et.al.|[2307.00920](http://arxiv.org/abs/2307.00920)|null|
+|**2023-07-03**|**A Survey on Graph Classification and Link Prediction based on GNN**|Xingyu Liu et.al.|[2307.00865](http://arxiv.org/abs/2307.00865)|null|
+|**2023-07-03**|**CardiGraphormer: Unveiling the Power of Self-Supervised Learning in Revolutionizing Drug Discovery**|Abhijit Gupta et.al.|[2307.00859](http://arxiv.org/abs/2307.00859)|null|
+|**2023-07-03**|**Beyond the Snapshot: Brain Tokenized Graph Transformer for Longitudinal Brain Functional Connectome Embedding**|Zijian Dong et.al.|[2307.00858](http://arxiv.org/abs/2307.00858)|null|
+|**2023-07-03**|**GA-DRL: Graph Neural Network-Augmented Deep Reinforcement Learning for DAG Task Scheduling over Dynamic Vehicular Clouds**|Zhang Liu et.al.|[2307.00777](http://arxiv.org/abs/2307.00777)|null|
+|**2023-07-02**|**Shared Growth of Graph Neural Networks via Free-direction Knowledge Distillation**|Kaituo Feng et.al.|[2307.00534](http://arxiv.org/abs/2307.00534)|null|
+|**2023-07-02**|**Graph Neural Network based Log Anomaly Detection and Explanation**|Zhong Li et.al.|[2307.00527](http://arxiv.org/abs/2307.00527)|null|
+|**2023-07-02**|**DSTCGCN: Learning Dynamic Spatial-Temporal Cross Dependencies for Traffic Forecasting**|Binqing Wu et.al.|[2307.00518](http://arxiv.org/abs/2307.00518)|null|
+|**2023-07-02**|**STG4Traffic: A Survey and Benchmark of Spatial-Temporal Graph Neural Networks for Traffic Prediction**|Xunlian Luo et.al.|[2307.00495](http://arxiv.org/abs/2307.00495)|null|
 |**2023-06-30**|**Topologically Attributed Graphs for Shape Discrimination**|Justin Curry et.al.|[2306.17805](http://arxiv.org/abs/2306.17805)|null|
 |**2023-06-30**|**Miniaturized Graph Convolutional Networks with Topologically Consistent Pruning**|Hichem Sahbi et.al.|[2306.17590](http://arxiv.org/abs/2306.17590)|null|
 |**2023-06-30**|**Graphtester: Exploring Theoretical Boundaries of GNNs on Graph Datasets**|Eren Akbiyik et.al.|[2306.17482](http://arxiv.org/abs/2306.17482)|null|
@@ -1784,6 +1797,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-03**|**Cross-modal Place Recognition in Image Databases using Event-based Sensors**|Xiang Ji et.al.|[2307.01047](http://arxiv.org/abs/2307.01047)|null|
 |**2023-06-27**|**Self-supervised Learning of Event-guided Video Frame Interpolation for Rolling Shutter Frames**|Yunfan Lu et.al.|[2306.15507](http://arxiv.org/abs/2306.15507)|null|
 |**2023-06-25**|**High-precision and low-latency widefield diamond quantum sensing with neuromorphic vision sensors**|Zhiyuan Du et.al.|[2306.14099](http://arxiv.org/abs/2306.14099)|null|
 |**2023-06-15**|**E-Calib: A Fast, Robust and Accurate Calibration Toolbox for Event Cameras**|Mohammed Salah et.al.|[2306.09078](http://arxiv.org/abs/2306.09078)|**[link](https://github.com/mohammedsalah98/e_calib)**|
@@ -1801,6 +1815,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-03**|**Unveiling the Potential of Spike Streams for Foreground Occlusion Removal from Densely Continuous Views**|Jiyuan Zhang et.al.|[2307.00821](http://arxiv.org/abs/2307.00821)|null|
+|**2023-07-03**|**Resistive memory-based zero-shot liquid state machine for multimodal event data learning**|Ning Lin et.al.|[2307.00771](http://arxiv.org/abs/2307.00771)|null|
+|**2023-07-02**|**Mode-wise Principal Subspace Pursuit and Matrix Spiked Covariance Model**|Runshi Tang et.al.|[2307.00575](http://arxiv.org/abs/2307.00575)|null|
+|**2023-07-01**|**AutoST: Training-free Neural Architecture Search for Spiking Transformers**|Ziqing Wang et.al.|[2307.00293](http://arxiv.org/abs/2307.00293)|null|
 |**2023-06-30**|**Scale-free avalanches in arrays of FitzHugh-Nagumo oscillators**|Max Contreras et.al.|[2306.17730](http://arxiv.org/abs/2306.17730)|null|
 |**2023-06-30**|**Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings**|Ilyass Hammouamri et.al.|[2306.17670](http://arxiv.org/abs/2306.17670)|null|
 |**2023-06-30**|**Razor SNN: Efficient Spiking Neural Network with Temporal Embeddings**|Yuan Zhang et.al.|[2306.17597](http://arxiv.org/abs/2306.17597)|null|
@@ -1869,6 +1887,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197](http://arxiv.org/abs/2307.01197)|null|
+|**2023-07-03**|**A note on Ratliff-Rush filtration, reduction number and postulation number of $\mathfrak m$ -primary ideals**|Mousumi Mandal et.al.|[2307.01196](http://arxiv.org/abs/2307.01196)|null|
+|**2023-07-03**|**Poisson-Voronoi tessellations and fixed price in higher rank**|Mikolaj Fraczyk et.al.|[2307.01194](http://arxiv.org/abs/2307.01194)|null|
+|**2023-07-03**|**Spatio-Temporal Coupled Mode Theory for Nonlocal Metasurfaces**|Adam Overvig et.al.|[2307.01186](http://arxiv.org/abs/2307.01186)|null|
+|**2023-07-03**|**Nonlinear Subharmonic Dynamics of Spectrally Stable Lugiato-Lefever Periodic Waves**|Mariana Haragus et.al.|[2307.01176](http://arxiv.org/abs/2307.01176)|null|
+|**2023-07-03**|**Coupled Gradient Flows for Strategic Non-Local Distribution Shift**|Lauren Conger et.al.|[2307.01166](http://arxiv.org/abs/2307.01166)|null|
+|**2023-07-03**|**Artifacts Mapping: Multi-Modal Semantic Mapping for Object Detection and 3D Localization**|Federico Rollo et.al.|[2307.01121](http://arxiv.org/abs/2307.01121)|null|
+|**2023-07-03**|**MeT: A Graph Transformer for Semantic Segmentation of 3D Meshes**|Giuseppe Vecchio et.al.|[2307.01115](http://arxiv.org/abs/2307.01115)|null|
+|**2023-07-03**|**Real-time Likelihood Methods for Improved Gamma-ray Transient Detection and Localization**|Matthew Kerr et.al.|[2307.01103](http://arxiv.org/abs/2307.01103)|null|
+|**2023-07-03**|**Supervised Manifold Learning via Random Forest Geometry-Preserving Proximities**|Jake S. Rhodes et.al.|[2307.01077](http://arxiv.org/abs/2307.01077)|null|
 |**2023-06-30**|**Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing**|Ariel N. Lee et.al.|[2306.17848](http://arxiv.org/abs/2306.17848)|null|
 |**2023-06-30**|**Yukawa theory in non-perturbative regimes: towards confinement, exact $β$ -function and conformal phase**|Marco Frasca et.al.|[2306.17818](http://arxiv.org/abs/2306.17818)|null|
 |**2023-06-30**|**A Massive Scale Semantic Similarity Dataset of Historical English**|Emily Silcock et.al.|[2306.17810](http://arxiv.org/abs/2306.17810)|null|
