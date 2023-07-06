@@ -544,6 +544,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-04**|**Unsupervised Quality Prediction for Improved Single-Frame and Weighted Sequential Visual Place Recognition**|Helen Carson et.al.|[2307.01464](http://arxiv.org/abs/2307.01464)|null|
+|**2023-07-04**|**Learning Feature Matching via Matchable Keypoint-Assisted Graph Neural Network**|Zizhuo Li et.al.|[2307.01447](http://arxiv.org/abs/2307.01447)|null|
 |**2023-07-03**|**Cross-modal Place Recognition in Image Databases using Event-based Sensors**|Xiang Ji et.al.|[2307.01047](http://arxiv.org/abs/2307.01047)|null|
 |**2023-06-30**|**DisPlacing Objects: Improving Dynamic Vehicle Detection via Visual Place Recognition under Adverse Conditions**|Stephen Hausler et.al.|[2306.17536](http://arxiv.org/abs/2306.17536)|null|
 |**2023-06-30**|**Locking On: Leveraging Dynamic Vehicle-Imposed Motion Constraints to Improve Visual Localization**|Stephen Hausler et.al.|[2306.17529](http://arxiv.org/abs/2306.17529)|null|
@@ -1734,6 +1736,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-05**|**Equivariant graph neural network interatomic potential for Green-Kubo thermal conductivity in phase change materials**|Sung-Ho Lee et.al.|[2307.02327](http://arxiv.org/abs/2307.02327)|null|
+|**2023-07-05**|**ChiENN: Embracing Molecular Chirality with Graph Neural Networks**|Piotr Gaiński et.al.|[2307.02198](http://arxiv.org/abs/2307.02198)|null|
+|**2023-07-05**|**Robust Graph Structure Learning with the Alignment of Features and Adjacency Matrix**|Shaogao Lv et.al.|[2307.02126](http://arxiv.org/abs/2307.02126)|null|
+|**2023-07-05**|**Graph Contrastive Topic Model**|Zheheng Luo et.al.|[2307.02078](http://arxiv.org/abs/2307.02078)|**[link](https://github.com/zhehengluok/gctm)**|
+|**2023-07-05**|**Graph Neural Network-based Power Flow Model**|Mingjian Tuo et.al.|[2307.02049](http://arxiv.org/abs/2307.02049)|null|
+|**2023-07-05**|**Muti-scale Graph Neural Network with Signed-attention for Social Bot Detection: A Frequency Perspective**|Shuhao Shi et.al.|[2307.01968](http://arxiv.org/abs/2307.01968)|null|
+|**2023-07-04**|**A Neural Collapse Perspective on Feature Evolution in Graph Neural Networks**|Vignesh Kothapalli et.al.|[2307.01951](http://arxiv.org/abs/2307.01951)|**[link](https://github.com/kvignesh1420/gnn_collapse)**|
+|**2023-07-04**|**Euclidean Equivariant Models for Generative Graphical Inverse Kinematics**|Oliver Limoyo et.al.|[2307.01902](http://arxiv.org/abs/2307.01902)|null|
+|**2023-07-04**|**Advancing Wound Filling Extraction on 3D Faces: A Auto-Segmentation and Wound Face Regeneration Approach**|Duong Q. Nguyen et.al.|[2307.01844](http://arxiv.org/abs/2307.01844)|**[link](https://github.com/simogroup/woundfilling3d)**|
+|**2023-07-04**|**GHOST: A Graph Neural Network Accelerator using Silicon Photonics**|Salma Afifi et.al.|[2307.01782](http://arxiv.org/abs/2307.01782)|null|
 |**2023-07-03**|**PlanE: Representation Learning over Planar Graphs**|Radoslav Dimitrov et.al.|[2307.01180](http://arxiv.org/abs/2307.01180)|null|
 |**2023-07-03**|**Node-weighted Graph Convolutional Network for Depression Detection in Transcribed Clinical Interviews**|Sergio Burdisso et.al.|[2307.00920](http://arxiv.org/abs/2307.00920)|null|
 |**2023-07-03**|**A Survey on Graph Classification and Link Prediction based on GNN**|Xingyu Liu et.al.|[2307.00865](http://arxiv.org/abs/2307.00865)|null|
@@ -1847,6 +1859,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-05**|**Modelling the formation and evolution of solar wind microstreams: from coronal plumes to propagating Alfvénic velocity spikes**|Bahaeddine Gannouni et.al.|[2307.02210](http://arxiv.org/abs/2307.02210)|null|
+|**2023-07-04**|**Spike-driven Transformer**|Man Yao et.al.|[2307.01694](http://arxiv.org/abs/2307.01694)|**[link](https://github.com/biclab/spike-driven-transformer)**|
+|**2023-06-30**|**Of Spiky SVDs and Music Recommendation**|Darius Afchar et.al.|[2307.01212](http://arxiv.org/abs/2307.01212)|**[link](https://github.com/deezer/spiky_svd)**|
 |**2023-07-03**|**Unveiling the Potential of Spike Streams for Foreground Occlusion Removal from Densely Continuous Views**|Jiyuan Zhang et.al.|[2307.00821](http://arxiv.org/abs/2307.00821)|null|
 |**2023-07-03**|**Resistive memory-based zero-shot liquid state machine for multimodal event data learning**|Ning Lin et.al.|[2307.00771](http://arxiv.org/abs/2307.00771)|null|
 |**2023-07-02**|**Mode-wise Principal Subspace Pursuit and Matrix Spiked Covariance Model**|Runshi Tang et.al.|[2307.00575](http://arxiv.org/abs/2307.00575)|null|
@@ -1923,6 +1938,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-05**|**Linear Regression on Manifold Structured Data: the Impact of Extrinsic Geometry on Solutions**|Liangchen Liu et.al.|[2307.02478](http://arxiv.org/abs/2307.02478)|null|
+|**2023-07-05**|**Supersymmetric asymptotically locally AdS $_5$ gravitational solitons**|Turkuler Durgut et.al.|[2307.02466](http://arxiv.org/abs/2307.02466)|null|
+|**2023-07-05**|**Landscape approximation of low energy solutions to binary optimization problems**|Benjamin Y. L. Tan et.al.|[2307.02461](http://arxiv.org/abs/2307.02461)|null|
+|**2023-07-05**|**DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models**|Liangbin Xie et.al.|[2307.02457](http://arxiv.org/abs/2307.02457)|null|
+|**2023-07-05**|**LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion**|Long Bai et.al.|[2307.02452](http://arxiv.org/abs/2307.02452)|**[link](https://github.com/longbai1006/llcaps)**|
+|**2023-07-05**|**Foundations of Differential Calculus for modules over posets**|Jacek Brodzki et.al.|[2307.02444](http://arxiv.org/abs/2307.02444)|null|
+|**2023-07-05**|**The tension in the absolute magnitude of Type Ia supernovae**|David Camarena et.al.|[2307.02434](http://arxiv.org/abs/2307.02434)|null|
+|**2023-07-05**|**DarkHorse: A UDP-based Framework to Improve the Latency of Tor Onion Services**|Md Washik Al Azad et.al.|[2307.02429](http://arxiv.org/abs/2307.02429)|null|
+|**2023-07-05**|**Multi-Height Observations of Atmospheric Gravity Waves at Solar Disk Center**|Oana Vesa et.al.|[2307.02426](http://arxiv.org/abs/2307.02426)|null|
+|**2023-07-05**|**Quantum Fisher Information and multipartite entanglement in spin-1 chains**|Federico Dell'Anna et.al.|[2307.02407](http://arxiv.org/abs/2307.02407)|null|
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197](http://arxiv.org/abs/2307.01197)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**A note on Ratliff-Rush filtration, reduction number and postulation number of $\mathfrak m$ -primary ideals**|Mousumi Mandal et.al.|[2307.01196](http://arxiv.org/abs/2307.01196)|null|
 |**2023-07-03**|**Poisson-Voronoi tessellations and fixed price in higher rank**|Mikolaj Fraczyk et.al.|[2307.01194](http://arxiv.org/abs/2307.01194)|null|
