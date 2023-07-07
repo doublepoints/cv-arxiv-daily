@@ -1736,6 +1736,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-06**|**CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks**|Yuanchen Bei et.al.|[2307.02813](http://arxiv.org/abs/2307.02813)|null|
+|**2023-07-05**|**Exploring Multimodal Approaches for Alzheimer's Disease Detection Using Patient Speech Transcript and Audio Data**|Hongmin Cai et.al.|[2307.02514](http://arxiv.org/abs/2307.02514)|null|
 |**2023-07-05**|**Equivariant graph neural network interatomic potential for Green-Kubo thermal conductivity in phase change materials**|Sung-Ho Lee et.al.|[2307.02327](http://arxiv.org/abs/2307.02327)|null|
 |**2023-07-05**|**ChiENN: Embracing Molecular Chirality with Graph Neural Networks**|Piotr Gaiński et.al.|[2307.02198](http://arxiv.org/abs/2307.02198)|null|
 |**2023-07-05**|**Robust Graph Structure Learning with the Alignment of Features and Adjacency Matrix**|Shaogao Lv et.al.|[2307.02126](http://arxiv.org/abs/2307.02126)|null|
@@ -1859,6 +1861,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-06**|**A Neuromorphic Architecture for Reinforcement Learning from Real-Valued Observations**|Sergio F. Chevtchenko et.al.|[2307.02947](http://arxiv.org/abs/2307.02947)|null|
+|**2023-07-05**|**Logical circuits in colloids**|Nic Roberts et.al.|[2307.02664](http://arxiv.org/abs/2307.02664)|null|
+|**2023-07-05**|**Modelling Spontaneous Firing Activity of the Motor Cortex in a Spiking Neural Network with Random and Local Connectivity**|Lysea Haggie et.al.|[2307.02659](http://arxiv.org/abs/2307.02659)|null|
+|**2023-07-05**|**Cataclysmic variables are a key population of gravitational wave sources for LISA**|S. Scaringi et.al.|[2307.02553](http://arxiv.org/abs/2307.02553)|null|
 |**2023-07-05**|**Modelling the formation and evolution of solar wind microstreams: from coronal plumes to propagating Alfvénic velocity spikes**|Bahaeddine Gannouni et.al.|[2307.02210](http://arxiv.org/abs/2307.02210)|null|
 |**2023-07-04**|**Spike-driven Transformer**|Man Yao et.al.|[2307.01694](http://arxiv.org/abs/2307.01694)|**[link](https://github.com/biclab/spike-driven-transformer)**|
 |**2023-06-30**|**Of Spiky SVDs and Music Recommendation**|Darius Afchar et.al.|[2307.01212](http://arxiv.org/abs/2307.01212)|**[link](https://github.com/deezer/spiky_svd)**|
@@ -1938,6 +1944,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-06**|**Where shadows lie: reconstruction of anisotropies in the neutrino sky**|Willem Elbers et.al.|[2307.03191](http://arxiv.org/abs/2307.03191)|null|
+|**2023-07-06**|**Spin-Polarized Majorana Zero Modes in Proximitized Superconducting Penta-Silicene Nanoribbons**|R. C. Bento Ribeiro et.al.|[2307.03185](http://arxiv.org/abs/2307.03185)|null|
+|**2023-07-06**|**String operators for Cheshire strings in topological phases**|Nathanan Tantivasadakarn et.al.|[2307.03180](http://arxiv.org/abs/2307.03180)|null|
+|**2023-07-06**|**Engineering non-Hermitian Second Order Topological Insulator in Quasicrystals**|Chakradhar Rangi et.al.|[2307.03178](http://arxiv.org/abs/2307.03178)|null|
+|**2023-07-06**|**VideoGLUE: Video General Understanding Evaluation of Foundation Models**|Liangzhe Yuan et.al.|[2307.03166](http://arxiv.org/abs/2307.03166)|null|
+|**2023-07-06**|**On the Linear Stability of the Lamb-Chaplygin Dipole**|Bartosz Protas et.al.|[2307.03159](http://arxiv.org/abs/2307.03159)|null|
+|**2023-07-06**|**Reversible Non-Volatile Electronic Switching in a Near Room Temperature van der Waals Ferromagnet**|Han Wu et.al.|[2307.03154](http://arxiv.org/abs/2307.03154)|null|
+|**2023-07-06**|**Hierarchical generalization of dual unitarity**|Xie-Hang Yu et.al.|[2307.03138](http://arxiv.org/abs/2307.03138)|null|
+|**2023-07-06**|**Principal subbundles for dimension reduction**|Morten Akhøj et.al.|[2307.03128](http://arxiv.org/abs/2307.03128)|null|
+|**2023-07-06**|**Patterning of nonlocal transport models in biology: the impact of spatial dimension**|Thomas Jun Jewell et.al.|[2307.03117](http://arxiv.org/abs/2307.03117)|null|
 |**2023-07-05**|**Linear Regression on Manifold Structured Data: the Impact of Extrinsic Geometry on Solutions**|Liangchen Liu et.al.|[2307.02478](http://arxiv.org/abs/2307.02478)|null|
 |**2023-07-05**|**Supersymmetric asymptotically locally AdS $_5$ gravitational solitons**|Turkuler Durgut et.al.|[2307.02466](http://arxiv.org/abs/2307.02466)|null|
 |**2023-07-05**|**Landscape approximation of low energy solutions to binary optimization problems**|Benjamin Y. L. Tan et.al.|[2307.02461](http://arxiv.org/abs/2307.02461)|null|
