@@ -22,7 +22,7 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM,Navigation": 
+    "SLAM": 
         filters: ["SLAM", "Visual Odometry","Navigation","Dyanmic","long-term","life-long","mapless"]
     "SFM":
         filters: ["SFM", "Structure from Motion"]
@@ -45,5 +45,3 @@ keywords:
         filters: ["spiking"]
     "neuron":
         filters: ["neuron model","synapse","dendrites","dendritic","Dendrodendritic"]
-    "Localization":
-        filters: ["localization"]
