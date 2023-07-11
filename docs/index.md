@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.10
+## Updated on 2023.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -20,7 +20,7 @@ layout: default
 |**2023-05-10**|**Transformer-based model for monocular visual odometry: a video understanding approach**|André O. Françani et.al.|[2305.06121](http://arxiv.org/abs/2305.06121)|**[link](https://github.com/aofrancani/tsformer-vo)**|
 |**2023-04-29**|**Modality-invariant Visual Odometry for Embodied Vision**|Marius Memmel et.al.|[2305.00348](http://arxiv.org/abs/2305.00348)|**[link](https://github.com/memmelma/vo-transformer)**|
 |**2023-04-21**|**FSNet: Redesign Self-Supervised MonoDepth for Full-Scale Depth Prediction for Autonomous Driving**|Yuxuan Liu et.al.|[2304.10719](http://arxiv.org/abs/2304.10719)|null|
-|**2023-04-18**|**Visual-LiDAR Odometry and Mapping with Monocular Scale Correction and Motion Compensation**|Hanyu Cai et.al.|[2304.08978](http://arxiv.org/abs/2304.08978)|null|
+|**2023-07-08**|**Visual-LiDAR Odometry and Mapping with Monocular Scale Correction and Visual Bootstrapping**|Hanyu Cai et.al.|[2304.08978](http://arxiv.org/abs/2304.08978)|null|
 |**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize et.al.|[2304.06194](http://arxiv.org/abs/2304.06194)|**[link](https://github.com/facebookresearch/silk)**|
 |**2023-04-11**|**ClusterFusion: Real-time Relative Positioning and Dense Reconstruction for UAV Cluster**|Yifei Dong et.al.|[2304.04943](http://arxiv.org/abs/2304.04943)|null|
 |**2023-03-21**|**Learning a Depth Covariance Function**|Eric Dexheimer et.al.|[2303.12157](http://arxiv.org/abs/2303.12157)|null|
@@ -1715,12 +1715,12 @@ layout: default
 |**2023-07-07**|**GEANN: Scalable Graph Augmentations for Multi-Horizon Time Series Forecasting**|Sitan Yang et.al.|[2307.03595](http://arxiv.org/abs/2307.03595)|null|
 |**2023-07-07**|**Roman Numeral Analysis with Graph Neural Networks: Onset-wise Predictions from Note-wise Features**|Emmanouil Karystinaios et.al.|[2307.03544](http://arxiv.org/abs/2307.03544)|null|
 |**2023-07-07**|**Learning from Heterogeneity: A Dynamic Learning Framework for Hypergraphs**|Tiehua Zhang et.al.|[2307.03411](http://arxiv.org/abs/2307.03411)|null|
-|**2023-07-07**|**Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs**|Zhikai Chen et.al.|[2307.03393](http://arxiv.org/abs/2307.03393)|null|
+|**2023-07-10**|**Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs**|Zhikai Chen et.al.|[2307.03393](http://arxiv.org/abs/2307.03393)|null|
 |**2023-07-07**|**CSCLog: A Component Subsequence Correlation-Aware Log Anomaly Detection Method**|Ling Chen et.al.|[2307.03359](http://arxiv.org/abs/2307.03359)|null|
 |**2023-07-06**|**CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks**|Yuanchen Bei et.al.|[2307.02813](http://arxiv.org/abs/2307.02813)|null|
 |**2023-07-05**|**Exploring Multimodal Approaches for Alzheimer's Disease Detection Using Patient Speech Transcript and Audio Data**|Hongmin Cai et.al.|[2307.02514](http://arxiv.org/abs/2307.02514)|**[link](https://github.com/shui-dun/multimodal_ad)**|
 |**2023-07-05**|**Equivariant graph neural network interatomic potential for Green-Kubo thermal conductivity in phase change materials**|Sung-Ho Lee et.al.|[2307.02327](http://arxiv.org/abs/2307.02327)|null|
-|**2023-07-05**|**ChiENN: Embracing Molecular Chirality with Graph Neural Networks**|Piotr Gaiński et.al.|[2307.02198](http://arxiv.org/abs/2307.02198)|null|
+|**2023-07-10**|**ChiENN: Embracing Molecular Chirality with Graph Neural Networks**|Piotr Gaiński et.al.|[2307.02198](http://arxiv.org/abs/2307.02198)|null|
 |**2023-07-05**|**Robust Graph Structure Learning with the Alignment of Features and Adjacency Matrix**|Shaogao Lv et.al.|[2307.02126](http://arxiv.org/abs/2307.02126)|null|
 |**2023-07-05**|**Graph Contrastive Topic Model**|Zheheng Luo et.al.|[2307.02078](http://arxiv.org/abs/2307.02078)|**[link](https://github.com/zhehengluok/gctm)**|
 |**2023-07-05**|**Graph Neural Network-based Power Flow Model**|Mingjian Tuo et.al.|[2307.02049](http://arxiv.org/abs/2307.02049)|null|
@@ -1904,7 +1904,7 @@ layout: default
 |**2023-06-16**|**Runtime Construction of Large-Scale Spiking Neuronal Network Models on GPU Devices**|Bruno Golosio et.al.|[2306.09855](http://arxiv.org/abs/2306.09855)|null|
 |**2023-06-06**|**Spike-based computation using classical recurrent neural networks**|Florent De Geeter et.al.|[2306.03623](http://arxiv.org/abs/2306.03623)|null|
 |**2023-05-31**|**Fast-SNN: Fast Spiking Neural Network by Converting Quantized ANN**|Yangfan Hu et.al.|[2305.19868](http://arxiv.org/abs/2305.19868)|**[link](https://github.com/yangfan-hu/fast-snn)**|
-|**2023-06-05**|**Exploiting Noise as a Resource for Computation and Learning in Spiking Neural Networks**|Gehua Ma et.al.|[2305.16044](http://arxiv.org/abs/2305.16044)|**[link](https://github.com/genema/Noisy-Spiking-Neuron-Nets)**|
+|**2023-07-10**|**Exploiting Noise as a Resource for Computation and Learning in Spiking Neural Networks**|Gehua Ma et.al.|[2305.16044](http://arxiv.org/abs/2305.16044)|**[link](https://github.com/genema/Noisy-Spiking-Neuron-Nets)**|
 |**2023-05-22**|**An Analytically Solvable Model of Firing Rate Heterogeneity in Balanced State Networks**|Alexander Schmidt et.al.|[2305.13420](http://arxiv.org/abs/2305.13420)|null|
 |**2023-05-21**|**Mapping Biological Neuron Dynamics into an Interpretable Two-layer Artificial Neural Network**|Jingyang Ma et.al.|[2305.12471](http://arxiv.org/abs/2305.12471)|null|
 |**2023-05-13**|**Quantization in Spiking Neural Networks**|Bernhard A. Moser et.al.|[2305.08012](http://arxiv.org/abs/2305.08012)|**[link](https://github.com/lunglmayrmoser/alexsnn)**|
