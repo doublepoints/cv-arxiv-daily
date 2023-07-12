@@ -546,6 +546,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-11**|**ResMatch: Residual Attention Learning for Local Feature Matching**|Yuxin Deng et.al.|[2307.05180](http://arxiv.org/abs/2307.05180)|null|
+|**2023-07-11**|**Feature Activation Map: Visual Explanation of Deep Learning Models for Image Classification**|Yi Liao et.al.|[2307.05017](http://arxiv.org/abs/2307.05017)|null|
 |**2023-07-10**|**Efficient Match Pair Retrieval for Large-scale UAV Images via Graph Indexed Global Descriptor**|San Jiang et.al.|[2307.04520](http://arxiv.org/abs/2307.04520)|null|
 |**2023-07-10**|**RaPlace: Place Recognition for Imaging Radar using Radon Transform and Mutable Threshold**|Hyesu Jang et.al.|[2307.04321](http://arxiv.org/abs/2307.04321)|null|
 |**2023-07-08**|**Calibration-Aware Margin Loss: Pushing the Accuracy-Calibration Consistency Pareto Frontier for Deep Metric Learning**|Qin Zhang et.al.|[2307.04047](http://arxiv.org/abs/2307.04047)|null|
@@ -1163,6 +1165,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-11**|**ResMatch: Residual Attention Learning for Local Feature Matching**|Yuxin Deng et.al.|[2307.05180](http://arxiv.org/abs/2307.05180)|null|
+|**2023-07-11**|**TIAM -- A Metric for Evaluating Alignment in Text-to-Image Generation**|Paul Grimal et.al.|[2307.05134](http://arxiv.org/abs/2307.05134)|**[link](https://github.com/grimalpaul/tiam)**|
 |**2023-07-02**|**TopicFM+: Boosting Accuracy and Efficiency of Topic-Assisted Feature Matching**|Khang Truong Giang et.al.|[2307.00485](http://arxiv.org/abs/2307.00485)|**[link](https://github.com/truongkhang/topicfm)**|
 |**2023-06-27**|**Detector-Free Structure from Motion**|Xingyi He et.al.|[2306.15669](http://arxiv.org/abs/2306.15669)|**[link](https://github.com/zju3dv/DetectorFreeSfM)**|
 |**2023-06-28**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667](http://arxiv.org/abs/2306.15667)|null|
@@ -1316,6 +1320,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087](http://arxiv.org/abs/2307.05087)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441](http://arxiv.org/abs/2307.03441)|null|
 |**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404](http://arxiv.org/abs/2307.03404)|null|
 |**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723](http://arxiv.org/abs/2306.17723)|null|
@@ -1743,6 +1748,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-11**|**Discovering Symbolic Laws Directly from Trajectories with Hamiltonian Graph Neural Networks**|Suresh Bishnoi et.al.|[2307.05299](http://arxiv.org/abs/2307.05299)|null|
+|**2023-07-11**|**Supervised Attention Using Homophily in Graph Neural Networks**|Michail Chatzianastasis et.al.|[2307.05217](http://arxiv.org/abs/2307.05217)|null|
+|**2023-07-11**|**ResMatch: Residual Attention Learning for Local Feature Matching**|Yuxin Deng et.al.|[2307.05180](http://arxiv.org/abs/2307.05180)|null|
+|**2023-07-11**|**A Modal Logic for Explaining some Graph Neural Networks**|Pierre Nunn et.al.|[2307.05150](http://arxiv.org/abs/2307.05150)|null|
+|**2023-07-11**|**Transaction Fraud Detection via Spatial-Temporal-Aware Graph Transformer**|Yue Tian et.al.|[2307.05121](http://arxiv.org/abs/2307.05121)|null|
+|**2023-07-11**|**Neural-Symbolic Recommendation with Graph-Enhanced Information**|Bang Chen et.al.|[2307.05036](http://arxiv.org/abs/2307.05036)|**[link](https://github.com/hanzo2020/gnnlr)**|
+|**2023-07-11**|**Intrinsically motivated graph exploration using network theories of human curiosity**|Shubhankar P. Patankar et.al.|[2307.04962](http://arxiv.org/abs/2307.04962)|null|
+|**2023-07-10**|**Improving Fairness of Graph Neural Networks: A Graph Counterfactual Perspective**|Zhimeng Guo et.al.|[2307.04937](http://arxiv.org/abs/2307.04937)|null|
+|**2023-07-10**|**Learning to Solve Constraint Satisfaction Problems with Recurrent Transformer**|Zhun Yang et.al.|[2307.04895](http://arxiv.org/abs/2307.04895)|**[link](https://github.com/azreasoners/recurrent_transformer)**|
 |**2023-07-10**|**On the power of graph neural networks and the role of the activation function**|Sammy Khalife et.al.|[2307.04661](http://arxiv.org/abs/2307.04661)|null|
 |**2023-07-10**|**Multimodal brain age estimation using interpretable adaptive population-graph learning**|Kyriaki-Margarita Bintsi et.al.|[2307.04639](http://arxiv.org/abs/2307.04639)|null|
 |**2023-07-10**|**Multi-modal Graph Learning over UMLS Knowledge Graphs**|Manuel Burger et.al.|[2307.04461](http://arxiv.org/abs/2307.04461)|null|
@@ -1864,6 +1878,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-11**|**Towards Anytime Optical Flow Estimation with Event Cameras**|Yaozu Ye et.al.|[2307.05033](http://arxiv.org/abs/2307.05033)|**[link](https://github.com/yaozhuwa/eva-flow)**|
 |**2023-07-03**|**Cross-modal Place Recognition in Image Databases using Event-based Sensors**|Xiang Ji et.al.|[2307.01047](http://arxiv.org/abs/2307.01047)|null|
 |**2023-06-27**|**Self-supervised Learning of Event-guided Video Frame Interpolation for Rolling Shutter Frames**|Yunfan Lu et.al.|[2306.15507](http://arxiv.org/abs/2306.15507)|null|
 |**2023-06-25**|**High-precision and low-latency widefield diamond quantum sensing with neuromorphic vision sensors**|Zhiyuan Du et.al.|[2306.14099](http://arxiv.org/abs/2306.14099)|null|
@@ -1884,6 +1899,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-11**|**Energy Efficient Personalized Hand-Gesture Recognition with Neuromorphic Computing**|Muhammad Aitsam et.al.|[2307.05225](http://arxiv.org/abs/2307.05225)|null|
+|**2023-07-11**|**A novel small-scale self-focusing suppression method for ultrahigh peak power lasers**|Shuren Pan et.al.|[2307.04968](http://arxiv.org/abs/2307.04968)|null|
 |**2023-07-10**|**Reducing Information Loss for Spiking Neural Networks**|Yufei Guo et.al.|[2307.04356](http://arxiv.org/abs/2307.04356)|null|
 |**2023-07-08**|**Deep Unsupervised Learning Using Spike-Timing-Dependent Plasticity**|Sen Lu et.al.|[2307.04054](http://arxiv.org/abs/2307.04054)|null|
 |**2023-07-08**|**A Survey of Spiking Neural Network Accelerator on FPGA**|Murat Isik et.al.|[2307.03910](http://arxiv.org/abs/2307.03910)|null|
