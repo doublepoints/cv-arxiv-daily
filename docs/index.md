@@ -1143,6 +1143,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-09**|**Augmenters at SemEval-2023 Task 1: Enhancing CLIP in Handling Compositionality and Ambiguity for Zero-Shot Visual WSD through Prompt Augmentation and Text-To-Image Diffusion**|Jie S. Li et.al.|[2307.05564](http://arxiv.org/abs/2307.05564)|null|
 |**2023-07-11**|**ResMatch: Residual Attention Learning for Local Feature Matching**|Yuxin Deng et.al.|[2307.05180](http://arxiv.org/abs/2307.05180)|null|
 |**2023-07-11**|**TIAM -- A Metric for Evaluating Alignment in Text-to-Image Generation**|Paul Grimal et.al.|[2307.05134](http://arxiv.org/abs/2307.05134)|**[link](https://github.com/grimalpaul/tiam)**|
 |**2023-07-02**|**TopicFM+: Boosting Accuracy and Efficiency of Topic-Assisted Feature Matching**|Khang Truong Giang et.al.|[2307.00485](http://arxiv.org/abs/2307.00485)|**[link](https://github.com/truongkhang/topicfm)**|
@@ -1720,6 +1721,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-12**|**Learning Stochastic Dynamical Systems as an Implicit Regularization with Graph Neural Networks**|Jin Guo et.al.|[2307.06097](http://arxiv.org/abs/2307.06097)|null|
+|**2023-07-12**|**An OOD Multi-Task Perspective for Link Prediction with New Relation Types and Nodes**|Jincheng Zhou et.al.|[2307.06046](http://arxiv.org/abs/2307.06046)|null|
+|**2023-07-12**|**An Effective and Efficient Time-aware Entity Alignment Framework via Two-aspect Three-view Label Propagation**|Li Cai et.al.|[2307.06013](http://arxiv.org/abs/2307.06013)|null|
+|**2023-07-12**|**FIS-ONE: Floor Identification System with One Label for Crowdsourced RF Signals**|Weipeng Zhuo et.al.|[2307.05914](http://arxiv.org/abs/2307.05914)|null|
+|**2023-07-12**|**Knowledge-Driven Resource Allocation for D2D Networks: A WMMSE Unrolled Graph Neural Network Approach**|Hao Yang et.al.|[2307.05882](http://arxiv.org/abs/2307.05882)|null|
+|**2023-07-12**|**GLA-GCN: Global-local Adaptive Graph Convolutional Network for 3D Human**|Bruce X. B. Yu et.al.|[2307.05853](http://arxiv.org/abs/2307.05853)|**[link](https://github.com/bruceyo/GLA-GCN)**|
+|**2023-07-11**|**Influential Simplices Mining via Simplicial Convolutional Network**|Yujie Zeng et.al.|[2307.05841](http://arxiv.org/abs/2307.05841)|null|
+|**2023-07-11**|**Weisfeiler and Lehman Go Measurement Modeling: Probing the Validity of the WL Test**|Arjun Subramonian et.al.|[2307.05775](http://arxiv.org/abs/2307.05775)|null|
 |**2023-07-11**|**Discovering Symbolic Laws Directly from Trajectories with Hamiltonian Graph Neural Networks**|Suresh Bishnoi et.al.|[2307.05299](http://arxiv.org/abs/2307.05299)|null|
 |**2023-07-11**|**Supervised Attention Using Homophily in Graph Neural Networks**|Michail Chatzianastasis et.al.|[2307.05217](http://arxiv.org/abs/2307.05217)|null|
 |**2023-07-11**|**ResMatch: Residual Attention Learning for Local Feature Matching**|Yuxin Deng et.al.|[2307.05180](http://arxiv.org/abs/2307.05180)|null|
@@ -1867,6 +1876,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-12**|**Neuromorphic analog circuits for robust on-chip always-on learning in spiking neural networks**|Arianna Rubino et.al.|[2307.06084](http://arxiv.org/abs/2307.06084)|null|
+|**2023-07-12**|**Unsupervised Optical Flow Estimation with Dynamic Timing Representation for Spike Camera**|Lujie Xia et.al.|[2307.06003](http://arxiv.org/abs/2307.06003)|null|
+|**2023-07-12**|**Empirical Bayes large-scale multiple testing for high-dimensional sparse binary sequences**|Bo Y. -C. Ning et.al.|[2307.05943](http://arxiv.org/abs/2307.05943)|null|
+|**2023-07-09**|**From Estimation to Sampling for Bayesian Linear Regression with Spike-and-Slab Prior**|Qijia Jiang et.al.|[2307.05558](http://arxiv.org/abs/2307.05558)|null|
 |**2023-07-11**|**Energy Efficient Personalized Hand-Gesture Recognition with Neuromorphic Computing**|Muhammad Aitsam et.al.|[2307.05225](http://arxiv.org/abs/2307.05225)|null|
 |**2023-07-11**|**A novel small-scale self-focusing suppression method for ultrahigh peak power lasers**|Shuren Pan et.al.|[2307.04968](http://arxiv.org/abs/2307.04968)|null|
 |**2023-07-10**|**Reducing Information Loss for Spiking Neural Networks**|Yufei Guo et.al.|[2307.04356](http://arxiv.org/abs/2307.04356)|null|
