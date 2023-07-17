@@ -528,6 +528,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**Phoneme-retrieval; voice recognition; vowels recognition**|Brunello Tirozzi et.al.|[2307.07407](http://arxiv.org/abs/2307.07407)|null|
+|**2023-07-14**|**Risk Controlled Image Retrieval**|Kaiwen Cai et.al.|[2307.07336](http://arxiv.org/abs/2307.07336)|null|
 |**2023-07-11**|**ResMatch: Residual Attention Learning for Local Feature Matching**|Yuxin Deng et.al.|[2307.05180](http://arxiv.org/abs/2307.05180)|**[link](https://github.com/acuooooo/resmatch)**|
 |**2023-07-11**|**Feature Activation Map: Visual Explanation of Deep Learning Models for Image Classification**|Yi Liao et.al.|[2307.05017](http://arxiv.org/abs/2307.05017)|null|
 |**2023-07-10**|**Efficient Match Pair Retrieval for Large-scale UAV Images via Graph Indexed Global Descriptor**|San Jiang et.al.|[2307.04520](http://arxiv.org/abs/2307.04520)|null|
@@ -1721,6 +1723,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**Real-time Graph Building on FPGAs for Machine Learning Trigger Applications in Particle Physics**|Marc Neu et.al.|[2307.07289](http://arxiv.org/abs/2307.07289)|null|
+|**2023-07-13**|**MaxCorrMGNN: A Multi-Graph Neural Network Framework for Generalized Multimodal Fusion of Medical Data for Outcome Prediction**|Niharika S. D'Souza et.al.|[2307.07093](http://arxiv.org/abs/2307.07093)|null|
+|**2023-07-13**|**Espaloma-0.3.0: Machine-learned molecular mechanics force field for the simulation of protein-ligand systems and beyond**|Kenichiro Takaba et.al.|[2307.07085](http://arxiv.org/abs/2307.07085)|null|
 |**2023-07-13**|**Privacy-Utility Trade-offs in Neural Networks for Medical Population Graphs: Insights from Differential Privacy and Graph Structure**|Tamara T. Mueller et.al.|[2307.06760](http://arxiv.org/abs/2307.06760)|null|
 |**2023-07-13**|**Frameless Graph Knowledge Distillation**|Dai Shi et.al.|[2307.06631](http://arxiv.org/abs/2307.06631)|**[link](https://github.com/dshi3553usyd/frameless_graph_distillation)**|
 |**2023-07-13**|**Going Beyond Local: Global Graph-Enhanced Personalized News Recommendations**|Boming Yang et.al.|[2307.06576](http://arxiv.org/abs/2307.06576)|**[link](https://github.com/tinyrolls/glory)**|
@@ -1882,6 +1887,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**Long Short-term Memory with Two-Compartment Spiking Neuron**|Shimin Zhang et.al.|[2307.07231](http://arxiv.org/abs/2307.07231)|null|
+|**2023-07-14**|**Radio bursts observed during solar eruptive flares and their schematic summary**|Marian Karlický et.al.|[2307.07144](http://arxiv.org/abs/2307.07144)|null|
+|**2023-07-14**|**SLSSNN: High energy efficiency spike-train level spiking neural networks with spatio-temporal conversion**|Changqing Xu et.al.|[2307.07136](http://arxiv.org/abs/2307.07136)|null|
 |**2023-07-13**|**Multi-TeV dark matter density in the inner Milky Way halo: spectral and dynamical constraints**|Jaume Zuriaga-Puig et.al.|[2307.06823](http://arxiv.org/abs/2307.06823)|null|
 |**2023-07-12**|**Neuromorphic analog circuits for robust on-chip always-on learning in spiking neural networks**|Arianna Rubino et.al.|[2307.06084](http://arxiv.org/abs/2307.06084)|null|
 |**2023-07-12**|**Unsupervised Optical Flow Estimation with Dynamic Timing Representation for Spike Camera**|Lujie Xia et.al.|[2307.06003](http://arxiv.org/abs/2307.06003)|null|
@@ -1954,6 +1962,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**Long Short-term Memory with Two-Compartment Spiking Neuron**|Shimin Zhang et.al.|[2307.07231](http://arxiv.org/abs/2307.07231)|null|
 |**2023-07-08**|**A Survey of Spiking Neural Network Accelerator on FPGA**|Murat Isik et.al.|[2307.03910](http://arxiv.org/abs/2307.03910)|null|
 |**2023-06-14**|**The ELM Neuron: an Efficient and Expressive Cortical Neuron Model Can Solve Long-Horizon Tasks**|Aaron Spieler et.al.|[2306.16922](http://arxiv.org/abs/2306.16922)|**[link](https://github.com/AaronSpieler/elmneuron)**|
 |**2023-06-16**|**Runtime Construction of Large-Scale Spiking Neuronal Network Models on GPU Devices**|Bruno Golosio et.al.|[2306.09855](http://arxiv.org/abs/2306.09855)|null|
