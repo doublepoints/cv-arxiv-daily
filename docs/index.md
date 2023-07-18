@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-15**|**Tightly-Coupled LiDAR-Visual SLAM Based on Geometric Features for Mobile Agents**|Ke Cao et.al.|[2307.07763](http://arxiv.org/abs/2307.07763)|null|
 |**2023-06-01**|**Event-based Visual Odometry with Full Temporal Resolution via Continuous-time Gaussian Process Regression**|Jianeng Wang et.al.|[2306.01188](http://arxiv.org/abs/2306.01188)|null|
 |**2023-07-06**|**OSPC: Online Sequential Photometric Calibration**|Jawad Haidar et.al.|[2305.17673](http://arxiv.org/abs/2305.17673)|null|
 |**2023-05-15**|**Event Camera-based Visual Odometry for Dynamic Motion Tracking of a Legged Robot Using Adaptive Time Surface**|Shifan Zhu et.al.|[2305.08962](http://arxiv.org/abs/2305.08962)|null|
@@ -528,6 +529,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**Divide&Classify: Fine-Grained Classification for City-Wide Visual Place Recognition**|Gabriele Trivigno et.al.|[2307.08417](http://arxiv.org/abs/2307.08417)|null|
+|**2023-07-17**|**Bridging the Gap: Multi-Level Cross-Modality Joint Alignment for Visible-Infrared Person Re-Identification**|Tengfei Liang et.al.|[2307.08316](http://arxiv.org/abs/2307.08316)|null|
+|**2023-07-17**|**NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**|Lizhou Liao et.al.|[2307.08221](http://arxiv.org/abs/2307.08221)|**[link](https://github.com/SlamCabbage/NDTMC)**|
+|**2023-07-16**|**Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer**|Yujiao Shi et.al.|[2307.08015](http://arxiv.org/abs/2307.08015)|null|
 |**2023-07-10**|**Phoneme-retrieval; voice recognition; vowels recognition**|Brunello Tirozzi et.al.|[2307.07407](http://arxiv.org/abs/2307.07407)|null|
 |**2023-07-14**|**Risk Controlled Image Retrieval**|Kaiwen Cai et.al.|[2307.07336](http://arxiv.org/abs/2307.07336)|null|
 |**2023-07-11**|**ResMatch: Residual Attention Learning for Local Feature Matching**|Yuxin Deng et.al.|[2307.05180](http://arxiv.org/abs/2307.05180)|**[link](https://github.com/acuooooo/resmatch)**|
@@ -1145,6 +1150,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-15**|**Tightly-Coupled LiDAR-Visual SLAM Based on Geometric Features for Mobile Agents**|Ke Cao et.al.|[2307.07763](http://arxiv.org/abs/2307.07763)|null|
 |**2023-07-09**|**Augmenters at SemEval-2023 Task 1: Enhancing CLIP in Handling Compositionality and Ambiguity for Zero-Shot Visual WSD through Prompt Augmentation and Text-To-Image Diffusion**|Jie S. Li et.al.|[2307.05564](http://arxiv.org/abs/2307.05564)|null|
 |**2023-07-11**|**ResMatch: Residual Attention Learning for Local Feature Matching**|Yuxin Deng et.al.|[2307.05180](http://arxiv.org/abs/2307.05180)|**[link](https://github.com/acuooooo/resmatch)**|
 |**2023-07-11**|**TIAM -- A Metric for Evaluating Alignment in Text-to-Image Generation**|Paul Grimal et.al.|[2307.05134](http://arxiv.org/abs/2307.05134)|**[link](https://github.com/grimalpaul/tiam)**|
@@ -1299,6 +1305,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-16**|**Cross-Ray Neural Radiance Fields for Novel-view Synthesis from Unconstrained Image Collections**|Yifan Yang et.al.|[2307.08093](http://arxiv.org/abs/2307.08093)|**[link](https://github.com/yifyang993/cr-nerf-pytorch)**|
+|**2023-07-15**|**Improving NeRF with Height Data for Utilization of GIS Data**|Hinata Aoki et.al.|[2307.07729](http://arxiv.org/abs/2307.07729)|null|
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087](http://arxiv.org/abs/2307.05087)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441](http://arxiv.org/abs/2307.03441)|null|
 |**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404](http://arxiv.org/abs/2307.03404)|null|
@@ -1723,6 +1731,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**PolyGNN: Polyhedron-based Graph Neural Network for 3D Building Reconstruction from Point Clouds**|Zhaiyu Chen et.al.|[2307.08636](http://arxiv.org/abs/2307.08636)|null|
+|**2023-07-17**|**G-Scan: Graph Neural Networks for Line-Level Vulnerability Identification in Smart Contracts**|Christoph Sendner et.al.|[2307.08549](http://arxiv.org/abs/2307.08549)|null|
+|**2023-07-17**|**SkeletonMAE: Graph-based Masked Autoencoder for Skeleton Sequence Pre-training**|Hong Yan et.al.|[2307.08476](http://arxiv.org/abs/2307.08476)|**[link](https://github.com/hongyan1123/skeletonmae)**|
+|**2023-07-17**|**Towards eXplainable AI for Mobility Data Science**|Anahid Jalali et.al.|[2307.08461](http://arxiv.org/abs/2307.08461)|null|
+|**2023-07-17**|**Long-range Dependency based Multi-Layer Perceptron for Heterogeneous Information Networks**|Chao Li et.al.|[2307.08430](http://arxiv.org/abs/2307.08430)|**[link](https://github.com/jhl-hust/ldmlp)**|
+|**2023-07-17**|**Correlation-aware Spatial-Temporal Graph Learning for Multivariate Time-series Anomaly Detection**|Yu Zheng et.al.|[2307.08390](http://arxiv.org/abs/2307.08390)|null|
+|**2023-07-16**|**Heterogeneous graphs model spatial relationships between biological entities for breast cancer diagnosis**|Akhila Krishna K et.al.|[2307.08132](http://arxiv.org/abs/2307.08132)|null|
+|**2023-07-16**|**INFLECT-DGNN: Influencer Prediction with Dynamic Graph Neural Networks**|Elena Tiukhova et.al.|[2307.08131](http://arxiv.org/abs/2307.08131)|**[link](https://github.com/banking-analytics-lab/inflect)**|
+|**2023-07-16**|**MaGNAS: A Mapping-Aware Graph Neural Architecture Search Framework for Heterogeneous MPSoC Deployment**|Mohanad Odema et.al.|[2307.08065](http://arxiv.org/abs/2307.08065)|null|
+|**2023-07-16**|**Integrating Human Parsing and Pose Network for Human Action Recognition**|Runwei Ding et.al.|[2307.07977](http://arxiv.org/abs/2307.07977)|**[link](https://github.com/liujf69/ipp-net-parsing)**|
 |**2023-07-14**|**Real-time Graph Building on FPGAs for Machine Learning Trigger Applications in Particle Physics**|Marc Neu et.al.|[2307.07289](http://arxiv.org/abs/2307.07289)|null|
 |**2023-07-13**|**MaxCorrMGNN: A Multi-Graph Neural Network Framework for Generalized Multimodal Fusion of Medical Data for Outcome Prediction**|Niharika S. D'Souza et.al.|[2307.07093](http://arxiv.org/abs/2307.07093)|null|
 |**2023-07-13**|**Espaloma-0.3.0: Machine-learned molecular mechanics force field for the simulation of protein-ligand systems and beyond**|Kenichiro Takaba et.al.|[2307.07085](http://arxiv.org/abs/2307.07085)|null|
@@ -1867,6 +1885,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**Video Frame Interpolation with Stereo Event and Intensity Camera**|Chao Ding et.al.|[2307.08228](http://arxiv.org/abs/2307.08228)|null|
 |**2023-07-13**|**Spatio-Temporal Calibration for Omni-Directional Vehicle-Mounted**|Xiao Li et.al.|[2307.06810](http://arxiv.org/abs/2307.06810)|**[link](https://github.com/esheroe/evcalib)**|
 |**2023-07-11**|**Towards Anytime Optical Flow Estimation with Event Cameras**|Yaozu Ye et.al.|[2307.05033](http://arxiv.org/abs/2307.05033)|**[link](https://github.com/yaozhuwa/eva-flow)**|
 |**2023-07-03**|**Cross-modal Place Recognition in Image Databases using Event-based Sensors**|Xiang Ji et.al.|[2307.01047](http://arxiv.org/abs/2307.01047)|null|
@@ -1887,6 +1906,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-13**|**Corticomorphic Hybrid CNN-SNN Architecture for EEG-based Low-footprint Low-latency Auditory Attention Detection**|Richard Gall et.al.|[2307.08501](http://arxiv.org/abs/2307.08501)|null|
+|**2023-07-16**|**Scaling Limits of Memristor-Based Routers for Asynchronous Neuromorphic Systems**|Junren Chen et.al.|[2307.08116](http://arxiv.org/abs/2307.08116)|null|
+|**2023-07-16**|**Enhancing Energy Efficiency and Reliability in Autonomous Systems Estimation using Neuromorphic Approach**|Reza Ahmadvand et.al.|[2307.07963](http://arxiv.org/abs/2307.07963)|null|
+|**2023-07-15**|**Custom DNN using Reward Modulated Inverted STDP Learning for Temporal Pattern Recognition**|Vijay Shankaran Vivekanand et.al.|[2307.07869](http://arxiv.org/abs/2307.07869)|null|
 |**2023-07-14**|**Long Short-term Memory with Two-Compartment Spiking Neuron**|Shimin Zhang et.al.|[2307.07231](http://arxiv.org/abs/2307.07231)|null|
 |**2023-07-14**|**Radio bursts observed during solar eruptive flares and their schematic summary**|Marian Karlický et.al.|[2307.07144](http://arxiv.org/abs/2307.07144)|null|
 |**2023-07-14**|**SLSSNN: High energy efficiency spike-train level spiking neural networks with spatio-temporal conversion**|Changqing Xu et.al.|[2307.07136](http://arxiv.org/abs/2307.07136)|null|
