@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.18
+## Updated on 2023.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1991,7 +1991,7 @@ layout: default
 |**2023-06-16**|**Runtime Construction of Large-Scale Spiking Neuronal Network Models on GPU Devices**|Bruno Golosio et.al.|[2306.09855](http://arxiv.org/abs/2306.09855)|null|
 |**2023-06-06**|**Spike-based computation using classical recurrent neural networks**|Florent De Geeter et.al.|[2306.03623](http://arxiv.org/abs/2306.03623)|null|
 |**2023-05-31**|**Fast-SNN: Fast Spiking Neural Network by Converting Quantized ANN**|Yangfan Hu et.al.|[2305.19868](http://arxiv.org/abs/2305.19868)|**[link](https://github.com/yangfan-hu/fast-snn)**|
-|**2023-07-10**|**Exploiting Noise as a Resource for Computation and Learning in Spiking Neural Networks**|Gehua Ma et.al.|[2305.16044](http://arxiv.org/abs/2305.16044)|**[link](https://github.com/genema/Noisy-Spiking-Neuron-Nets)**|
+|**2023-07-18**|**Exploiting Noise as a Resource for Computation and Learning in Spiking Neural Networks**|Gehua Ma et.al.|[2305.16044](http://arxiv.org/abs/2305.16044)|**[link](https://github.com/genema/Noisy-Spiking-Neuron-Nets)**|
 |**2023-05-22**|**An Analytically Solvable Model of Firing Rate Heterogeneity in Balanced State Networks**|Alexander Schmidt et.al.|[2305.13420](http://arxiv.org/abs/2305.13420)|null|
 |**2023-05-21**|**Mapping Biological Neuron Dynamics into an Interpretable Two-layer Artificial Neural Network**|Jingyang Ma et.al.|[2305.12471](http://arxiv.org/abs/2305.12471)|null|
 |**2023-05-13**|**Quantization in Spiking Neural Networks**|Bernhard A. Moser et.al.|[2305.08012](http://arxiv.org/abs/2305.08012)|**[link](https://github.com/lunglmayrmoser/alexsnn)**|
