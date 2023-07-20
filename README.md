@@ -28,6 +28,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**Optimizing the extended Fourier Mellin Transformation Algorithm**|Wenqing Jiang et.al.|[2307.10015](http://arxiv.org/abs/2307.10015)|null|
 |**2023-07-15**|**Tightly-Coupled LiDAR-Visual SLAM Based on Geometric Features for Mobile Agents**|Ke Cao et.al.|[2307.07763](http://arxiv.org/abs/2307.07763)|null|
 |**2023-06-01**|**Event-based Visual Odometry with Full Temporal Resolution via Continuous-time Gaussian Process Regression**|Jianeng Wang et.al.|[2306.01188](http://arxiv.org/abs/2306.01188)|null|
 |**2023-07-06**|**OSPC: Online Sequential Photometric Calibration**|Jawad Haidar et.al.|[2305.17673](http://arxiv.org/abs/2305.17673)|null|
@@ -431,6 +432,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**Lazy Visual Localization via Motion Averaging**|Siyan Dong et.al.|[2307.09981](http://arxiv.org/abs/2307.09981)|null|
 |**2023-07-10**|**Efficient Match Pair Retrieval for Large-scale UAV Images via Graph Indexed Global Descriptor**|San Jiang et.al.|[2307.04520](http://arxiv.org/abs/2307.04520)|null|
 |**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404](http://arxiv.org/abs/2307.03404)|null|
 |**2023-06-29**|**The Drunkard's Odometry: Estimating Camera Motion in Deforming Scenes**|David Recasens et.al.|[2306.16917](http://arxiv.org/abs/2306.16917)|**[link](https://github.com/UZ-SLAMLab/DrunkardsOdometry)**|
@@ -547,6 +549,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**Lazy Visual Localization via Motion Averaging**|Siyan Dong et.al.|[2307.09981](http://arxiv.org/abs/2307.09981)|null|
+|**2023-07-19**|**Quantum Optics based Algorithm for Measuring the Similarity between Images**|Vivek Mehta et.al.|[2307.09789](http://arxiv.org/abs/2307.09789)|null|
 |**2023-07-18**|**Jean-Luc Picard at Touché 2023: Comparing Image Generation, Stance Detection and Feature Matching for Image Retrieval for Arguments**|Max Moebius et.al.|[2307.09172](http://arxiv.org/abs/2307.09172)|null|
 |**2023-07-18**|**3D-SeqMOS: A Novel Sequential 3D Moving Object Segmentation in Autonomous Driving**|Qipeng Li et.al.|[2307.09044](http://arxiv.org/abs/2307.09044)|null|
 |**2023-07-19**|**Similarity Min-Max: Zero-Shot Day-Night Domain Adaptation**|Rundong Luo et.al.|[2307.08779](http://arxiv.org/abs/2307.08779)|null|
@@ -1023,6 +1027,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**SAMConvex: Fast Discrete Optimization for CT Registration using Self-supervised Anatomical Embedding and Correlation Pyramid**|Zi Li et.al.|[2307.09727](http://arxiv.org/abs/2307.09727)|null|
 |**2023-07-01**|**SyMFM6D: Symmetry-aware Multi-directional Fusion for Multi-View 6D Object Pose Estimation**|Fabian Duffhauss et.al.|[2307.00306](http://arxiv.org/abs/2307.00306)|**[link](https://github.com/boschresearch/symfm6d)**|
 |**2023-06-27**|**Detector-Free Structure from Motion**|Xingyi He et.al.|[2306.15669](http://arxiv.org/abs/2306.15669)|**[link](https://github.com/zju3dv/DetectorFreeSfM)**|
 |**2023-06-26**|**CLERA: A Unified Model for Joint Cognitive Load and Eye Region Analysis in the Wild**|Li Ding et.al.|[2306.15073](http://arxiv.org/abs/2306.15073)|null|
@@ -1334,6 +1339,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**An Improved NeuMIP with Better Accuracy**|Bowen Xue et.al.|[2307.10135](http://arxiv.org/abs/2307.10135)|null|
+|**2023-07-19**|**Magic NeRF Lens: Interactive Fusion of Neural Radiance Fields for Virtual Facility Inspection**|Ke Li et.al.|[2307.09860](http://arxiv.org/abs/2307.09860)|null|
+|**2023-07-14**|**Transient Neural Radiance Fields for Lidar View Synthesis and 3D Reconstruction**|Anagh Malik et.al.|[2307.09555](http://arxiv.org/abs/2307.09555)|null|
 |**2023-07-18**|**Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**|Jiahe Li et.al.|[2307.09323](http://arxiv.org/abs/2307.09323)|**[link](https://github.com/fictionarry/er-nerf)**|
 |**2023-07-16**|**Cross-Ray Neural Radiance Fields for Novel-view Synthesis from Unconstrained Image Collections**|Yifan Yang et.al.|[2307.08093](http://arxiv.org/abs/2307.08093)|**[link](https://github.com/yifyang993/cr-nerf-pytorch)**|
 |**2023-07-15**|**Improving NeRF with Height Data for Utilization of GIS Data**|Hinata Aoki et.al.|[2307.07729](http://arxiv.org/abs/2307.07729)|null|
@@ -1765,6 +1773,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**AutoAMG( $θ$ ): An Auto-tuned AMG Method Based on Deep Learning for Strong Threshold**|Haifeng Zou et.al.|[2307.09879](http://arxiv.org/abs/2307.09879)|null|
+|**2023-07-19**|**Detecting Vulnerable Nodes in Urban Infrastructure Interdependent Network**|Jinzhu Mao et.al.|[2307.09866](http://arxiv.org/abs/2307.09866)|**[link](https://github.com/tsinghua-fib-lab/kdd2023-id546-urbaninfra)**|
+|**2023-07-19**|**A Fast and Map-Free Model for Trajectory Prediction in Traffics**|Junhong Xiang et.al.|[2307.09831](http://arxiv.org/abs/2307.09831)|null|
+|**2023-07-19**|**How Curvature Enhance the Adaptation Power of Framelet GCNs**|Dai Shi et.al.|[2307.09768](http://arxiv.org/abs/2307.09768)|null|
+|**2023-07-18**|**Anticipating Technical Expertise and Capability Evolution in Research Communities using Dynamic Graph Transformers**|Sameera Horawalavithana et.al.|[2307.09665](http://arxiv.org/abs/2307.09665)|null|
+|**2023-07-18**|**Neural Priority Queues for Graph Neural Networks**|Rishabh Jain et.al.|[2307.09660](http://arxiv.org/abs/2307.09660)|null|
 |**2023-07-18**|**Rumor Detection with Diverse Counterfactual Evidence**|Kaiwei Zhang et.al.|[2307.09296](http://arxiv.org/abs/2307.09296)|null|
 |**2023-07-18**|**Pixel-wise Graph Attention Networks for Person Re-identification**|Wenyu Zhang et.al.|[2307.09183](http://arxiv.org/abs/2307.09183)|**[link](https://github.com/wenyu1009/pganet)**|
 |**2023-07-18**|**Learning Adaptive Neighborhoods for Graph Neural Networks**|Avishkar Saha et.al.|[2307.09065](http://arxiv.org/abs/2307.09065)|null|
@@ -1951,6 +1965,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**Learned Proximal Operator for Solving Seismic Deconvolution Problem**|Peimeng Guan et.al.|[2307.10030](http://arxiv.org/abs/2307.10030)|null|
 |**2023-07-18**|**Approximating nonlinear functions with latent boundaries in low-rank excitatory-inhibitory spiking networks**|William F. Podlaski et.al.|[2307.09334](http://arxiv.org/abs/2307.09334)|null|
 |**2023-07-13**|**Corticomorphic Hybrid CNN-SNN Architecture for EEG-based Low-footprint Low-latency Auditory Attention Detection**|Richard Gall et.al.|[2307.08501](http://arxiv.org/abs/2307.08501)|null|
 |**2023-07-16**|**Scaling Limits of Memristor-Based Routers for Asynchronous Neuromorphic Systems**|Junren Chen et.al.|[2307.08116](http://arxiv.org/abs/2307.08116)|null|
