@@ -43,5 +43,5 @@ keywords:
         filters: ["Event-Camera","event camera","event"]
     "SNNs":
         filters: ["spiking"]
-    "neuronss":
-        filters: [ "neuron model","synapse","dendrites","dendritic","Dendrodendritic" ]
+    "neuron":
+        filters: ["neuron model","synapse","dendrites","dendritic","Dendrodendritic"]
