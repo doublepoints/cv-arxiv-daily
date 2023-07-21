@@ -1,4 +1,4 @@
-## <a id=top></a>Updated on 2023.07.22
+## <a id=top></a>Updated on 2023.07.21
 ---
 layout: default
 ---
@@ -8,7 +8,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.22
+## Updated on 2023.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## <a id=slam>SLAM</a>
@@ -2022,13 +2022,4 @@ layout: default
 |**2023-05-21**|**Mapping Biological Neuron Dynamics into an Interpretable Two-layer Artificial Neural Network**|Jingyang Ma et.al.|[2305.12471](http://arxiv.org/abs/2305.12471)|null|
 |**2023-05-13**|**Quantization in Spiking Neural Networks**|Bernhard A. Moser et.al.|[2305.08012](http://arxiv.org/abs/2305.08012)|**[link](https://github.com/lunglmayrmoser/alexsnn)**|
 |**2023-05-09**|**Spiking Neural Networks in the Alexiewicz Topology: A New Perspective on Analysis and Error Bounds**|Bernhard A. Moser et.al.|[2305.05772](http://arxiv.org/abs/2305.05772)|**[link](https://github.com/lunglmayrmoser/alexsnn)**|
-
-[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/Vincentqyw/cv-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/Vincentqyw/cv-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues
 

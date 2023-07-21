@@ -1,10 +1,10 @@
-## <a id=top></a>Updated on 2023.07.22
+## <a id=top></a>Updated on 2023.07.21
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.22
+## Updated on 2023.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -2054,13 +2054,4 @@
 |**2023-05-09**|**Spiking Neural Networks in the Alexiewicz Topology: A New Perspective on Analysis and Error Bounds**|Bernhard A. Moser et.al.|[2305.05772](http://arxiv.org/abs/2305.05772)|**[link](https://github.com/lunglmayrmoser/alexsnn)**|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
-
-[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/Vincentqyw/cv-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/Vincentqyw/cv-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues
 
