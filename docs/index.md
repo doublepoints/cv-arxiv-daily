@@ -417,6 +417,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**SACReg: Scene-Agnostic Coordinate Regression for Visual Localization**|Jerome Revaud et.al.|[2307.11702](http://arxiv.org/abs/2307.11702)|null|
 |**2023-07-19**|**Lazy Visual Localization via Motion Averaging**|Siyan Dong et.al.|[2307.09981](http://arxiv.org/abs/2307.09981)|null|
 |**2023-07-10**|**Efficient Match Pair Retrieval for Large-scale UAV Images via Graph Indexed Global Descriptor**|San Jiang et.al.|[2307.04520](http://arxiv.org/abs/2307.04520)|null|
 |**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404](http://arxiv.org/abs/2307.03404)|null|
@@ -532,6 +533,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**SACReg: Scene-Agnostic Coordinate Regression for Visual Localization**|Jerome Revaud et.al.|[2307.11702](http://arxiv.org/abs/2307.11702)|null|
 |**2023-07-19**|**Lazy Visual Localization via Motion Averaging**|Siyan Dong et.al.|[2307.09981](http://arxiv.org/abs/2307.09981)|null|
 |**2023-07-19**|**Quantum Optics based Algorithm for Measuring the Similarity between Images**|Vivek Mehta et.al.|[2307.09789](http://arxiv.org/abs/2307.09789)|null|
 |**2023-07-18**|**Jean-Luc Picard at Touché 2023: Comparing Image Generation, Stance Detection and Feature Matching for Image Retrieval for Arguments**|Max Moebius et.al.|[2307.09172](http://arxiv.org/abs/2307.09172)|null|
@@ -1318,6 +1320,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields**|Ziyuan Luo et.al.|[2307.11526](http://arxiv.org/abs/2307.11526)|null|
+|**2023-07-21**|**FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields**|Sungwon Hwang et.al.|[2307.11418](http://arxiv.org/abs/2307.11418)|null|
+|**2023-07-21**|**Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields**|Wenbo Hu et.al.|[2307.11335](http://arxiv.org/abs/2307.11335)|null|
 |**2023-07-20**|**Urban Radiance Field Representation with Deformable Neural Mesh Primitives**|Fan Lu et.al.|[2307.10776](http://arxiv.org/abs/2307.10776)|null|
 |**2023-07-20**|**Lighting up NeRF via Unsupervised Decomposition and Enhancement**|Haoyuan Wang et.al.|[2307.10664](http://arxiv.org/abs/2307.10664)|**[link](https://github.com/onpix/LLNeRF)**|
 |**2023-07-19**|**An Improved NeuMIP with Better Accuracy**|Bowen Xue et.al.|[2307.10135](http://arxiv.org/abs/2307.10135)|null|
@@ -1735,6 +1740,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**Prompt-Based Zero- and Few-Shot Node Classification: A Multimodal Approach**|Yuexin Li et.al.|[2307.11572](http://arxiv.org/abs/2307.11572)|null|
 |**2023-07-20**|**A Novel Unsupervised Graph Wavelet Autoencoder for Mechanical System Fault Detection**|Tianfu Li et.al.|[2307.10676](http://arxiv.org/abs/2307.10676)|null|
 |**2023-07-20**|**Deep fused flow and topology features for botnet detection basing on pretrained GCN**|Meng Xiaoyuan et.al.|[2307.10583](http://arxiv.org/abs/2307.10583)|null|
 |**2023-07-20**|**Air Traffic Controller Workload Level Prediction using Conformalized Dynamical Graph Learning**|Yutian Pang et.al.|[2307.10559](http://arxiv.org/abs/2307.10559)|**[link](https://github.com/ymlasu/para-atm-collection)**|
@@ -1907,6 +1913,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**EV-Planner: Energy-Efficient Robot Navigation via Event-Based Physics-Guided Neuromorphic Planner**|Sourav Sanyal et.al.|[2307.11349](http://arxiv.org/abs/2307.11349)|null|
 |**2023-07-17**|**Video Frame Interpolation with Stereo Event and Intensity Camera**|Chao Ding et.al.|[2307.08228](http://arxiv.org/abs/2307.08228)|null|
 |**2023-07-19**|**Spatio-Temporal Calibration for Omni-Directional Vehicle-Mounted Event Cameras**|Xiao Li et.al.|[2307.06810](http://arxiv.org/abs/2307.06810)|**[link](https://github.com/esheroe/evcalib)**|
 |**2023-07-11**|**Towards Anytime Optical Flow Estimation with Event Cameras**|Yaozu Ye et.al.|[2307.05033](http://arxiv.org/abs/2307.05033)|**[link](https://github.com/yaozhuwa/eva-flow)**|
@@ -1928,6 +1935,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**ESG Reputation Risk Matters: An Event Study Based on Social Media Data**|Maxime L. D. Nicolas et.al.|[2307.11571](http://arxiv.org/abs/2307.11571)|null|
+|**2023-07-21**|**Accurate detection of spiking motifs in multi-unit raster plots**|Laurent U Perrinet et.al.|[2307.11555](http://arxiv.org/abs/2307.11555)|null|
+|**2023-07-21**|**Deep Directly-Trained Spiking Neural Networks for Object Detection**|Qiaoyi Su et.al.|[2307.11411](http://arxiv.org/abs/2307.11411)|**[link](https://github.com/BICLab/EMS-YOLO)**|
+|**2023-07-21**|**EV-Planner: Energy-Efficient Robot Navigation via Event-Based Physics-Guided Neuromorphic Planner**|Sourav Sanyal et.al.|[2307.11349](http://arxiv.org/abs/2307.11349)|null|
+|**2023-07-21**|**Neuromorphic Online Learning for Spatiotemporal Patterns with a Forward-only Timeline**|Zhenhang Zhang et.al.|[2307.11314](http://arxiv.org/abs/2307.11314)|null|
+|**2023-07-20**|**Reconfigurable cascaded thermal neuristors for neuromorphic computing**|Erbin Qiu et.al.|[2307.11256](http://arxiv.org/abs/2307.11256)|null|
+|**2023-07-20**|**On-Sensor Data Filtering using Neuromorphic Computing for High Energy Physics Experiments**|Shruti R. Kulkarni et.al.|[2307.11242](http://arxiv.org/abs/2307.11242)|null|
 |**2023-07-20**|**Quantifying the multi-scale and multi-resource impacts of large-scale adoption of renewable energy sources**|Elnaz Kabir et.al.|[2307.11076](http://arxiv.org/abs/2307.11076)|null|
 |**2023-07-20**|**Fallout from U.S. atmospheric nuclear tests in New Mexico and Nevada (1945-1962)**|Sébastien Philippe et.al.|[2307.11040](http://arxiv.org/abs/2307.11040)|null|
 |**2023-07-20**|**Deep Spiking-UNet for Image Processing**|Hebei Li et.al.|[2307.10974](http://arxiv.org/abs/2307.10974)|**[link](https://github.com/snnresearch/spiking-unet)**|
@@ -2012,6 +2026,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**Neuromorphic Online Learning for Spatiotemporal Patterns with a Forward-only Timeline**|Zhenhang Zhang et.al.|[2307.11314](http://arxiv.org/abs/2307.11314)|null|
 |**2023-07-14**|**Long Short-term Memory with Two-Compartment Spiking Neuron**|Shimin Zhang et.al.|[2307.07231](http://arxiv.org/abs/2307.07231)|null|
 |**2023-07-08**|**A Survey of Spiking Neural Network Accelerator on FPGA**|Murat Isik et.al.|[2307.03910](http://arxiv.org/abs/2307.03910)|null|
 |**2023-06-14**|**The ELM Neuron: an Efficient and Expressive Cortical Neuron Model Can Solve Long-Horizon Tasks**|Aaron Spieler et.al.|[2306.16922](http://arxiv.org/abs/2306.16922)|**[link](https://github.com/AaronSpieler/elmneuron)**|
