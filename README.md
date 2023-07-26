@@ -27,6 +27,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-25**|**Preliminary Design of the Dragonfly Navigation Filter**|Ben Schilling et.al.|[2307.13513](http://arxiv.org/abs/2307.13513)|null|
 |**2023-07-19**|**Optimizing the extended Fourier Mellin Transformation Algorithm**|Wenqing Jiang et.al.|[2307.10015](http://arxiv.org/abs/2307.10015)|**[link](https://github.com/star-center/o-efmt)**|
 |**2023-07-15**|**Tightly-Coupled LiDAR-Visual SLAM Based on Geometric Features for Mobile Agents**|Ke Cao et.al.|[2307.07763](http://arxiv.org/abs/2307.07763)|null|
 |**2023-06-01**|**Event-based Visual Odometry with Full Temporal Resolution via Continuous-time Gaussian Process Regression**|Jianeng Wang et.al.|[2306.01188](http://arxiv.org/abs/2306.01188)|null|
@@ -549,6 +550,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-25**|**Conditional Cross Attention Network for Multi-Space Embedding without Entanglement in Only a SINGLE Network**|Chull Hwan Song et.al.|[2307.13254](http://arxiv.org/abs/2307.13254)|null|
 |**2023-07-21**|**SACReg: Scene-Agnostic Coordinate Regression for Visual Localization**|Jerome Revaud et.al.|[2307.11702](http://arxiv.org/abs/2307.11702)|null|
 |**2023-07-19**|**Lazy Visual Localization via Motion Averaging**|Siyan Dong et.al.|[2307.09981](http://arxiv.org/abs/2307.09981)|null|
 |**2023-07-19**|**Quantum Optics based Algorithm for Measuring the Similarity between Images**|Vivek Mehta et.al.|[2307.09789](http://arxiv.org/abs/2307.09789)|null|
@@ -1028,6 +1030,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-25**|**Mini-PointNetPlus: a local feature descriptor in deep learning model for 3d environment perception**|Chuanyu Luo et.al.|[2307.13300](http://arxiv.org/abs/2307.13300)|null|
 |**2023-07-21**|**Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**|Sahar Almahfouz Nasser et.al.|[2307.10698](http://arxiv.org/abs/2307.10698)|**[link](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**|
 |**2023-07-19**|**SAMConvex: Fast Discrete Optimization for CT Registration using Self-supervised Anatomical Embedding and Correlation Pyramid**|Zi Li et.al.|[2307.09727](http://arxiv.org/abs/2307.09727)|null|
 |**2023-07-01**|**SyMFM6D: Symmetry-aware Multi-directional Fusion for Multi-View 6D Object Pose Estimation**|Fabian Duffhauss et.al.|[2307.00306](http://arxiv.org/abs/2307.00306)|**[link](https://github.com/boschresearch/symfm6d)**|
@@ -1769,6 +1772,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-25**|**Multi-GPU Approach for Training of Graph ML Models on large CFD Meshes**|Sebastian Strönisch et.al.|[2307.13592](http://arxiv.org/abs/2307.13592)|null|
+|**2023-07-25**|**Node Injection Link Stealing Attack**|Oualid Zari et.al.|[2307.13548](http://arxiv.org/abs/2307.13548)|null|
+|**2023-07-25**|**Differentiable Turbulence II**|Varun Shankar et.al.|[2307.13533](http://arxiv.org/abs/2307.13533)|null|
+|**2023-07-25**|**Finding Money Launderers Using Heterogeneous Graph Neural Networks**|Fredrik Johannessen et.al.|[2307.13499](http://arxiv.org/abs/2307.13499)|**[link](https://github.com/fredjo89/heterogeneous-mpnn)**|
+|**2023-07-25**|**Combinatorial Auctions and Graph Neural Networks for Local Energy Flexibility Markets**|Awadelrahman M. A. Ahmed et.al.|[2307.13470](http://arxiv.org/abs/2307.13470)|null|
+|**2023-07-25**|**Gaussian Graph with Prototypical Contrastive Learning in E-Commerce Bundle Recommendation**|Zhao-Yang Liu et.al.|[2307.13468](http://arxiv.org/abs/2307.13468)|null|
+|**2023-07-25**|**Transferability of Graph Neural Networks using Graphon and Sampling Theories**|A. Martina Neuman et.al.|[2307.13206](http://arxiv.org/abs/2307.13206)|null|
+|**2023-07-24**|**MARIO: Model Agnostic Recipe for Improving OOD Generalization of Graph Contrastive Learning**|Yun Zhu et.al.|[2307.13055](http://arxiv.org/abs/2307.13055)|null|
+|**2023-07-24**|**Graph Neural Networks For Mapping Variables Between Programs -- Extended Version**|Pedro Orvalho et.al.|[2307.13014](http://arxiv.org/abs/2307.13014)|**[link](https://github.com/pmorvalho/ecai23-gnns-for-mapping-variables-between-programs)**|
 |**2023-07-24**|**Comprehending Semantic Types in JSON Data with Graph Neural Networks**|Shuang Wei et.al.|[2307.12807](http://arxiv.org/abs/2307.12807)|null|
 |**2023-07-24**|**Compact & Capable: Harnessing Graph Neural Networks and Edge Convolution for Medical Image Classification**|Aryan Singh et.al.|[2307.12790](http://arxiv.org/abs/2307.12790)|**[link](https://github.com/anonrepo-keeper/gcnn-ec)**|
 |**2023-07-24**|**HiHGNN: Accelerating HGNNs through Parallelism and Data Reusability Exploitation**|Runzhen Xue et.al.|[2307.12765](http://arxiv.org/abs/2307.12765)|null|
@@ -1952,6 +1964,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-25**|**Decisive Data using Multi-Modality Optical Sensors for Advanced Vehicular Systems**|Muhammad Ali Farooq et.al.|[2307.13600](http://arxiv.org/abs/2307.13600)|null|
 |**2023-07-24**|**Revisiting Event-based Video Frame Interpolation**|Jiaben Chen et.al.|[2307.12558](http://arxiv.org/abs/2307.12558)|null|
 |**2023-07-21**|**EV-Planner: Energy-Efficient Robot Navigation via Event-Based Physics-Guided Neuromorphic Planner**|Sourav Sanyal et.al.|[2307.11349](http://arxiv.org/abs/2307.11349)|null|
 |**2023-07-17**|**Video Frame Interpolation with Stereo Event and Intensity Camera**|Chao Ding et.al.|[2307.08228](http://arxiv.org/abs/2307.08228)|null|
@@ -1977,6 +1990,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-25**|**Do algorithms and barriers for sparse principal component analysis extend to other structured settings?**|Guanyi Wang et.al.|[2307.13535](http://arxiv.org/abs/2307.13535)|null|
+|**2023-07-25**|**High performance artificial visual system with plasmon-enhanced 2D material neural network**|Tian Zhang et.al.|[2307.13432](http://arxiv.org/abs/2307.13432)|null|
+|**2023-07-25**|**Autonomous neural information processing by a dynamical memristor circuit**|Dániel Molnár et.al.|[2307.13320](http://arxiv.org/abs/2307.13320)|null|
+|**2023-07-24**|**Sparse-firing regularization methods for spiking neural networks with time-to-first spike coding**|Yusuke Sakemi et.al.|[2307.13007](http://arxiv.org/abs/2307.13007)|null|
 |**2023-07-24**|**Consistent model selection in the spiked Wigner model via AIC-type criteria**|Soumendu Sundar Mukherjee et.al.|[2307.12982](http://arxiv.org/abs/2307.12982)|null|
 |**2023-07-24**|**Automotive Object Detection via Learning Sparse Events by Temporal Dynamics of Spiking Neurons**|Hu Zhang et.al.|[2307.12900](http://arxiv.org/abs/2307.12900)|null|
 |**2023-07-24**|**Optimality of Glauber dynamics for general-purpose Ising model sampling and free energy approximation**|Dmitriy Kunisky et.al.|[2307.12581](http://arxiv.org/abs/2307.12581)|null|
@@ -2074,6 +2091,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-25**|**Wasserstein contraction for the stochastic Morris-Lecar neuron model**|Maxime Herda et.al.|[2307.13362](http://arxiv.org/abs/2307.13362)|null|
 |**2023-07-21**|**Bio-realistic Neural Network Implementation on Loihi 2 with Izhikevich Neurons**|Recep Buğra Uludağ et.al.|[2307.11844](http://arxiv.org/abs/2307.11844)|null|
 |**2023-07-21**|**Neuromorphic Online Learning for Spatiotemporal Patterns with a Forward-only Timeline**|Zhenhang Zhang et.al.|[2307.11314](http://arxiv.org/abs/2307.11314)|null|
 |**2023-07-14**|**Long Short-term Memory with Two-Compartment Spiking Neuron**|Shimin Zhang et.al.|[2307.07231](http://arxiv.org/abs/2307.07231)|null|
