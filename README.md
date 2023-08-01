@@ -1,10 +1,10 @@
-## <a id=top></a>Updated on 2023.07.31
+## <a id=top></a>Updated on 2023.08.01
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.31
+## Updated on 2023.08.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1360,7 +1360,7 @@
 |**2023-07-24**|**Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields**|Shangzhan Zhang et.al.|[2307.12909](http://arxiv.org/abs/2307.12909)|null|
 |**2023-07-24**|**CarPatch: A Synthetic Benchmark for Radiance Field Evaluation on Vehicle Components**|Davide Di Nucci et.al.|[2307.12718](http://arxiv.org/abs/2307.12718)|null|
 |**2023-07-23**|**TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering**|Xiao Pan et.al.|[2307.12291](http://arxiv.org/abs/2307.12291)|null|
-|**2023-07-21**|**CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields**|Ziyuan Luo et.al.|[2307.11526](http://arxiv.org/abs/2307.11526)|null|
+|**2023-07-29**|**CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields**|Ziyuan Luo et.al.|[2307.11526](http://arxiv.org/abs/2307.11526)|null|
 |**2023-07-21**|**FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields**|Sungwon Hwang et.al.|[2307.11418](http://arxiv.org/abs/2307.11418)|null|
 |**2023-07-21**|**Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields**|Wenbo Hu et.al.|[2307.11335](http://arxiv.org/abs/2307.11335)|null|
 |**2023-07-20**|**Urban Radiance Field Representation with Deformable Neural Mesh Primitives**|Fan Lu et.al.|[2307.10776](http://arxiv.org/abs/2307.10776)|null|
@@ -2121,7 +2121,7 @@
 |---|---|---|---|---|
 |**2023-07-25**|**Implementing and Benchmarking the Locally Competitive Algorithm on the Loihi 2 Neuromorphic Processor**|Gavin Parpart et.al.|[2307.13762](http://arxiv.org/abs/2307.13762)|null|
 |**2023-07-25**|**Wasserstein contraction for the stochastic Morris-Lecar neuron model**|Maxime Herda et.al.|[2307.13362](http://arxiv.org/abs/2307.13362)|null|
-|**2023-07-21**|**Bio-realistic Neural Network Implementation on Loihi 2 with Izhikevich Neurons**|Recep Buğra Uludağ et.al.|[2307.11844](http://arxiv.org/abs/2307.11844)|null|
+|**2023-07-28**|**Bio-realistic Neural Network Implementation on Loihi 2 with Izhikevich Neurons**|Recep Buğra Uludağ et.al.|[2307.11844](http://arxiv.org/abs/2307.11844)|null|
 |**2023-07-21**|**Neuromorphic Online Learning for Spatiotemporal Patterns with a Forward-only Timeline**|Zhenhang Zhang et.al.|[2307.11314](http://arxiv.org/abs/2307.11314)|null|
 |**2023-07-14**|**Long Short-term Memory with Two-Compartment Spiking Neuron**|Shimin Zhang et.al.|[2307.07231](http://arxiv.org/abs/2307.07231)|null|
 |**2023-07-08**|**A Survey of Spiking Neural Network Accelerator on FPGA**|Murat Isik et.al.|[2307.03910](http://arxiv.org/abs/2307.03910)|null|
