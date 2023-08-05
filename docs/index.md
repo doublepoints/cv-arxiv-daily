@@ -1,4 +1,4 @@
-## <a id=top></a>Updated on 2023.08.04
+## <a id=top></a>Updated on 2023.08.05
 ---
 layout: default
 ---
@@ -8,7 +8,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.04
+## Updated on 2023.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## <a id=slam>SLAM</a>
@@ -1771,7 +1771,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-03**|**Evaluating Link Prediction Explanations for Graph Neural Networks**|Claudio Borile et.al.|[2308.01682](http://arxiv.org/abs/2308.01682)|null|
+|**2023-08-03**|**Evaluating Link Prediction Explanations for Graph Neural Networks**|Claudio Borile et.al.|[2308.01682](http://arxiv.org/abs/2308.01682)|**[link](https://github.com/cborile/eval_lp_xai)**|
 |**2023-08-03**|**UniG-Encoder: A Universal Feature Encoder for Graph and Hypergraph Node Classification**|Minhao Zou et.al.|[2308.01650](http://arxiv.org/abs/2308.01650)|**[link](https://github.com/minhzou/unig-encoder)**|
 |**2023-08-03**|**Unsupervised Multiplex Graph Learning with Complementary and Consistent Information**|Liang Peng et.al.|[2308.01606](http://arxiv.org/abs/2308.01606)|**[link](https://github.com/larryuestc/cocomg)**|
 |**2023-08-03**|**Deep Learning-based surrogate models for parametrized PDEs: handling geometric variability through graph neural networks**|Nicola Rares Franco et.al.|[2308.01602](http://arxiv.org/abs/2308.01602)|null|
