@@ -556,6 +556,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**AspectMMKG: A Multi-modal Knowledge Graph with Aspect-aware Entities**|Jingdan Zhang et.al.|[2308.04992](http://arxiv.org/abs/2308.04992)|**[link](https://github.com/thezjd/aspectmmkg)**|
 |**2023-08-08**|**Unifying Two-Stream Encoders with Transformers for Cross-Modal Retrieval**|Yi Bin et.al.|[2308.04343](http://arxiv.org/abs/2308.04343)|**[link](https://github.com/luminosityx/hat)**|
 |**2023-08-08**|**Coarse-to-Fine: Learning Compact Discriminative Representation for Single-Stage Image Retrieval**|Yunquan Zhu et.al.|[2308.04008](http://arxiv.org/abs/2308.04008)|**[link](https://github.com/bassyess/cfcd)**|
 |**2023-08-05**|**A Comprehensive Analysis of Real-World Image Captioning and Scene Identification**|Sai Suprabhanu Nallapaneni et.al.|[2308.02833](http://arxiv.org/abs/2308.02833)|null|
@@ -1366,6 +1367,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields**|Muyu Xu et.al.|[2308.04826](http://arxiv.org/abs/2308.04826)|null|
+|**2023-08-09**|**A General Implicit Framework for Fast NeRF Composition and Rendering**|Xinyu Gao et.al.|[2308.04669](http://arxiv.org/abs/2308.04669)|null|
 |**2023-08-08**|**Digging into Depth Priors for Outdoor Neural Radiance Fields**|Chen Wang et.al.|[2308.04413](http://arxiv.org/abs/2308.04413)|null|
 |**2023-08-07**|**Mirror-NeRF: Learning Neural Radiance Fields for Mirrors with Whitted-Style Ray Tracing**|Junyi Zeng et.al.|[2308.03280](http://arxiv.org/abs/2308.03280)|null|
 |**2023-08-05**|**Where and How: Mitigating Confusion in Neural Radiance Fields from Sparse Inputs**|Yanqi Bao et.al.|[2308.02908](http://arxiv.org/abs/2308.02908)|**[link](https://github.com/bbbbby-99/wah-nerf)**|
@@ -1805,6 +1808,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**Geometric Learning-Based Transformer Network for Estimation of Segmentation Errors**|Sneha Sree C et.al.|[2308.05068](http://arxiv.org/abs/2308.05068)|null|
+|**2023-08-09**|**Kairos: : Practical Intrusion Detection and Investigation using Whole-system Provenance**|Zijun Cheng et.al.|[2308.05034](http://arxiv.org/abs/2308.05034)|**[link](https://github.com/provenanceanalytics/kairos)**|
+|**2023-08-09**|**Differentially Private Graph Neural Network with Importance-Grained Noise Adaption**|Yuxin Qi et.al.|[2308.04943](http://arxiv.org/abs/2308.04943)|null|
+|**2023-08-09**|**GraphCC: A Practical Graph Learning-based Approach to Congestion Control in Datacenters**|Guillermo Bernárdez et.al.|[2308.04905](http://arxiv.org/abs/2308.04905)|null|
 |**2023-08-08**|**Semantic Interpretation and Validation of Graph Attention-based Explanations for GNN Models**|Efimia Panagiotaki et.al.|[2308.04220](http://arxiv.org/abs/2308.04220)|null|
 |**2023-08-08**|**Predicting Drug-Drug Interactions Using Knowledge Graphs**|Lizzy Farrugia et.al.|[2308.04172](http://arxiv.org/abs/2308.04172)|null|
 |**2023-08-08**|**Class-level Structural Relation Modelling and Smoothing for Visual Representation Learning**|Zitan Chen et.al.|[2308.04142](http://arxiv.org/abs/2308.04142)|**[link](https://github.com/czt117/csrms)**|
@@ -2083,6 +2090,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**Comparative analysis of mathematical formulations for the two-dimensional guillotine cutting problem**|Henrique Becker et.al.|[2308.04965](http://arxiv.org/abs/2308.04965)|null|
+|**2023-08-09**|**Bayes Risk Consistency of Nonparametric Classification Rules for Spike Trains Data**|Mirosław Pawlak et.al.|[2308.04796](http://arxiv.org/abs/2308.04796)|null|
+|**2023-08-09**|**Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks**|Bing Han et.al.|[2308.04749](http://arxiv.org/abs/2308.04749)|null|
+|**2023-08-09**|**Resource Constrained Model Compression via Minimax Optimization for Spiking Neural Networks**|Jue Chen et.al.|[2308.04672](http://arxiv.org/abs/2308.04672)|**[link](https://github.com/chenjallen/resource-constrained-compression-on-snn)**|
 |**2023-08-08**|**SSTFormer: Bridging Spiking Neural Network and Memory Support Transformer for Frame-Event based Recognition**|Xiao Wang et.al.|[2308.04369](http://arxiv.org/abs/2308.04369)|**[link](https://github.com/event-ahu/sstformer)**|
 |**2023-08-08**|**Spectrally-Corrected and Regularized Global Minimum Variance Portfolio for Spiked Model**|Hua Li et.al.|[2308.04246](http://arxiv.org/abs/2308.04246)|null|
 |**2023-08-08**|**Core interface optimization for multi-core neuromorphic processors**|Zhe Su et.al.|[2308.04171](http://arxiv.org/abs/2308.04171)|null|
