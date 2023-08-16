@@ -1054,6 +1054,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**CoDeF: Content Deformation Fields for Temporally Consistent Video Processing**|Hao Ouyang et.al.|[2308.07926](http://arxiv.org/abs/2308.07926)|**[link](https://github.com/qiuyu96/codef)**|
+|**2023-08-15**|**ChartDETR: A Multi-shape Detection Network for Visual Chart Recognition**|Wenyuan Xue et.al.|[2308.07743](http://arxiv.org/abs/2308.07743)|null|
 |**2023-08-14**|**DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport**|Sk Aziz Ali et.al.|[2308.07153](http://arxiv.org/abs/2308.07153)|null|
 |**2023-08-14**|**2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds**|Minhao Li et.al.|[2308.05667](http://arxiv.org/abs/2308.05667)|null|
 |**2023-08-02**|**Automated Hit-frame Detection for Badminton Match Analysis**|Yu-Hang Chien et.al.|[2307.16000](http://arxiv.org/abs/2307.16000)|**[link](https://github.com/arthur900530/Transformer-on-Shuttlecock-Flying-Direction-Prediction-for-Hit-frame-Detection)**|
@@ -1821,6 +1823,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations**|Lekang Jiang et.al.|[2308.07883](http://arxiv.org/abs/2308.07883)|**[link](https://github.com/scylj1/gnn_edge_regression)**|
+|**2023-08-15**|**Simple and Efficient Partial Graph Adversarial Attack: A New Perspective**|Guanghui Zhu et.al.|[2308.07834](http://arxiv.org/abs/2308.07834)|**[link](https://github.com/pasalab/pga)**|
+|**2023-08-15**|**A Graph Encoder-Decoder Network for Unsupervised Anomaly Detection**|Mahsa Mesgaran et.al.|[2308.07774](http://arxiv.org/abs/2308.07774)|null|
+|**2023-08-15**|**Self-Supervised Dynamic Hypergraph Recommendation based on Hyper-Relational Knowledge Graph**|Yi Liu et.al.|[2308.07752](http://arxiv.org/abs/2308.07752)|null|
+|**2023-08-15**|**Ske2Grid: Skeleton-to-Grid Representation Learning for Action Recognition**|Dongqi Cai et.al.|[2308.07571](http://arxiv.org/abs/2308.07571)|**[link](https://github.com/osvai/ske2grid)**|
+|**2023-08-14**|**ST-MLP: A Cascaded Spatio-Temporal Linear Framework with Channel-Independence Strategy for Traffic Forecasting**|Zepu Wang et.al.|[2308.07496](http://arxiv.org/abs/2308.07496)|null|
+|**2023-08-14**|**Interaction-Aware Personalized Vehicle Trajectory Prediction Using Temporal Graph Neural Networks**|Amr Abdelraouf et.al.|[2308.07439](http://arxiv.org/abs/2308.07439)|null|
+|**2023-08-14**|**Conformal Predictions Enhanced Expert-guided Meshing with Graph Neural Networks**|Amin Heyrani Nobari et.al.|[2308.07358](http://arxiv.org/abs/2308.07358)|**[link](https://github.com/ahnobari/autosurf)**|
 |**2023-08-14**|**Search to Fine-tune Pre-trained Graph Neural Networks for Graph-level Tasks**|Zhili Wang et.al.|[2308.06960](http://arxiv.org/abs/2308.06960)|null|
 |**2023-08-13**|**Generalizing Topological Graph Neural Networks with Paths**|Quang Truong et.al.|[2308.06838](http://arxiv.org/abs/2308.06838)|null|
 |**2023-08-15**|**SAILOR: Structural Augmentation Based Tail Node Representation Learning**|Jie Liao et.al.|[2308.06801](http://arxiv.org/abs/2308.06801)|**[link](https://github.com/jie-re/sailor)**|
@@ -2084,6 +2094,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**Neuromorphic Seatbelt State Detection for In-Cabin Monitoring with Event Cameras**|Paul Kielty et.al.|[2308.07802](http://arxiv.org/abs/2308.07802)|null|
 |**2023-08-11**|**Person Re-Identification without Identification via Event Anonymization**|Shafiq Ahmad et.al.|[2308.04402](http://arxiv.org/abs/2308.04402)|**[link](https://github.com/IIT-PAVIS/ReId_without_Id)**|
 |**2023-08-08**|**SSTFormer: Bridging Spiking Neural Network and Memory Support Transformer for Frame-Event based Recognition**|Xiao Wang et.al.|[2308.04369](http://arxiv.org/abs/2308.04369)|**[link](https://github.com/event-ahu/sstformer)**|
 |**2023-08-06**|**E-CLIP: Towards Label-efficient Event-based Open-world Understanding by CLIP**|Jiazhou Zhou et.al.|[2308.03135](http://arxiv.org/abs/2308.03135)|null|
@@ -2247,6 +2258,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-14**|**N-Body Oscillator Interactions of Higher-Order Coupling Functions**|Youngmin Park et.al.|[2308.07425](http://arxiv.org/abs/2308.07425)|null|
 |**2023-07-25**|**Implementing and Benchmarking the Locally Competitive Algorithm on the Loihi 2 Neuromorphic Processor**|Gavin Parpart et.al.|[2307.13762](http://arxiv.org/abs/2307.13762)|null|
 |**2023-07-25**|**Wasserstein contraction for the stochastic Morris-Lecar neuron model**|Maxime Herda et.al.|[2307.13362](http://arxiv.org/abs/2307.13362)|null|
 |**2023-07-28**|**Bio-realistic Neural Network Implementation on Loihi 2 with Izhikevich Neurons**|Recep Buğra Uludağ et.al.|[2307.11844](http://arxiv.org/abs/2307.11844)|null|
