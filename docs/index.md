@@ -544,6 +544,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-18**|**3D Model-free Visual localization System from Essential Matrix under Local Planar Motion**|Yanmei Jiao et.al.|[2308.09566](http://arxiv.org/abs/2308.09566)|null|
+|**2023-08-17**|**FashionLOGO: Prompting Multimodal Large Language Models for Fashion Logo Embeddings**|Yulin Su et.al.|[2308.09012](http://arxiv.org/abs/2308.09012)|**[link](https://github.com/valley-vl/fashionlogo)**|
 |**2023-08-16**|**Integrating Visual and Semantic Similarity Using Hierarchies for Image Retrieval**|Aishwarya Venkataramanan et.al.|[2308.08431](http://arxiv.org/abs/2308.08431)|**[link](https://github.com/vaishwarya96/hierarchy-image-retrieval)**|
 |**2023-08-16**|**Ranking-aware Uncertainty for Text-guided Image Retrieval**|Junyang Chen et.al.|[2308.08131](http://arxiv.org/abs/2308.08131)|null|
 |**2023-08-14**|**Global Features are All You Need for Image Retrieval and Reranking**|Shihao Shao et.al.|[2308.06954](http://arxiv.org/abs/2308.06954)|**[link](https://github.com/shihaoshao-gh/superglobal)**|
@@ -1360,6 +1362,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-18**|**MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection**|Junkai Xu et.al.|[2308.09421](http://arxiv.org/abs/2308.09421)|**[link](https://github.com/cskkxjk/mononerd)**|
+|**2023-08-18**|**DReg-NeRF: Deep Registration for Neural Radiance Fields**|Yu Chen et.al.|[2308.09386](http://arxiv.org/abs/2308.09386)|**[link](https://github.com/aibluefisher/dreg-nerf)**|
+|**2023-08-17**|**Watch Your Steps: Local Image and Scene Editing by Text Instructions**|Ashkan Mirzaei et.al.|[2308.08947](http://arxiv.org/abs/2308.08947)|null|
 |**2023-08-17**|**Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstructio**|Georgios Kouros et.al.|[2308.08530](http://arxiv.org/abs/2308.08530)|**[link](https://github.com/gkouros/ref-dvgo)**|
 |**2023-08-16**|**SceNeRFlow: Time-Consistent Reconstruction of General Dynamic Scenes**|Edith Tretschk et.al.|[2308.08258](http://arxiv.org/abs/2308.08258)|null|
 |**2023-08-16**|**Neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases**|Eugen Šlapak et.al.|[2308.07118](http://arxiv.org/abs/2308.07118)|**[link](https://github.com/maftej/iisnerf)**|
@@ -1805,6 +1810,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-18**|**A Potts model approach to unsupervised graph clustering with Graph Neural Networks**|Co Tran et.al.|[2308.09644](http://arxiv.org/abs/2308.09644)|null|
+|**2023-08-18**|**Disparity, Inequality, and Accuracy Tradeoffs in Graph Neural Networks for Node Classification**|Arpit Merchant et.al.|[2308.09596](http://arxiv.org/abs/2308.09596)|null|
+|**2023-08-18**|**Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity**|Van Thuy Hoang et.al.|[2308.09517](http://arxiv.org/abs/2308.09517)|**[link](https://github.com/nslab-cuk/unified-graph-transformer)**|
+|**2023-08-18**|**Bridged-GNN: Knowledge Bridge Learning for Effective Knowledge Transfer**|Wendong Bi et.al.|[2308.09499](http://arxiv.org/abs/2308.09499)|null|
+|**2023-08-18**|**Boosting Few-shot Action Recognition with Graph-guided Hybrid Matching**|Jiazheng Xing et.al.|[2308.09346](http://arxiv.org/abs/2308.09346)|**[link](https://github.com/jiazheng-xing/gghm)**|
+|**2023-08-18**|**Distribution shift mitigation at test time with performance guarantees**|Rui Ding et.al.|[2308.09259](http://arxiv.org/abs/2308.09259)|null|
+|**2023-08-17**|**Fast Decision Support for Air Traffic Management at Urban Air Mobility Vertiports using Graph Learning**|Prajit KrisshnaKumar et.al.|[2308.09075](http://arxiv.org/abs/2308.09075)|null|
+|**2023-08-17**|**Interpretable Graph Neural Networks for Tabular Data**|Amr Alkhatib et.al.|[2308.08945](http://arxiv.org/abs/2308.08945)|null|
+|**2023-08-17**|**Mitigating Semantic Confusion from Hostile Neighborhood for Graph Active Learning**|Tianmeng Yang et.al.|[2308.08823](http://arxiv.org/abs/2308.08823)|null|
+|**2023-08-17**|**Graph Neural Network Backend for Speaker Recognition**|Liang He et.al.|[2308.08767](http://arxiv.org/abs/2308.08767)|null|
 |**2023-08-16**|**Graph Out-of-Distribution Generalization with Controllable Data Augmentation**|Bin Lu et.al.|[2308.08344](http://arxiv.org/abs/2308.08344)|null|
 |**2023-08-16**|**The Expressive Power of Graph Neural Networks: A Survey**|Bingxu Zhang et.al.|[2308.08235](http://arxiv.org/abs/2308.08235)|null|
 |**2023-08-16**|**DeSCo: Towards Generalizable and Scalable Deep Subgraph Counting**|Tianyu Fu et.al.|[2308.08198](http://arxiv.org/abs/2308.08198)|null|
@@ -2113,6 +2128,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-18**|**Existence and Stability of a Boundary Layer with an Interior Spike in the Singularly Perturbed Shadow Gierer-Meinhardt System**|Daniel Gomez et.al.|[2308.09620](http://arxiv.org/abs/2308.09620)|null|
+|**2023-08-18**|**Three-dimensional simulation of thermodynamics on confined turbulence in a large-scale CME-flare current sheet**|Jing Ye et.al.|[2308.09496](http://arxiv.org/abs/2308.09496)|null|
+|**2023-08-18**|**Artificial-Spiking Hierarchical Networks for Vision-Language Representation Learning**|Yeming Chen et.al.|[2308.09455](http://arxiv.org/abs/2308.09455)|null|
+|**2023-08-18**|**Minimaxity under half-Cauchy type priors**|Yuzo Maruyama et.al.|[2308.09339](http://arxiv.org/abs/2308.09339)|null|
+|**2023-08-18**|**On a numerical artifact of solving shallow water equations with a discontinuous bottom: Analysis and a nontransonic fix**|Zheng Sun et.al.|[2308.09265](http://arxiv.org/abs/2308.09265)|null|
+|**2023-08-17**|**A comprehensive study of spike and slab shrinkage priors for structurally sparse Bayesian neural networks**|Sanket Jantre et.al.|[2308.09104](http://arxiv.org/abs/2308.09104)|null|
+|**2023-08-17**|**Pattern recognition using spiking antiferromagnetic neurons**|Hannah Bradley et.al.|[2308.09071](http://arxiv.org/abs/2308.09071)|null|
+|**2023-08-17**|**Development of an interface for digital neuromorphic hardware based on an FPGA**|René Harmann et.al.|[2308.09049](http://arxiv.org/abs/2308.09049)|null|
+|**2023-08-17**|**JWST observations of the Ring Nebula (NGC 6720): I. Imaging of the rings, globules, and arcs**|R. Wesson et.al.|[2308.09027](http://arxiv.org/abs/2308.09027)|null|
+|**2023-08-16**|**Towards Zero Memory Footprint Spiking Neural Network Training**|Bin Lei et.al.|[2308.08649](http://arxiv.org/abs/2308.08649)|null|
 |**2023-08-16**|**Membrane Potential Batch Normalization for Spiking Neural Networks**|Yufei Guo et.al.|[2308.08359](http://arxiv.org/abs/2308.08359)|**[link](https://github.com/yfguo91/mpbn)**|
 |**2023-08-16**|**Inherent Redundancy in Spiking Neural Networks**|Man Yao et.al.|[2308.08227](http://arxiv.org/abs/2308.08227)|**[link](https://github.com/biclab/asa-snn)**|
 |**2023-08-17**|**HyperSNN: A new efficient and robust deep learning model for resource constrained control applications**|Zhanglu Yan et.al.|[2308.08222](http://arxiv.org/abs/2308.08222)|null|
@@ -2246,6 +2271,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-18**|**Coherence resonance for time-averaged measures**|Go Uchida et.al.|[2308.09342](http://arxiv.org/abs/2308.09342)|null|
 |**2023-08-14**|**N-Body Oscillator Interactions of Higher-Order Coupling Functions**|Youngmin Park et.al.|[2308.07425](http://arxiv.org/abs/2308.07425)|null|
 |**2023-07-25**|**Implementing and Benchmarking the Locally Competitive Algorithm on the Loihi 2 Neuromorphic Processor**|Gavin Parpart et.al.|[2307.13762](http://arxiv.org/abs/2307.13762)|null|
 |**2023-07-25**|**Wasserstein contraction for the stochastic Morris-Lecar neuron model**|Maxime Herda et.al.|[2307.13362](http://arxiv.org/abs/2307.13362)|null|
