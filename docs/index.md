@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-19**|**Enhancing State Estimation in Robots: A Data-Driven Approach with Differentiable Ensemble Kalman Filters**|Xiao Liu et.al.|[2308.09870](http://arxiv.org/abs/2308.09870)|null|
 |**2023-08-12**|**4DRVO-Net: Deep 4D Radar-Visual Odometry Using Multi-Modal and Multi-Scale Adaptive Fusion**|Guirong Zhuo et.al.|[2308.06573](http://arxiv.org/abs/2308.06573)|null|
 |**2023-08-10**|**Mono-hydra: Real-time 3D scene graph construction from monocular camera input with IMU**|U. V. B. L. Udugama et.al.|[2308.05515](http://arxiv.org/abs/2308.05515)|null|
 |**2023-08-02**|**A Small Form Factor Aerial Research Vehicle for Pick-and-Place Tasks with Onboard Real-Time Object Detection and Visual Odometry**|Cora A. Dimmig et.al.|[2308.01398](http://arxiv.org/abs/2308.01398)|null|
@@ -422,6 +423,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**CamP: Camera Preconditioning for Neural Radiance Fields**|Keunhong Park et.al.|[2308.10902](http://arxiv.org/abs/2308.10902)|null|
+|**2023-08-18**|**Unsupervised 3D Pose Estimation with Non-Rigid Structure-from-Motion Modeling**|Haorui Ji et.al.|[2308.10705](http://arxiv.org/abs/2308.10705)|null|
 |**2023-08-14**|**Large-scale environment mapping and immersive human-robot interaction for agricultural mobile robot teleoperation**|Tao Liu et.al.|[2308.07231](http://arxiv.org/abs/2308.07231)|**[link](https://github.com/liutao1126/enhance-sfm)**|
 |**2023-08-11**|**Efficient Large-scale AUV-based Visual Seafloor Mapping**|Mengkun She et.al.|[2308.06147](http://arxiv.org/abs/2308.06147)|null|
 |**2023-08-04**|**EDI: ESKF-based Disjoint Initialization for Visual-Inertial SLAM Systems**|Weihan Wang et.al.|[2308.02670](http://arxiv.org/abs/2308.02670)|null|
@@ -544,6 +547,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition**|Gabriele Berton et.al.|[2308.10832](http://arxiv.org/abs/2308.10832)|**[link](https://github.com/gmberton/eigenplaces)**|
+|**2023-08-20**|**FashionNTM: Multi-turn Fashion Image Retrieval via Cascaded Memory**|Anwesan Pal et.al.|[2308.10170](http://arxiv.org/abs/2308.10170)|null|
 |**2023-08-18**|**3D Model-free Visual localization System from Essential Matrix under Local Planar Motion**|Yanmei Jiao et.al.|[2308.09566](http://arxiv.org/abs/2308.09566)|null|
 |**2023-08-17**|**FashionLOGO: Prompting Multimodal Large Language Models for Fashion Logo Embeddings**|Yulin Su et.al.|[2308.09012](http://arxiv.org/abs/2308.09012)|**[link](https://github.com/valley-vl/fashionlogo)**|
 |**2023-08-16**|**Integrating Visual and Semantic Similarity Using Hierarchies for Image Retrieval**|Aishwarya Venkataramanan et.al.|[2308.08431](http://arxiv.org/abs/2308.08431)|**[link](https://github.com/vaishwarya96/hierarchy-image-retrieval)**|
@@ -1040,6 +1045,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-20**|**Neural Interactive Keypoint Detection**|Jie Yang et.al.|[2308.10174](http://arxiv.org/abs/2308.10174)|null|
+|**2023-08-19**|**ClothesNet: An Information-Rich 3D Garment Model Repository with Simulated Clothes Environment**|Bingyang Zhou et.al.|[2308.09987](http://arxiv.org/abs/2308.09987)|null|
 |**2023-08-16**|**DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**|Johan Edstedt et.al.|[2308.08479](http://arxiv.org/abs/2308.08479)|**[link](https://github.com/parskatt/dedode)**|
 |**2023-08-15**|**CoDeF: Content Deformation Fields for Temporally Consistent Video Processing**|Hao Ouyang et.al.|[2308.07926](http://arxiv.org/abs/2308.07926)|**[link](https://github.com/qiuyu96/codef)**|
 |**2023-08-15**|**ChartDETR: A Multi-shape Detection Network for Visual Chart Recognition**|Wenyuan Xue et.al.|[2308.07743](http://arxiv.org/abs/2308.07743)|null|
@@ -1199,7 +1206,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-19**|**Scene-Aware Feature Matching**|Xiaoyong Lu et.al.|[2308.09949](http://arxiv.org/abs/2308.09949)|null|
 |**2023-08-16**|**DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**|Johan Edstedt et.al.|[2308.08479](http://arxiv.org/abs/2308.08479)|**[link](https://github.com/parskatt/dedode)**|
+|**2023-08-19**|**Global Features are All You Need for Image Retrieval and Reranking**|Shihao Shao et.al.|[2308.06954](http://arxiv.org/abs/2308.06954)|**[link](https://github.com/shihaoshao-gh/superglobal)**|
 |**2023-08-02**|**ZRIGF: An Innovative Multimodal Framework for Zero-Resource Image-Grounded Dialogue Generation**|Bo Zhang et.al.|[2308.00400](http://arxiv.org/abs/2308.00400)|**[link](https://github.com/zhangbo-nlp/zrigf)**|
 |**2023-07-28**|**Cross-Modal Concept Learning and Inference for Vision-Language Models**|Yi Zhang et.al.|[2307.15460](http://arxiv.org/abs/2307.15460)|null|
 |**2023-07-22**|**CryptoMask : Privacy-preserving Face Recognition**|Jianli Bai et.al.|[2307.12010](http://arxiv.org/abs/2307.12010)|null|
@@ -1362,6 +1371,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**CamP: Camera Preconditioning for Neural Radiance Fields**|Keunhong Park et.al.|[2308.10902](http://arxiv.org/abs/2308.10902)|null|
+|**2023-08-20**|**Strata-NeRF : Neural Radiance Fields for Stratified Scenes**|Ankit Dhiman et.al.|[2308.10337](http://arxiv.org/abs/2308.10337)|null|
+|**2023-08-19**|**HollowNeRF: Pruning Hashgrid-Based NeRFs with Trainable Collision Mitigation**|Xiufeng Xie et.al.|[2308.10122](http://arxiv.org/abs/2308.10122)|null|
+|**2023-08-19**|**AltNeRF: Learning Robust Neural Radiance Field via Alternating Depth-Pose Optimization**|Kun Wang et.al.|[2308.10001](http://arxiv.org/abs/2308.10001)|null|
+|**2023-08-19**|**Semantic-Human: Neural Rendering of Humans from Monocular Video with Human Parsing**|Jie Zhang et.al.|[2308.09894](http://arxiv.org/abs/2308.09894)|null|
 |**2023-08-18**|**MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection**|Junkai Xu et.al.|[2308.09421](http://arxiv.org/abs/2308.09421)|**[link](https://github.com/cskkxjk/mononerd)**|
 |**2023-08-18**|**DReg-NeRF: Deep Registration for Neural Radiance Fields**|Yu Chen et.al.|[2308.09386](http://arxiv.org/abs/2308.09386)|**[link](https://github.com/aibluefisher/dreg-nerf)**|
 |**2023-08-17**|**Watch Your Steps: Local Image and Scene Editing by Text Instructions**|Ashkan Mirzaei et.al.|[2308.08947](http://arxiv.org/abs/2308.08947)|null|
@@ -1810,6 +1824,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**Enhancing Recommender Systems with Large Language Model Reasoning Graphs**|Yan Wang et.al.|[2308.10835](http://arxiv.org/abs/2308.10835)|null|
+|**2023-08-21**|**Graph Neural Bandits**|Yunzhe Qi et.al.|[2308.10808](http://arxiv.org/abs/2308.10808)|null|
+|**2023-08-21**|**Spear and Shield: Adversarial Attacks and Defense Methods for Model-Based Link Prediction on Continuous-Time Dynamic Graphs**|Dongjin Lee et.al.|[2308.10779](http://arxiv.org/abs/2308.10779)|null|
+|**2023-08-21**|**A Topology-aware Analysis of Graph Collaborative Filtering**|Daniele Malitesta et.al.|[2308.10778](http://arxiv.org/abs/2308.10778)|**[link](https://github.com/sisinflab/graph-characteristics)**|
+|**2023-08-21**|**UGSL: A Unified Framework for Benchmarking Graph Structure Learning**|Bahare Fatemi et.al.|[2308.10737](http://arxiv.org/abs/2308.10737)|**[link](https://github.com/google-research/google-research)**|
+|**2023-08-21**|**ST-RAP: A Spatio-Temporal Framework for Real Estate Appraisal**|Hojoon Lee et.al.|[2308.10609](http://arxiv.org/abs/2308.10609)|**[link](https://github.com/dojeon-ai/strap)**|
+|**2023-08-21**|**Approximately Equivariant Graph Networks**|Ningyuan Huang et.al.|[2308.10436](http://arxiv.org/abs/2308.10436)|**[link](https://github.com/nhuang37/approx_equivariant_graph_nets)**|
+|**2023-08-20**|**Preserving Specificity in Federated Graph Learning for fMRI-based Neurological Disorder Identification**|Junhao Zhang et.al.|[2308.10302](http://arxiv.org/abs/2308.10302)|null|
+|**2023-08-20**|**Minimalist Traffic Prediction: Linear Layer Is All You Need**|Wenying Duan et.al.|[2308.10276](http://arxiv.org/abs/2308.10276)|null|
+|**2023-08-19**|**Geometric instability of graph neural networks on large graphs**|Emily Morris et.al.|[2308.10099](http://arxiv.org/abs/2308.10099)|**[link](https://github.com/brs96/geometric-instability-gnn-large-graphs)**|
 |**2023-08-18**|**A Potts model approach to unsupervised graph clustering with Graph Neural Networks**|Co Tran et.al.|[2308.09644](http://arxiv.org/abs/2308.09644)|null|
 |**2023-08-18**|**Disparity, Inequality, and Accuracy Tradeoffs in Graph Neural Networks for Node Classification**|Arpit Merchant et.al.|[2308.09596](http://arxiv.org/abs/2308.09596)|**[link](https://github.com/arpitdm/gnn_accuracy_fairness_tradeoff)**|
 |**2023-08-18**|**Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity**|Van Thuy Hoang et.al.|[2308.09517](http://arxiv.org/abs/2308.09517)|**[link](https://github.com/nslab-cuk/unified-graph-transformer)**|
@@ -2097,6 +2121,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-19**|**TTPOINT: A Tensorized Point Cloud Network for Lightweight Action Recognition with Event Cameras**|Hongwei Ren et.al.|[2308.09993](http://arxiv.org/abs/2308.09993)|null|
 |**2023-08-15**|**Neuromorphic Seatbelt State Detection for In-Cabin Monitoring with Event Cameras**|Paul Kielty et.al.|[2308.07802](http://arxiv.org/abs/2308.07802)|null|
 |**2023-08-17**|**Person Re-Identification without Identification via Event Anonymization**|Shafiq Ahmad et.al.|[2308.04402](http://arxiv.org/abs/2308.04402)|**[link](https://github.com/IIT-PAVIS/ReId_without_Id)**|
 |**2023-08-08**|**SSTFormer: Bridging Spiking Neural Network and Memory Support Transformer for Frame-Event based Recognition**|Xiao Wang et.al.|[2308.04369](http://arxiv.org/abs/2308.04369)|**[link](https://github.com/event-ahu/sstformer)**|
@@ -2128,6 +2153,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation**|Malyaban Bal et.al.|[2308.10873](http://arxiv.org/abs/2308.10873)|null|
+|**2023-08-20**|**HoSNN: Adversarially-Robust Homeostatic Spiking Neural Networks with Adaptive Firing Thresholds**|Hejia Geng et.al.|[2308.10373](http://arxiv.org/abs/2308.10373)|null|
+|**2023-08-20**|**Label-free assaying of testosterone and growth hormones in blood using surface-enhanced raman spectroscopy**|Annah M. Ondieki et.al.|[2308.10224](http://arxiv.org/abs/2308.10224)|null|
+|**2023-08-20**|**Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks**|Mingxuan Liu et.al.|[2308.10187](http://arxiv.org/abs/2308.10187)|**[link](https://github.com/Arktis2022/Spiking-Diffusion)**|
 |**2023-08-18**|**Existence and Stability of a Boundary Layer with an Interior Spike in the Singularly Perturbed Shadow Gierer-Meinhardt System**|Daniel Gomez et.al.|[2308.09620](http://arxiv.org/abs/2308.09620)|null|
 |**2023-08-18**|**Three-dimensional simulation of thermodynamics on confined turbulence in a large-scale CME-flare current sheet**|Jing Ye et.al.|[2308.09496](http://arxiv.org/abs/2308.09496)|null|
 |**2023-08-18**|**Artificial-Spiking Hierarchical Networks for Vision-Language Representation Learning**|Yeming Chen et.al.|[2308.09455](http://arxiv.org/abs/2308.09455)|null|
@@ -2271,6 +2300,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-20**|**HoSNN: Adversarially-Robust Homeostatic Spiking Neural Networks with Adaptive Firing Thresholds**|Hejia Geng et.al.|[2308.10373](http://arxiv.org/abs/2308.10373)|null|
 |**2023-08-18**|**Coherence resonance for time-averaged measures**|Go Uchida et.al.|[2308.09342](http://arxiv.org/abs/2308.09342)|null|
 |**2023-08-14**|**N-Body Oscillator Interactions of Higher-Order Coupling Functions**|Youngmin Park et.al.|[2308.07425](http://arxiv.org/abs/2308.07425)|null|
 |**2023-07-25**|**Implementing and Benchmarking the Locally Competitive Algorithm on the Loihi 2 Neuromorphic Processor**|Gavin Parpart et.al.|[2307.13762](http://arxiv.org/abs/2307.13762)|null|
