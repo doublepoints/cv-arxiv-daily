@@ -1,10 +1,10 @@
-## <a id=top></a>Updated on 2023.08.24
+## <a id=top></a>Updated on 2023.08.25
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.24
+## Updated on 2023.08.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1864,8 +1864,8 @@
 |**2023-08-23**|**Cached Operator Reordering: A Unified View for Fast GNN Training**|Julia Bazinska et.al.|[2308.12093](http://arxiv.org/abs/2308.12093)|null|
 |**2023-08-23**|**Will More Expressive Graph Neural Networks do Better on Generative Tasks?**|Xiandong Zou et.al.|[2308.11978](http://arxiv.org/abs/2308.11978)|null|
 |**2023-08-23**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
-|**2023-08-23**|**Learning Bottleneck Transformer for Event Image-Voxel Feature Fusion based Classification**|Chengguo Yuan et.al.|[2308.11937](http://arxiv.org/abs/2308.11937)|null|
-|**2023-08-23**|**Edge-aware Hard Clustering Graph Pooling for Brain Imaging Data**|Cheng Zhu et.al.|[2308.11909](http://arxiv.org/abs/2308.11909)|null|
+|**2023-08-23**|**Learning Bottleneck Transformer for Event Image-Voxel Feature Fusion based Classification**|Chengguo Yuan et.al.|[2308.11937](http://arxiv.org/abs/2308.11937)|**[link](https://github.com/event-ahu/efv_event_classification)**|
+|**2023-08-24**|**Edge-aware Hard Clustering Graph Pooling for Brain Imaging Data**|Cheng Zhu et.al.|[2308.11909](http://arxiv.org/abs/2308.11909)|null|
 |**2023-08-22**|**Accel-GCN: High-Performance GPU Accelerator Design for Graph Convolution Networks**|Xi Xie et.al.|[2308.11825](http://arxiv.org/abs/2308.11825)|**[link](https://github.com/xiexi1990/iccad-accel-gnn)**|
 |**2023-08-22**|**Multi-Instance Adversarial Attack on GNN-Based Malicious Domain Detection**|Mahmoud Nazzal et.al.|[2308.11754](http://arxiv.org/abs/2308.11754)|null|
 |**2023-08-22**|**PoseGraphNet++: Enriching 3D Human Pose with Orientation Estimation**|Soubarna Banik et.al.|[2308.11440](http://arxiv.org/abs/2308.11440)|null|
