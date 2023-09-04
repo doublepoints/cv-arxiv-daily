@@ -424,6 +424,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-01**|**SQLdepth: Generalizable Self-Supervised Fine-Structured Monocular Depth Estimation**|Youhong Wang et.al.|[2309.00526](http://arxiv.org/abs/2309.00526)|null|
+|**2023-09-01**|**Dense Voxel 3D Reconstruction Using a Monocular Event Camera**|Haodong Chen et.al.|[2309.00385](http://arxiv.org/abs/2309.00385)|null|
 |**2023-08-30**|**Learning Structure-from-Motion with Graph Attention Networks**|Lucas Brynte et.al.|[2308.15984](http://arxiv.org/abs/2308.15984)|null|
 |**2023-08-26**|**Disjoint Pose and Shape for 3D Face Reconstruction**|Raja Kumar et.al.|[2308.13903](http://arxiv.org/abs/2308.13903)|null|
 |**2023-08-30**|**CamP: Camera Preconditioning for Neural Radiance Fields**|Keunhong Park et.al.|[2308.10902](http://arxiv.org/abs/2308.10902)|null|
@@ -1060,6 +1062,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-01**|**Improving the matching of deformable objects by learning to detect keypoints**|Felipe Cadar et.al.|[2309.00434](http://arxiv.org/abs/2309.00434)|null|
 |**2023-08-31**|**SportsSloMo: A New Benchmark and Baselines for Human-centric Video Frame Interpolation**|Jiaben Chen et.al.|[2308.16876](http://arxiv.org/abs/2308.16876)|null|
 |**2023-08-30**|**Learning Structure-from-Motion with Graph Attention Networks**|Lucas Brynte et.al.|[2308.15984](http://arxiv.org/abs/2308.15984)|null|
 |**2023-08-29**|**A lightweight 3D dense facial landmark estimation model from position map data**|Shubhajit Basak et.al.|[2308.15170](http://arxiv.org/abs/2308.15170)|null|
@@ -1395,6 +1398,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-01**|**SparseSat-NeRF: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images**|Lulin Zhang et.al.|[2309.00277](http://arxiv.org/abs/2309.00277)|**[link](https://github.com/lulinzhang/sps-nerf)**|
+|**2023-08-24**|**Improving NeRF Quality by Progressive Camera Placement for Unrestricted Navigation in Complex Environments**|Georgios Kopanas et.al.|[2309.00014](http://arxiv.org/abs/2309.00014)|null|
 |**2023-08-31**|**GHuNeRF: Generalizable Human NeRF from a Monocular Video**|Chen Li et.al.|[2308.16576](http://arxiv.org/abs/2308.16576)|null|
 |**2023-08-30**|**From Pixels to Portraits: A Comprehensive Survey of Talking Head Generation Techniques and Applications**|Shreyank N Gowda et.al.|[2308.16041](http://arxiv.org/abs/2308.16041)|null|
 |**2023-08-30**|**Drone-NeRF: Efficient NeRF Based 3D Scene Reconstruction for Large-Scale Drone Survey**|Zhihao Jia et.al.|[2308.15733](http://arxiv.org/abs/2308.15733)|null|
@@ -1862,11 +1867,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-01**|**Catalyst Property Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models**|Janghoon Ock et.al.|[2309.00563](http://arxiv.org/abs/2309.00563)|null|
+|**2023-09-01**|**Application of Deep Learning Methods in Monitoring and Optimization of Electric Power Systems**|Ognjen Kundacina et.al.|[2309.00498](http://arxiv.org/abs/2309.00498)|null|
+|**2023-09-01**|**A Locality-based Neural Solver for Optical Motion Capture**|Xiaoyu Pan et.al.|[2309.00428](http://arxiv.org/abs/2309.00428)|**[link](https://github.com/non-void/localmocap)**|
+|**2023-08-31**|**Pose-Graph Attentional Graph Neural Network for Lidar Place Recognition**|Milad Ramezani et.al.|[2309.00168](http://arxiv.org/abs/2309.00168)|null|
 |**2023-08-31**|**Self-pruning Graph Neural Network for Predicting Inflammatory Disease Activity in Multiple Sclerosis from Brain MR Images**|Chinmay Prabhakar et.al.|[2308.16863](http://arxiv.org/abs/2308.16863)|**[link](https://github.com/chinmay5/ms_ida)**|
 |**2023-09-01**|**Irregular Traffic Time Series Forecasting Based on Asynchronous Spatio-Temporal Graph Convolutional Network**|Weijia Zhang et.al.|[2308.16818](http://arxiv.org/abs/2308.16818)|null|
 |**2023-08-31**|**Rank Collapse Causes Over-Smoothing and Over-Correlation in Graph Neural Networks**|Andreas Roth et.al.|[2308.16800](http://arxiv.org/abs/2308.16800)|**[link](https://github.com/roth-andreas/rank_collapse)**|
 |**2023-08-31**|**Efficacy of Neural Prediction-Based NAS for Zero-Shot NAS Paradigm**|Minh Le et.al.|[2308.16775](http://arxiv.org/abs/2308.16775)|**[link](https://github.com/minh1409/dft-npzs-nas)**|
-|**2023-08-31**|**Parsing is All You Need for Accurate Gait Recognition in the Wild**|Jinkai Zheng et.al.|[2308.16739](http://arxiv.org/abs/2308.16739)|null|
+|**2023-08-31**|**Parsing is All You Need for Accurate Gait Recognition in the Wild**|Jinkai Zheng et.al.|[2308.16739](http://arxiv.org/abs/2308.16739)|**[link](https://github.com/Gait3D/Gait3D-Benchmark)**|
 |**2023-08-31**|**Curvature-based Pooling within Graph Neural Networks**|Cedric Sanders et.al.|[2308.16516](http://arxiv.org/abs/2308.16516)|**[link](https://gitlab.com/cedric_sanders/masterarbeit)**|
 |**2023-08-31**|**Domain-adaptive Message Passing Graph Neural Network**|Xiao Shen et.al.|[2308.16470](http://arxiv.org/abs/2308.16470)|**[link](https://github.com/shenxiaocam/dm_gnn)**|
 |**2023-08-31**|**CktGNN: Circuit Graph Neural Network for Electronic Design Automation**|Zehao Dong et.al.|[2308.16406](http://arxiv.org/abs/2308.16406)|**[link](https://github.com/zehao-dong/CktGNN)**|
@@ -2214,6 +2223,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-01**|**Dense Voxel 3D Reconstruction Using a Monocular Event Camera**|Haodong Chen et.al.|[2309.00385](http://arxiv.org/abs/2309.00385)|null|
+|**2023-08-31**|**SoDaCam: Software-defined Cameras via Single-Photon Imaging**|Varun Sundar et.al.|[2309.00066](http://arxiv.org/abs/2309.00066)|null|
 |**2023-08-28**|**Graph-based Asynchronous Event Processing for Rapid Object Recognition**|Yijin Li et.al.|[2308.14419](http://arxiv.org/abs/2308.14419)|null|
 |**2023-08-25**|**EventTransAct: A video transformer-based framework for Event-camera based action recognition**|Tristan de Blegiers et.al.|[2308.13711](http://arxiv.org/abs/2308.13711)|null|
 |**2023-08-22**|**3ET: Efficient Event-based Eye Tracking using a Change-Based ConvLSTM Network**|Qinyu Chen et.al.|[2308.11771](http://arxiv.org/abs/2308.11771)|null|
@@ -2249,6 +2260,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-01**|**Spiking based Cellular Learning Automata (SCLA) algorithm for mobile robot motion formulation**|Vahid Pashaei Rad et.al.|[2309.00241](http://arxiv.org/abs/2309.00241)|null|
+|**2023-08-31**|**Locally Adaptive Shrinkage Priors for Trends and Breaks in Count Time Series**|Toryn L. J. Schafer et.al.|[2309.00080](http://arxiv.org/abs/2309.00080)|null|
 |**2023-08-31**|**Electron Heating in 2D PIC Simulations of Quasi-Perpendicular Low-Beta Shocks**|Aaron Tran et.al.|[2308.16462](http://arxiv.org/abs/2308.16462)|null|
 |**2023-08-31**|**Artificial to Spiking Neural Networks Conversion for Scientific Machine Learning**|Qian Zhang et.al.|[2308.16372](http://arxiv.org/abs/2308.16372)|null|
 |**2023-08-30**|**Neutrino constraints on inelastic dark matter captured in the Sun**|Bhavesh Chauhan et.al.|[2308.16134](http://arxiv.org/abs/2308.16134)|null|
