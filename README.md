@@ -1428,6 +1428,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-06**|**Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**|Lily Goli et.al.|[2309.03185](http://arxiv.org/abs/2309.03185)|null|
+|**2023-09-06**|**ResFields: Residual Neural Fields for Spatiotemporal Signals**|Marko Mihajlovic et.al.|[2309.03160](http://arxiv.org/abs/2309.03160)|null|
 |**2023-09-06**|**Instant Continual Learning of Neural Radiance Fields**|Ryan Po et.al.|[2309.01811](http://arxiv.org/abs/2309.01811)|null|
 |**2023-09-04**|**Adv3D: Generating 3D Adversarial Examples in Driving Scenarios with NeRF**|Leheng Li et.al.|[2309.01351](http://arxiv.org/abs/2309.01351)|null|
 |**2023-09-01**|**SparseSat-NeRF: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images**|Lulin Zhang et.al.|[2309.00277](http://arxiv.org/abs/2309.00277)|**[link](https://github.com/lulinzhang/sps-nerf)**|
@@ -1901,6 +1903,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-06**|**Blink: Link Local Differential Privacy in Graph Neural Networks via Bayesian Estimation**|Xiaochen Zhu et.al.|[2309.03190](http://arxiv.org/abs/2309.03190)|null|
+|**2023-09-06**|**Impression-Informed Multi-Behavior Recommender System: A Hierarchical Graph Attention Approach**|Dong Li et.al.|[2309.03169](http://arxiv.org/abs/2309.03169)|null|
+|**2023-09-06**|**Using Multiple Vector Channels Improves E(n)-Equivariant Graph Neural Networks**|Daniel Levy et.al.|[2309.03139](http://arxiv.org/abs/2309.03139)|null|
+|**2023-09-06**|**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**|Chao Feng et.al.|[2309.03118](http://arxiv.org/abs/2309.03118)|null|
+|**2023-09-06**|**ViCGCN: Graph Convolutional Network with Contextualized Language Models for Social Media Mining in Vietnamese**|Chau-Thang Phan et.al.|[2309.02902](http://arxiv.org/abs/2309.02902)|null|
+|**2023-09-06**|**Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs**|Xuanwen Huang et.al.|[2309.02848](http://arxiv.org/abs/2309.02848)|null|
+|**2023-09-06**|**Unifying over-smoothing and over-squashing in graph neural networks: A physics informed approach and beyond**|Zhiqi Shao et.al.|[2309.02769](http://arxiv.org/abs/2309.02769)|null|
+|**2023-09-06**|**Towards Unsupervised Graph Completion Learning on Graphs with Features and Structure Missing**|Sichao Fu et.al.|[2309.02762](http://arxiv.org/abs/2309.02762)|null|
+|**2023-09-06**|**Reinforcement Learning of Action and Query Policies with LTL Instructions under Uncertain Event Detector**|Wataru Hatanaka et.al.|[2309.02722](http://arxiv.org/abs/2309.02722)|null|
 |**2023-09-05**|**Black-Box Attacks against Signed Graph Analysis via Balance Poisoning**|Jialong Zhou et.al.|[2309.02396](http://arxiv.org/abs/2309.02396)|null|
 |**2023-09-05**|**STGIN: Spatial-Temporal Graph Interaction Network for Large-scale POI Recommendation**|Shaohua Liu et.al.|[2309.02251](http://arxiv.org/abs/2309.02251)|null|
 |**2023-09-05**|**Exploiting Spatial-temporal Data for Sleep Stage Classification via Hypergraph Learning**|Yuze Liu et.al.|[2309.02124](http://arxiv.org/abs/2309.02124)|null|
@@ -2309,6 +2320,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-06**|**A modelling framework for detecting and leveraging node-level information in Bayesian network inference**|Xiaoyue Xi et.al.|[2309.03067](http://arxiv.org/abs/2309.03067)|null|
+|**2023-09-06**|**Denoising and Multilinear Dimension-Reduction of High-Dimensional Matrix-Variate Time Series via a Factor Model**|Zhaoxing Gao et.al.|[2309.02674](http://arxiv.org/abs/2309.02674)|null|
 |**2023-09-05**|**Adaptive Bayesian Predictive Inference**|Veronika Rockova et.al.|[2309.02369](http://arxiv.org/abs/2309.02369)|null|
 |**2023-09-05**|**Information Processing by Neuron Populations in the Central Nervous System: Mathematical Structure of Data and Operations**|Martin N. P. Nilsson et.al.|[2309.02332](http://arxiv.org/abs/2309.02332)|null|
 |**2023-09-05**|**Bayesian Bi-clustering of Neural Spiking Activity with Latent Structures**|Ganchao Wei et.al.|[2309.02213](http://arxiv.org/abs/2309.02213)|null|
