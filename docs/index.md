@@ -1,4 +1,4 @@
-## <a id=top></a>Updated on 2023.09.10
+## <a id=top></a>Updated on 2023.09.11
 ---
 layout: default
 ---
@@ -8,7 +8,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.10
+## Updated on 2023.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## <a id=slam>SLAM</a>
@@ -2263,7 +2263,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-03**|**An Asynchronous Linear Filter Architecture for Hybrid Event-Frame Cameras**|Ziwei Wang et.al.|[2309.01159](http://arxiv.org/abs/2309.01159)|**[link](https://github.com/ziweiwwang/event-asynchronous-filter)**|
 |**2023-09-01**|**Dense Voxel 3D Reconstruction Using a Monocular Event Camera**|Haodong Chen et.al.|[2309.00385](http://arxiv.org/abs/2309.00385)|null|
-|**2023-08-31**|**SoDaCam: Software-defined Cameras via Single-Photon Imaging**|Varun Sundar et.al.|[2309.00066](http://arxiv.org/abs/2309.00066)|null|
+|**2023-09-08**|**SoDaCam: Software-defined Cameras via Single-Photon Imaging**|Varun Sundar et.al.|[2309.00066](http://arxiv.org/abs/2309.00066)|null|
 |**2023-08-28**|**Graph-based Asynchronous Event Processing for Rapid Object Recognition**|Yijin Li et.al.|[2308.14419](http://arxiv.org/abs/2308.14419)|null|
 |**2023-08-25**|**EventTransAct: A video transformer-based framework for Event-camera based action recognition**|Tristan de Blegiers et.al.|[2308.13711](http://arxiv.org/abs/2308.13711)|null|
 |**2023-08-22**|**3ET: Efficient Event-based Eye Tracking using a Change-Based ConvLSTM Network**|Qinyu Chen et.al.|[2308.11771](http://arxiv.org/abs/2308.11771)|null|
