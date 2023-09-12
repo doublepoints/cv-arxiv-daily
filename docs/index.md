@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**Evaluating Visual Odometry Methods for Autonomous Driving in Rain**|Yu Xiang Tan et.al.|[2309.05249](http://arxiv.org/abs/2309.05249)|null|
 |**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147](http://arxiv.org/abs/2309.04147)|null|
 |**2023-09-04**|**EMR-MSF: Self-Supervised Recurrent Monocular Scene Flow Exploiting Ego-Motion Rigidity**|Zijie Jiang et.al.|[2309.01296](http://arxiv.org/abs/2309.01296)|null|
 |**2023-08-27**|**Deep Learning for Visual Localization and Mapping: A Survey**|Changhao Chen et.al.|[2308.14039](http://arxiv.org/abs/2308.14039)|null|
@@ -555,6 +556,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**Towards Content-based Pixel Retrieval in Revisited Oxford and Paris**|Guoyuan An et.al.|[2309.05438](http://arxiv.org/abs/2309.05438)|**[link](https://github.com/anguoyuan/pixel_retrieval-segmented_instance_retrieval)**|
 |**2023-09-08**|**Representation Synthesis by Probabilistic Many-Valued Logic Operation in Self-Supervised Learning**|Hiroki Nakamura et.al.|[2309.04148](http://arxiv.org/abs/2309.04148)|null|
 |**2023-09-05**|**Magnetic Navigation using Attitude-Invariant Magnetic Field Information for Loop Closure Detection**|Natalia Pavlasek et.al.|[2309.02394](http://arxiv.org/abs/2309.02394)|null|
 |**2023-09-05**|**Dual Relation Alignment for Composed Image Retrieval**|Xintong Jiang et.al.|[2309.02169](http://arxiv.org/abs/2309.02169)|null|
@@ -1071,9 +1073,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-09**|**Mirror-Aware Neural Humans**|Daniel Ajisafe et.al.|[2309.04750](http://arxiv.org/abs/2309.04750)|null|
 |**2023-09-07**|**InstructDiffusion: A Generalist Modeling Interface for Vision Tasks**|Zigang Geng et.al.|[2309.03895](http://arxiv.org/abs/2309.03895)|null|
 |**2023-09-04**|**SKoPe3D: A Synthetic Dataset for Vehicle Keypoint Perception in 3D from Traffic Monitoring Cameras**|Himanshu Pahadia et.al.|[2309.01324](http://arxiv.org/abs/2309.01324)|null|
-|**2023-09-01**|**Improving the matching of deformable objects by learning to detect keypoints**|Felipe Cadar et.al.|[2309.00434](http://arxiv.org/abs/2309.00434)|null|
+|**2023-09-01**|**Improving the matching of deformable objects by learning to detect keypoints**|Felipe Cadar et.al.|[2309.00434](http://arxiv.org/abs/2309.00434)|**[link](https://github.com/verlab/learningtodetect_prl_2023)**|
 |**2023-08-31**|**SportsSloMo: A New Benchmark and Baselines for Human-centric Video Frame Interpolation**|Jiaben Chen et.al.|[2308.16876](http://arxiv.org/abs/2308.16876)|null|
 |**2023-08-30**|**Learning Structure-from-Motion with Graph Attention Networks**|Lucas Brynte et.al.|[2308.15984](http://arxiv.org/abs/2308.15984)|null|
 |**2023-08-29**|**A lightweight 3D dense facial landmark estimation model from position map data**|Shubhajit Basak et.al.|[2308.15170](http://arxiv.org/abs/2308.15170)|null|
@@ -1241,6 +1244,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**Towards Content-based Pixel Retrieval in Revisited Oxford and Paris**|Guoyuan An et.al.|[2309.05438](http://arxiv.org/abs/2309.05438)|**[link](https://github.com/anguoyuan/pixel_retrieval-segmented_instance_retrieval)**|
+|**2023-09-09**|**Neural Semantic Surface Maps**|Luca Morreale et.al.|[2309.04836](http://arxiv.org/abs/2309.04836)|null|
 |**2023-09-05**|**Doppelgangers: Learning to Disambiguate Images of Similar Structures**|Ruojin Cai et.al.|[2309.02420](http://arxiv.org/abs/2309.02420)|**[link](https://github.com/RuojinCai/Doppelgangers)**|
 |**2023-08-14**|**Occ $^2$ Net: Robust Image Matching Based on 3D Occupancy Estimation for Occluded Regions**|Miao Fan et.al.|[2308.16160](http://arxiv.org/abs/2308.16160)|null|
 |**2023-08-29**|**TKwinFormer: Top k Window Attention in Vision Transformers for Feature Matching**|Yun Liao et.al.|[2308.15144](http://arxiv.org/abs/2308.15144)|null|
@@ -1410,6 +1415,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**PAg-NeRF: Towards fast and efficient end-to-end panoptic 3D representations for agricultural robotics**|Claus Smitt et.al.|[2309.05339](http://arxiv.org/abs/2309.05339)|null|
+|**2023-09-10**|**Text-driven Editing of 3D Scenes without Retraining**|Shuangkang Fang et.al.|[2309.04917](http://arxiv.org/abs/2309.04917)|null|
+|**2023-09-09**|**Mirror-Aware Neural Humans**|Daniel Ajisafe et.al.|[2309.04750](http://arxiv.org/abs/2309.04750)|null|
+|**2023-09-08**|**Dynamic Mesh-Aware Radiance Fields**|Yi-Ling Qiao et.al.|[2309.04581](http://arxiv.org/abs/2309.04581)|null|
 |**2023-09-08**|**DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields**|Junzhe Zhang et.al.|[2309.04410](http://arxiv.org/abs/2309.04410)|null|
 |**2023-09-07**|**SimpleNeRF: Regularizing Sparse Input Neural Radiance Fields with Simpler Solutions**|Nagabhushan Somraj et.al.|[2309.03955](http://arxiv.org/abs/2309.03955)|null|
 |**2023-09-07**|**BluNF: Blueprint Neural Field**|Robin Courant et.al.|[2309.03933](http://arxiv.org/abs/2309.03933)|null|
@@ -1887,6 +1896,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**Learning the Geodesic Embedding with Graph Neural Networks**|Bo Pang et.al.|[2309.05613](http://arxiv.org/abs/2309.05613)|null|
+|**2023-09-11**|**Advancing Federated Learning in 6G: A Trusted Architecture with Graph-based Analysis**|Wenxuan Ye et.al.|[2309.05525](http://arxiv.org/abs/2309.05525)|null|
+|**2023-09-11**|**A parameterised model for link prediction using node centrality and similarity measure based on graph embedding**|Haohui Lu et.al.|[2309.05434](http://arxiv.org/abs/2309.05434)|null|
+|**2023-09-11**|**Fully-Connected Spatial-Temporal Graph for Multivariate Time Series Data**|Yucheng Wang et.al.|[2309.05305](http://arxiv.org/abs/2309.05305)|null|
+|**2023-09-10**|**Spatiotemporal Graph Neural Networks with Uncertainty Quantification for Traffic Incident Risk Prediction**|Xiaowei Gao et.al.|[2309.05072](http://arxiv.org/abs/2309.05072)|**[link](https://github.com/sttdanonymous/sttd)**|
+|**2023-09-10**|**Distance-Restricted Folklore Weisfeiler-Leman GNNs with Provable Cycle Counting Power**|Junru Zhou et.al.|[2309.04941](http://arxiv.org/abs/2309.04941)|null|
+|**2023-09-10**|**MFPNet: Multi-scale Feature Propagation Nwtwork For Lightweight Semantic Segmentation**|Guoan Xu et.al.|[2309.04914](http://arxiv.org/abs/2309.04914)|null|
+|**2023-09-09**|**Symplectic Structure-Aware Hamiltonian (Graph) Embeddings**|Jiaxu Liu et.al.|[2309.04885](http://arxiv.org/abs/2309.04885)|null|
+|**2023-09-09**|**Chemical Properties from Graph Neural Network-Predicted Electron Densities**|Ethan M. Sunshine et.al.|[2309.04811](http://arxiv.org/abs/2309.04811)|null|
+|**2023-09-09**|**Redundancy-Free Self-Supervised Relational Learning for Graph Clustering**|Si-Yu Yi et.al.|[2309.04694](http://arxiv.org/abs/2309.04694)|**[link](https://github.com/yisiyu95/r2fgc)**|
 |**2023-09-08**|**Graph Neural Networks Use Graphs When They Shouldn't**|Maya Bechler-Speicher et.al.|[2309.04332](http://arxiv.org/abs/2309.04332)|null|
 |**2023-09-08**|**A Long-Tail Friendly Representation Framework for Artist and Music Similarity**|Haoran Xiang et.al.|[2309.04182](http://arxiv.org/abs/2309.04182)|null|
 |**2023-09-08**|**Curve Your Attention: Mixed-Curvature Transformers for Graph Representation Learning**|Sungjun Cho et.al.|[2309.04082](http://arxiv.org/abs/2309.04082)|null|
@@ -2270,6 +2289,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**A Comparison between Frame-based and Event-based Cameras for Flapping-Wing Robot Perception**|Raul Tapia et.al.|[2309.05450](http://arxiv.org/abs/2309.05450)|null|
 |**2023-09-03**|**An Asynchronous Linear Filter Architecture for Hybrid Event-Frame Cameras**|Ziwei Wang et.al.|[2309.01159](http://arxiv.org/abs/2309.01159)|**[link](https://github.com/ziweiwwang/event-asynchronous-filter)**|
 |**2023-09-01**|**Dense Voxel 3D Reconstruction Using a Monocular Event Camera**|Haodong Chen et.al.|[2309.00385](http://arxiv.org/abs/2309.00385)|null|
 |**2023-09-08**|**SoDaCam: Software-defined Cameras via Single-Photon Imaging**|Varun Sundar et.al.|[2309.00066](http://arxiv.org/abs/2309.00066)|null|
@@ -2308,6 +2328,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**Neuromorphic Auditory Perception by Neural Spiketrum**|Huajin Tang et.al.|[2309.05430](http://arxiv.org/abs/2309.05430)|null|
+|**2023-09-11**|**Empirical study on the efficiency of Spiking Neural Networks with axonal delays, and algorithm-hardware benchmarking**|Alberto Patiño-Saucedo et.al.|[2309.05345](http://arxiv.org/abs/2309.05345)|null|
+|**2023-09-11**|**Brain-inspired Evolutionary Architectures for Spiking Neural Networks**|Wenxuan Pan et.al.|[2309.05263](http://arxiv.org/abs/2309.05263)|null|
+|**2023-09-11**|**Numerical study on mechanism of C-J deflagration**|Yunfeng Liu et.al.|[2309.05194](http://arxiv.org/abs/2309.05194)|null|
+|**2023-09-09**|**Training of Spiking Neural Network joint Curriculum Learning Strategy**|Lingling Tang et.al.|[2309.04737](http://arxiv.org/abs/2309.04737)|null|
+|**2023-09-09**|**Mask-CTC-based Encoder Pre-training for Streaming End-to-End Speech Recognition**|Huaibo Zhao et.al.|[2309.04654](http://arxiv.org/abs/2309.04654)|null|
 |**2023-09-08**|**Advanced Computing and Related Applications Leveraging Brain-inspired Spiking Neural Networks**|Lyuyang Sima et.al.|[2309.04426](http://arxiv.org/abs/2309.04426)|null|
 |**2023-09-08**|**Meta predictive learning model of natural languages**|Chan Li et.al.|[2309.04106](http://arxiv.org/abs/2309.04106)|null|
 |**2023-09-07**|**Gradient-Based Feature Learning under Structured Data**|Alireza Mousavi-Hosseini et.al.|[2309.03843](http://arxiv.org/abs/2309.03843)|null|
