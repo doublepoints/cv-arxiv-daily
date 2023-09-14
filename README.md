@@ -1,10 +1,10 @@
-## <a id=top></a>Updated on 2023.09.13
+## <a id=top></a>Updated on 2023.09.14
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.13
+## Updated on 2023.09.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -2372,7 +2372,7 @@
 |**2023-09-09**|**Training of Spiking Neural Network joint Curriculum Learning Strategy**|Lingling Tang et.al.|[2309.04737](http://arxiv.org/abs/2309.04737)|null|
 |**2023-09-09**|**Mask-CTC-based Encoder Pre-training for Streaming End-to-End Speech Recognition**|Huaibo Zhao et.al.|[2309.04654](http://arxiv.org/abs/2309.04654)|null|
 |**2023-09-08**|**Advanced Computing and Related Applications Leveraging Brain-inspired Spiking Neural Networks**|Lyuyang Sima et.al.|[2309.04426](http://arxiv.org/abs/2309.04426)|null|
-|**2023-09-08**|**Meta predictive learning model of natural languages**|Chan Li et.al.|[2309.04106](http://arxiv.org/abs/2309.04106)|null|
+|**2023-09-08**|**Meta predictive learning model of natural languages**|Chan Li et.al.|[2309.04106](http://arxiv.org/abs/2309.04106)|**[link](https://github.com/qjbtiger/meta-predictive-coding)**|
 |**2023-09-07**|**Gradient-Based Feature Learning under Structured Data**|Alireza Mousavi-Hosseini et.al.|[2309.03843](http://arxiv.org/abs/2309.03843)|null|
 |**2023-09-07**|**Spiking Structured State Space Model for Monaural Speech Enhancement**|Yu Du et.al.|[2309.03641](http://arxiv.org/abs/2309.03641)|null|
 |**2023-09-06**|**Are SNNs Truly Energy-efficient? $-$ A Hardware Perspective**|Abhiroop Bhattacharjee et.al.|[2309.03388](http://arxiv.org/abs/2309.03388)|null|
