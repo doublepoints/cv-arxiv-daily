@@ -1951,7 +1951,7 @@ layout: default
 |**2023-09-21**|**Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting**|Yusheng Zhao et.al.|[2309.12028](http://arxiv.org/abs/2309.12028)|null|
 |**2023-09-21**|**Activation Compression of Graph Neural Networks using Block-wise Quantization with Improved Variance Minimization**|Sebastian Eliassen et.al.|[2309.11856](http://arxiv.org/abs/2309.11856)|**[link](https://github.com/saintslab/i-exact)**|
 |**2023-09-20**|**Large-scale Pretraining Improves Sample Efficiency of Active Learning based Molecule Virtual Screening**|Zhonglin Cao et.al.|[2309.11687](http://arxiv.org/abs/2309.11687)|null|
-|**2023-09-20**|**Using deep learning to construct stochastic local search SAT solvers with performance bounds**|Maximilian Kramer et.al.|[2309.11452](http://arxiv.org/abs/2309.11452)|null|
+|**2023-09-20**|**Using deep learning to construct stochastic local search SAT solvers with performance bounds**|Maximilian Kramer et.al.|[2309.11452](http://arxiv.org/abs/2309.11452)|**[link](https://github.com/porscheofficial/sls_sat_solving_with_deep_learning)**|
 |**2023-09-20**|**Improving Article Classification with Edge-Heterogeneous Graph Neural Networks**|Khang Ly et.al.|[2309.11341](http://arxiv.org/abs/2309.11341)|**[link](https://github.com/lyvykhang/edgehetero-nodeproppred)**|
 |**2023-09-20**|**Long-tail Augmented Graph Contrastive Learning for Recommendation**|Qian Zhao et.al.|[2309.11177](http://arxiv.org/abs/2309.11177)|**[link](https://github.com/im0qianqian/LAGCL)**|
 |**2023-09-20**|**InkStream: Real-time GNN Inference on Streaming Graphs via Incremental Update**|Dan Wu et.al.|[2309.11071](http://arxiv.org/abs/2309.11071)|null|
@@ -2394,7 +2394,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-21**|**Heart Rate Detection Using an Event Camera**|Aniket Jagtap et.al.|[2309.11891](http://arxiv.org/abs/2309.11891)|null|
-|**2023-09-20**|**STARNet: Sensor Trustworthiness and Anomaly Recognition via Approximated Likelihood Regret for Robust Edge Autonomy**|Nastaran Darabi et.al.|[2309.11006](http://arxiv.org/abs/2309.11006)|**[link](https://github.com/sinatayebati/STARNet)**|
+|**2023-09-20**|**STARNet: Sensor Trustworthiness and Anomaly Recognition via Approximated Likelihood Regret for Robust Edge Autonomy**|Nastaran Darabi et.al.|[2309.11006](http://arxiv.org/abs/2309.11006)|null|
 |**2023-09-17**|**Chasing Day and Night: Towards Robust and Efficient All-Day Object Detection Guided by an Event Camera**|Jiahang Cao et.al.|[2309.09297](http://arxiv.org/abs/2309.09297)|null|
 |**2023-09-15**|**Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion**|Weng Fei Low et.al.|[2309.08596](http://arxiv.org/abs/2309.08596)|**[link](https://github.com/wengflow/robust-e-nerf)**|
 |**2023-09-15**|**Deformable Neural Radiance Fields using RGB and Event Cameras**|Qi Ma et.al.|[2309.08416](http://arxiv.org/abs/2309.08416)|null|
