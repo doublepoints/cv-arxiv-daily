@@ -433,6 +433,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-22**|**Scalable Semantic 3D Mapping of Coral Reefs with Deep Learning**|Jonathan Sauder et.al.|[2309.12804](http://arxiv.org/abs/2309.12804)|null|
 |**2023-09-21**|**On-the-Fly SfM: What you capture is What you get**|Zongqian Zhan et.al.|[2309.11883](http://arxiv.org/abs/2309.11883)|null|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi et.al.|[2309.10269](http://arxiv.org/abs/2309.10269)|null|
 |**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927](http://arxiv.org/abs/2309.08927)|null|
@@ -1443,6 +1444,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-22**|**NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields**|Xiaoxue Chen et.al.|[2309.13039](http://arxiv.org/abs/2309.13039)|**[link](https://github.com/dawning77/nerrf)**|
 |**2023-09-21**|**ORTexME: Occlusion-Robust Human Shape and Pose via Temporal Average Texture and Mesh Encoding**|Yu Cheng et.al.|[2309.12183](http://arxiv.org/abs/2309.12183)|null|
 |**2023-09-21**|**NeuralLabeling: A versatile toolset for labeling vision datasets using Neural Radiance Fields**|Floris Erich et.al.|[2309.11966](http://arxiv.org/abs/2309.11966)|**[link](https://github.com/FlorisE/neural-labeling)**|
 |**2023-09-21**|**Fast Satellite Tensorial Radiance Field for Multi-date Satellite Imagery of Large Size**|Tongtong Zhang et.al.|[2309.11767](http://arxiv.org/abs/2309.11767)|null|
@@ -1947,6 +1949,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-22**|**Graph Neural Network for Stress Predictions in Stiffened Panels Under Uniform Loading**|Yuecheng Cai et.al.|[2309.13022](http://arxiv.org/abs/2309.13022)|null|
+|**2023-09-22**|**Higher-order Graph Convolutional Network with Flower-Petals Laplacians on Simplicial Complexes**|Yiming Huang et.al.|[2309.12971](http://arxiv.org/abs/2309.12971)|null|
+|**2023-09-22**|**ProtoEM: A Prototype-Enhanced Matching Framework for Event Relation Extraction**|Zhilei Hu et.al.|[2309.12892](http://arxiv.org/abs/2309.12892)|null|
 |**2023-09-21**|**SALSA-CLRS: A Sparse and Scalable Benchmark for Algorithmic Reasoning**|Julian Minder et.al.|[2309.12253](http://arxiv.org/abs/2309.12253)|**[link](https://github.com/jkminder/salsa-clrs)**|
 |**2023-09-21**|**Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting**|Yusheng Zhao et.al.|[2309.12028](http://arxiv.org/abs/2309.12028)|null|
 |**2023-09-21**|**Activation Compression of Graph Neural Networks using Block-wise Quantization with Improved Variance Minimization**|Sebastian Eliassen et.al.|[2309.11856](http://arxiv.org/abs/2309.11856)|**[link](https://github.com/saintslab/i-exact)**|
@@ -2393,6 +2398,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-22**|**SRFNet: Monocular Depth Estimation with Fine-grained Structure via Spatial Reliability-oriented Fusion of Frames and Events**|Tianbo Pan et.al.|[2309.12842](http://arxiv.org/abs/2309.12842)|null|
 |**2023-09-21**|**Heart Rate Detection Using an Event Camera**|Aniket Jagtap et.al.|[2309.11891](http://arxiv.org/abs/2309.11891)|null|
 |**2023-09-20**|**STARNet: Sensor Trustworthiness and Anomaly Recognition via Approximated Likelihood Regret for Robust Edge Autonomy**|Nastaran Darabi et.al.|[2309.11006](http://arxiv.org/abs/2309.11006)|null|
 |**2023-09-17**|**Chasing Day and Night: Towards Robust and Efficient All-Day Object Detection Guided by an Event Camera**|Jiahang Cao et.al.|[2309.09297](http://arxiv.org/abs/2309.09297)|null|
@@ -2438,6 +2444,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-22**|**Evolving Spiking Neural Networks to Mimic PID Control for Autonomous Blimps**|Tim Burgers et.al.|[2309.12937](http://arxiv.org/abs/2309.12937)|null|
+|**2023-09-22**|**S3TC: Spiking Separated Spatial and Temporal Convolutions with Unsupervised STDP-based Learning for Action Recognition**|Mireille El-Assal et.al.|[2309.12761](http://arxiv.org/abs/2309.12761)|null|
+|**2023-09-21**|**Ying-Yang Competitive Harmony between Direct and Indirect Pathways in A Spiking Neural Network of The Basal Ganglia**|Sang-Yoon Kim et.al.|[2309.12540](http://arxiv.org/abs/2309.12540)|null|
+|**2023-09-21**|**Exceptional points in optical systems: A resonant-state expansion study**|Kyle S Netherwood et.al.|[2309.12536](http://arxiv.org/abs/2309.12536)|null|
 |**2023-09-20**|**A Spike-and-Slab Prior for Dimension Selection in Generalized Linear Network Eigenmodels**|Joshua Daniel Loyal et.al.|[2309.11654](http://arxiv.org/abs/2309.11654)|null|
 |**2023-09-20**|**Rapid Changes in Synchronizability in Conductance-based Neuronal Networks with Conductance-based Coupling**|Wilten Nicola et.al.|[2309.11586](http://arxiv.org/abs/2309.11586)|null|
 |**2023-09-20**|**Spiking NeRF: Making Bio-inspired Neural Networks See through the Real World**|Xingting Yao et.al.|[2309.10987](http://arxiv.org/abs/2309.10987)|null|
