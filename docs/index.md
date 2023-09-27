@@ -568,6 +568,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**Object-Centric Open-Vocabulary Image-Retrieval with Aggregated Features**|Hila Levi et.al.|[2309.14999](http://arxiv.org/abs/2309.14999)|null|
 |**2023-09-23**|**Resolving References in Visually-Grounded Dialogue via Text Generation**|Bram Willemsen et.al.|[2309.13430](http://arxiv.org/abs/2309.13430)|**[link](https://github.com/willemsenbram/reference-resolution-via-text-generation)**|
 |**2023-09-21**|**Face Identity-Aware Disentanglement in StyleGAN**|Adrian Suwała et.al.|[2309.12033](http://arxiv.org/abs/2309.12033)|null|
 |**2023-09-21**|**On-the-Fly SfM: What you capture is What you get**|Zongqian Zhan et.al.|[2309.11883](http://arxiv.org/abs/2309.11883)|null|
@@ -1447,6 +1448,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**3D Density-Gradient based Edge Detection on Neural Radiance Fields (NeRFs) for Geometric Reconstruction**|Miriam Jäger et.al.|[2309.14800](http://arxiv.org/abs/2309.14800)|null|
 |**2023-09-25**|**NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Fields**|Saeejith Nair et.al.|[2309.14293](http://arxiv.org/abs/2309.14293)|null|
 |**2023-09-25**|**Variational Inference for Scalable 3D Object-centric Learning**|Tianyu Wang et.al.|[2309.14010](http://arxiv.org/abs/2309.14010)|null|
 |**2023-09-24**|**MM-NeRF: Multimodal-Guided 3D Multi-Style Transfer of Neural Radiance Field**|Zijiang Yang et.al.|[2309.13607](http://arxiv.org/abs/2309.13607)|null|
@@ -1956,8 +1958,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**Label Deconvolution for Node Representation Learning on Large-scale Attributed Graphs against Learning Bias**|Zhihao Shi et.al.|[2309.14907](http://arxiv.org/abs/2309.14907)|null|
+|**2023-09-26**|**Graph Neural Network Based Method for Path Planning Problem**|Xingrong Diao et.al.|[2309.14845](http://arxiv.org/abs/2309.14845)|null|
+|**2023-09-26**|**A Comparative Study of Population-Graph Construction Methods and Graph Neural Networks for Brain Age Regression**|Kyriaki-Margarita Bintsi et.al.|[2309.14816](http://arxiv.org/abs/2309.14816)|**[link](https://github.com/bintsi/brain-age-population-graphs)**|
+|**2023-09-26**|**XGV-BERT: Leveraging Contextualized Language Model and Graph Neural Network for Efficient Software Vulnerability Detection**|Vu Le Anh Quan et.al.|[2309.14677](http://arxiv.org/abs/2309.14677)|null|
+|**2023-09-26**|**ALEX: Towards Effective Graph Transfer Learning with Noisy Labels**|Jingyang Yuan et.al.|[2309.14673](http://arxiv.org/abs/2309.14673)|null|
+|**2023-09-25**|**Dynamic Scene Graph Representation for Surgical Video**|Felix Holm et.al.|[2309.14538](http://arxiv.org/abs/2309.14538)|null|
+|**2023-09-25**|**Learning dislocation dynamics mobility laws from large-scale MD simulations**|Nicolas Bertin et.al.|[2309.14450](http://arxiv.org/abs/2309.14450)|null|
 |**2023-09-25**|**LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference**|Hongwu Peng et.al.|[2309.14331](http://arxiv.org/abs/2309.14331)|**[link](https://github.com/harveyp123/lingcn-neurips23)**|
-|**2023-09-25**|**HyperTrack: Neural Combinatorics for High Energy Physics**|Mikael Mieskolainen et.al.|[2309.14113](http://arxiv.org/abs/2309.14113)|null|
+|**2023-09-25**|**HyperTrack: Neural Combinatorics for High Energy Physics**|Mikael Mieskolainen et.al.|[2309.14113](http://arxiv.org/abs/2309.14113)|**[link](https://github.com/mieskolainen/hypertrack)**|
 |**2023-09-25**|**HiGNN-TTS: Hierarchical Prosody Modeling with Graph Neural Networks for Expressive Long-form TTS**|Dake Guo et.al.|[2309.13907](http://arxiv.org/abs/2309.13907)|null|
 |**2023-09-25**|**TouchUp-G: Improving Feature Representation through Graph-Centric Finetuning**|Jing Zhu et.al.|[2309.13885](http://arxiv.org/abs/2309.13885)|null|
 |**2023-09-25**|**Estimating Treatment Effects Under Heterogeneous Interference**|Xiaofeng Lin et.al.|[2309.13884](http://arxiv.org/abs/2309.13884)|null|
@@ -2414,6 +2423,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**RPEFlow: Multimodal Fusion of RGB-PointCloud-Event for Joint Optical Flow and Scene Flow Estimation**|Zhexiong Wan et.al.|[2309.15082](http://arxiv.org/abs/2309.15082)|**[link](https://github.com/danqu130/RPEFlow)**|
+|**2023-09-26**|**Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline**|Xiao Wang et.al.|[2309.14611](http://arxiv.org/abs/2309.14611)|**[link](https://github.com/event-ahu/eventvot_benchmark)**|
 |**2023-09-22**|**SRFNet: Monocular Depth Estimation with Fine-grained Structure via Spatial Reliability-oriented Fusion of Frames and Events**|Tianbo Pan et.al.|[2309.12842](http://arxiv.org/abs/2309.12842)|null|
 |**2023-09-21**|**Heart Rate Detection Using an Event Camera**|Aniket Jagtap et.al.|[2309.11891](http://arxiv.org/abs/2309.11891)|null|
 |**2023-09-20**|**STARNet: Sensor Trustworthiness and Anomaly Recognition via Approximated Likelihood Regret for Robust Edge Autonomy**|Nastaran Darabi et.al.|[2309.11006](http://arxiv.org/abs/2309.11006)|null|
@@ -2460,6 +2471,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**Single Biological Neurons as Temporally Precise Spatio-Temporal Pattern Recognizers**|David Beniaguev et.al.|[2309.15090](http://arxiv.org/abs/2309.15090)|null|
+|**2023-09-26**|**Rayleigh-Taylor Unstable Flames: the Coupled Effect of Multiple Perturbations**|Mingxuan Liu et.al.|[2309.15046](http://arxiv.org/abs/2309.15046)|null|
+|**2023-09-25**|**Smooth Exact Gradient Descent Learning in Spiking Neural Networks**|Christian Klos et.al.|[2309.14523](http://arxiv.org/abs/2309.14523)|null|
 |**2023-09-25**|**Hidden Clique Inference in Random Ising Model II: the planted Sherrington-Kirkpatrick model**|Yihan He et.al.|[2309.14192](http://arxiv.org/abs/2309.14192)|null|
 |**2023-09-25**|**Privacy-preserving Linear Computations in Spiking Neural P Systems**|Mihail-Iulian Plesa et.al.|[2309.13803](http://arxiv.org/abs/2309.13803)|null|
 |**2023-09-24**|**Simulation of optoelectronic oscillator injection locking, pulling and spiking phenomena**|A. Banerjee et.al.|[2309.13558](http://arxiv.org/abs/2309.13558)|null|
@@ -2674,6 +2688,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-25**|**Smooth Exact Gradient Descent Learning in Spiking Neural Networks**|Christian Klos et.al.|[2309.14523](http://arxiv.org/abs/2309.14523)|null|
 |**2023-09-20**|**Rapid Changes in Synchronizability in Conductance-based Neuronal Networks with Conductance-based Coupling**|Wilten Nicola et.al.|[2309.11586](http://arxiv.org/abs/2309.11586)|null|
 |**2023-09-18**|**Spiking-LEAF: A Learnable Auditory front-end for Spiking Neural Networks**|Zeyang Song et.al.|[2309.09469](http://arxiv.org/abs/2309.09469)|null|
 |**2023-09-16**|**Efficient Privacy-Preserving Convolutional Spiking Neural Networks with FHE**|Pengbo Li et.al.|[2309.09025](http://arxiv.org/abs/2309.09025)|null|
