@@ -1,10 +1,10 @@
-## <a id=top></a>Updated on 2023.09.28
+## <a id=top></a>Updated on 2023.09.29
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.28
+## Updated on 2023.09.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -2520,7 +2520,7 @@
 |**2023-09-25**|**Hidden Clique Inference in Random Ising Model II: the planted Sherrington-Kirkpatrick model**|Yihan He et.al.|[2309.14192](http://arxiv.org/abs/2309.14192)|null|
 |**2023-09-25**|**Privacy-preserving Linear Computations in Spiking Neural P Systems**|Mihail-Iulian Plesa et.al.|[2309.13803](http://arxiv.org/abs/2309.13803)|null|
 |**2023-09-24**|**Simulation of optoelectronic oscillator injection locking, pulling and spiking phenomena**|A. Banerjee et.al.|[2309.13558](http://arxiv.org/abs/2309.13558)|null|
-|**2023-09-23**|**Gaining the Sparse Rewards by Exploring Binary Lottery Tickets in Spiking Neural Network**|Hao Cheng et.al.|[2309.13302](http://arxiv.org/abs/2309.13302)|null|
+|**2023-09-28**|**Gaining the Sparse Rewards by Exploring Binary Lottery Tickets in Spiking Neural Network**|Hao Cheng et.al.|[2309.13302](http://arxiv.org/abs/2309.13302)|null|
 |**2023-09-22**|**Learning algorithms for identification of whisky using portable Raman spectroscopy**|Kwang Jun Lee et.al.|[2309.13087](http://arxiv.org/abs/2309.13087)|null|
 |**2023-09-22**|**Evolving Spiking Neural Networks to Mimic PID Control for Autonomous Blimps**|Tim Burgers et.al.|[2309.12937](http://arxiv.org/abs/2309.12937)|null|
 |**2023-09-22**|**S3TC: Spiking Separated Spatial and Temporal Convolutions with Unsupervised STDP-based Learning for Action Recognition**|Mireille El-Assal et.al.|[2309.12761](http://arxiv.org/abs/2309.12761)|null|
