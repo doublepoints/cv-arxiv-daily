@@ -572,6 +572,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**Active Visual Localization for Multi-Agent Collaboration: A Data-Driven Approach**|Matthew Hanlon et.al.|[2310.02650](http://arxiv.org/abs/2310.02650)|null|
 |**2023-10-02**|**NEUCORE: Neural Concept Reasoning for Composed Image Retrieval**|Shu Zhao et.al.|[2310.01358](http://arxiv.org/abs/2310.01358)|null|
 |**2023-10-02**|**Leveraging Cutting Edge Deep Learning Based Image Matching for Reconstructing a Large Scene from Sparse Images**|Georg Bökman et.al.|[2310.01092](http://arxiv.org/abs/2310.01092)|null|
 |**2023-10-02**|**PlaceNav: Topological Navigation through Place Recognition**|Lauri Suomela et.al.|[2309.17260](http://arxiv.org/abs/2309.17260)|null|
@@ -1467,6 +1468,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**T $^3$ Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977](http://arxiv.org/abs/2310.02977)|null|
+|**2023-10-04**|**ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF**|Jangho Park et.al.|[2310.02712](http://arxiv.org/abs/2310.02712)|null|
+|**2023-10-04**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|null|
+|**2023-10-03**|**EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields**|Anish Bhattacharya et.al.|[2310.02437](http://arxiv.org/abs/2310.02437)|null|
 |**2023-10-03**|**Adaptive Multi-NeRF: Exploit Efficient Parallelism in Adaptive Multiple Scale Neural Radiance Field Rendering**|Tong Wang et.al.|[2310.01881](http://arxiv.org/abs/2310.01881)|null|
 |**2023-10-03**|**MIMO-NeRF: Fast Neural Rendering with Multi-input Multi-output Neural Radiance Fields**|Takuhiro Kaneko et.al.|[2310.01821](http://arxiv.org/abs/2310.01821)|null|
 |**2023-10-02**|**PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2310.00874](http://arxiv.org/abs/2310.00874)|**[link](https://github.com/biter0088/pc-nerf)**|
@@ -1992,6 +1997,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**Graph data modelling for outcome prediction in oropharyngeal cancer patients**|Nithya Bhasker et.al.|[2310.02931](http://arxiv.org/abs/2310.02931)|null|
+|**2023-10-04**|**Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection**|Xiangyu Dong et.al.|[2310.02861](http://arxiv.org/abs/2310.02861)|null|
+|**2023-10-04**|**Graph Neural Networks and Time Series as Directed Graphs for Quality Recognition**|Angelica Simonetti et.al.|[2310.02774](http://arxiv.org/abs/2310.02774)|null|
+|**2023-10-04**|**Learning adjacency matrix for dynamic graph neural network**|Osama Ahmad et.al.|[2310.02606](http://arxiv.org/abs/2310.02606)|null|
+|**2023-10-04**|**Neural Bayes Estimators for Irregular Spatial Data using Graph Neural Networks**|Matthew Sainsbury-Dale et.al.|[2310.02600](http://arxiv.org/abs/2310.02600)|**[link](https://github.com/msainsburydale/neuralestimatorsgnn)**|
+|**2023-10-04**|**On the Stability of Expressive Positional Encodings for Graph Neural Networks**|Yinan Huang et.al.|[2310.02579](http://arxiv.org/abs/2310.02579)|null|
+|**2023-10-04**|**Stand for Something or Fall for Everything: Predict Misinformation Spread with Stance-Aware Graph Neural Networks**|Zihan Chen et.al.|[2310.02568](http://arxiv.org/abs/2310.02568)|null|
+|**2023-10-03**|**EGraFFBench: Evaluation of Equivariant Graph Neural Network Force Fields for Atomistic Simulations**|Vaibhav Bihani et.al.|[2310.02428](http://arxiv.org/abs/2310.02428)|null|
 |**2023-10-03**|**Probabilistically Rewired Message-Passing Neural Networks**|Chendi Qian et.al.|[2310.02156](http://arxiv.org/abs/2310.02156)|null|
 |**2023-10-03**|**Graph Neural Network-based EEG Classification: A Survey**|Dominik Klepl et.al.|[2310.02152](http://arxiv.org/abs/2310.02152)|null|
 |**2023-10-03**|**Controlling Topic-Focus Articulation in Meaning-to-Text Generation using Graph Neural Networks**|Chunliu Wang et.al.|[2310.02053](http://arxiv.org/abs/2310.02053)|null|
@@ -2490,6 +2503,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**GET: Group Event Transformer for Event-Based Vision**|Yansong Peng et.al.|[2310.02642](http://arxiv.org/abs/2310.02642)|null|
+|**2023-10-03**|**EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields**|Anish Bhattacharya et.al.|[2310.02437](http://arxiv.org/abs/2310.02437)|null|
+|**2023-10-03**|**Event-Enhanced Multi-Modal Spiking Neural Network for Dynamic Obstacle Avoidance**|Yang Wang et.al.|[2310.02361](http://arxiv.org/abs/2310.02361)|null|
 |**2023-10-01**|**EventLFM: Event Camera integrated Fourier Light Field Microscopy for Ultrafast 3D imaging**|Ruipeng Guo et.al.|[2310.00730](http://arxiv.org/abs/2310.00730)|null|
 |**2023-09-29**|**EGVD: Event-Guided Video Deraining**|Yueyi Zhang et.al.|[2309.17239](http://arxiv.org/abs/2309.17239)|**[link](https://github.com/booker-max/egvd)**|
 |**2023-09-29**|**A 5-Point Minimal Solver for Event Camera Relative Motion Estimation**|Ling Gao et.al.|[2309.17054](http://arxiv.org/abs/2309.17054)|null|
@@ -2544,6 +2560,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**Spike Accumulation Forwarding for Effective Training of Spiking Neural Networks**|Ryuji Saiin et.al.|[2310.02772](http://arxiv.org/abs/2310.02772)|null|
+|**2023-10-03**|**Graphene-Based Artificial Dendrites for Bio-Inspired Learning in Spiking Neuromorphic Systems**|Samuel Liu et.al.|[2310.02364](http://arxiv.org/abs/2310.02364)|null|
+|**2023-10-03**|**Event-Enhanced Multi-Modal Spiking Neural Network for Dynamic Obstacle Avoidance**|Yang Wang et.al.|[2310.02361](http://arxiv.org/abs/2310.02361)|null|
 |**2023-10-03**|**Well-posedness and numerical analysis of an elapsed time model with strongly coupled neural networks**|Mauricio Sepulveda et.al.|[2310.02068](http://arxiv.org/abs/2310.02068)|null|
 |**2023-10-03**|**Integrate-and-fire circuit for converting analog signals to spikes using phase encoding**|Javier Lopez-Randulfe et.al.|[2310.02055](http://arxiv.org/abs/2310.02055)|null|
 |**2023-10-02**|**Hidden temperature in the KMP model**|Anna De Masi et.al.|[2310.01672](http://arxiv.org/abs/2310.01672)|null|
@@ -2779,6 +2798,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**Insights into oscillator network dynamics using a phase-isostable framework**|Rachel Nicks et.al.|[2310.02725](http://arxiv.org/abs/2310.02725)|null|
 |**2023-10-03**|**Integrate-and-fire circuit for converting analog signals to spikes using phase encoding**|Javier Lopez-Randulfe et.al.|[2310.02055](http://arxiv.org/abs/2310.02055)|null|
 |**2023-09-28**|**Ultra-low-power Image Classification on Neuromorphic Hardware**|Gregor Lenz et.al.|[2309.16795](http://arxiv.org/abs/2309.16795)|**[link](https://github.com/biphasic/quartz-on-loihi)**|
 |**2023-09-25**|**Smooth Exact Gradient Descent Learning in Spiking Neural Networks**|Christian Klos et.al.|[2309.14523](http://arxiv.org/abs/2309.14523)|null|
