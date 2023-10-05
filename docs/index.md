@@ -1,4 +1,4 @@
-## <a id=top></a>Updated on 2023.10.04
+## <a id=top></a>Updated on 2023.10.05
 ---
 layout: default
 ---
@@ -8,7 +8,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.04
+## Updated on 2023.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## <a id=slam>SLAM</a>
@@ -1115,7 +1115,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-02**|**H-InDex: Visual Reinforcement Learning with Hand-Informed Representations for Dexterous Manipulation**|Yanjie Ze et.al.|[2310.01404](http://arxiv.org/abs/2310.01404)|null|
-|**2023-10-03**|**Self-supervised Learning of Contextualized Local Visual Embeddings**|Thalles Santos Silva et.al.|[2310.00527](http://arxiv.org/abs/2310.00527)|null|
+|**2023-10-04**|**Self-supervised Learning of Contextualized Local Visual Embeddings**|Thalles Santos Silva et.al.|[2310.00527](http://arxiv.org/abs/2310.00527)|**[link](https://github.com/sthalles/clove)**|
 |**2023-09-26**|**ObVi-SLAM: Long-Term Object-Visual SLAM**|Amanda Adkins et.al.|[2309.15268](http://arxiv.org/abs/2309.15268)|null|
 |**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang et.al.|[2309.10436](http://arxiv.org/abs/2309.10436)|**[link](https://github.com/tiers/ws-lidar-as-camera-odom)**|
 |**2023-09-18**|**RIDE: Self-Supervised Learning of Rotation-Equivariant Keypoint Detection and Invariant Description for Endoscopy**|Mert Asim Karaoglu et.al.|[2309.09563](http://arxiv.org/abs/2309.09563)|null|
@@ -2493,11 +2493,11 @@ layout: default
 |**2023-10-01**|**EventLFM: Event Camera integrated Fourier Light Field Microscopy for Ultrafast 3D imaging**|Ruipeng Guo et.al.|[2310.00730](http://arxiv.org/abs/2310.00730)|null|
 |**2023-09-29**|**EGVD: Event-Guided Video Deraining**|Yueyi Zhang et.al.|[2309.17239](http://arxiv.org/abs/2309.17239)|**[link](https://github.com/booker-max/egvd)**|
 |**2023-09-29**|**A 5-Point Minimal Solver for Event Camera Relative Motion Estimation**|Ling Gao et.al.|[2309.17054](http://arxiv.org/abs/2309.17054)|null|
-|**2023-09-29**|**Simultaneous Synchronization and Calibration for Wide-baseline Stereo Event Cameras**|Wanli Xing et.al.|[2309.16990](http://arxiv.org/abs/2309.16990)|null|
+|**2023-09-29**|**Simultaneous Synchronization and Calibration for Wide-baseline Stereo Event Cameras**|Wanli Xing et.al.|[2309.16990](http://arxiv.org/abs/2309.16990)|**[link](https://github.com/forrest1901/ssac)**|
 |**2023-09-29**|**SpikeMOT: Event-based Multi-Object Tracking with Sparse Motion Features**|Song Wang et.al.|[2309.16987](http://arxiv.org/abs/2309.16987)|null|
 |**2023-09-29**|**CrossZoom: Simultaneously Motion Deblurring and Event Super-Resolving**|Chi Zhang et.al.|[2309.16949](http://arxiv.org/abs/2309.16949)|null|
 |**2023-09-26**|**RPEFlow: Multimodal Fusion of RGB-PointCloud-Event for Joint Optical Flow and Scene Flow Estimation**|Zhexiong Wan et.al.|[2309.15082](http://arxiv.org/abs/2309.15082)|**[link](https://github.com/danqu130/RPEFlow)**|
-|**2023-09-26**|**Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline**|Xiao Wang et.al.|[2309.14611](http://arxiv.org/abs/2309.14611)|**[link](https://github.com/event-ahu/eventvot_benchmark)**|
+|**2023-09-26**|**Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline**|Xiao Wang et.al.|[2309.14611](http://arxiv.org/abs/2309.14611)|**[link](https://github.com/event-ahu/coesot)**|
 |**2023-09-22**|**SRFNet: Monocular Depth Estimation with Fine-grained Structure via Spatial Reliability-oriented Fusion of Frames and Events**|Tianbo Pan et.al.|[2309.12842](http://arxiv.org/abs/2309.12842)|null|
 |**2023-09-21**|**Heart Rate Detection Using an Event Camera**|Aniket Jagtap et.al.|[2309.11891](http://arxiv.org/abs/2309.11891)|null|
 |**2023-09-20**|**STARNet: Sensor Trustworthiness and Anomaly Recognition via Approximated Likelihood Regret for Robust Edge Autonomy**|Nastaran Darabi et.al.|[2309.11006](http://arxiv.org/abs/2309.11006)|null|
@@ -2553,7 +2553,7 @@ layout: default
 |**2023-09-29**|**A rigorous benchmarking of methods for SARS-CoV-2 lineage abundance estimation in wastewater**|Viorel Munteanu et.al.|[2309.16994](http://arxiv.org/abs/2309.16994)|null|
 |**2023-09-29**|**SpikeMOT: Event-based Multi-Object Tracking with Sparse Motion Features**|Song Wang et.al.|[2309.16987](http://arxiv.org/abs/2309.16987)|null|
 |**2023-09-28**|**Vidaptive: Efficient and Responsive Rate Control for Real-Time Video on Variable Networks**|Pantea Karimi et.al.|[2309.16869](http://arxiv.org/abs/2309.16869)|null|
-|**2023-09-28**|**A Variational Spike-and-Slab Approach for Group Variable Selection**|Buyu Lin et.al.|[2309.16855](http://arxiv.org/abs/2309.16855)|null|
+|**2023-09-28**|**A Variational Spike-and-Slab Approach for Group Variable Selection**|Buyu Lin et.al.|[2309.16855](http://arxiv.org/abs/2309.16855)|**[link](https://github.com/howardgech/gvssb)**|
 |**2023-09-28**|**Ultra-low-power Image Classification on Neuromorphic Hardware**|Gregor Lenz et.al.|[2309.16795](http://arxiv.org/abs/2309.16795)|**[link](https://github.com/biphasic/quartz-on-loihi)**|
 |**2023-09-28**|**Perverse coherent extensions on Calabi-Yau threefolds and representations of cohomological Hall algebras**|Dylan Butson et.al.|[2309.16582](http://arxiv.org/abs/2309.16582)|null|
 |**2023-09-28**|**Feed-forward and recurrent inhibition for compressing and classifying high dynamic range biosignals in spiking neural network architectures**|Rachel Sava et.al.|[2309.16425](http://arxiv.org/abs/2309.16425)|null|
