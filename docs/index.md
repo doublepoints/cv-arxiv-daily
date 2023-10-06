@@ -1,4 +1,4 @@
-## <a id=top></a>Updated on 2023.10.05
+## <a id=top></a>Updated on 2023.10.06
 ---
 layout: default
 ---
@@ -8,7 +8,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.05
+## Updated on 2023.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## <a id=slam>SLAM</a>
@@ -575,7 +575,7 @@ layout: default
 |**2023-10-04**|**Active Visual Localization for Multi-Agent Collaboration: A Data-Driven Approach**|Matthew Hanlon et.al.|[2310.02650](http://arxiv.org/abs/2310.02650)|null|
 |**2023-10-02**|**NEUCORE: Neural Concept Reasoning for Composed Image Retrieval**|Shu Zhao et.al.|[2310.01358](http://arxiv.org/abs/2310.01358)|null|
 |**2023-10-02**|**Leveraging Cutting Edge Deep Learning Based Image Matching for Reconstructing a Large Scene from Sparse Images**|Georg Bökman et.al.|[2310.01092](http://arxiv.org/abs/2310.01092)|null|
-|**2023-10-02**|**PlaceNav: Topological Navigation through Place Recognition**|Lauri Suomela et.al.|[2309.17260](http://arxiv.org/abs/2309.17260)|null|
+|**2023-10-05**|**PlaceNav: Topological Navigation through Place Recognition**|Lauri Suomela et.al.|[2309.17260](http://arxiv.org/abs/2309.17260)|null|
 |**2023-09-29**|**Segment Anything Model is a Good Teacher for Local Feature Learning**|Jingqian Wu et.al.|[2309.16992](http://arxiv.org/abs/2309.16992)|**[link](https://github.com/vignywang/samfeat)**|
 |**2023-09-28**|**Dark Side Augmentation: Generating Diverse Night Examples for Metric Learning**|Albert Mohwald et.al.|[2309.16351](http://arxiv.org/abs/2309.16351)|**[link](https://github.com/mohwald/gandtr)**|
 |**2023-09-28**|**FORB: A Flat Object Retrieval Benchmark for Universal Image Embedding**|Pengxiang Wu et.al.|[2309.16249](http://arxiv.org/abs/2309.16249)|**[link](https://github.com/pxiangwu/forb)**|
@@ -1998,14 +1998,14 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-04**|**Graph data modelling for outcome prediction in oropharyngeal cancer patients**|Nithya Bhasker et.al.|[2310.02931](http://arxiv.org/abs/2310.02931)|null|
-|**2023-10-04**|**Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection**|Xiangyu Dong et.al.|[2310.02861](http://arxiv.org/abs/2310.02861)|null|
+|**2023-10-05**|**Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection**|Xiangyu Dong et.al.|[2310.02861](http://arxiv.org/abs/2310.02861)|null|
 |**2023-10-04**|**Graph Neural Networks and Time Series as Directed Graphs for Quality Recognition**|Angelica Simonetti et.al.|[2310.02774](http://arxiv.org/abs/2310.02774)|null|
 |**2023-10-04**|**Learning adjacency matrix for dynamic graph neural network**|Osama Ahmad et.al.|[2310.02606](http://arxiv.org/abs/2310.02606)|null|
 |**2023-10-04**|**Neural Bayes Estimators for Irregular Spatial Data using Graph Neural Networks**|Matthew Sainsbury-Dale et.al.|[2310.02600](http://arxiv.org/abs/2310.02600)|**[link](https://github.com/msainsburydale/neuralestimatorsgnn)**|
 |**2023-10-04**|**On the Stability of Expressive Positional Encodings for Graph Neural Networks**|Yinan Huang et.al.|[2310.02579](http://arxiv.org/abs/2310.02579)|null|
 |**2023-10-04**|**Stand for Something or Fall for Everything: Predict Misinformation Spread with Stance-Aware Graph Neural Networks**|Zihan Chen et.al.|[2310.02568](http://arxiv.org/abs/2310.02568)|null|
 |**2023-10-03**|**EGraFFBench: Evaluation of Equivariant Graph Neural Network Force Fields for Atomistic Simulations**|Vaibhav Bihani et.al.|[2310.02428](http://arxiv.org/abs/2310.02428)|null|
-|**2023-10-03**|**Probabilistically Rewired Message-Passing Neural Networks**|Chendi Qian et.al.|[2310.02156](http://arxiv.org/abs/2310.02156)|null|
+|**2023-10-05**|**Probabilistically Rewired Message-Passing Neural Networks**|Chendi Qian et.al.|[2310.02156](http://arxiv.org/abs/2310.02156)|null|
 |**2023-10-03**|**Graph Neural Network-based EEG Classification: A Survey**|Dominik Klepl et.al.|[2310.02152](http://arxiv.org/abs/2310.02152)|null|
 |**2023-10-03**|**Controlling Topic-Focus Articulation in Meaning-to-Text Generation using Graph Neural Networks**|Chunliu Wang et.al.|[2310.02053](http://arxiv.org/abs/2310.02053)|null|
 |**2023-10-03**|**DeepHGCN: Toward Deeper Hyperbolic Graph Convolutional Networks**|Jiaxu Liu et.al.|[2310.02027](http://arxiv.org/abs/2310.02027)|null|
@@ -2503,7 +2503,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-04**|**GET: Group Event Transformer for Event-Based Vision**|Yansong Peng et.al.|[2310.02642](http://arxiv.org/abs/2310.02642)|null|
+|**2023-10-04**|**GET: Group Event Transformer for Event-Based Vision**|Yansong Peng et.al.|[2310.02642](http://arxiv.org/abs/2310.02642)|**[link](https://github.com/peterande/get-group-event-transformer)**|
 |**2023-10-03**|**EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields**|Anish Bhattacharya et.al.|[2310.02437](http://arxiv.org/abs/2310.02437)|null|
 |**2023-10-03**|**Event-Enhanced Multi-Modal Spiking Neural Network for Dynamic Obstacle Avoidance**|Yang Wang et.al.|[2310.02361](http://arxiv.org/abs/2310.02361)|null|
 |**2023-10-01**|**EventLFM: Event Camera integrated Fourier Light Field Microscopy for Ultrafast 3D imaging**|Ruipeng Guo et.al.|[2310.00730](http://arxiv.org/abs/2310.00730)|null|
