@@ -1490,6 +1490,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**Drag View: Generalizable Novel View Synthesis with Unposed Imagery**|Zhiwen Fan et.al.|[2310.03704](http://arxiv.org/abs/2310.03704)|null|
+|**2023-10-05**|**Targeted Adversarial Attacks on Generalizable Neural Radiance Fields**|Andras Horvath et.al.|[2310.03578](http://arxiv.org/abs/2310.03578)|null|
+|**2023-10-05**|**BID-NeRF: RGB-D image pose estimation with inverted Neural Radiance Fields**|Ágoston István Csehi et.al.|[2310.03563](http://arxiv.org/abs/2310.03563)|null|
+|**2023-10-04**|**Shielding the Unseen: Privacy Protection through Poisoning NeRF with Spatial Deformation**|Yihan Wu et.al.|[2310.03125](http://arxiv.org/abs/2310.03125)|null|
 |**2023-10-04**|**T $^3$ Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977](http://arxiv.org/abs/2310.02977)|null|
 |**2023-10-04**|**ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF**|Jangho Park et.al.|[2310.02712](http://arxiv.org/abs/2310.02712)|null|
 |**2023-10-04**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|null|
@@ -2021,12 +2025,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks**|Taraneh Younesian et.al.|[2310.03399](http://arxiv.org/abs/2310.03399)|**[link](https://github.com/dfdazac/grapes)**|
+|**2023-10-05**|**Fragment-based Pretraining and Finetuning on Molecular Graphs**|Kha-Dinh Luong et.al.|[2310.03274](http://arxiv.org/abs/2310.03274)|null|
+|**2023-10-04**|**Deep reinforcement learning for machine scheduling: Methodology, the state-of-the-art, and future directions**|Maziyar Khadivi et.al.|[2310.03195](http://arxiv.org/abs/2310.03195)|null|
 |**2023-10-04**|**Graph data modelling for outcome prediction in oropharyngeal cancer patients**|Nithya Bhasker et.al.|[2310.02931](http://arxiv.org/abs/2310.02931)|null|
 |**2023-10-05**|**Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection**|Xiangyu Dong et.al.|[2310.02861](http://arxiv.org/abs/2310.02861)|null|
 |**2023-10-04**|**Graph Neural Networks and Time Series as Directed Graphs for Quality Recognition**|Angelica Simonetti et.al.|[2310.02774](http://arxiv.org/abs/2310.02774)|null|
 |**2023-10-04**|**Learning adjacency matrix for dynamic graph neural network**|Osama Ahmad et.al.|[2310.02606](http://arxiv.org/abs/2310.02606)|null|
 |**2023-10-04**|**Neural Bayes Estimators for Irregular Spatial Data using Graph Neural Networks**|Matthew Sainsbury-Dale et.al.|[2310.02600](http://arxiv.org/abs/2310.02600)|**[link](https://github.com/msainsburydale/neuralestimatorsgnn)**|
-|**2023-10-04**|**On the Stability of Expressive Positional Encodings for Graph Neural Networks**|Yinan Huang et.al.|[2310.02579](http://arxiv.org/abs/2310.02579)|null|
+|**2023-10-04**|**On the Stability of Expressive Positional Encodings for Graph Neural Networks**|Yinan Huang et.al.|[2310.02579](http://arxiv.org/abs/2310.02579)|**[link](https://github.com/Graph-COM/SPE)**|
 |**2023-10-04**|**Stand for Something or Fall for Everything: Predict Misinformation Spread with Stance-Aware Graph Neural Networks**|Zihan Chen et.al.|[2310.02568](http://arxiv.org/abs/2310.02568)|null|
 |**2023-10-03**|**EGraFFBench: Evaluation of Equivariant Graph Neural Network Force Fields for Atomistic Simulations**|Vaibhav Bihani et.al.|[2310.02428](http://arxiv.org/abs/2310.02428)|null|
 |**2023-10-05**|**Probabilistically Rewired Message-Passing Neural Networks**|Chendi Qian et.al.|[2310.02156](http://arxiv.org/abs/2310.02156)|null|
@@ -2588,6 +2595,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**Efficient Video and Audio processing with Loihi 2**|Sumit Bam Shrestha et.al.|[2310.03251](http://arxiv.org/abs/2310.03251)|null|
+|**2023-10-04**|**Multi-modal Gaussian Process Variational Autoencoders for Neural and Behavioral Data**|Rabia Gondur et.al.|[2310.03111](http://arxiv.org/abs/2310.03111)|null|
 |**2023-10-04**|**Spike Accumulation Forwarding for Effective Training of Spiking Neural Networks**|Ryuji Saiin et.al.|[2310.02772](http://arxiv.org/abs/2310.02772)|null|
 |**2023-10-03**|**Graphene-Based Artificial Dendrites for Bio-Inspired Learning in Spiking Neuromorphic Systems**|Samuel Liu et.al.|[2310.02364](http://arxiv.org/abs/2310.02364)|null|
 |**2023-10-03**|**Event-Enhanced Multi-Modal Spiking Neural Network for Dynamic Obstacle Avoidance**|Yang Wang et.al.|[2310.02361](http://arxiv.org/abs/2310.02361)|null|
@@ -2828,6 +2837,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**Efficient Video and Audio processing with Loihi 2**|Sumit Bam Shrestha et.al.|[2310.03251](http://arxiv.org/abs/2310.03251)|null|
 |**2023-10-04**|**Insights into oscillator network dynamics using a phase-isostable framework**|Rachel Nicks et.al.|[2310.02725](http://arxiv.org/abs/2310.02725)|null|
 |**2023-10-03**|**Integrate-and-fire circuit for converting analog signals to spikes using phase encoding**|Javier Lopez-Randulfe et.al.|[2310.02055](http://arxiv.org/abs/2310.02055)|null|
 |**2023-09-28**|**Ultra-low-power Image Classification on Neuromorphic Hardware**|Gregor Lenz et.al.|[2309.16795](http://arxiv.org/abs/2309.16795)|**[link](https://github.com/biphasic/quartz-on-loihi)**|
