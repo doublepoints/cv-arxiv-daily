@@ -1,4 +1,4 @@
-## <a id=top></a>Updated on 2023.10.15
+## <a id=top></a>Updated on 2023.10.16
 ---
 layout: default
 ---
@@ -8,7 +8,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.15
+## Updated on 2023.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## <a id=slam>SLAM</a>
