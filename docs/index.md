@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**Converting Depth Images and Point Clouds for Feature-based Pose Estimation**|Robert Lösch et.al.|[2310.14924](http://arxiv.org/abs/2310.14924)|**[link](https://github.com/rlsch/depth-conversions)**|
 |**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931](http://arxiv.org/abs/2310.10931)|**[link](https://github.com/yanyan-li/open-structure)**|
 |**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082](http://arxiv.org/abs/2310.08082)|null|
 |**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249](http://arxiv.org/abs/2310.06249)|null|
@@ -440,6 +441,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-22**|**A Quantitative Evaluation of Dense 3D Reconstruction of Sinus Anatomy from Monocular Endoscopic Video**|Jan Emily Mangulabnan et.al.|[2310.14364](http://arxiv.org/abs/2310.14364)|null|
 |**2023-10-20**|**FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer**|Xinyu Zhang et.al.|[2310.13605](http://arxiv.org/abs/2310.13605)|null|
 |**2023-10-09**|**Colmap-PCD: An Open-source Tool for Fine Image-to-point cloud Registration**|Chunge Bai et.al.|[2310.05504](http://arxiv.org/abs/2310.05504)|**[link](https://github.com/xiaobaiiiiii/colmap-pcd)**|
 |**2023-10-08**|**LocoNeRF: A NeRF-based Approach for Local Structure from Motion for Precise Localization**|Artem Nenashev et.al.|[2310.05134](http://arxiv.org/abs/2310.05134)|null|
@@ -578,6 +580,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**Semantic-Aware Adversarial Training for Reliable Deep Hashing Retrieval**|Xu Yuan et.al.|[2310.14637](http://arxiv.org/abs/2310.14637)|**[link](https://github.com/xandery-geek/SAAT)**|
+|**2023-10-21**|**Large Language Models and Multimodal Retrieval for Visual Word Sense Disambiguation**|Anastasia Kritharoula et.al.|[2310.14025](http://arxiv.org/abs/2310.14025)|null|
 |**2023-10-20**|**FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer**|Xinyu Zhang et.al.|[2310.13605](http://arxiv.org/abs/2310.13605)|null|
 |**2023-10-20**|**CylinderTag: An Accurate and Flexible Marker for Cylinder-Shape Objects Pose Estimation Based on Projective Invariants**|Shaoan Wang et.al.|[2310.13320](http://arxiv.org/abs/2310.13320)|**[link](https://github.com/wsakobe/cylindertag)**|
 |**2023-10-19**|**Representation Learning via Consistent Assignment of Views over Random Partitions**|Thalles Silva et.al.|[2310.12692](http://arxiv.org/abs/2310.12692)|**[link](https://github.com/sthalles/carp)**|
@@ -1326,6 +1330,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**RD-VIO: Robust Visual-Inertial Odometry for Mobile Augmented Reality in Dynamic Environments**|Jinyu Li et.al.|[2310.15072](http://arxiv.org/abs/2310.15072)|null|
+|**2023-10-23**|**Player Re-Identification Using Body Part Appearences**|Mahesh Bhosale et.al.|[2310.14469](http://arxiv.org/abs/2310.14469)|null|
 |**2023-10-20**|**FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer**|Xinyu Zhang et.al.|[2310.13605](http://arxiv.org/abs/2310.13605)|null|
 |**2023-10-19**|**RGM: A Robust Generalist Matching Model**|Songyan Zhang et.al.|[2310.11755](http://arxiv.org/abs/2310.11755)|**[link](https://github.com/aim-uofa/rgm)**|
 |**2023-10-07**|**UFD-PRiME: Unsupervised Joint Learning of Optical Flow and Stereo Depth through Pixel-Level Rigid Motion Estimation**|Shuai Yuan et.al.|[2310.04712](http://arxiv.org/abs/2310.04712)|null|
@@ -1504,6 +1510,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**CAwa-NeRF: Instant Learning of Compression-Aware NeRF Features**|Omnia Mahmoud et.al.|[2310.14695](http://arxiv.org/abs/2310.14695)|null|
+|**2023-10-23**|**VQ-NeRF: Vector Quantization Enhances Implicit Neural Representations**|Yiying Yang et.al.|[2310.14487](http://arxiv.org/abs/2310.14487)|null|
 |**2023-10-20**|**ManifoldNeRF: View-dependent Image Feature Supervision for Few-shot Neural Radiance Fields**|Daiju Kanaoka et.al.|[2310.13670](http://arxiv.org/abs/2310.13670)|null|
 |**2023-10-20**|**Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos**|Seoha Kim et.al.|[2310.13356](http://arxiv.org/abs/2310.13356)|null|
 |**2023-10-20**|**UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene**|Jiaming Gu et.al.|[2310.13263](http://arxiv.org/abs/2310.13263)|null|
@@ -2058,6 +2066,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**Accelerate Microstructure Evolution Simulation Using Graph Neural Networks with Adaptive Spatiotemporal Resolution**|Shaoxun Fan et.al.|[2310.15153](http://arxiv.org/abs/2310.15153)|null|
+|**2023-10-23**|**Projected Stochastic Gradient Descent with Quantum Annealed Binary Gradients**|Maximilian Krahn et.al.|[2310.15128](http://arxiv.org/abs/2310.15128)|null|
+|**2023-10-23**|**GRENADE: Graph-Centric Language Model for Self-Supervised Representation Learning on Text-Attributed Graphs**|Yichuan Li et.al.|[2310.15109](http://arxiv.org/abs/2310.15109)|null|
+|**2023-10-23**|**Neural Snowflakes: Universal Latent Graph Inference via Trainable Latent Geometries**|Haitz Sáez de Ocáriz Borde et.al.|[2310.15003](http://arxiv.org/abs/2310.15003)|null|
+|**2023-10-23**|**A Study on Knowledge Graph Embeddings and Graph Neural Networks for Web Of Things**|Rohith Teja Mittakola et.al.|[2310.14866](http://arxiv.org/abs/2310.14866)|**[link](https://github.com/kgrl2021/submission-one)**|
+|**2023-10-23**|**ULTRA-DP: Unifying Graph Pre-training with Multi-task Graph Dual Prompt**|Mouxiang Chen et.al.|[2310.14845](http://arxiv.org/abs/2310.14845)|null|
+|**2023-10-23**|**Rethinking Tokenizer and Decoder in Masked Graph Modeling for Molecules**|Zhiyuan Liu et.al.|[2310.14753](http://arxiv.org/abs/2310.14753)|**[link](https://github.com/syr-cn/simsgt)**|
+|**2023-10-23**|**A Hybrid GNN approach for predicting node data for 3D meshes**|Shwetha Salimath et.al.|[2310.14707](http://arxiv.org/abs/2310.14707)|null|
+|**2023-10-23**|**Predicting Accurate Lagrangian Multipliers for Mixed Integer Linear Programs**|Francesco Demelas et.al.|[2310.14659](http://arxiv.org/abs/2310.14659)|null|
+|**2023-10-23**|**GNNEvaluator: Evaluating GNN Performance On Unseen Graphs Without Labels**|Xin Zheng et.al.|[2310.14586](http://arxiv.org/abs/2310.14586)|null|
 |**2023-10-20**|**ReLM: Leveraging Language Models for Enhanced Chemical Reaction Prediction**|Yaorui Shi et.al.|[2310.13590](http://arxiv.org/abs/2310.13590)|**[link](https://github.com/syr-cn/relm)**|
 |**2023-10-20**|**SPARE: A Single-Pass Neural Model for Relational Databases**|Benjamin Hilprecht et.al.|[2310.13581](http://arxiv.org/abs/2310.13581)|null|
 |**2023-10-20**|**Multiscale Superpixel Structured Difference Graph Convolutional Network for VL Representation**|Siyu Zhang et.al.|[2310.13447](http://arxiv.org/abs/2310.13447)|null|
@@ -2651,6 +2669,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-22**|**Distractor-aware Event-based Tracking**|Yingkai Fu et.al.|[2310.14194](http://arxiv.org/abs/2310.14194)|null|
 |**2023-10-15**|**Free as a Bird: Event-based Dynamic Sense-and-Avoid for Ornithopter Robot Flight**|J. P. Rodríguez-Gómez et.al.|[2310.09875](http://arxiv.org/abs/2310.09875)|null|
 |**2023-10-11**|**SpikePoint: An Efficient Point-based Spiking Neural Network for Event Cameras Action Recognition**|Hongwei Ren et.al.|[2310.07189](http://arxiv.org/abs/2310.07189)|null|
 |**2023-10-04**|**GET: Group Event Transformer for Event-Based Vision**|Yansong Peng et.al.|[2310.02642](http://arxiv.org/abs/2310.02642)|**[link](https://github.com/peterande/get-group-event-transformer)**|
@@ -2710,6 +2729,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**LC-TTFS: Towards Lossless Network Conversion for Spiking Neural Networks with TTFS Coding**|Qu Yang et.al.|[2310.14978](http://arxiv.org/abs/2310.14978)|null|
+|**2023-10-23**|**ESVAE: An Efficient Spiking Variational Autoencoder with Reparameterizable Poisson Spiking Sampling**|Qiugang Zhan et.al.|[2310.14839](http://arxiv.org/abs/2310.14839)|**[link](https://github.com/qgzhan/esvae)**|
+|**2023-10-23**|**Spiking mode-based neural networks**|Zhanghan Lin et.al.|[2310.14621](http://arxiv.org/abs/2310.14621)|null|
+|**2023-10-23**|**Real eigenvector distributions of random tensors with backgrounds and random deviations**|Naoki Sasakura et.al.|[2310.14589](http://arxiv.org/abs/2310.14589)|null|
+|**2023-10-23**|**Device Detection and Channel Estimation in MTC with Correlated Activity Pattern**|Hamza Djelouat et.al.|[2310.14578](http://arxiv.org/abs/2310.14578)|null|
+|**2023-10-23**|**Tensor Decomposition Based Attention Module for Spiking Neural Networks**|Haoyu Deng et.al.|[2310.14576](http://arxiv.org/abs/2310.14576)|null|
+|**2023-10-23**|**Distributed estimation of spiked eigenvalues in spiked population models**|Lu Yan et.al.|[2310.14518](http://arxiv.org/abs/2310.14518)|null|
+|**2023-10-21**|**Spectral Phase Transitions in Non-Linear Wigner Spiked Models**|Alice Guionnet et.al.|[2310.14055](http://arxiv.org/abs/2310.14055)|null|
+|**2023-10-21**|**Asymptotic properties of spiked eigenvalues and eigenvectors of signal-plus-noise matrices with their applications**|Xiaoyu Liu et.al.|[2310.13939](http://arxiv.org/abs/2310.13939)|null|
+|**2023-10-20**|**Multi-level, Forming Free, Bulk Switching Trilayer RRAM for Neuromorphic Computing at the Edge**|Jaeseoung Park et.al.|[2310.13844](http://arxiv.org/abs/2310.13844)|null|
 |**2023-10-19**|**ITER-IA 3D MHD Simulations of Shattered Pellet Injection(SPI) -- D1.3 Code Validation (DIII-D)**|Charlson. C. Kim et.al.|[2310.13172](http://arxiv.org/abs/2310.13172)|null|
 |**2023-10-18**|**Geometric slow-fast analysis of a hybrid pituitary cell model with stochastic ion channel dynamics**|Francesco Montefusco et.al.|[2310.12005](http://arxiv.org/abs/2310.12005)|null|
 |**2023-10-16**|**Stochastic spin-orbit-torque synapse and its application in uncertainty quantification**|Cen Wang et.al.|[2310.10317](http://arxiv.org/abs/2310.10317)|null|
