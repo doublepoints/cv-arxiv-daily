@@ -1537,6 +1537,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**FPO++: Efficient Encoding and Rendering of Dynamic Neural Radiance Fields by Analyzing and Enhancing Fourier PlenOctrees**|Saskia Rabich et.al.|[2310.20710](http://arxiv.org/abs/2310.20710)|null|
+|**2023-10-31**|**NeRF Revisited: Fixing Quadrature Instability in Volume Rendering**|Mikaela Angelina Uy et.al.|[2310.20685](http://arxiv.org/abs/2310.20685)|null|
+|**2023-10-30**|**Generative Neural Fields by Mixtures of Neural Implicit Functions**|Tackgeun You et.al.|[2310.19464](http://arxiv.org/abs/2310.19464)|null|
 |**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/abs/2310.18917)|null|
 |**2023-10-28**|**INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings**|Amirhossein Kazerouni et.al.|[2310.18846](http://arxiv.org/abs/2310.18846)|null|
 |**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994](http://arxiv.org/abs/2310.17994)|null|
@@ -2106,6 +2109,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**Stochastic Gradient Descent for Gaussian Processes Done Right**|Jihao Andreas Lin et.al.|[2310.20581](http://arxiv.org/abs/2310.20581)|null|
+|**2023-10-31**|**Privacy-preserving design of graph neural networks with applications to vertical federated learning**|Ruofan Wu et.al.|[2310.20552](http://arxiv.org/abs/2310.20552)|null|
+|**2023-10-31**|**Enhancing Graph Neural Networks with Quantum Computed Encodings**|Slimane Thabet et.al.|[2310.20519](http://arxiv.org/abs/2310.20519)|null|
+|**2023-10-31**|**Collaborative Decision-Making Using Spatiotemporal Graphs in Connected Autonomy**|Peng Gao et.al.|[2310.20491](http://arxiv.org/abs/2310.20491)|null|
+|**2023-10-31**|**Distil the informative essence of loop detector data set: Is network-level traffic forecasting hungry for more data?**|Guopeng Li et.al.|[2310.20366](http://arxiv.org/abs/2310.20366)|**[link](https://github.com/romainlitud/uncertainty-aware-traffic-speed-flow-demand-prediction)**|
+|**2023-10-30**|**On the data-driven description of lattice materials mechanics**|Ismael Ben-Yelun et.al.|[2310.20056](http://arxiv.org/abs/2310.20056)|null|
+|**2023-10-30**|**Interpretable Prototype-based Graph Information Bottleneck**|Sangwoo Seo et.al.|[2310.19906](http://arxiv.org/abs/2310.19906)|**[link](https://github.com/sang-woo-seo/pgib)**|
+|**2023-10-30**|**Autoregressive Renaissance in Neural PDE Solvers**|Yolanne Yi Ran Lee et.al.|[2310.19763](http://arxiv.org/abs/2310.19763)|null|
+|**2023-10-30**|**Modeling Dynamics over Meshes with Gauge Equivariant Nonlinear Message Passing**|Jung Yeon Park et.al.|[2310.19589](http://arxiv.org/abs/2310.19589)|null|
+|**2023-10-30**|**Coarse-grained crystal graph neural networks for reticular materials design**|Vadim Korolev et.al.|[2310.19500](http://arxiv.org/abs/2310.19500)|null|
 |**2023-10-29**|**MAG-GNN: Reinforcement Learning Boosted Graph Neural Network**|Lecheng Kong et.al.|[2310.19142](http://arxiv.org/abs/2310.19142)|null|
 |**2023-10-29**|**The Weisfeiler-Leman Dimension of Existential Conjunctive Queries**|Andreas Göbel et.al.|[2310.19006](http://arxiv.org/abs/2310.19006)|null|
 |**2023-10-29**|**Hyperbolic Graph Neural Networks at Scale: A Meta Learning Approach**|Nurendra Choudhary et.al.|[2310.18918](http://arxiv.org/abs/2310.18918)|null|
