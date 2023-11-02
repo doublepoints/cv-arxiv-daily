@@ -596,6 +596,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-01**|**DINO-Mix: Enhancing Visual Place Recognition with Foundational Vision Model and Feature Mixing**|Gaoshuang Huang et.al.|[2311.00230](http://arxiv.org/abs/2311.00230)|null|
 |**2023-10-29**|**Identifiable Contrastive Learning with Automatic Feature Importance Discovery**|Qi Zhang et.al.|[2310.18904](http://arxiv.org/abs/2310.18904)|**[link](https://github.com/pku-ml/tri-factor-contrastive-learning)**|
 |**2023-10-27**|**LipSim: A Provably Robust Perceptual Similarity Metric**|Sara Ghazanfari et.al.|[2310.18274](http://arxiv.org/abs/2310.18274)|**[link](https://github.com/saraghazanfari/lipsim)**|
 |**2023-10-27**|**Split Covariance Intersection Filter Based Visual Localization With Accurate AprilTag Map For Warehouse Robot Navigation**|Susu Fang et.al.|[2310.17879](http://arxiv.org/abs/2310.17879)|null|
@@ -2109,6 +2110,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-01**|**Kronecker-Factored Approximate Curvature for Modern Neural Network Architectures**|Runa Eschenhagen et.al.|[2311.00636](http://arxiv.org/abs/2311.00636)|null|
+|**2023-11-01**|**Robust Graph Clustering via Meta Weighting for Noisy Graphs**|Hyeonsoo Jo et.al.|[2311.00322](http://arxiv.org/abs/2311.00322)|**[link](https://github.com/hyeonsoojo/metagc)**|
+|**2023-11-01**|**Entity Alignment Method of Science and Technology Patent based on Graph Convolution Network and Information Fusion**|Runze Fang et.al.|[2311.00300](http://arxiv.org/abs/2311.00300)|null|
+|**2023-11-01**|**Semantic Representation Learning of Scientific Literature based on Adaptive Feature and Graph Neural Network**|Hongrui Gao et.al.|[2311.00296](http://arxiv.org/abs/2311.00296)|null|
+|**2023-11-01**|**Graph Representation Learning for Infrared and Visible Image Fusion**|Jing Li et.al.|[2311.00291](http://arxiv.org/abs/2311.00291)|null|
+|**2023-11-01**|**Active Neural Topological Mapping for Multi-Agent Exploration**|Xinyi Yang et.al.|[2311.00252](http://arxiv.org/abs/2311.00252)|null|
+|**2023-10-31**|**Graph Neural Networks for Road Safety Modeling: Datasets and Evaluations for Accident Analysis**|Abhinav Nippani et.al.|[2311.00164](http://arxiv.org/abs/2311.00164)|**[link](https://github.com/virtuosoresearch/ml4roadsafety)**|
 |**2023-10-31**|**Stochastic Gradient Descent for Gaussian Processes Done Right**|Jihao Andreas Lin et.al.|[2310.20581](http://arxiv.org/abs/2310.20581)|null|
 |**2023-10-31**|**Privacy-preserving design of graph neural networks with applications to vertical federated learning**|Ruofan Wu et.al.|[2310.20552](http://arxiv.org/abs/2310.20552)|null|
 |**2023-10-31**|**Enhancing Graph Neural Networks with Quantum Computed Encodings**|Slimane Thabet et.al.|[2310.20519](http://arxiv.org/abs/2310.20519)|null|
@@ -2765,6 +2773,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-01**|**Enhancing Traffic Object Detection in Variable Illumination with RGB-Event Fusion**|Zhanwen Liu et.al.|[2311.00436](http://arxiv.org/abs/2311.00436)|null|
+|**2023-11-01**|**Event-based Background-Oriented Schlieren**|Shintaro Shiba et.al.|[2311.00434](http://arxiv.org/abs/2311.00434)|**[link](https://github.com/tub-rip/event_based_bos)**|
 |**2023-10-24**|**Neuromorphic Sampling of Sparse Signals**|Abijith Jagannath Kamath et.al.|[2310.15750](http://arxiv.org/abs/2310.15750)|null|
 |**2023-10-29**|**Distractor-aware Event-based Tracking**|Yingkai Fu et.al.|[2310.14194](http://arxiv.org/abs/2310.14194)|null|
 |**2023-10-15**|**Free as a Bird: Event-based Dynamic Sense-and-Avoid for Ornithopter Robot Flight**|J. P. Rodríguez-Gómez et.al.|[2310.09875](http://arxiv.org/abs/2310.09875)|null|
@@ -2828,6 +2838,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-01**|**Precise Error Rates for Computationally Efficient Testing**|Ankur Moitra et.al.|[2311.00289](http://arxiv.org/abs/2311.00289)|null|
+|**2023-10-31**|**Neuroformer: Multimodal and Multitask Generative Pretraining for Brain Data**|Antonis Antoniades et.al.|[2311.00136](http://arxiv.org/abs/2311.00136)|null|
 |**2023-10-29**|**Expanding memory in recurrent spiking networks**|Ismael Balafrej et.al.|[2310.19067](http://arxiv.org/abs/2310.19067)|null|
 |**2023-10-29**|**A multi-modal table tennis robot system**|Andreas Ziegler et.al.|[2310.19062](http://arxiv.org/abs/2310.19062)|null|
 |**2023-10-27**|**Confucius Queue Management: Be Fair But Not Too Fast**|Zili Meng et.al.|[2310.18030](http://arxiv.org/abs/2310.18030)|null|
