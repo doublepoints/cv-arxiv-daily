@@ -27,6 +27,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**Dense Visual Odometry Using Genetic Algorithm**|Slimane Djema et.al.|[2311.06149](http://arxiv.org/abs/2311.06149)|null|
 |**2023-11-07**|**Inertial Guided Uncertainty Estimation of Feature Correspondence in Visual-Inertial Odometry/SLAM**|Seongwook Yoon et.al.|[2311.03722](http://arxiv.org/abs/2311.03722)|null|
 |**2023-10-23**|**Converting Depth Images and Point Clouds for Feature-based Pose Estimation**|Robert Lösch et.al.|[2310.14924](http://arxiv.org/abs/2310.14924)|**[link](https://github.com/rlsch/depth-conversions)**|
 |**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931](http://arxiv.org/abs/2310.10931)|**[link](https://github.com/yanyan-li/open-structure)**|
@@ -456,6 +457,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**MonoProb: Self-Supervised Monocular Depth Estimation with Interpretable Uncertainty**|Remi Marsal Florian Chabot et.al.|[2311.06137](http://arxiv.org/abs/2311.06137)|null|
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-10-22**|**A Quantitative Evaluation of Dense 3D Reconstruction of Sinus Anatomy from Monocular Endoscopic Video**|Jan Emily Mangulabnan et.al.|[2310.14364](http://arxiv.org/abs/2310.14364)|null|
 |**2023-10-20**|**FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer**|Xinyu Zhang et.al.|[2310.13605](http://arxiv.org/abs/2310.13605)|null|
@@ -598,6 +600,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**Attributes Grouping and Mining Hashing for Fine-Grained Image Retrieval**|Xin Lu et.al.|[2311.06067](http://arxiv.org/abs/2311.06067)|null|
 |**2023-11-08**|**Energy-efficient Wireless Image Retrieval for IoT Devices by Transmitting a TinyML Model**|Junya Shiraishi et.al.|[2311.04788](http://arxiv.org/abs/2311.04788)|null|
 |**2023-11-08**|**Training CLIP models on Data from Scientific Papers**|Calvin Metzger et.al.|[2311.04711](http://arxiv.org/abs/2311.04711)|**[link](https://github.com/nopperl/clip_arxiv_pmc)**|
 |**2023-11-07**|**DeepPatent2: A Large-Scale Benchmarking Corpus for Technical Drawing Understanding**|Kehinde Ajayi et.al.|[2311.04098](http://arxiv.org/abs/2311.04098)|**[link](https://github.com/gofigure-lanl/figure-segmentation)**|
@@ -1550,6 +1553,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model**|Jiahao Li et.al.|[2311.06214](http://arxiv.org/abs/2311.06214)|null|
+|**2023-11-10**|**A Neural Height-Map Approach for the Binocular Photometric Stereo Problem**|Fotios Logothetis et.al.|[2311.05958](http://arxiv.org/abs/2311.05958)|null|
 |**2023-11-09**|**BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis**|Hao-Bin Duan et.al.|[2311.05521](http://arxiv.org/abs/2311.05521)|null|
 |**2023-11-09**|**Control3D: Towards Controllable Text-to-3D Generation**|Yang Chen et.al.|[2311.05461](http://arxiv.org/abs/2311.05461)|null|
 |**2023-11-08**|**LRM: Large Reconstruction Model for Single Image to 3D**|Yicong Hong et.al.|[2311.04400](http://arxiv.org/abs/2311.04400)|null|
@@ -2136,6 +2141,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**FourierGNN: Rethinking Multivariate Time Series Forecasting from a Pure Graph Perspective**|Kun Yi et.al.|[2311.06190](http://arxiv.org/abs/2311.06190)|null|
+|**2023-11-10**|**Interpretable Graph Anomaly Detection using Gradient Attention Maps**|Yifei Yang et.al.|[2311.06153](http://arxiv.org/abs/2311.06153)|null|
+|**2023-11-10**|**Going beyond persistent homology using persistent homology**|Johanna Immonen et.al.|[2311.06152](http://arxiv.org/abs/2311.06152)|null|
+|**2023-11-10**|**Privacy-Preserving Individual-Level COVID-19 Infection Prediction via Federated Graph Learning**|Wenjie Fu et.al.|[2311.06049](http://arxiv.org/abs/2311.06049)|null|
+|**2023-11-10**|**ID Embedding as Subtle Features of Content and Structure for Multimodal Recommendation**|Yuting Liu et.al.|[2311.05956](http://arxiv.org/abs/2311.05956)|null|
+|**2023-11-09**|**Dirichlet Energy Enhancement of Graph Neural Networks by Framelet Augmentation**|Jialin Chen et.al.|[2311.05767](http://arxiv.org/abs/2311.05767)|null|
+|**2023-11-09**|**Generative Explanations for Graph Neural Network: Methods and Evaluations**|Jialin Chen et.al.|[2311.05764](http://arxiv.org/abs/2311.05764)|null|
 |**2023-11-09**|**SIRE: scale-invariant, rotation-equivariant estimation of artery orientations using graph neural networks**|Dieuwertje Alblas et.al.|[2311.05400](http://arxiv.org/abs/2311.05400)|null|
 |**2023-11-09**|**Atom: Neural Traffic Compression with Spatio-Temporal Graph Neural Networks**|Paul Almasan et.al.|[2311.05337](http://arxiv.org/abs/2311.05337)|**[link](https://github.com/bnn-upc/atom_neural_traffic_compression)**|
 |**2023-11-09**|**Mixture of Weak & Strong Experts on Graphs**|Hanqing Zeng et.al.|[2311.05185](http://arxiv.org/abs/2311.05185)|null|
@@ -2846,7 +2858,7 @@
 |**2023-11-01**|**Enhancing Traffic Object Detection in Variable Illumination with RGB-Event Fusion**|Zhanwen Liu et.al.|[2311.00436](http://arxiv.org/abs/2311.00436)|null|
 |**2023-11-01**|**Event-based Background-Oriented Schlieren**|Shintaro Shiba et.al.|[2311.00434](http://arxiv.org/abs/2311.00434)|**[link](https://github.com/tub-rip/event_based_bos)**|
 |**2023-10-24**|**Neuromorphic Sampling of Sparse Signals**|Abijith Jagannath Kamath et.al.|[2310.15750](http://arxiv.org/abs/2310.15750)|null|
-|**2023-10-29**|**Distractor-aware Event-based Tracking**|Yingkai Fu et.al.|[2310.14194](http://arxiv.org/abs/2310.14194)|null|
+|**2023-11-10**|**Distractor-aware Event-based Tracking**|Yingkai Fu et.al.|[2310.14194](http://arxiv.org/abs/2310.14194)|null|
 |**2023-10-15**|**Free as a Bird: Event-based Dynamic Sense-and-Avoid for Ornithopter Robot Flight**|J. P. Rodríguez-Gómez et.al.|[2310.09875](http://arxiv.org/abs/2310.09875)|null|
 |**2023-10-11**|**SpikePoint: An Efficient Point-based Spiking Neural Network for Event Cameras Action Recognition**|Hongwei Ren et.al.|[2310.07189](http://arxiv.org/abs/2310.07189)|null|
 |**2023-10-04**|**GET: Group Event Transformer for Event-Based Vision**|Yansong Peng et.al.|[2310.02642](http://arxiv.org/abs/2310.02642)|**[link](https://github.com/peterande/get-group-event-transformer)**|
@@ -2908,6 +2920,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**Discrete synaptic events induce global oscillations in balanced neural networks**|Denis S. Goldobin et.al.|[2311.06159](http://arxiv.org/abs/2311.06159)|null|
+|**2023-11-10**|**Two-compartment neuronal spiking model expressing brain-state specific apical-amplification, -isolation and -drive regimes**|Elena Pastorelli et.al.|[2311.06074](http://arxiv.org/abs/2311.06074)|null|
+|**2023-11-10**|**Programmable Superconducting Optoelectronic Single-Photon Synapses with Integrated Multi-State Memory**|Bryce A. Primavera et.al.|[2311.05881](http://arxiv.org/abs/2311.05881)|null|
 |**2023-11-09**|**Firing rate distributions in plastic networks of spiking neurons**|Marina Vegué et.al.|[2311.05442](http://arxiv.org/abs/2311.05442)|null|
 |**2023-11-09**|**From "What" to "When" -- a Spiking Neural Network Predicting Rare Events and Time to their Occurrence**|Mikhail Kiselev et.al.|[2311.05210](http://arxiv.org/abs/2311.05210)|null|
 |**2023-11-09**|**Rethinking Residual Connection in Training Large-Scale Spiking Neural Networks**|Yudong Li et.al.|[2311.05171](http://arxiv.org/abs/2311.05171)|null|
@@ -3217,6 +3232,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**Two-compartment neuronal spiking model expressing brain-state specific apical-amplification, -isolation and -drive regimes**|Elena Pastorelli et.al.|[2311.06074](http://arxiv.org/abs/2311.06074)|null|
 |**2023-11-07**|**Freeness in cognitive science**|Ewa Gudowska-Nowak et.al.|[2311.04307](http://arxiv.org/abs/2311.04307)|null|
 |**2023-10-25**|**WaLiN-GUI: a graphical and auditory tool for neuron-based encoding**|Simon F. Müller-Cleve et.al.|[2310.16983](http://arxiv.org/abs/2310.16983)|**[link](https://github.com/event-driven-robotics/walin-gui)**|
 |**2023-10-20**|**Learning Successor Representations with Distributed Hebbian Temporal Memory**|Evgenii Dzhivelikian et.al.|[2310.13391](http://arxiv.org/abs/2310.13391)|null|
