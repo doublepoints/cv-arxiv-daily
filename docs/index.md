@@ -584,6 +584,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**VGSG: Vision-Guided Semantic-Group Network for Text-based Person Search**|Shuting He et.al.|[2311.07514](http://arxiv.org/abs/2311.07514)|null|
 |**2023-11-10**|**Attributes Grouping and Mining Hashing for Fine-Grained Image Retrieval**|Xin Lu et.al.|[2311.06067](http://arxiv.org/abs/2311.06067)|null|
 |**2023-11-08**|**Energy-efficient Wireless Image Retrieval for IoT Devices by Transmitting a TinyML Model**|Junya Shiraishi et.al.|[2311.04788](http://arxiv.org/abs/2311.04788)|null|
 |**2023-11-08**|**Training CLIP models on Data from Scientific Papers**|Calvin Metzger et.al.|[2311.04711](http://arxiv.org/abs/2311.04711)|**[link](https://github.com/nopperl/clip_arxiv_pmc)**|
@@ -1164,6 +1165,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**Processing and Segmentation of Human Teeth from 2D Images using Weakly Supervised Learning**|Tomáš Kunzo et.al.|[2311.07398](http://arxiv.org/abs/2311.07398)|null|
+|**2023-11-11**|**CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer**|Haoyu Ma et.al.|[2311.06443](http://arxiv.org/abs/2311.06443)|null|
 |**2023-11-08**|**3D Pose Estimation of Tomato Peduncle Nodes using Deep Keypoint Detection and Point Cloud**|Jianchao Ci et.al.|[2311.04699](http://arxiv.org/abs/2311.04699)|null|
 |**2023-11-06**|**TAMPAR: Visual Tampering Detection for Parcel Logistics in Postal Supply Chains**|Alexander Naumann et.al.|[2311.03124](http://arxiv.org/abs/2311.03124)|**[link](https://github.com/a-nau/tampar)**|
 |**2023-11-06**|**An invariant feature extraction for multi-modal images matching**|Chenzhong Gao et.al.|[2311.02842](http://arxiv.org/abs/2311.02842)|null|
@@ -1531,6 +1534,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**$L_0$-Sampler: An $L_{0}$ Model Guided Volume Sampling for NeRF**|Liangchen Li et.al.|[2311.07044](http://arxiv.org/abs/2311.07044)|null|
+|**2023-11-11**|**Aria-NeRF: Multimodal Egocentric View Synthesis**|Jiankai Sun et.al.|[2311.06455](http://arxiv.org/abs/2311.06455)|null|
 |**2023-11-10**|**Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model**|Jiahao Li et.al.|[2311.06214](http://arxiv.org/abs/2311.06214)|null|
 |**2023-11-10**|**A Neural Height-Map Approach for the Binocular Photometric Stereo Problem**|Fotios Logothetis et.al.|[2311.05958](http://arxiv.org/abs/2311.05958)|null|
 |**2023-11-09**|**BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis**|Hao-Bin Duan et.al.|[2311.05521](http://arxiv.org/abs/2311.05521)|null|
@@ -2117,6 +2122,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**Interpretable Fine-Tuning for Graph Neural Network Surrogate Models**|Shivam Barwey et.al.|[2311.07548](http://arxiv.org/abs/2311.07548)|null|
+|**2023-11-13**|**Three-dimensional granular flow simulation using graph neural network-based learned simulator**|Yongjin Choi et.al.|[2311.07416](http://arxiv.org/abs/2311.07416)|null|
+|**2023-11-13**|**Classification of developmental and brain disorders via graph convolutional aggregation**|Ibrahim Salim et.al.|[2311.07370](http://arxiv.org/abs/2311.07370)|null|
+|**2023-11-13**|**ADAMM: Anomaly Detection of Attributed Multi-graphs with Metadata: A Unified Neural Network Approach**|Konstantinos Sotiropoulos et.al.|[2311.07355](http://arxiv.org/abs/2311.07355)|**[link](https://github.com/konsotirop/adamm)**|
+|**2023-11-13**|**Connecting the Dots: Graph Neural Network Powered Ensemble and Classification of Medical Images**|Aryan Singh et.al.|[2311.07321](http://arxiv.org/abs/2311.07321)|**[link](https://github.com/aryan-at-ul/aics_2023_submission)**|
+|**2023-11-13**|**Optical Quantum Sensing for Agnostic Environments via Deep Learning**|Zeqiao Zhou et.al.|[2311.07203](http://arxiv.org/abs/2311.07203)|null|
+|**2023-11-13**|**Untargeted Black-box Attacks for Social Recommendations**|Wenqi Fan et.al.|[2311.07127](http://arxiv.org/abs/2311.07127)|null|
+|**2023-11-13**|**Collaborative Goal Tracking of Multiple Mobile Robots Based on Geometric Graph Neural Network**|Qingquan Lin et.al.|[2311.07105](http://arxiv.org/abs/2311.07105)|null|
+|**2023-11-12**|**Contractive Systems Improve Graph Neural Networks Against Adversarial Attacks**|Moshe Eliasof et.al.|[2311.06942](http://arxiv.org/abs/2311.06942)|null|
+|**2023-11-12**|**Preserving Node-level Privacy in Graph Neural Networks**|Zihang Xiang et.al.|[2311.06888](http://arxiv.org/abs/2311.06888)|null|
 |**2023-11-10**|**FourierGNN: Rethinking Multivariate Time Series Forecasting from a Pure Graph Perspective**|Kun Yi et.al.|[2311.06190](http://arxiv.org/abs/2311.06190)|null|
 |**2023-11-10**|**Interpretable Graph Anomaly Detection using Gradient Attention Maps**|Yifei Yang et.al.|[2311.06153](http://arxiv.org/abs/2311.06153)|null|
 |**2023-11-10**|**Going beyond persistent homology using persistent homology**|Johanna Immonen et.al.|[2311.06152](http://arxiv.org/abs/2311.06152)|null|
@@ -2892,6 +2907,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**A probabilistic forecast methodology for volatile electricity prices in the Australian National Electricity Market**|Cameron Cornell et.al.|[2311.07289](http://arxiv.org/abs/2311.07289)|null|
+|**2023-11-11**|**OR Residual Connection Achieving Comparable Accuracy to ADD Residual Connection in Deep Residual Spiking Neural Networks**|Yimeng Shan et.al.|[2311.06570](http://arxiv.org/abs/2311.06570)|**[link](https://github.com/ym-shan/orrc-syna-natural-pruning)**|
 |**2023-11-10**|**Discrete synaptic events induce global oscillations in balanced neural networks**|Denis S. Goldobin et.al.|[2311.06159](http://arxiv.org/abs/2311.06159)|null|
 |**2023-11-10**|**Two-compartment neuronal spiking model expressing brain-state specific apical-amplification, -isolation and -drive regimes**|Elena Pastorelli et.al.|[2311.06074](http://arxiv.org/abs/2311.06074)|null|
 |**2023-11-10**|**Programmable Superconducting Optoelectronic Single-Photon Synapses with Integrated Multi-State Memory**|Bryce A. Primavera et.al.|[2311.05881](http://arxiv.org/abs/2311.05881)|null|
@@ -3202,6 +3219,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-12**|**Synchronization of Morris-Lecar mathematical models of neural activity**|A. V. Rybalko et.al.|[2311.06955](http://arxiv.org/abs/2311.06955)|null|
 |**2023-11-10**|**Two-compartment neuronal spiking model expressing brain-state specific apical-amplification, -isolation and -drive regimes**|Elena Pastorelli et.al.|[2311.06074](http://arxiv.org/abs/2311.06074)|null|
 |**2023-11-07**|**Freeness in cognitive science**|Ewa Gudowska-Nowak et.al.|[2311.04307](http://arxiv.org/abs/2311.04307)|null|
 |**2023-10-25**|**WaLiN-GUI: a graphical and auditory tool for neuron-based encoding**|Simon F. Müller-Cleve et.al.|[2310.16983](http://arxiv.org/abs/2310.16983)|**[link](https://github.com/event-driven-robotics/walin-gui)**|
