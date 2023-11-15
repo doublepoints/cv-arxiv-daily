@@ -584,6 +584,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**Pretrain like You Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval**|Junyang Chen et.al.|[2311.07622](http://arxiv.org/abs/2311.07622)|null|
 |**2023-11-13**|**VGSG: Vision-Guided Semantic-Group Network for Text-based Person Search**|Shuting He et.al.|[2311.07514](http://arxiv.org/abs/2311.07514)|null|
 |**2023-11-10**|**Attributes Grouping and Mining Hashing for Fine-Grained Image Retrieval**|Xin Lu et.al.|[2311.06067](http://arxiv.org/abs/2311.06067)|null|
 |**2023-11-08**|**Energy-efficient Wireless Image Retrieval for IoT Devices by Transmitting a TinyML Model**|Junya Shiraishi et.al.|[2311.04788](http://arxiv.org/abs/2311.04788)|null|
@@ -1357,7 +1358,7 @@ layout: default
 |**2023-10-23**|**RD-VIO: Robust Visual-Inertial Odometry for Mobile Augmented Reality in Dynamic Environments**|Jinyu Li et.al.|[2310.15072](http://arxiv.org/abs/2310.15072)|null|
 |**2023-10-23**|**Player Re-Identification Using Body Part Appearences**|Mahesh Bhosale et.al.|[2310.14469](http://arxiv.org/abs/2310.14469)|null|
 |**2023-10-20**|**FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer**|Xinyu Zhang et.al.|[2310.13605](http://arxiv.org/abs/2310.13605)|null|
-|**2023-10-19**|**RGM: A Robust Generalist Matching Model**|Songyan Zhang et.al.|[2310.11755](http://arxiv.org/abs/2310.11755)|**[link](https://github.com/aim-uofa/rgm)**|
+|**2023-11-14**|**RGM: A Robust Generalist Matching Model**|Songyan Zhang et.al.|[2310.11755](http://arxiv.org/abs/2310.11755)|**[link](https://github.com/aim-uofa/rgm)**|
 |**2023-10-07**|**UFD-PRiME: Unsupervised Joint Learning of Optical Flow and Stereo Depth through Pixel-Level Rigid Motion Estimation**|Shuai Yuan et.al.|[2310.04712](http://arxiv.org/abs/2310.04712)|null|
 |**2023-10-02**|**Leveraging Cutting Edge Deep Learning Based Image Matching for Reconstructing a Large Scene from Sparse Images**|Georg Bökman et.al.|[2310.01092](http://arxiv.org/abs/2310.01092)|null|
 |**2023-09-29**|**Segment Anything Model is a Good Teacher for Local Feature Learning**|Jingqian Wu et.al.|[2309.16992](http://arxiv.org/abs/2309.16992)|**[link](https://github.com/vignywang/samfeat)**|
@@ -2122,6 +2123,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Mobility-Induced Graph Learning for WiFi Positioning**|Kyuwon Han et.al.|[2311.08271](http://arxiv.org/abs/2311.08271)|null|
+|**2023-11-14**|**Improving Image Captioning via Predicting Structured Concepts**|Ting Wang et.al.|[2311.08223](http://arxiv.org/abs/2311.08223)|null|
+|**2023-11-14**|**Evaluating Neighbor Explainability for Graph Neural Networks**|Oscar Llorente et.al.|[2311.08118](http://arxiv.org/abs/2311.08118)|null|
+|**2023-11-14**|**Higher-Order Expander Graph Propagation**|Thomas Christie et.al.|[2311.07966](http://arxiv.org/abs/2311.07966)|null|
+|**2023-11-14**|**Self-supervised Heterogeneous Graph Variational Autoencoders**|Yige Zhao et.al.|[2311.07929](http://arxiv.org/abs/2311.07929)|null|
 |**2023-11-13**|**Interpretable Fine-Tuning for Graph Neural Network Surrogate Models**|Shivam Barwey et.al.|[2311.07548](http://arxiv.org/abs/2311.07548)|null|
 |**2023-11-13**|**Three-dimensional granular flow simulation using graph neural network-based learned simulator**|Yongjin Choi et.al.|[2311.07416](http://arxiv.org/abs/2311.07416)|null|
 |**2023-11-13**|**Classification of developmental and brain disorders via graph convolutional aggregation**|Ibrahim Salim et.al.|[2311.07370](http://arxiv.org/abs/2311.07370)|null|
@@ -2907,6 +2913,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**Hybrid Synaptic Structure for Spiking Neural Network Realization**|Sasan Razmkhah et.al.|[2311.07787](http://arxiv.org/abs/2311.07787)|null|
+|**2023-11-13**|**Dynamical friction in dark matter superfluids: The evolution of black hole binaries**|Lasha Berezhiani et.al.|[2311.07672](http://arxiv.org/abs/2311.07672)|null|
+|**2023-11-13**|**Activity Sparsity Complements Weight Sparsity for Efficient RNN Inference**|Rishav Mukherji et.al.|[2311.07625](http://arxiv.org/abs/2311.07625)|null|
 |**2023-11-13**|**A probabilistic forecast methodology for volatile electricity prices in the Australian National Electricity Market**|Cameron Cornell et.al.|[2311.07289](http://arxiv.org/abs/2311.07289)|null|
 |**2023-11-11**|**OR Residual Connection Achieving Comparable Accuracy to ADD Residual Connection in Deep Residual Spiking Neural Networks**|Yimeng Shan et.al.|[2311.06570](http://arxiv.org/abs/2311.06570)|**[link](https://github.com/ym-shan/orrc-syna-natural-pruning)**|
 |**2023-11-10**|**Discrete synaptic events induce global oscillations in balanced neural networks**|Denis S. Goldobin et.al.|[2311.06159](http://arxiv.org/abs/2311.06159)|null|
