@@ -443,6 +443,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**Robot Hand-Eye Calibration using Structure-from-Motion**|Nicolas Andreff et.al.|[2311.11808](http://arxiv.org/abs/2311.11808)|null|
+|**2023-11-18**|**LOSTU: Fast, Scalable, and Uncertainty-Aware Triangulation**|Sébastien Henry et.al.|[2311.11171](http://arxiv.org/abs/2311.11171)|null|
 |**2023-11-10**|**MonoProb: Self-Supervised Monocular Depth Estimation with Interpretable Uncertainty**|Rémi Marsal et.al.|[2311.06137](http://arxiv.org/abs/2311.06137)|**[link](https://github.com/cea-list/monoprob)**|
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-10-22**|**A Quantitative Evaluation of Dense 3D Reconstruction of Sinus Anatomy from Monocular Endoscopic Video**|Jan Emily Mangulabnan et.al.|[2310.14364](http://arxiv.org/abs/2310.14364)|null|
@@ -584,6 +586,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-19**|**From Categories to Classifier: Name-Only Continual Learning by Exploring the Web**|Ameya Prabhu et.al.|[2311.11293](http://arxiv.org/abs/2311.11293)|null|
+|**2023-11-18**|**Lesion Search with Self-supervised Learning**|Kristin Qi et.al.|[2311.11014](http://arxiv.org/abs/2311.11014)|null|
 |**2023-11-15**|**Flow reconstruction and particle characterization from inertial Lagrangian tracks**|Ke Zhou et.al.|[2311.09076](http://arxiv.org/abs/2311.09076)|null|
 |**2023-11-15**|**Pretrain like Your Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval**|Junyang Chen et.al.|[2311.07622](http://arxiv.org/abs/2311.07622)|null|
 |**2023-11-13**|**VGSG: Vision-Guided Semantic-Group Network for Text-based Person Search**|Shuting He et.al.|[2311.07514](http://arxiv.org/abs/2311.07514)|null|
@@ -1167,6 +1171,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**CurriculumLoc: Enhancing Cross-Domain Geolocalization through Multi-Stage Refinement**|Boni Hu et.al.|[2311.11604](http://arxiv.org/abs/2311.11604)|**[link](https://github.com/npupilab/curriculumloc)**|
 |**2023-11-17**|**Video-based Sequential Bayesian Homography Estimation for Soccer Field Registration**|Paul J. Claasen et.al.|[2311.10361](http://arxiv.org/abs/2311.10361)|null|
 |**2023-11-13**|**Processing and Segmentation of Human Teeth from 2D Images using Weakly Supervised Learning**|Tomáš Kunzo et.al.|[2311.07398](http://arxiv.org/abs/2311.07398)|null|
 |**2023-11-11**|**CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer**|Haoyu Ma et.al.|[2311.06443](http://arxiv.org/abs/2311.06443)|null|
@@ -1537,8 +1542,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**GP-NeRF: Generalized Perception NeRF for Context-Aware 3D Scene Understanding**|Hao Li et.al.|[2311.11863](http://arxiv.org/abs/2311.11863)|null|
+|**2023-11-20**|**Entangled View-Epipolar Information Aggregation for Generalizable Neural Radiance Fields**|Zhiyuan Min et.al.|[2311.11845](http://arxiv.org/abs/2311.11845)|**[link](https://github.com/tatakai1/evenerf)**|
+|**2023-11-19**|**GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion Probabilistic Models with Structured Noise**|Xinhai Li et.al.|[2311.11221](http://arxiv.org/abs/2311.11221)|null|
+|**2023-11-18**|**SNI-SLAM: Semantic Neural Implicit SLAM**|Siting Zhu et.al.|[2311.11016](http://arxiv.org/abs/2311.11016)|null|
+|**2023-11-18**|**Structure-Aware Sparse-View X-ray 3D Reconstruction**|Yuanhao Cai et.al.|[2311.10959](http://arxiv.org/abs/2311.10959)|null|
 |**2023-11-17**|**Removing Adverse Volumetric Effects From Trained Neural Radiance Fields**|Andreas L. Teigen et.al.|[2311.10523](http://arxiv.org/abs/2311.10523)|null|
-|**2023-11-16**|**EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**|Jingnan Gao et.al.|[2311.09806](http://arxiv.org/abs/2311.09806)|null|
+|**2023-11-18**|**EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**|Jingnan Gao et.al.|[2311.09806](http://arxiv.org/abs/2311.09806)|null|
 |**2023-11-16**|**Reconstructing Continuous Light Field From Single Coded Image**|Yuya Ishikawa et.al.|[2311.09646](http://arxiv.org/abs/2311.09646)|null|
 |**2023-11-15**|**Single-Image 3D Human Digitization with Shape-Guided Diffusion**|Badour AlBahar et.al.|[2311.09221](http://arxiv.org/abs/2311.09221)|null|
 |**2023-11-15**|**DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model**|Yinghao Xu et.al.|[2311.09217](http://arxiv.org/abs/2311.09217)|null|
@@ -2131,6 +2141,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**AMES: A Differentiable Embedding Space Selection Framework for Latent Graph Inference**|Yuan Lu et.al.|[2311.11891](http://arxiv.org/abs/2311.11891)|null|
+|**2023-11-20**|**Graph Variational Embedding Collaborative Filtering**|Narges Sadat Fazeli Dehkordi et.al.|[2311.11824](http://arxiv.org/abs/2311.11824)|null|
+|**2023-11-20**|**Robust Tumor Segmentation with Hyperspectral Imaging and Graph Neural Networks**|Mayar Lotfy et.al.|[2311.11782](http://arxiv.org/abs/2311.11782)|null|
+|**2023-11-20**|**Unveiling the Unseen Potential of Graph Learning through MLPs: Effective Graph Learners Using Propagation-Embracing MLPs**|Yong-Min Shin et.al.|[2311.11759](http://arxiv.org/abs/2311.11759)|null|
+|**2023-11-20**|**CSGNN: Conquering Noisy Node labels via Dynamic Class-wise Selection**|Yifan Li et.al.|[2311.11473](http://arxiv.org/abs/2311.11473)|null|
+|**2023-11-19**|**Self-Supervised Pretraining for Heterogeneous Hypergraph Neural Networks**|Abdalgader Abubaker et.al.|[2311.11368](http://arxiv.org/abs/2311.11368)|null|
+|**2023-11-19**|**Local environment-based machine learning for molecular adsorption energy prediction**|Yifan Li et.al.|[2311.11364](http://arxiv.org/abs/2311.11364)|null|
+|**2023-11-19**|**A Universal Framework for Accurate and Efficient Geometric Deep Learning of Molecular Systems**|Shuo Zhang et.al.|[2311.11228](http://arxiv.org/abs/2311.11228)|**[link](https://github.com/XieResearchGroup/Physics-aware-Multiplex-GNN)**|
+|**2023-11-18**|**Benchmarking Machine Learning Models for Quantum Error Correction**|Tim Fu et.al.|[2311.11167](http://arxiv.org/abs/2311.11167)|null|
+|**2023-11-18**|**Environment-Aware Dynamic Graph Learning for Out-of-Distribution Generalization**|Haonan Yuan et.al.|[2311.11114](http://arxiv.org/abs/2311.11114)|**[link](https://github.com/ringbdstack/eagle)**|
 |**2023-11-17**|**TacFR-Gripper: A Reconfigurable Fin Ray-Based Compliant Robotic Gripper with Tactile Skin for In-Hand Manipulation**|Qingzheng Cong et.al.|[2311.10611](http://arxiv.org/abs/2311.10611)|null|
 |**2023-11-17**|**Graph Neural Networks for Pressure Estimation in Water Distribution Systems**|Huy Truong et.al.|[2311.10579](http://arxiv.org/abs/2311.10579)|**[link](https://github.com/ditec-project/gnn-pressure-estimation)**|
 |**2023-11-17**|**Graph Sparsifications using Neural Network Assisted Monte Carlo Tree Search**|Alvin Chiu et.al.|[2311.10316](http://arxiv.org/abs/2311.10316)|**[link](https://github.com/abureyanahmed/gnn-msts-sparsification)**|
@@ -2872,6 +2892,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**Event Camera Data Dense Pre-training**|Yan Yang et.al.|[2311.11533](http://arxiv.org/abs/2311.11533)|null|
+|**2023-11-18**|**Implicit Event-RGBD Neural SLAM**|Delin Qu et.al.|[2311.11013](http://arxiv.org/abs/2311.11013)|null|
 |**2023-11-16**|**Event-based Motion-Robust Accurate Shape Estimation for Mixed Reflectance Scenes**|Aniket Dashpute et.al.|[2311.09652](http://arxiv.org/abs/2311.09652)|null|
 |**2023-11-09**|**Object-centric Cross-modal Feature Distillation for Event-based Object Detection**|Lei Li et.al.|[2311.05494](http://arxiv.org/abs/2311.05494)|null|
 |**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
@@ -2939,6 +2961,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**Asynchronous Bioplausible Neuron for Spiking Neural Networks for Event-Based Vision**|Sanket Kachole et.al.|[2311.11853](http://arxiv.org/abs/2311.11853)|null|
+|**2023-11-19**|**Addressing the speed-accuracy simulation trade-off for adaptive spiking neurons**|Luke Taylor et.al.|[2311.11390](http://arxiv.org/abs/2311.11390)|**[link](https://github.com/webstorms/blocks)**|
+|**2023-11-17**|**Evolutionary algorithms as an alternative to backpropagation for supervised training of Biophysical Neural Networks and Neural ODEs**|James Hazelden et.al.|[2311.10869](http://arxiv.org/abs/2311.10869)|null|
+|**2023-11-17**|**Is Conventional SNN Really Efficient? A Perspective from Network Quantization**|Guobin Shen et.al.|[2311.10802](http://arxiv.org/abs/2311.10802)|null|
 |**2023-11-17**|**Memory-induced Excitability in Optical Cavities**|Bertrand Braeckeveldt et.al.|[2311.10455](http://arxiv.org/abs/2311.10455)|null|
 |**2023-11-17**|**On exploiting the synaptic interaction properties to obtain frequency-specific neurons**|Guillaume Marthe et.al.|[2311.10411](http://arxiv.org/abs/2311.10411)|null|
 |**2023-11-16**|**Super-resolved Lasso**|Clarice Poon et.al.|[2311.09928](http://arxiv.org/abs/2311.09928)|**[link](https://github.com/gpeyre/superresolvedlasso)**|
@@ -3264,6 +3290,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Evolutionary algorithms as an alternative to backpropagation for supervised training of Biophysical Neural Networks and Neural ODEs**|James Hazelden et.al.|[2311.10869](http://arxiv.org/abs/2311.10869)|null|
 |**2023-11-15**|**Spiking NeRF: Representing the Real-World Geometry by a Discontinuous Representation**|Zhanfeng Liao et.al.|[2311.09077](http://arxiv.org/abs/2311.09077)|null|
 |**2023-11-15**|**Optimal control of oscillatory neuronal models with applications to communication through coherence**|Michael Orieux et.al.|[2311.08790](http://arxiv.org/abs/2311.08790)|null|
 |**2023-11-12**|**Synchronization of Morris-Lecar mathematical models of neural activity**|A. V. Rybalko et.al.|[2311.06955](http://arxiv.org/abs/2311.06955)|null|
