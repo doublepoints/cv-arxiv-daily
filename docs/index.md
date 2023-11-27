@@ -2168,9 +2168,9 @@ layout: default
 |**2023-11-21**|**Hierarchical Joint Graph Learning and Multivariate Time Series Forecasting**|Juhyeon Kim et.al.|[2311.12630](http://arxiv.org/abs/2311.12630)|null|
 |**2023-11-21**|**DeepTreeGAN: Fast Generation of High Dimensional Point Clouds**|Moritz Alfons Wilhelm Scham et.al.|[2311.12616](http://arxiv.org/abs/2311.12616)|null|
 |**2023-11-21**|**Distilling particle knowledge for fast reconstruction at high-energy physics experiments**|Aritra Bal et.al.|[2311.12551](http://arxiv.org/abs/2311.12551)|null|
-|**2023-11-21**|**A Survey of Graph Meets Large Language Model: Progress and Future Directions**|Yuhan Li et.al.|[2311.12399](http://arxiv.org/abs/2311.12399)|null|
+|**2023-11-21**|**A Survey of Graph Meets Large Language Model: Progress and Future Directions**|Yuhan Li et.al.|[2311.12399](http://arxiv.org/abs/2311.12399)|**[link](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks)**|
 |**2023-11-21**|**Graph Neural Ordinary Differential Equations-based method for Collaborative Filtering**|Ke Xu et.al.|[2311.12329](http://arxiv.org/abs/2311.12329)|null|
-|**2023-11-21**|**Demystifying Graph Sparsification Algorithms in Graph Properties Preservation**|Yuhan Chen et.al.|[2311.12314](http://arxiv.org/abs/2311.12314)|null|
+|**2023-11-21**|**Demystifying Graph Sparsification Algorithms in Graph Properties Preservation**|Yuhan Chen et.al.|[2311.12314](http://arxiv.org/abs/2311.12314)|**[link](https://github.com/yuhanchan/sparsification)**|
 |**2023-11-21**|**Power grid operational risk assessment using graph neural network surrogates**|Yadong Zhang et.al.|[2311.12309](http://arxiv.org/abs/2311.12309)|null|
 |**2023-11-20**|**AMES: A Differentiable Embedding Space Selection Framework for Latent Graph Inference**|Yuan Lu et.al.|[2311.11891](http://arxiv.org/abs/2311.11891)|null|
 |**2023-11-20**|**Graph Variational Embedding Collaborative Filtering**|Narges Sadat Fazeli Dehkordi et.al.|[2311.11824](http://arxiv.org/abs/2311.11824)|null|
@@ -2195,7 +2195,7 @@ layout: default
 |**2023-11-15**|**Emerging Drug Interaction Prediction Enabled by Flow-based Graph Neural Network with Biomedical Network**|Yongqi Zhang et.al.|[2311.09261](http://arxiv.org/abs/2311.09261)|**[link](https://github.com/lars-research/emergnn)**|
 |**2023-11-15**|**Leaving No Branches Behind: Predicting Baryonic Properties of Galaxies from Merger Trees**|Chen-Yu Chuang et.al.|[2311.09162](http://arxiv.org/abs/2311.09162)|null|
 |**2023-11-15**|**X-GRL: An Empirical Assessment of Explainable GNN-DRL in B5G/6G Networks**|Farhad Rezazadeh et.al.|[2311.08798](http://arxiv.org/abs/2311.08798)|null|
-|**2023-11-15**|**Language Semantic Graph Guided Data-Efficient Learning**|Wenxuan Ma et.al.|[2311.08782](http://arxiv.org/abs/2311.08782)|null|
+|**2023-11-15**|**Language Semantic Graph Guided Data-Efficient Learning**|Wenxuan Ma et.al.|[2311.08782](http://arxiv.org/abs/2311.08782)|**[link](https://github.com/bit-da/lsg)**|
 |**2023-11-15**|**Spatio-Temporal Graph Neural Point Process for Traffic Congestion Event Prediction**|Guangyin Jin et.al.|[2311.08635](http://arxiv.org/abs/2311.08635)|null|
 |**2023-11-14**|**SceneScore: Learning a Cost Function for Object Arrangement**|Ivan Kapelyukh et.al.|[2311.08530](http://arxiv.org/abs/2311.08530)|null|
 |**2023-11-14**|**Uplift Modeling based on Graph Neural Network Combined with Causal Knowledge**|Haowen Wang et.al.|[2311.08434](http://arxiv.org/abs/2311.08434)|null|
@@ -2470,7 +2470,7 @@ layout: default
 |**2023-09-25**|**HiGNN-TTS: Hierarchical Prosody Modeling with Graph Neural Networks for Expressive Long-form TTS**|Dake Guo et.al.|[2309.13907](http://arxiv.org/abs/2309.13907)|null|
 |**2023-09-25**|**TouchUp-G: Improving Feature Representation through Graph-Centric Finetuning**|Jing Zhu et.al.|[2309.13885](http://arxiv.org/abs/2309.13885)|null|
 |**2023-09-25**|**Estimating Treatment Effects Under Heterogeneous Interference**|Xiaofeng Lin et.al.|[2309.13884](http://arxiv.org/abs/2309.13884)|**[link](https://github.com/linxf208/hinite)**|
-|**2023-09-24**|**From Cluster Assumption to Graph Convolution: Graph-based Semi-Supervised Learning Revisited**|Zheng Wang et.al.|[2309.13599](http://arxiv.org/abs/2309.13599)|null|
+|**2023-09-24**|**From Cluster Assumption to Graph Convolution: Graph-based Semi-Supervised Learning Revisited**|Zheng Wang et.al.|[2309.13599](http://arxiv.org/abs/2309.13599)|**[link](https://github.com/zhengwang100/ogc_ggcm)**|
 |**2023-09-23**|**Enhancing Student Performance Prediction on Learnersourced Questions with SGNN-LLM Synergy**|Lin Ni et.al.|[2309.13500](http://arxiv.org/abs/2309.13500)|null|
 |**2023-09-23**|**A Model-Agnostic Graph Neural Network for Integrating Local and Global Information**|Wenzhuo Zhou et.al.|[2309.13459](http://arxiv.org/abs/2309.13459)|null|
 |**2023-09-23**|**Deciphering Spatio-Temporal Graph Forecasting: A Causal Lens and Treatment**|Yutong Xia et.al.|[2309.13378](http://arxiv.org/abs/2309.13378)|null|
@@ -2801,7 +2801,7 @@ layout: default
 |**2023-07-11**|**A Modal Logic for Explaining some Graph Neural Networks**|Pierre Nunn et.al.|[2307.05150](http://arxiv.org/abs/2307.05150)|null|
 |**2023-07-11**|**Transaction Fraud Detection via Spatial-Temporal-Aware Graph Transformer**|Yue Tian et.al.|[2307.05121](http://arxiv.org/abs/2307.05121)|null|
 |**2023-07-11**|**Neural-Symbolic Recommendation with Graph-Enhanced Information**|Bang Chen et.al.|[2307.05036](http://arxiv.org/abs/2307.05036)|**[link](https://github.com/hanzo2020/gnnlr)**|
-|**2023-07-11**|**Intrinsically motivated graph exploration using network theories of human curiosity**|Shubhankar P. Patankar et.al.|[2307.04962](http://arxiv.org/abs/2307.04962)|null|
+|**2023-07-11**|**Intrinsically motivated graph exploration using network theories of human curiosity**|Shubhankar P. Patankar et.al.|[2307.04962](http://arxiv.org/abs/2307.04962)|**[link](https://github.com/spatank/curiosity-graphs)**|
 |**2023-07-10**|**Improving Fairness of Graph Neural Networks: A Graph Counterfactual Perspective**|Zhimeng Guo et.al.|[2307.04937](http://arxiv.org/abs/2307.04937)|**[link](https://github.com/timelovercc/caf-gnn)**|
 |**2023-07-10**|**Learning to Solve Constraint Satisfaction Problems with Recurrent Transformer**|Zhun Yang et.al.|[2307.04895](http://arxiv.org/abs/2307.04895)|**[link](https://github.com/azreasoners/recurrent_transformer)**|
 |**2023-07-10**|**On the power of graph neural networks and the role of the activation function**|Sammy Khalife et.al.|[2307.04661](http://arxiv.org/abs/2307.04661)|null|
@@ -3219,7 +3219,7 @@ layout: default
 |**2023-08-02**|**Digital Twin Brain: a simulation and assimilation platform for whole human brain**|Wenlian Lu et.al.|[2308.01241](http://arxiv.org/abs/2308.01241)|null|
 |**2023-08-01**|**Understanding Activation Patterns in Artificial Neural Networks by Exploring Stochastic Processes**|Stephan Johann Lehmler et.al.|[2308.00858](http://arxiv.org/abs/2308.00858)|null|
 |**2023-08-01**|**A Framework for Incorporating Behavioural Change into Individual-Level Spatial Epidemic Models**|Madeline A. Ward et.al.|[2308.00815](http://arxiv.org/abs/2308.00815)|null|
-|**2023-08-01**|**Evaluating Spiking Neural Network On Neuromorphic Platform For Human Activity Recognition**|Sizhen Bian et.al.|[2308.00787](http://arxiv.org/abs/2308.00787)|null|
+|**2023-08-01**|**Evaluating Spiking Neural Network On Neuromorphic Platform For Human Activity Recognition**|Sizhen Bian et.al.|[2308.00787](http://arxiv.org/abs/2308.00787)|**[link](https://github.com/zhaxidele/har-with-snn)**|
 |**2023-08-01**|**Gradient Scaling on Deep Spiking Neural Networks with Spike-Dependent Local Information**|Seongsik Park et.al.|[2308.00558](http://arxiv.org/abs/2308.00558)|null|
 |**2023-08-01**|**Beyond-mean-field theory for the statistics of neural coordination**|Moritz Layer et.al.|[2308.00421](http://arxiv.org/abs/2308.00421)|null|
 |**2023-07-30**|**Synaptic Plasticity Models and Bio-Inspired Unsupervised Deep Learning: A Survey**|Gabriele Lagani et.al.|[2307.16236](http://arxiv.org/abs/2307.16236)|null|
