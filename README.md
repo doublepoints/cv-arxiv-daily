@@ -1,10 +1,10 @@
-## <a id=top></a>Updated on 2023.11.27
+## <a id=top></a>Updated on 2023.11.28
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.27
+## Updated on 2023.11.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -3042,7 +3042,7 @@
 |**2023-11-24**|**Neuromorphic Intermediate Representation: A Unified Instruction Set for Interoperable Brain-Inspired Computing**|Jens E. Pedersen et.al.|[2311.14641](http://arxiv.org/abs/2311.14641)|**[link](https://github.com/neuromorphs/nir)**|
 |**2023-11-24**|**Electric Vehicles coordination for grid balancing using multi-objective Harris Hawks Optimization**|Cristina Bianca Pop et.al.|[2311.14563](http://arxiv.org/abs/2311.14563)|null|
 |**2023-11-24**|**SNN Architecture for Differential Time Encoding Using Decoupled Processing Time**|Daniel Windhager et.al.|[2311.14447](http://arxiv.org/abs/2311.14447)|null|
-|**2023-11-24**|**RFI Detection with Spiking Neural Networks**|Nicholas J. Pritchard et.al.|[2311.14303](http://arxiv.org/abs/2311.14303)|null|
+|**2023-11-24**|**RFI Detection with Spiking Neural Networks**|Nicholas J. Pritchard et.al.|[2311.14303](http://arxiv.org/abs/2311.14303)|**[link](https://github.com/pritchardn/tabascal-dataset)**|
 |**2023-11-24**|**Bursting Spikes: Efficient and High-performance SNNs for Event-based Vision**|Ziqing Wang et.al.|[2311.14265](http://arxiv.org/abs/2311.14265)|**[link](https://github.com/bic-l/burst-ann2snn)**|
 |**2023-11-22**|**Depth-Based Statistical Inferences in the Spike Train Space**|Xinyu Zhou et.al.|[2311.13676](http://arxiv.org/abs/2311.13676)|null|
 |**2023-11-22**|**Reshaping and Enzymatic Activity allow Viruses to move through the Mucus**|Falko Ziebert et.al.|[2311.13203](http://arxiv.org/abs/2311.13203)|null|
