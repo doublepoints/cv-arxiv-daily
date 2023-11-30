@@ -603,6 +603,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**360Loc: A Dataset and Benchmark for Omnidirectional Visual Localization with Cross-device Queries**|Huajian Huang et.al.|[2311.17389](http://arxiv.org/abs/2311.17389)|null|
 |**2023-11-27**|**Removing NSFW Concepts from Vision-and-Language Models for Text-to-Image Retrieval and Generation**|Samuele Poppi et.al.|[2311.16254](http://arxiv.org/abs/2311.16254)|**[link](https://github.com/aimagelab/safe-clip)**|
 |**2023-11-27**|**Optimal Transport Aggregation for Visual Place Recognition**|Sergio Izquierdo et.al.|[2311.15937](http://arxiv.org/abs/2311.15937)|**[link](https://github.com/serizba/salad)**|
 |**2023-11-27**|**AI-Generated Images Introduce Invisible Relevance Bias to Text-Image Retrieval**|Shicheng Xu et.al.|[2311.14084](http://arxiv.org/abs/2311.14084)|null|
@@ -1393,6 +1394,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**LGFCTR: Local and Global Feature Convolutional Transformer for Image Matching**|Wenhao Zhong et.al.|[2311.17571](http://arxiv.org/abs/2311.17571)|null|
 |**2023-11-08**|**Zero-shot Translation of Attention Patterns in VQA Models to Natural Language**|Leonard Salewski et.al.|[2311.05043](http://arxiv.org/abs/2311.05043)|**[link](https://github.com/explainableml/zs-a2t)**|
 |**2023-11-06**|**An invariant feature extraction for multi-modal images matching**|Chenzhong Gao et.al.|[2311.02842](http://arxiv.org/abs/2311.02842)|null|
 |**2023-10-23**|**RD-VIO: Robust Visual-Inertial Odometry for Mobile Augmented Reality in Dynamic Environments**|Jinyu Li et.al.|[2310.15072](http://arxiv.org/abs/2310.15072)|null|
@@ -1577,6 +1579,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**AvatarStudio: High-fidelity and Animatable 3D Avatar Creation from Text**|Jianfeng Zhang et.al.|[2311.17917](http://arxiv.org/abs/2311.17917)|null|
+|**2023-11-29**|**FisherRF: Active View Selection and Uncertainty Quantification for Radiance Fields using Fisher Information**|Wen Jiang et.al.|[2311.17874](http://arxiv.org/abs/2311.17874)|null|
+|**2023-11-29**|**Cinematic Behavior Transfer via NeRF-based Differentiable Filming**|Xuekun Jiang et.al.|[2311.17754](http://arxiv.org/abs/2311.17754)|null|
+|**2023-11-29**|**SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis**|Ziqiao Peng et.al.|[2311.17590](http://arxiv.org/abs/2311.17590)|**[link](https://github.com/ZiqiaoPeng/SyncTalk)**|
+|**2023-11-29**|**NeRFTAP: Enhancing Transferability of Adversarial Patches on Face Recognition using Neural Radiance Fields**|Xiaoliang Liu et.al.|[2311.17332](http://arxiv.org/abs/2311.17332)|null|
+|**2023-11-28**|**LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS**|Zhiwen Fan et.al.|[2311.17245](http://arxiv.org/abs/2311.17245)|**[link](https://github.com/VITA-Group/LightGaussian)**|
+|**2023-11-28**|**Continuous Pose for Monocular Cameras in Neural Implicit Representation**|Qi Ma et.al.|[2311.17119](http://arxiv.org/abs/2311.17119)|**[link](https://github.com/qimaqi/continuous-pose-in-nerf)**|
 |**2023-11-28**|**UC-NeRF: Neural Radiance Field for Under-Calibrated multi-view cameras in autonomous driving**|Kai Cheng et.al.|[2311.16945](http://arxiv.org/abs/2311.16945)|null|
 |**2023-11-28**|**The Sky's the Limit: Re-lightable Outdoor Scenes via a Sky-pixel Constrained Illumination Prior and Outside-In Visibility**|James A. D. Gardner et.al.|[2311.16937](http://arxiv.org/abs/2311.16937)|**[link](https://github.com/jadgardner/neusky)**|
 |**2023-11-28**|**SplitNeRF: Split Sum Approximation Neural Field for Joint Geometry, Illumination, and Material Estimation**|Jesus Zarzar et.al.|[2311.16671](http://arxiv.org/abs/2311.16671)|null|
@@ -2205,6 +2214,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**Reconstruction of electromagnetic showers in calorimeters using Deep Learning**|Polina Simkina et.al.|[2311.17914](http://arxiv.org/abs/2311.17914)|null|
+|**2023-11-29**|**FastSample: Accelerating Distributed Graph Neural Network Training for Billion-Scale Graphs**|Hesham Mostafa et.al.|[2311.17847](http://arxiv.org/abs/2311.17847)|null|
+|**2023-11-29**|**Propagate & Distill: Towards Effective Graph Learners Using Propagation-Embracing MLPs**|Yong-Min Shin et.al.|[2311.17781](http://arxiv.org/abs/2311.17781)|null|
+|**2023-11-29**|**CrimeGNN: Harnessing the Power of Graph Neural Networks for Community Detection in Criminal Networks**|Chen Yang et.al.|[2311.17479](http://arxiv.org/abs/2311.17479)|null|
+|**2023-11-29**|**GNNFlow: A Distributed Framework for Continuous Temporal GNN Learning on Dynamic Graphs**|Yuchen Zhong et.al.|[2311.17410](http://arxiv.org/abs/2311.17410)|**[link](https://github.com/jasperzhong/GNNFlow)**|
+|**2023-11-29**|**Dynamic Dense Graph Convolutional Network for Skeleton-based Human Motion Prediction**|Xinshun Wang et.al.|[2311.17408](http://arxiv.org/abs/2311.17408)|null|
+|**2023-11-29**|**The Devil is in the Data: Learning Fair Graph Neural Networks via Partial Knowledge Distillation**|Yuchang Zhu et.al.|[2311.17373](http://arxiv.org/abs/2311.17373)|**[link](https://github.com/zzoomd/fairgkd)**|
+|**2023-11-29**|**How does spatial structure affect psychological restoration? A method based on Graph Neural Networks and Street View Imagery**|Haoran Ma et.al.|[2311.17361](http://arxiv.org/abs/2311.17361)|null|
+|**2023-11-28**|**\texttt{GlycoNMR}: Dataset and benchmarks for NMR chemical shift prediction of carbohydrates with graph neural networks**|Zizhang Chen et.al.|[2311.17134](http://arxiv.org/abs/2311.17134)|null|
 |**2023-11-28**|**Attentional Graph Neural Networks for Robust Massive Network Localization**|Wenzhong Yan et.al.|[2311.16856](http://arxiv.org/abs/2311.16856)|null|
 |**2023-11-28**|**Hyper-Relational Knowledge Graph Neural Network for Next POI**|Jixiao Zhang et.al.|[2311.16683](http://arxiv.org/abs/2311.16683)|null|
 |**2023-11-28**|**PyTorch Geometric High Order: A Unified Library for High Order Graph Neural Network**|Xiyuan Wang et.al.|[2311.16670](http://arxiv.org/abs/2311.16670)|**[link](https://github.com/graphpku/pygho)**|
@@ -3003,6 +3021,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**LEOD: Label-Efficient Object Detection for Event Cameras**|Ziyi Wu et.al.|[2311.17286](http://arxiv.org/abs/2311.17286)|null|
 |**2023-11-20**|**Event Camera Data Dense Pre-training**|Yan Yang et.al.|[2311.11533](http://arxiv.org/abs/2311.11533)|null|
 |**2023-11-21**|**Implicit Event-RGBD Neural SLAM**|Delin Qu et.al.|[2311.11013](http://arxiv.org/abs/2311.11013)|null|
 |**2023-11-16**|**Event-based Motion-Robust Accurate Shape Estimation for Mixed Reflectance Scenes**|Aniket Dashpute et.al.|[2311.09652](http://arxiv.org/abs/2311.09652)|null|
@@ -3074,6 +3093,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**Dynamical manifold dimensionality as characterization measure of chimera states in bursting neuronal networks**|Olesia Dogonasheva et.al.|[2311.17383](http://arxiv.org/abs/2311.17383)|null|
+|**2023-11-28**|**AdaFocus: Towards End-to-end Weakly Supervised Learning for Long-Video Action Understanding**|Jiaming Zhou et.al.|[2311.17118](http://arxiv.org/abs/2311.17118)|null|
 |**2023-11-28**|**WIMP constraints from black hole low-mass X-ray binaries**|Arpan Kar et.al.|[2311.16539](http://arxiv.org/abs/2311.16539)|null|
 |**2023-11-28**|**Spiking Neural Networks with Dynamic Time Steps for Vision Transformers**|Gourav Datta et.al.|[2311.16456](http://arxiv.org/abs/2311.16456)|null|
 |**2023-11-27**|**Demonstration of Programmable Brain-Inspired Optoelectronic Neuron in Photonic Spiking Neural Network with Neural Heterogeneity**|Yun-Jhu Lee et.al.|[2311.15474](http://arxiv.org/abs/2311.15474)|null|
