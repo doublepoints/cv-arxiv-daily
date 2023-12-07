@@ -1600,6 +1600,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle**|Youtian Lin et.al.|[2312.03431](http://arxiv.org/abs/2312.03431)|null|
+|**2023-12-06**|**Artist-Friendly Relightable and Animatable Neural Heads**|Yingyan Xu et.al.|[2312.03420](http://arxiv.org/abs/2312.03420)|null|
+|**2023-12-06**|**Evaluating the point cloud of individual trees generated from images based on Neural Radiance fields (NeRF) method**|Hongyu Huang et.al.|[2312.03372](http://arxiv.org/abs/2312.03372)|null|
+|**2023-12-06**|**RING-NeRF: A Versatile Architecture based on Residual Implicit Neural Grids**|Doriand Petit et.al.|[2312.03357](http://arxiv.org/abs/2312.03357)|null|
+|**2023-12-06**|**SO-NeRF: Active View Planning for NeRF using Surrogate Objectives**|Keifer Lee et.al.|[2312.03266](http://arxiv.org/abs/2312.03266)|null|
+|**2023-12-06**|**Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields**|Shijie Zhou et.al.|[2312.03203](http://arxiv.org/abs/2312.03203)|null|
+|**2023-12-05**|**HybridNeRF: Efficient Neural Rendering via Adaptive Volumetric Surfaces**|Haithem Turki et.al.|[2312.03160](http://arxiv.org/abs/2312.03160)|null|
 |**2023-12-05**|**ReconFusion: 3D Reconstruction with Diffusion Priors**|Rundi Wu et.al.|[2312.02981](http://arxiv.org/abs/2312.02981)|null|
 |**2023-12-05**|**GauHuman: Articulated Gaussian Splatting from Monocular Human Videos**|Shoukang Hu et.al.|[2312.02973](http://arxiv.org/abs/2312.02973)|**[link](https://github.com/skhu101/gauhuman)**|
 |**2023-12-05**|**Alchemist: Parametric Control of Material Properties with Diffusion Models**|Prafull Sharma et.al.|[2312.02970](http://arxiv.org/abs/2312.02970)|null|
@@ -2260,6 +2267,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**What Planning Problems Can A Relational Neural Network Solve?**|Jiayuan Mao et.al.|[2312.03682](http://arxiv.org/abs/2312.03682)|**[link](https://github.com/concepts-ai/goal-regression-width)**|
+|**2023-12-06**|**Augmenting optimization-based molecular design with graph neural networks**|Shiqiang Zhang et.al.|[2312.03613](http://arxiv.org/abs/2312.03613)|null|
+|**2023-12-06**|**GraNet: A Multi-Level Graph Network for 6-DoF Grasp Pose Generation in Cluttered Scenes**|Haowen Wang et.al.|[2312.03345](http://arxiv.org/abs/2312.03345)|null|
+|**2023-12-06**|**Enhancing Molecular Property Prediction via Mixture of Collaborative Experts**|Xu Yao et.al.|[2312.03292](http://arxiv.org/abs/2312.03292)|**[link](https://github.com/Hyacinth-YX/mixture-of-collaborative-experts)**|
+|**2023-12-06**|**STEP CATFormer: Spatial-Temporal Effective Body-Part Cross Attention Transformer for Skeleton-based Action Recognition**|Nguyen Huu Bao Long et.al.|[2312.03288](http://arxiv.org/abs/2312.03288)|**[link](https://github.com/maclong01/STEP-CATFormer)**|
+|**2023-12-06**|**Multicoated and Folded Graph Neural Networks with Strong Lottery Tickets**|Jiale Yan et.al.|[2312.03236](http://arxiv.org/abs/2312.03236)|**[link](https://github.com/louivalley/slt-gnn)**|
 |**2023-12-05**|**Neural Sign Actors: A diffusion model for 3D sign language production from text**|Vasileios Baltatzis et.al.|[2312.02702](http://arxiv.org/abs/2312.02702)|null|
 |**2023-12-05**|**On the Initialization of Graph Neural Networks**|Jiahang Li et.al.|[2312.02622](http://arxiv.org/abs/2312.02622)|**[link](https://github.com/lspongebobjh/virgo_icml2023)**|
 |**2023-12-05**|**A Neural Receiver for 5G NR Multi-user MIMO**|Sebastian Cammerer et.al.|[2312.02601](http://arxiv.org/abs/2312.02601)|null|
@@ -3171,6 +3184,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**Bayesian variable selection in sample selection models using spike-and-slab priors**|Adam Iqbal et.al.|[2312.03538](http://arxiv.org/abs/2312.03538)|null|
+|**2023-12-05**|**Localized Load Reduction Market Development Considering Network Constraints**|Mohammad Panahazari et.al.|[2312.03089](http://arxiv.org/abs/2312.03089)|null|
 |**2023-12-05**|**Study the origin of GRB 231115A, short gamma-ray burst or magnetar giant flare?**|Yun Wang et.al.|[2312.02848](http://arxiv.org/abs/2312.02848)|null|
 |**2023-12-05**|**Supervised learning of spatial features with STDP and homeostasis using Spiking Neural Networks on SpiNNaker**|Sergio Davies et.al.|[2312.02659](http://arxiv.org/abs/2312.02659)|null|
 |**2023-12-04**|**Examining the Effects of Dark Matter Spikes on Eccentric Intermediate Mass Ratio Inspirals Using $N$ -body Simulations**|Diptajyoti Mukherjee et.al.|[2312.02275](http://arxiv.org/abs/2312.02275)|null|
