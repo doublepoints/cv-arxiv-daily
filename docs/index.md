@@ -1,4 +1,4 @@
-## <a id=top></a>Updated on 2023.12.09
+## <a id=top></a>Updated on 2023.12.10
 ---
 layout: default
 ---
@@ -8,7 +8,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.09
+## Updated on 2023.12.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## <a id=slam>SLAM</a>
@@ -3177,7 +3177,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-06**|**Bayesian variable selection in sample selection models using spike-and-slab priors**|Adam Iqbal et.al.|[2312.03538](http://arxiv.org/abs/2312.03538)|null|
+|**2023-12-06**|**Bayesian variable selection in sample selection models using spike-and-slab priors**|Adam Iqbal et.al.|[2312.03538](http://arxiv.org/abs/2312.03538)|**[link](https://github.com/adam-iqbal/selection-spike-slab)**|
 |**2023-12-05**|**Localized Load Reduction Market Development Considering Network Constraints**|Mohammad Panahazari et.al.|[2312.03089](http://arxiv.org/abs/2312.03089)|null|
 |**2023-12-05**|**Study the origin of GRB 231115A, short gamma-ray burst or magnetar giant flare?**|Yun Wang et.al.|[2312.02848](http://arxiv.org/abs/2312.02848)|null|
 |**2023-12-05**|**Supervised learning of spatial features with STDP and homeostasis using Spiking Neural Networks on SpiNNaker**|Sergio Davies et.al.|[2312.02659](http://arxiv.org/abs/2312.02659)|null|
