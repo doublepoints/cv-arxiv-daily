@@ -593,7 +593,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-06**|**Lite-Mind: Towards Efficient and Versatile Brain Representation Network**|Zixuan Gong et.al.|[2312.03781](http://arxiv.org/abs/2312.03781)|null|
-|**2023-12-05**|**FreestyleRet: Retrieving Images from Style-Diversified Queries**|Hao Li et.al.|[2312.02428](http://arxiv.org/abs/2312.02428)|**[link](https://github.com/curisejia/freestyleret)**|
+|**2023-12-08**|**FreestyleRet: Retrieving Images from Style-Diversified Queries**|Hao Li et.al.|[2312.02428](http://arxiv.org/abs/2312.02428)|**[link](https://github.com/curisejia/freestyleret)**|
 |**2023-12-04**|**Implicit Learning of Scene Geometry from Poses for Global Localization**|Mohammad Altillawi et.al.|[2312.02029](http://arxiv.org/abs/2312.02029)|null|
 |**2023-12-04**|**Language-only Efficient Training of Zero-shot Composed Image Retrieval**|Geonmo Gu et.al.|[2312.01998](http://arxiv.org/abs/2312.01998)|**[link](https://github.com/navervision/lincir)**|
 |**2023-12-03**|**G2D: From Global to Dense Radiography Representation Learning via Vision-Language Pre-training**|Che Liu et.al.|[2312.01522](http://arxiv.org/abs/2312.01522)|null|
@@ -1581,6 +1581,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**TriHuman : A Real-time and Controllable Tri-plane Representation for Detailed Human Geometry and Appearance Synthesis**|Heming Zhu et.al.|[2312.05161](http://arxiv.org/abs/2312.05161)|null|
+|**2023-12-08**|**Learn to Optimize Denoising Scores for 3D Generation: A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting**|Xiaofeng Yang et.al.|[2312.04820](http://arxiv.org/abs/2312.04820)|null|
+|**2023-12-08**|**Reality's Canvas, Language's Brush: Crafting 3D Avatars from Monocular Video**|Yuchen Rao et.al.|[2312.04784](http://arxiv.org/abs/2312.04784)|null|
 |**2023-12-07**|**MuRF: Multi-Baseline Radiance Fields**|Haofei Xu et.al.|[2312.04565](http://arxiv.org/abs/2312.04565)|**[link](https://github.com/autonomousvision/murf)**|
 |**2023-12-07**|**EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS**|Sharath Girish et.al.|[2312.04564](http://arxiv.org/abs/2312.04564)|null|
 |**2023-12-07**|**Correspondences of the Third Kind: Camera Pose Estimation from Object Reflection**|Kohei Yamashita et.al.|[2312.04527](http://arxiv.org/abs/2312.04527)|null|
@@ -2253,6 +2256,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**Synthesizing Traffic Datasets using Graph Neural Networks**|Daniel Rodriguez-Criado et.al.|[2312.05031](http://arxiv.org/abs/2312.05031)|null|
+|**2023-12-08**|**Not All Negatives AreWorth Attending to: Meta-Bootstrapping Negative Sampling Framework for Link Prediction**|Yakun Wang et.al.|[2312.04815](http://arxiv.org/abs/2312.04815)|null|
+|**2023-12-07**|**Efficient Large Language Models Fine-Tuning On Graphs**|Rui Xue et.al.|[2312.04737](http://arxiv.org/abs/2312.04737)|null|
+|**2023-12-07**|**GraphMETRO: Mitigating Complex Distribution Shifts in GNNs via Mixture of Aligned Experts**|Shirley Wu et.al.|[2312.04693](http://arxiv.org/abs/2312.04693)|null|
+|**2023-12-07**|**Constraints on the trilinear and quartic Higgs couplings from triple Higgs production at the LHC and beyond**|Panagiotis Stylianou et.al.|[2312.04646](http://arxiv.org/abs/2312.04646)|null|
+|**2023-12-07**|**Relational Deep Learning: Graph Representation Learning on Relational Databases**|Matthias Fey et.al.|[2312.04615](http://arxiv.org/abs/2312.04615)|null|
 |**2023-12-07**|**Graph Metanetworks for Processing Diverse Neural Architectures**|Derek Lim et.al.|[2312.04501](http://arxiv.org/abs/2312.04501)|null|
 |**2023-12-07**|**GSGFormer: Generative Social Graph Transformer for Multimodal Pedestrian Trajectory Prediction**|Zhongchang Luo et.al.|[2312.04479](http://arxiv.org/abs/2312.04479)|null|
 |**2023-12-07**|**Scalable Knowledge Graph Construction and Inference on Human Genome Variants**|Shivika Prasanna et.al.|[2312.04423](http://arxiv.org/abs/2312.04423)|null|
@@ -3177,13 +3186,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**Gate-controlled neuromorphic functional transition in an electrochemical graphene transistor**|Chenglin Yu et.al.|[2312.04934](http://arxiv.org/abs/2312.04934)|null|
+|**2023-12-08**|**Analysis on Effects of Fault Elements in Memristive Neuromorphic Systems**|Hyun-Jong Lee et.al.|[2312.04840](http://arxiv.org/abs/2312.04840)|null|
 |**2023-12-06**|**Bayesian variable selection in sample selection models using spike-and-slab priors**|Adam Iqbal et.al.|[2312.03538](http://arxiv.org/abs/2312.03538)|**[link](https://github.com/adam-iqbal/selection-spike-slab)**|
 |**2023-12-05**|**Localized Load Reduction Market Development Considering Network Constraints**|Mohammad Panahazari et.al.|[2312.03089](http://arxiv.org/abs/2312.03089)|null|
 |**2023-12-05**|**Study the origin of GRB 231115A, short gamma-ray burst or magnetar giant flare?**|Yun Wang et.al.|[2312.02848](http://arxiv.org/abs/2312.02848)|null|
 |**2023-12-05**|**Supervised learning of spatial features with STDP and homeostasis using Spiking Neural Networks on SpiNNaker**|Sergio Davies et.al.|[2312.02659](http://arxiv.org/abs/2312.02659)|null|
 |**2023-12-04**|**Examining the Effects of Dark Matter Spikes on Eccentric Intermediate Mass Ratio Inspirals Using $N$ -body Simulations**|Diptajyoti Mukherjee et.al.|[2312.02275](http://arxiv.org/abs/2312.02275)|null|
 |**2023-12-04**|**GenEM: Physics-Informed Generative Cryo-Electron Microscopy**|Jiakai Zhang et.al.|[2312.02235](http://arxiv.org/abs/2312.02235)|null|
-|**2023-12-04**|**Investigating Extreme Scattering Events by Volumetric Ray-tracing**|Kelvin Au et.al.|[2312.02047](http://arxiv.org/abs/2312.02047)|null|
+|**2023-12-07**|**Investigating Extreme Scattering Events by Volumetric Ray-tracing**|Kelvin Au et.al.|[2312.02047](http://arxiv.org/abs/2312.02047)|null|
 |**2023-12-04**|**Distance function for spike prediction**|Kevin Doran et.al.|[2312.01966](http://arxiv.org/abs/2312.01966)|null|
 |**2023-12-04**|**Fully Spiking Denoising Diffusion Implicit Models**|Ryo Watanabe et.al.|[2312.01742](http://arxiv.org/abs/2312.01742)|null|
 |**2023-12-02**|**Recent Advances in Scalable Energy-Efficient and Trustworthy Spiking Neural networks: from Algorithms to Technology**|Souvik Kundu et.al.|[2312.01213](http://arxiv.org/abs/2312.01213)|null|
