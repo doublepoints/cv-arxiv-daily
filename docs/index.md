@@ -2293,7 +2293,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-14**|**COMBHelper: A Neural Approach to Reduce Search Space for Graph Combinatorial Problems**|Hao Tian et.al.|[2312.09086](http://arxiv.org/abs/2312.09086)|null|
+|**2023-12-14**|**COMBHelper: A Neural Approach to Reduce Search Space for Graph Combinatorial Problems**|Hao Tian et.al.|[2312.09086](http://arxiv.org/abs/2312.09086)|**[link](https://github.com/1041877801/COMBHelper)**|
 |**2023-12-14**|**A Sparse Cross Attention-based Graph Convolution Network with Auxiliary Information Awareness for Traffic Flow Prediction**|Lingqiang Chen et.al.|[2312.09050](http://arxiv.org/abs/2312.09050)|null|
 |**2023-12-14**|**Graph Neural Networks with Diverse Spectral Filtering**|Jingwei Guo et.al.|[2312.09041](http://arxiv.org/abs/2312.09041)|**[link](https://github.com/jingweio/dsf)**|
 |**2023-12-14**|**Brain Diffuser with Hierarchical Transformer for MCI Causality Analysis**|Qiankun Zuo et.al.|[2312.09022](http://arxiv.org/abs/2312.09022)|null|
