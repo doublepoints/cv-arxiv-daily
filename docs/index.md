@@ -1,4 +1,4 @@
-## <a id=top></a>Updated on 2023.12.23
+## <a id=top></a>Updated on 2023.12.24
 ---
 layout: default
 ---
@@ -8,7 +8,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.23
+## Updated on 2023.12.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## <a id=slam>SLAM</a>
@@ -3347,7 +3347,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-21**|**Distinctive GWBs from eccentric inspiraling SMBH binaries with a DM spike**|Li Hu et.al.|[2312.14041](http://arxiv.org/abs/2312.14041)|null|
 |**2023-12-20**|**Energy-efficient Spiking Neural Network Equalization for IM/DD Systems with Optimized Neural Encoding**|Alexander von Bank et.al.|[2312.12909](http://arxiv.org/abs/2312.12909)|**[link](https://github.com/kit-cel/optispike)**|
-|**2023-12-20**|**Collective dynamics and long-range order in thermal neuristor networks**|Yuan-Hang Zhang et.al.|[2312.12899](http://arxiv.org/abs/2312.12899)|null|
+|**2023-12-20**|**Collective dynamics and long-range order in thermal neuristor networks**|Yuan-Hang Zhang et.al.|[2312.12899](http://arxiv.org/abs/2312.12899)|**[link](https://github.com/yuanhangzhang98/collective_dynamics_neuristor)**|
 |**2023-12-20**|**Multi-stages attention Breast cancer classification based on nonlinear spiking neural P neurons with autapses**|Bo Yang et.al.|[2312.12804](http://arxiv.org/abs/2312.12804)|null|
 |**2023-12-20**|**SLP-Net:An efficient lightweight network for segmentation of skin lesions**|Bo Yang et.al.|[2312.12789](http://arxiv.org/abs/2312.12789)|null|
 |**2023-12-19**|**Enhancing the Study of Quantal Exocytotic Events: Combining Diamond Multi-Electrode Arrays with Amperometric PEak Analysis (APE) an Automated Analysis Code**|Giulia Tomagra et.al.|[2312.12640](http://arxiv.org/abs/2312.12640)|null|
