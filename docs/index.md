@@ -615,7 +615,7 @@ layout: default
 |**2023-12-18**|**Advancing Image Retrieval with Few-Shot Learning and Relevance Feedback**|Boaz Lerner et.al.|[2312.11078](http://arxiv.org/abs/2312.11078)|**[link](https://github.com/eccv22-ood-workshop/eccv22-ood-workshop.github.io)**|
 |**2023-12-17**|**PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields**|Boming Zhao et.al.|[2312.10649](http://arxiv.org/abs/2312.10649)|null|
 |**2023-12-17**|**DistilVPR: Cross-Modal Knowledge Distillation for Visual Place Recognition**|Sijie Wang et.al.|[2312.10616](http://arxiv.org/abs/2312.10616)|**[link](https://github.com/sijieaaa/distilvpr)**|
-|**2023-12-16**|**Symmetrical Bidirectional Knowledge Alignment for Zero-Shot Sketch-Based Image Retrieval**|Decheng Liu et.al.|[2312.10320](http://arxiv.org/abs/2312.10320)|null|
+|**2023-12-16**|**Symmetrical Bidirectional Knowledge Alignment for Zero-Shot Sketch-Based Image Retrieval**|Decheng Liu et.al.|[2312.10320](http://arxiv.org/abs/2312.10320)|**[link](https://github.com/zermatt-luo/SBKA)**|
 |**2023-12-15**|**Data-Efficient Multimodal Fusion on a Single GPU**|Noël Vouitsis et.al.|[2312.10144](http://arxiv.org/abs/2312.10144)|**[link](https://github.com/layer6ai-labs/fusemix)**|
 |**2023-12-13**|**Advancements in Content-Based Image Retrieval: A Comprehensive Survey of Relevance Feedback Techniques**|Hamed Qazanfari et.al.|[2312.10089](http://arxiv.org/abs/2312.10089)|null|
 |**2023-12-15**|**Let All be Whitened: Multi-teacher Distillation for Efficient Visual Retrieval**|Zhe Ma et.al.|[2312.09716](http://arxiv.org/abs/2312.09716)|**[link](https://github.com/maryeon/whiten_mtd)**|
@@ -1625,6 +1625,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-29**|**Informative Rays Selection for Few-Shot Neural Radiance Fields**|Marco Orsingher et.al.|[2312.17561](http://arxiv.org/abs/2312.17561)|null|
 |**2023-12-27**|**City-on-Web: Real-time Neural Rendering of Large-scale Scenes on the Web**|Kaiwen Song et.al.|[2312.16457](http://arxiv.org/abs/2312.16457)|null|
 |**2023-12-26**|**DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision**|Lu Ling et.al.|[2312.16256](http://arxiv.org/abs/2312.16256)|null|
 |**2023-12-24**|**SUNDIAL: 3D Satellite Understanding through Direct, Ambient, and Complex Lighting Decomposition**|Nikhil Behari et.al.|[2312.16215](http://arxiv.org/abs/2312.16215)|null|
@@ -2362,6 +2363,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-29**|**Physics-informed Graphical Neural Network for Power System State Estimation**|Quang-Ha Ngo et.al.|[2312.17738](http://arxiv.org/abs/2312.17738)|null|
+|**2023-12-29**|**Data Augmentation for Supervised Graph Outlier Detection with Latent Diffusion Models**|Kay Liu et.al.|[2312.17679](http://arxiv.org/abs/2312.17679)|**[link](https://github.com/kayzliu/godm)**|
+|**2023-12-29**|**One-Shot Multi-Rate Pruning of Graph Convolutional Networks**|Hichem Sahbi et.al.|[2312.17615](http://arxiv.org/abs/2312.17615)|null|
+|**2023-12-29**|**A graph neural network-based model with Out-of-Distribution Robustness for enhancing Antiretroviral Therapy Outcome Prediction for HIV-1**|Giulia Di Teodoro et.al.|[2312.17506](http://arxiv.org/abs/2312.17506)|null|
+|**2023-12-29**|**Integrating Chemical Language and Molecular Graph in Multimodal Fused Deep Learning for Drug Property Prediction**|Xiaohua Lu et.al.|[2312.17495](http://arxiv.org/abs/2312.17495)|null|
+|**2023-12-29**|**Commonsense for Zero-Shot Natural Language Video Localization**|Meghana Holla et.al.|[2312.17429](http://arxiv.org/abs/2312.17429)|null|
+|**2023-12-28**|**Graph Learning in 4D: a Quaternion-valued Laplacian to Enhance Spectral GCNs**|Stefano Fiorini et.al.|[2312.17361](http://arxiv.org/abs/2312.17361)|**[link](https://github.com/stefa1994/quatergcn)**|
+|**2023-12-28**|**Explainability-Based Adversarial Attack on Graphs Through Edge Perturbation**|Dibaloke Chanda et.al.|[2312.17301](http://arxiv.org/abs/2312.17301)|null|
 |**2023-12-28**|**Molecular Property Prediction Based on Graph Structure Learning**|Bangyi Zhao et.al.|[2312.16855](http://arxiv.org/abs/2312.16855)|null|
 |**2023-12-28**|**Learning Scalable Structural Representations for Link Prediction with Bloom Signatures**|Tianyi Zhang et.al.|[2312.16784](http://arxiv.org/abs/2312.16784)|null|
 |**2023-12-28**|**Graph Neural Networks for Antisocial Behavior Detection on Twitter**|Martina Toshevska et.al.|[2312.16755](http://arxiv.org/abs/2312.16755)|null|
@@ -3393,6 +3402,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-29**|**Darwin3: A large-scale neuromorphic chip with a Novel ISA and On-Chip Learning**|De Ma et.al.|[2312.17582](http://arxiv.org/abs/2312.17582)|null|
 |**2023-12-28**|**SparseProp: Efficient Event-Based Simulation and Training of Sparse Recurrent Spiking Neural Networks**|Rainer Engelken et.al.|[2312.17216](http://arxiv.org/abs/2312.17216)|**[link](https://github.com/rainerengelken/sparseprop)**|
 |**2023-12-28**|**Spike No More: Stabilizing the Pre-training of Large Language Models**|Sho Takase et.al.|[2312.16903](http://arxiv.org/abs/2312.16903)|null|
 |**2023-12-28**|**Sparse PCA with Oracle Property**|Quanquan Gu et.al.|[2312.16793](http://arxiv.org/abs/2312.16793)|null|
@@ -3796,6 +3806,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-29**|**Darwin3: A large-scale neuromorphic chip with a Novel ISA and On-Chip Learning**|De Ma et.al.|[2312.17582](http://arxiv.org/abs/2312.17582)|null|
 |**2023-12-28**|**SparseProp: Efficient Event-Based Simulation and Training of Sparse Recurrent Spiking Neural Networks**|Rainer Engelken et.al.|[2312.17216](http://arxiv.org/abs/2312.17216)|**[link](https://github.com/rainerengelken/sparseprop)**|
 |**2023-12-21**|**Nonlinear Model Predictive Control of a Conductance-Based Neuron Model via Data-Driven Forecasting**|Christof Fehrman et.al.|[2312.14274](http://arxiv.org/abs/2312.14274)|null|
 |**2023-12-20**|**Inferring the dynamics of ionic currents from recursive piecewise data assimilation of approximate neuron models**|Stephen A. Wells et.al.|[2312.12888](http://arxiv.org/abs/2312.12888)|null|
