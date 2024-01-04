@@ -27,6 +27,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887](http://arxiv.org/abs/2401.01887)|null|
 |**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800](http://arxiv.org/abs/2312.16800)|**[link](https://github.com/ZikangYuan/sr_livo)**|
 |**2023-12-20**|**NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields**|Jens Naumann et.al.|[2312.13471](http://arxiv.org/abs/2312.13471)|null|
 |**2023-12-22**|**Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM**|Junru Lin et.al.|[2312.13332](http://arxiv.org/abs/2312.13332)|null|
@@ -622,6 +623,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**DDN-SLAM: Real-time Dense Dynamic Neural Implicit SLAM with Joint Semantic Encoding**|Mingrui Li et.al.|[2401.01545](http://arxiv.org/abs/2401.01545)|null|
 |**2024-01-02**|**BEV-CLIP: Multi-modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving**|Dafeng Wei et.al.|[2401.01065](http://arxiv.org/abs/2401.01065)|null|
 |**2023-12-31**|**Multi-Granularity Representation Learning for Sketch-based Dynamic Face Image Retrieval**|Liang Wang et.al.|[2401.00371](http://arxiv.org/abs/2401.00371)|**[link](https://github.com/ddw2aigroup2cqupt/mgrl)**|
 |**2023-12-29**|**Bayesian Recursive Information Optical Imaging: A Ghost Imaging Scheme Based on Bayesian Filtering**|Long-Kun Du et.al.|[2401.00032](http://arxiv.org/abs/2401.00032)|null|
@@ -1459,6 +1461,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**Local Adaptive Clustering Based Image Matching for Automatic Visual Identification**|Zhizhen Wang et.al.|[2401.01720](http://arxiv.org/abs/2401.01720)|null|
+|**2024-01-03**|**A Transformer-Based Adaptive Semantic Aggregation Method for UAV Visual Geo-Localization**|Shishen Li et.al.|[2401.01574](http://arxiv.org/abs/2401.01574)|null|
 |**2023-12-23**|**BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation**|Tavis Shore et.al.|[2312.15363](http://arxiv.org/abs/2312.15363)|null|
 |**2023-12-22**|**Harnessing Diffusion Models for Visual Perception with Meta Prompts**|Qiang Wan et.al.|[2312.14733](http://arxiv.org/abs/2312.14733)|**[link](https://github.com/fudan-zvg/meta-prompts)**|
 |**2023-12-18**|**MatchDet: A Collaborative Framework for Image Matching and Object Detection**|Jinxiang Lai et.al.|[2312.10983](http://arxiv.org/abs/2312.10983)|null|
@@ -1651,6 +1655,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**SIGNeRF: Scene Integrated Generation for Neural Radiance Fields**|Jan-Niklas Dihlmann et.al.|[2401.01647](http://arxiv.org/abs/2401.01647)|null|
 |**2024-01-02**|**Street Gaussians for Modeling Dynamic Urban Scenes**|Yunzhi Yan et.al.|[2401.01339](http://arxiv.org/abs/2401.01339)|null|
 |**2024-01-02**|**Noise-NeRF: Hide Information in Neural Radiance Fields using Trainable Noise**|Qinglong Huang et.al.|[2401.01216](http://arxiv.org/abs/2401.01216)|null|
 |**2024-01-02**|**3D Visibility-aware Generalizable Neural Radiance Fields for Interacting Hands**|Xuan Huang et.al.|[2401.00979](http://arxiv.org/abs/2401.00979)|null|
@@ -2397,6 +2402,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**Graph Neural Networks for Surfactant Multi-Property Prediction**|Christoforos Brozos et.al.|[2401.01874](http://arxiv.org/abs/2401.01874)|**[link](https://github.com/brozosc/graph-neural-networks-for-surfactant-multi-property-prediction)**|
+|**2024-01-03**|**On the hardness of learning under symmetries**|Bobak T. Kiani et.al.|[2401.01869](http://arxiv.org/abs/2401.01869)|null|
+|**2024-01-03**|**DGDNN: Decoupled Graph Diffusion Neural Network for Stock Movement Prediction**|Zinuo You et.al.|[2401.01846](http://arxiv.org/abs/2401.01846)|null|
+|**2024-01-03**|**A quatum inspired neural network for geometric modeling**|Weitao Du et.al.|[2401.01801](http://arxiv.org/abs/2401.01801)|null|
+|**2024-01-03**|**MLPs Compass: What is learned when MLPs are combined with PLMs?**|Li Zhou et.al.|[2401.01667](http://arxiv.org/abs/2401.01667)|null|
+|**2024-01-03**|**On the Expressive Power of Graph Neural Networks**|Ashwin Nalwade et.al.|[2401.01626](http://arxiv.org/abs/2401.01626)|null|
+|**2024-01-01**|**Strong Transitivity Relations and Graph Neural Networks**|Yassin Mohamadi et.al.|[2401.01384](http://arxiv.org/abs/2401.01384)|null|
 |**2024-01-02**|**Graph Elimination Networks**|Shuo Wang et.al.|[2401.01233](http://arxiv.org/abs/2401.01233)|null|
 |**2024-01-02**|**Motif-aware Riemannian Graph Neural Network with Generative-Contrastive Learning**|Li Sun et.al.|[2401.01232](http://arxiv.org/abs/2401.01232)|**[link](https://github.com/riemanngraph/motifrgc)**|
 |**2024-01-01**|**Saliency-Aware Regularized Graph Neural Network**|Wenjie Pei et.al.|[2401.00755](http://arxiv.org/abs/2401.00755)|null|
@@ -3450,6 +3462,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**A model for frequency scaling of flow oscillations in high-speed double cones**|Gaurav Kumar et.al.|[2401.01538](http://arxiv.org/abs/2401.01538)|null|
+|**2024-01-03**|**The Art of Deception: Robust Backdoor Attack using Dynamic Stacking of Triggers**|Orson Mengara et.al.|[2401.01537](http://arxiv.org/abs/2401.01537)|null|
+|**2024-01-03**|**The Neuron as a Direct Data-Driven Controller**|Jason Moore et.al.|[2401.01489](http://arxiv.org/abs/2401.01489)|null|
 |**2024-01-02**|**Spiker+: a framework for the generation of efficient Spiking Neural Networks FPGA accelerators for inference at the edge**|Alessio Carpegna et.al.|[2401.01141](http://arxiv.org/abs/2401.01141)|null|
 |**2024-01-01**|**Quantum control in artificial neurons with superconductor-ionic memory inserted in the feedback**|Osama M. Nayfeh et.al.|[2401.00958](http://arxiv.org/abs/2401.00958)|null|
 |**2024-01-01**|**Black holes surrounded by generic matter distributions: polar perturbations and energy flux**|Nicholas Speeney et.al.|[2401.00932](http://arxiv.org/abs/2401.00932)|null|
@@ -3864,6 +3879,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**The Neuron as a Direct Data-Driven Controller**|Jason Moore et.al.|[2401.01489](http://arxiv.org/abs/2401.01489)|null|
 |**2023-12-31**|**Analysis of biologically plausible neuron models for regression with spiking neural networks**|Mario De Florio et.al.|[2401.00369](http://arxiv.org/abs/2401.00369)|null|
 |**2023-12-29**|**Darwin3: A large-scale neuromorphic chip with a Novel ISA and On-Chip Learning**|De Ma et.al.|[2312.17582](http://arxiv.org/abs/2312.17582)|null|
 |**2023-12-28**|**SparseProp: Efficient Event-Based Simulation and Training of Sparse Recurrent Spiking Neural Networks**|Rainer Engelken et.al.|[2312.17216](http://arxiv.org/abs/2312.17216)|**[link](https://github.com/rainerengelken/sparseprop)**|
