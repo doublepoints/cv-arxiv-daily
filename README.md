@@ -1,10 +1,10 @@
-## <a id=top></a>Updated on 2024.01.09
+## <a id=top></a>Updated on 2024.01.10
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.09
+## Updated on 2024.01.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -2420,7 +2420,7 @@
 |**2024-01-08**|**Boosting Column Generation with Graph Neural Networks for Joint Rider Trip Planning and Crew Shift Scheduling**|Jiawei Lu et.al.|[2401.03692](http://arxiv.org/abs/2401.03692)|null|
 |**2024-01-08**|**GrainGNN: A dynamic graph neural network for predicting 3D grain microstructure**|Yigong Qin et.al.|[2401.03661](http://arxiv.org/abs/2401.03661)|null|
 |**2024-01-07**|**Few-Shot Causal Representation Learning for Out-of-Distribution Generalization on Heterogeneous Graphs**|Pengfei Ding et.al.|[2401.03597](http://arxiv.org/abs/2401.03597)|null|
-|**2024-01-07**|**Global Prediction of COVID-19 Variant Emergence Using Dynamics-Informed Graph Neural Networks**|Majd Al Aawar et.al.|[2401.03390](http://arxiv.org/abs/2401.03390)|null|
+|**2024-01-07**|**Global Prediction of COVID-19 Variant Emergence Using Dynamics-Informed Graph Neural Networks**|Majd Al Aawar et.al.|[2401.03390](http://arxiv.org/abs/2401.03390)|**[link](https://github.com/itssmutnuri/gnnvariants)**|
 |**2024-01-07**|**Accurate and Scalable Estimation of Epistemic Uncertainty for Graph Neural Networks**|Puja Trivedi et.al.|[2401.03350](http://arxiv.org/abs/2401.03350)|null|
 |**2024-01-06**|**QoS-Aware Graph Contrastive Learning for Web Service Recommendation**|Jeongwhan Choi et.al.|[2401.03162](http://arxiv.org/abs/2401.03162)|null|
 |**2024-01-06**|**Quartet Logic: A Four-Step Reasoning (QLFR) framework for advancing Short Text Classification**|Hui Wu et.al.|[2401.03158](http://arxiv.org/abs/2401.03158)|null|
@@ -3510,7 +3510,7 @@
 |**2024-01-08**|**Inference on testing the number of spikes in a high-dimensional generalized two-sample spiked model and its applications**|Rui Wang et.al.|[2401.03622](http://arxiv.org/abs/2401.03622)|null|
 |**2024-01-07**|**The interplay of common noise and finite pulses on biological neurons**|Afifurrahman et.al.|[2401.03483](http://arxiv.org/abs/2401.03483)|null|
 |**2024-01-07**|**The role of resonator neuron in the dynamics of two coupled integrator and resonator neurons of different types of excitability**|Mohammad Reza Razvan et.al.|[2401.03419](http://arxiv.org/abs/2401.03419)|null|
-|**2024-01-06**|**SPQR: Controlling Q-ensemble Independence with Spiked Random Model for Reinforcement Learning**|Dohyeok Lee et.al.|[2401.03137](http://arxiv.org/abs/2401.03137)|null|
+|**2024-01-06**|**SPQR: Controlling Q-ensemble Independence with Spiked Random Model for Reinforcement Learning**|Dohyeok Lee et.al.|[2401.03137](http://arxiv.org/abs/2401.03137)|**[link](https://github.com/dohyeoklee/SPQR)**|
 |**2024-01-04**|**Spikformer V2: Join the High Accuracy Club on ImageNet with an SNN Ticket**|Zhaokun Zhou et.al.|[2401.02020](http://arxiv.org/abs/2401.02020)|**[link](https://github.com/zk-zhou/spikformer)**|
 |**2024-01-03**|**Decoupling of rotation and translation at the colloidal glass transition**|John Geiger et.al.|[2401.01956](http://arxiv.org/abs/2401.01956)|null|
 |**2024-01-02**|**Shrinking Your TimeStep: Towards Low-Latency Neuromorphic Object Recognition with Spiking Neural Network**|Yongqi Ding et.al.|[2401.01912](http://arxiv.org/abs/2401.01912)|null|
