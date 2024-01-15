@@ -1644,6 +1644,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**TriNeRFLet: A Wavelet Based Multiscale Triplane NeRF Representation**|Rajaei Khatib et.al.|[2401.06191](http://arxiv.org/abs/2401.06191)|null|
 |**2024-01-11**|**Fast High Dynamic Range Radiance Fields for Dynamic Scenes**|Guanjun Wu et.al.|[2401.06052](http://arxiv.org/abs/2401.06052)|null|
 |**2024-01-11**|**CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians**|Bin Dou et.al.|[2401.05925](http://arxiv.org/abs/2401.05925)|null|
 |**2024-01-11**|**GO-NeRF: Generating Virtual Objects in Neural Radiance Fields**|Peng Dai et.al.|[2401.05750](http://arxiv.org/abs/2401.05750)|null|
@@ -2402,6 +2403,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-12**|**NetMind: Adaptive RAN Baseband Function Placement by GCN Encoding and Maze-solving DRL**|Haiyuan Li et.al.|[2401.06722](http://arxiv.org/abs/2401.06722)|**[link](https://github.com/OCEAN-98/NetMind-Baseband-Function-Placement-with-GCN-Encoding-and-Maze-solving-DRL-for-advanced-RAN)**|
+|**2024-01-12**|**A General Benchmark Framework is Dynamic Graph Neural Network Need**|Yusen Zhang et.al.|[2401.06559](http://arxiv.org/abs/2401.06559)|null|
+|**2024-01-12**|**Treatment-Aware Hyperbolic Representation Learning for Causal Effect Estimation with Social Networks**|Ziqiang Cui et.al.|[2401.06557](http://arxiv.org/abs/2401.06557)|null|
+|**2024-01-12**|**Improving Graph Convolutional Networks with Transformer Layer in social-based items recommendation**|Thi Linh Hoang et.al.|[2401.06436](http://arxiv.org/abs/2401.06436)|null|
 |**2024-01-11**|**On the Power of Graph Neural Networks and Feature Augmentation Strategies to Classify Social Networks**|Walid Guettala et.al.|[2401.06048](http://arxiv.org/abs/2401.06048)|null|
 |**2024-01-11**|**Wavelet-Inspired Multiscale Graph Convolutional Recurrent Network for Traffic Forecasting**|Qipeng Qian et.al.|[2401.06040](http://arxiv.org/abs/2401.06040)|**[link](https://github.com/qqian99/wavgcrn)**|
 |**2024-01-11**|**Machine Learning Insides OptVerse AI Solver: Design Principles and Applications**|Xijun Li et.al.|[2401.05960](http://arxiv.org/abs/2401.05960)|null|
@@ -3506,6 +3511,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-12**|**Neural Networks for Singular Perturbations**|Joost A. A. Opschoor et.al.|[2401.06656](http://arxiv.org/abs/2401.06656)|null|
+|**2024-01-12**|**Resource-Efficient Gesture Recognition using Low-Resolution Thermal Camera via Spiking Neural Networks and Sparse Segmentation**|Ali Safa et.al.|[2401.06563](http://arxiv.org/abs/2401.06563)|null|
+|**2024-01-12**|**A Brain-inspired Computational Model for Human-like Concept Learning**|Yuwei Wang et.al.|[2401.06471](http://arxiv.org/abs/2401.06471)|null|
 |**2024-01-11**|**Post-Newtonian effects in compact binaries with a dark matter spike: A Lagrangian approach**|Diego Montalvo et.al.|[2401.06084](http://arxiv.org/abs/2401.06084)|null|
 |**2024-01-09**|**Fully Spiking Actor Network with Intra-layer Connections for Reinforcement Learning**|Ding Chen et.al.|[2401.05444](http://arxiv.org/abs/2401.05444)|null|
 |**2024-01-10**|**An event-based implementation of saliency-based visual attention for rapid scene analysis**|Camille Simon Chane et.al.|[2401.05030](http://arxiv.org/abs/2401.05030)|null|
