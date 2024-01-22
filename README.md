@@ -551,7 +551,7 @@
 |**2023-02-18**|**Bridge Damage Cause Estimation Using Multiple Images Based on Visual Question Answering**|Tatsuro Yamane et.al.|[2302.09208](http://arxiv.org/abs/2302.09208)|null|
 |**2023-02-12**|**Uncertainty-Driven Dense Two-View Structure from Motion**|Weirong Chen et.al.|[2302.00523](http://arxiv.org/abs/2302.00523)|null|
 |**2023-01-28**|**AdaSfM: From Coarse Global to Fine Incremental Adaptive Structure from Motion**|Yu Chen et.al.|[2301.12135](http://arxiv.org/abs/2301.12135)|null|
-|**2023-01-20**|**A vision-based autonomous UAV inspection framework for unknown tunnel construction sites with dynamic obstacles**|Zhefan Xu et.al.|[2301.08422](http://arxiv.org/abs/2301.08422)|null|
+|**2023-01-20**|**A vision-based autonomous UAV inspection framework for unknown tunnel construction sites with dynamic obstacles**|Zhefan Xu et.al.|[2301.08422](http://arxiv.org/abs/2301.08422)|**[link](https://github.com/zhefan-xu/cerlab-uav-autonomy)**|
 |**2023-03-21**|**Robust Dynamic Radiance Fields**|Yu-Lun Liu et.al.|[2301.02239](http://arxiv.org/abs/2301.02239)|**[link](https://github.com/facebookresearch/robust-dynrf)**|
 |**2022-12-24**|**Polarimetric Multi-View Inverse Rendering**|Jinyu Zhao et.al.|[2212.12721](http://arxiv.org/abs/2212.12721)|null|
 |**2022-12-13**|**Accidental Turntables: Learning 3D Pose by Watching Objects Turn**|Zezhou Cheng et.al.|[2212.06300](http://arxiv.org/abs/2212.06300)|null|
@@ -2132,7 +2132,7 @@
 |**2023-04-20**|**LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields**|Tang Tao et.al.|[2304.10406](http://arxiv.org/abs/2304.10406)|**[link](https://github.com/tangtaogo/lidar-nerf)**|
 |**2023-04-20**|**Revisiting Implicit Neural Representations in Low-Level Vision**|Wentian Xu et.al.|[2304.10250](http://arxiv.org/abs/2304.10250)|**[link](https://github.com/wentxul/linr)**|
 |**2023-04-20**|**Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering**|Dongting Hu et.al.|[2304.10075](http://arxiv.org/abs/2304.10075)|null|
-|**2023-04-20**|**Neural Radiance Fields: Past, Present, and Future**|Ansh Mittal et.al.|[2304.10050](http://arxiv.org/abs/2304.10050)|null|
+|**2023-04-20**|**Neural Radiance Fields: Past, Present, and Future**|Ansh Mittal et.al.|[2304.10050](http://arxiv.org/abs/2304.10050)|**[link](https://github.com/vlar-group/nvfi)**|
 |**2023-04-19**|**Tetra-NeRF: Representing Neural Radiance Fields Using Tetrahedra**|Jonas Kulhanek et.al.|[2304.09987](http://arxiv.org/abs/2304.09987)|**[link](https://github.com/jkulhanek/tetra-nerf)**|
 |**2023-04-20**|**Reference-guided Controllable Inpainting of Neural Radiance Fields**|Ashkan Mirzaei et.al.|[2304.09677](http://arxiv.org/abs/2304.09677)|null|
 |**2023-04-18**|**SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes**|Yiming Gao et.al.|[2304.08971](http://arxiv.org/abs/2304.08971)|null|
@@ -2455,7 +2455,7 @@
 |**2024-01-17**|**GNN-LoFI: a Novel Graph Neural Network through Localized Feature-based Histogram Intersection**|Alessandro Bicciato et.al.|[2401.09193](http://arxiv.org/abs/2401.09193)|**[link](https://github.com/gdl-unive/histogram-intersection-kernel)**|
 |**2024-01-17**|**Understanding Heterophily for Graph Neural Networks**|Junfu Wang et.al.|[2401.09125](http://arxiv.org/abs/2401.09125)|null|
 |**2024-01-17**|**Rethinking Spectral Graph Neural Networks with Spatially Adaptive Filtering**|Jingwei Guo et.al.|[2401.09071](http://arxiv.org/abs/2401.09071)|null|
-|**2024-01-16**|**MA2GCN: Multi Adjacency relationship Attention Graph Convolutional Networks for Traffic Prediction using Trajectory data**|Zhengke Sun et.al.|[2401.08727](http://arxiv.org/abs/2401.08727)|null|
+|**2024-01-16**|**MA2GCN: Multi Adjacency relationship Attention Graph Convolutional Networks for Traffic Prediction using Trajectory data**|Zhengke Sun et.al.|[2401.08727](http://arxiv.org/abs/2401.08727)|**[link](https://github.com/zachysun/taxi_traffic_benchmark)**|
 |**2024-01-16**|**Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness**|Bohang Zhang et.al.|[2401.08514](http://arxiv.org/abs/2401.08514)|**[link](https://github.com/subgraph23/homomorphism-expressivity)**|
 |**2024-01-16**|**Spoofing Detection in the Physical Layer with Graph Neural Networks**|Tien Ngoc Ha et.al.|[2401.08220](http://arxiv.org/abs/2401.08220)|null|
 |**2024-01-16**|**Structure-based out-of-distribution (OOD) materials property prediction: a benchmark study**|Sadman Sadeed Omee et.al.|[2401.08032](http://arxiv.org/abs/2401.08032)|null|
@@ -3040,7 +3040,7 @@
 |**2023-09-23**|**A Model-Agnostic Graph Neural Network for Integrating Local and Global Information**|Wenzhuo Zhou et.al.|[2309.13459](http://arxiv.org/abs/2309.13459)|null|
 |**2023-09-23**|**Deciphering Spatio-Temporal Graph Forecasting: A Causal Lens and Treatment**|Yutong Xia et.al.|[2309.13378](http://arxiv.org/abs/2309.13378)|null|
 |**2023-09-22**|**Graph Neural Network for Stress Predictions in Stiffened Panels Under Uniform Loading**|Yuecheng Cai et.al.|[2309.13022](http://arxiv.org/abs/2309.13022)|null|
-|**2023-09-22**|**Higher-order Graph Convolutional Network with Flower-Petals Laplacians on Simplicial Complexes**|Yiming Huang et.al.|[2309.12971](http://arxiv.org/abs/2309.12971)|null|
+|**2023-09-22**|**Higher-order Graph Convolutional Network with Flower-Petals Laplacians on Simplicial Complexes**|Yiming Huang et.al.|[2309.12971](http://arxiv.org/abs/2309.12971)|**[link](https://github.com/yiminghh/higcn)**|
 |**2023-09-22**|**ProtoEM: A Prototype-Enhanced Matching Framework for Event Relation Extraction**|Zhilei Hu et.al.|[2309.12892](http://arxiv.org/abs/2309.12892)|null|
 |**2023-09-21**|**SALSA-CLRS: A Sparse and Scalable Benchmark for Algorithmic Reasoning**|Julian Minder et.al.|[2309.12253](http://arxiv.org/abs/2309.12253)|**[link](https://github.com/jkminder/salsa-clrs)**|
 |**2023-09-21**|**Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting**|Yusheng Zhao et.al.|[2309.12028](http://arxiv.org/abs/2309.12028)|null|
