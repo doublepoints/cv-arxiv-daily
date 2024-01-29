@@ -1492,7 +1492,7 @@
 |**2024-01-24**|**Linear Relative Pose Estimation Founded on Pose-only Imaging Geometry**|Qi Cai et.al.|[2401.13357](http://arxiv.org/abs/2401.13357)|null|
 |**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886](http://arxiv.org/abs/2401.10886)|null|
 |**2024-01-18**|**Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation**|Songhe Deng et.al.|[2401.09883](http://arxiv.org/abs/2401.09883)|**[link](https://github.com/cvi-szu/qa-clims)**|
-|**2024-01-09**|**RomniStereo: Recurrent Omnidirectional Stereo Matching**|Hualie Jiang et.al.|[2401.04345](http://arxiv.org/abs/2401.04345)|**[link](https://github.com/halleyjiang/romnistereo)**|
+|**2024-01-26**|**RomniStereo: Recurrent Omnidirectional Stereo Matching**|Hualie Jiang et.al.|[2401.04345](http://arxiv.org/abs/2401.04345)|**[link](https://github.com/halleyjiang/romnistereo)**|
 |**2024-01-05**|**CoCoT: Contrastive Chain-of-Thought Prompting for Large Multimodal Models with Multiple Image Inputs**|Daoan Zhang et.al.|[2401.02582](http://arxiv.org/abs/2401.02582)|null|
 |**2024-01-03**|**Local Adaptive Clustering Based Image Matching for Automatic Visual Identification**|Zhizhen Wang et.al.|[2401.01720](http://arxiv.org/abs/2401.01720)|null|
 |**2024-01-03**|**A Transformer-Based Adaptive Semantic Aggregation Method for UAV Visual Geo-Localization**|Shishen Li et.al.|[2401.01574](http://arxiv.org/abs/2401.01574)|null|
@@ -1688,6 +1688,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726](http://arxiv.org/abs/2401.14726)|null|
 |**2024-01-25**|**Learning Robust Generalizable Radiance Field with Visibility and Feature Augmented Point Representation**|Jiaxu Wang et.al.|[2401.14354](http://arxiv.org/abs/2401.14354)|null|
 |**2024-01-25**|**Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**|Minglin Chen et.al.|[2401.14257](http://arxiv.org/abs/2401.14257)|null|
 |**2024-01-24**|**EndoGaussians: Single View Dynamic Gaussian Splatting for Deformable Endoscopic Tissues Reconstruction**|Yangsen Chen et.al.|[2401.13352](http://arxiv.org/abs/2401.13352)|null|
@@ -2463,6 +2464,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-26**|**Macro Graph Neural Networks for Online Billion-Scale Recommender Systems**|Hao Chen et.al.|[2401.14939](http://arxiv.org/abs/2401.14939)|null|
+|**2024-01-26**|**Coca: Improving and Explaining Graph Neural Network-Based Vulnerability Detection Systems**|Sicong Cao et.al.|[2401.14886](http://arxiv.org/abs/2401.14886)|null|
+|**2024-01-26**|**Cross-Space Adaptive Filter: Integrating Graph Topology and Node Attributes for Alleviating the Over-smoothing Problem**|Chen Huang et.al.|[2401.14876](http://arxiv.org/abs/2401.14876)|null|
+|**2024-01-26**|**PepGB: Facilitating peptide drug discovery via graph neural networks**|Yipin Lei et.al.|[2401.14665](http://arxiv.org/abs/2401.14665)|null|
+|**2024-01-26**|**Design Your Own Universe: A Physics-Informed Agnostic Method for Enhancing Graph Neural Networks**|Dai Shi et.al.|[2401.14580](http://arxiv.org/abs/2401.14580)|null|
+|**2024-01-26**|**GOAt: Explaining Graph Neural Networks via Graph Output Attribution**|Shengyao Lu et.al.|[2401.14578](http://arxiv.org/abs/2401.14578)|null|
+|**2024-01-25**|**GCBF+: A Neural Graph Control Barrier Function Framework for Distributed Safe Multi-Agent Control**|Songyuan Zhang et.al.|[2401.14554](http://arxiv.org/abs/2401.14554)|null|
 |**2024-01-25**|**Manifold GCN: Diffusion-based Convolutional Neural Network for Manifold-valued Graphs**|Martin Hanik et.al.|[2401.14381](http://arxiv.org/abs/2401.14381)|null|
 |**2024-01-25**|**Estimation of partially known Gaussian graphical models with score-based structural priors**|Martín Sevilla et.al.|[2401.14340](http://arxiv.org/abs/2401.14340)|**[link](https://github.com/tenceto/langevin_ggm)**|
 |**2024-01-25**|**Energy-Efficient Power Allocation in Cell-Free Massive MIMO via Graph Neural Networks**|Ramprasad Raghunath et.al.|[2401.14281](http://arxiv.org/abs/2401.14281)|**[link](https://gitlab.com/ichbinram/ee_cell_free)**|
@@ -3640,6 +3648,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-26**|**Advanced iontronic spiking modes with multiscale diffusive dynamics in a fluidic circuit**|T. M. Kamsma et.al.|[2401.14921](http://arxiv.org/abs/2401.14921)|null|
+|**2024-01-26**|**LitE-SNN: Designing Lightweight and Efficient Spiking Neural Network through Spatial-Temporal Compressive Network Search and Joint Optimization**|Qianhui Liu et.al.|[2401.14652](http://arxiv.org/abs/2401.14652)|null|
+|**2024-01-25**|**Self-interacting dark matter solves the final parsec problem of supermassive black hole mergers**|Gonzalo Alonso-Álvarez et.al.|[2401.14450](http://arxiv.org/abs/2401.14450)|null|
 |**2024-01-25**|**Weakening of magnetic braking in cataclysmic variables explains the dearth of period bouncers**|Arnab Sarkar et.al.|[2401.14389](http://arxiv.org/abs/2401.14389)|null|
 |**2024-01-25**|**Gamma rays from dark matter spikes in EAGLE simulations**|J. Aschersleben et.al.|[2401.14072](http://arxiv.org/abs/2401.14072)|null|
 |**2024-01-23**|**Monadic transductions and definable classes of matroids**|Susan Jowett et.al.|[2401.12969](http://arxiv.org/abs/2401.12969)|null|
