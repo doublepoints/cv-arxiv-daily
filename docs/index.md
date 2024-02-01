@@ -459,6 +459,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|null|
 |**2024-01-22**|**HG3-NeRF: Hierarchical Geometric, Semantic, and Photometric Guided Neural Radiance Fields for Sparse View Inputs**|Zelin Gao et.al.|[2401.11711](http://arxiv.org/abs/2401.11711)|null|
 |**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886](http://arxiv.org/abs/2401.10886)|null|
 |**2024-01-15**|**3DMASC: Accessible, explainable 3D point clouds classification. Application to Bi-spectral Topo-bathymetric lidar data**|Mathilde Letard et.al.|[2401.09481](http://arxiv.org/abs/2401.09481)|null|
@@ -620,6 +621,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083](http://arxiv.org/abs/2401.18083)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
+|**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|null|
 |**2024-01-29**|**Bridging Generative and Discriminative Models for Unified Visual Perception with Diffusion Priors**|Shiyin Dong et.al.|[2401.16459](http://arxiv.org/abs/2401.16459)|null|
 |**2024-01-29**|**Cross-Modal Coordination Across a Diverse Set of Input Modalities**|Jorge Sánchez et.al.|[2401.16347](http://arxiv.org/abs/2401.16347)|null|
 |**2024-01-29**|**Regressing Transformers for Data-efficient Visual Place Recognition**|María Leyva-Vallina et.al.|[2401.16304](http://arxiv.org/abs/2401.16304)|null|
@@ -1474,6 +1477,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083](http://arxiv.org/abs/2401.18083)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
+|**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|null|
 |**2024-01-24**|**Linear Relative Pose Estimation Founded on Pose-only Imaging Geometry**|Qi Cai et.al.|[2401.13357](http://arxiv.org/abs/2401.13357)|null|
 |**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886](http://arxiv.org/abs/2401.10886)|null|
 |**2024-01-18**|**Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation**|Songhe Deng et.al.|[2401.09883](http://arxiv.org/abs/2401.09883)|**[link](https://github.com/cvi-szu/qa-clims)**|
@@ -1671,8 +1676,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting**|Jiezhi Yang et.al.|[2401.18075](http://arxiv.org/abs/2401.18075)|null|
+|**2024-01-31**|**Semantic Anything in 3D Gaussians**|Xu Hu et.al.|[2401.17857](http://arxiv.org/abs/2401.17857)|null|
 |**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121](http://arxiv.org/abs/2401.17121)|**[link](https://github.com/mercerai/paev3d)**|
-|**2024-01-29**|**Endo-4DGS: Distilling Depth Ranking for Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416](http://arxiv.org/abs/2401.16416)|null|
+|**2024-01-31**|**Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416](http://arxiv.org/abs/2401.16416)|null|
 |**2024-01-29**|**Divide and Conquer: Rethinking the Training Paradigm of Neural Radiance Fields**|Rongkai Ma et.al.|[2401.16144](http://arxiv.org/abs/2401.16144)|null|
 |**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726](http://arxiv.org/abs/2401.14726)|null|
 |**2024-01-25**|**Learning Robust Generalizable Radiance Field with Visibility and Feature Augmented Point Representation**|Jiaxu Wang et.al.|[2401.14354](http://arxiv.org/abs/2401.14354)|null|
@@ -2448,6 +2455,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Benchmarking Sensitivity of Continual Graph Learning for Skeleton-Based Action Recognition**|Wei Wei et.al.|[2401.18054](http://arxiv.org/abs/2401.18054)|null|
+|**2024-01-31**|**Attention Graph for Multi-Robot Social Navigation with Deep Reinforcement Learning**|Erwan Escudie et.al.|[2401.17914](http://arxiv.org/abs/2401.17914)|null|
+|**2024-01-31**|**Graph Transformers without Positional Encodings**|Ayush Garg et.al.|[2401.17791](http://arxiv.org/abs/2401.17791)|null|
+|**2024-01-31**|**PF-GNN: Differentiable particle filtering based approximation of universal graph representations**|Mohammed Haroon Dupty et.al.|[2401.17752](http://arxiv.org/abs/2401.17752)|**[link](https://github.com/pfgnn/pf-gnn)**|
+|**2024-01-31**|**Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation**|Liang Qu et.al.|[2401.17630](http://arxiv.org/abs/2401.17630)|null|
+|**2024-01-31**|**IGCN: Integrative Graph Convolutional Networks for Multi-modal Data**|Cagri Ozdemir et.al.|[2401.17612](http://arxiv.org/abs/2401.17612)|null|
+|**2024-01-30**|**Timeseries Suppliers Allocation Risk Optimization via Deep Black Litterman Model**|Jiayuan Luo et.al.|[2401.17350](http://arxiv.org/abs/2401.17350)|null|
 |**2024-01-30**|**Energy-conserving equivariant GNN for elasticity of lattice architected metamaterials**|Ivan Grega et.al.|[2401.16914](http://arxiv.org/abs/2401.16914)|null|
 |**2024-01-30**|**Online Algorithm for Node Feature Forecasting in Temporal Graphs**|Aniq Ur Rahman et.al.|[2401.16800](http://arxiv.org/abs/2401.16800)|null|
 |**2024-01-30**|**Graph Fairness Learning under Distribution Shifts**|Yibo Li et.al.|[2401.16784](http://arxiv.org/abs/2401.16784)|null|
@@ -3645,6 +3659,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**An electrodynamic wave model for the action potential**|Vitaly L. Galinsky et.al.|[2401.18051](http://arxiv.org/abs/2401.18051)|null|
+|**2024-01-31**|**EEG-GPT: Exploring Capabilities of Large Language Models for EEG Classification and Interpretation**|Jonathan W. Kim et.al.|[2401.18006](http://arxiv.org/abs/2401.18006)|null|
+|**2024-01-31**|**SNNLP: Energy-Efficient Natural Language Processing Using Spiking Neural Networks**|R. Alexander Knipper et.al.|[2401.17911](http://arxiv.org/abs/2401.17911)|null|
+|**2024-01-30**|**Integrated Information Decomposition Unveils Major Structural Traits of In Silico and In Vitro Neuronal Networks**|Gustavo Menesse et.al.|[2401.17478](http://arxiv.org/abs/2401.17478)|null|
+|**2024-01-30**|**Picosecond transfer from short-term to long-term memory in analog antiferromagnetic memory device**|M. Surynek et.al.|[2401.17370](http://arxiv.org/abs/2401.17370)|null|
 |**2024-01-30**|**Collapsing massive stars and their EM transients**|Agnieszka Janiuk et.al.|[2401.17156](http://arxiv.org/abs/2401.17156)|null|
 |**2024-01-30**|**Efficient Gesture Recognition on Spiking Convolutional Networks Through Sensor Fusion of Event-Based and Depth Data**|Lea Steffen et.al.|[2401.17064](http://arxiv.org/abs/2401.17064)|null|
 |**2024-01-30**|**jaxsnn: Event-driven Gradient Estimation for Analog Neuromorphic Hardware**|Eric Müller et.al.|[2401.16841](http://arxiv.org/abs/2401.16841)|null|
