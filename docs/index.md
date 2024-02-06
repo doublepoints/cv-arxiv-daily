@@ -621,6 +621,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-04**|**Region-Based Representations Revisited**|Michal Shlapentokh-Rothman et.al.|[2402.02352](http://arxiv.org/abs/2402.02352)|null|
+|**2024-02-03**|**Zero-shot sketch-based remote sensing image retrieval based on multi-level and attention-guided tokenization**|Bo Yang et.al.|[2402.02141](http://arxiv.org/abs/2402.02141)|null|
 |**2024-02-01**|**BrainSLAM: SLAM on Neural Population Activity Data**|Kipp Freud et.al.|[2402.00588](http://arxiv.org/abs/2402.00588)|null|
 |**2024-02-01**|**Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering**|Tianxiao Gao et.al.|[2402.00330](http://arxiv.org/abs/2402.00330)|**[link](https://github.com/imrl/night-rider)**|
 |**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083](http://arxiv.org/abs/2401.18083)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
@@ -1678,6 +1680,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-05**|**ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**|Bernard Spiegl et.al.|[2402.02906](http://arxiv.org/abs/2402.02906)|**[link](https://github.com/bronemos/view-fusion)**|
+|**2024-02-02**|**ConRF: Zero-shot Stylization of 3D Scenes with Conditioned Radiation Fields**|Xingyu Miao et.al.|[2402.01950](http://arxiv.org/abs/2402.01950)|**[link](https://github.com/xingy038/conrf)**|
+|**2024-02-02**|**Robust Inverse Graphics via Probabilistic Inference**|Tuan Anh Le et.al.|[2402.01915](http://arxiv.org/abs/2402.01915)|null|
 |**2024-02-02**|**HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation**|Paweł Batorski et.al.|[2402.01524](http://arxiv.org/abs/2402.01524)|**[link](https://github.com/gmum/hyperplanes)**|
 |**2024-02-02**|**Di-NeRF: Distributed NeRF for Collaborative Learning with Unknown Relative Poses**|Mahboubeh Asadi et.al.|[2402.01485](http://arxiv.org/abs/2402.01485)|null|
 |**2024-02-02**|**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**|Joanna Waczyńska et.al.|[2402.01459](http://arxiv.org/abs/2402.01459)|**[link](https://github.com/waczjoan/gaussian-mesh-splatting)**|
@@ -2464,6 +2469,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-05**|**Graph Neural Machine: A New Model for Learning with Tabular Data**|Giannis Nikolentzos et.al.|[2402.02862](http://arxiv.org/abs/2402.02862)|null|
+|**2024-02-05**|**PowerGraph: A power grid benchmark dataset for graph neural networks**|Anna Varbella et.al.|[2402.02827](http://arxiv.org/abs/2402.02827)|null|
+|**2024-02-05**|**Statistical Guarantees for Link Prediction using Graph Neural Networks**|Alan Chung et.al.|[2402.02692](http://arxiv.org/abs/2402.02692)|null|
+|**2024-02-05**|**GraphRT: A graph-based deep learning model for predicting the retention time of peptides**|Mark Drvodelic et.al.|[2402.02661](http://arxiv.org/abs/2402.02661)|null|
+|**2024-02-04**|**Weisfeiler Leman for Euclidean Equivariant Machine Learning**|Snir Hordan et.al.|[2402.02484](http://arxiv.org/abs/2402.02484)|null|
+|**2024-02-04**|**Learning Mutual Excitation for Hand-to-Hand and Human-to-Human Interaction Recognition**|Mengyuan Liu et.al.|[2402.02431](http://arxiv.org/abs/2402.02431)|null|
+|**2024-02-04**|**Active Learning for Graphs with Noisy Structures**|Hongliang Chi et.al.|[2402.02321](http://arxiv.org/abs/2402.02321)|null|
+|**2024-02-03**|**SemPool: Simple, robust, and interpretable KG pooling for enhancing language models**|Costas Mavromatis et.al.|[2402.02289](http://arxiv.org/abs/2402.02289)|null|
+|**2024-02-03**|**Future Directions in Foundations of Graph Machine Learning**|Christopher Morris et.al.|[2402.02287](http://arxiv.org/abs/2402.02287)|null|
+|**2024-02-03**|**Neural Scaling Laws on Graphs**|Jingzhe Liu et.al.|[2402.02054](http://arxiv.org/abs/2402.02054)|null|
 |**2024-02-02**|**AutoGCN -- Towards Generic Human Activity Recognition with Neural Architecture Search**|Felix Tempel et.al.|[2402.01313](http://arxiv.org/abs/2402.01313)|**[link](https://github.com/deepinmotion/autogcn)**|
 |**2024-02-02**|**TEDDY: Trimming Edges with Degree-based Discrimination strategY**|Hyunjin Seo et.al.|[2402.01261](http://arxiv.org/abs/2402.01261)|null|
 |**2024-02-02**|**Two Heads Are Better Than One: Boosting Graph Sparse Training via Semantic and Topological Awareness**|Guibin Zhang et.al.|[2402.01242](http://arxiv.org/abs/2402.01242)|null|
@@ -3682,6 +3697,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-05**|**A Random Matrix Approach to Low-Multilinear-Rank Tensor Approximation**|Hugo Lebeau et.al.|[2402.03169](http://arxiv.org/abs/2402.03169)|null|
+|**2024-02-05**|**Time-Distributed Backdoor Attacks on Federated Spiking Learning**|Gorka Abad et.al.|[2402.02886](http://arxiv.org/abs/2402.02886)|null|
+|**2024-02-04**|**Global bank network connectedness revisited: What is common, idiosyncratic and when?**|Jonas Krampe et.al.|[2402.02482](http://arxiv.org/abs/2402.02482)|null|
+|**2024-02-02**|**Separation rates for the detection of synchronization of interacting point processes in a mean field frame. Application to neuroscience**|Josué Tchouanti et.al.|[2402.01919](http://arxiv.org/abs/2402.01919)|null|
 |**2024-02-02**|**Spiking Music: Audio Compression with Event Based Auto-encoders**|Martim Lisboa et.al.|[2402.01571](http://arxiv.org/abs/2402.01571)|null|
 |**2024-02-02**|**Efficient and Effective Time-Series Forecasting with Spiking Neural Networks**|Changze Lv et.al.|[2402.01533](http://arxiv.org/abs/2402.01533)|null|
 |**2024-02-02**|**Spiking CenterNet: A Distillation-boosted Spiking Neural Network for Object Detection**|Lennard Bodden et.al.|[2402.01287](http://arxiv.org/abs/2402.01287)|null|
