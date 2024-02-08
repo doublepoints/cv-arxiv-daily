@@ -1682,6 +1682,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**NeRF as Non-Distant Environment Emitter in Physics-based Inverse Rendering**|Jingwang Ling et.al.|[2402.04829](http://arxiv.org/abs/2402.04829)|null|
+|**2024-02-07**|**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**|Guibiao Liao et.al.|[2402.04648](http://arxiv.org/abs/2402.04648)|null|
+|**2024-02-07**|**BirdNeRF: Fast Neural Reconstruction of Large-Scale Scenes From Aerial Imagery**|Huiqing Zhang et.al.|[2402.04554](http://arxiv.org/abs/2402.04554)|null|
 |**2024-02-06**|**Improved Generalization of Weight Space Networks via Augmentations**|Aviv Shamsian et.al.|[2402.04081](http://arxiv.org/abs/2402.04081)|null|
 |**2024-02-05**|**ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**|Bernard Spiegl et.al.|[2402.02906](http://arxiv.org/abs/2402.02906)|**[link](https://github.com/bronemos/view-fusion)**|
 |**2024-02-02**|**ConRF: Zero-shot Stylization of 3D Scenes with Conditioned Radiation Fields**|Xingyu Miao et.al.|[2402.01950](http://arxiv.org/abs/2402.01950)|**[link](https://github.com/xingy038/conrf)**|
@@ -2472,6 +2475,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**PAC Learnability under Explanation-Preserving Graph Perturbations**|Xu Zheng et.al.|[2402.05039](http://arxiv.org/abs/2402.05039)|null|
+|**2024-02-07**|**Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching**|Yuchen Zhang et.al.|[2402.05011](http://arxiv.org/abs/2402.05011)|null|
+|**2024-02-07**|**Moco: A Learnable Meta Optimizer for Combinatorial Optimization**|Tim Dernedde et.al.|[2402.04915](http://arxiv.org/abs/2402.04915)|**[link](https://github.com/timd3/moco)**|
+|**2024-02-07**|**E(3)-Equivariant Mesh Neural Networks**|Thuan Trang et.al.|[2402.04821](http://arxiv.org/abs/2402.04821)|**[link](https://github.com/hysonlab/equimesh)**|
+|**2024-02-07**|**Incorporating Retrieval-based Causal Learning with Information Bottlenecks for Interpretable Graph Neural Networks**|Jiahua Rao et.al.|[2402.04710](http://arxiv.org/abs/2402.04710)|null|
+|**2024-02-07**|**Feature Distribution on Graph Topology Mediates the Effect of Graph Convolution: Homophily Perspective**|Soo Yong Lee et.al.|[2402.04621](http://arxiv.org/abs/2402.04621)|null|
+|**2024-02-06**|**PreGIP: Watermarking the Pretraining of Graph Neural Networks for Deep Intellectual Property Protection**|Enyan Dai et.al.|[2402.04435](http://arxiv.org/abs/2402.04435)|null|
 |**2024-02-06**|**LIPSTICK: Corruptibility-Aware and Explainable Graph Neural Network-based Oracle-Less Attack on Logic Locking**|Yeganeh Aghamohammadi et.al.|[2402.04235](http://arxiv.org/abs/2402.04235)|null|
 |**2024-02-06**|**Link Prediction with Relational Hypergraphs**|Xingyue Huang et.al.|[2402.04062](http://arxiv.org/abs/2402.04062)|null|
 |**2024-02-06**|**PAC-Bayesian Adversarially Robust Generalization Bounds for Graph Neural Network**|Tan Sun et.al.|[2402.04038](http://arxiv.org/abs/2402.04038)|null|
@@ -3710,6 +3720,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**Optimal input reverberation and homeostatic self-organization towards the edge of synchronization**|Sue L. Rhâmidda et.al.|[2402.05032](http://arxiv.org/abs/2402.05032)|null|
+|**2024-02-07**|**Asymptotics of feature learning in two-layer networks after one gradient-step**|Hugo Cui et.al.|[2402.04980](http://arxiv.org/abs/2402.04980)|**[link](https://github.com/spoc-group/onestepgd_asymptotics)**|
+|**2024-02-07**|**Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer**|Mingxaun Liu et.al.|[2402.04798](http://arxiv.org/abs/2402.04798)|null|
+|**2024-02-07**|**CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks**|Yulong Huang et.al.|[2402.04663](http://arxiv.org/abs/2402.04663)|null|
+|**2024-02-07**|**Towards Improved Imbalance Robustness in Continual Multi-Label Learning with Dual Output Spiking Architecture (DOSA)**|Sourav Mishra et.al.|[2402.04596](http://arxiv.org/abs/2402.04596)|null|
 |**2024-02-06**|**Magnetic Field Gated and Current Controlled Spintronic Mem-transistor Neuron -based Spiking Neural Networks**|Aijaz H. Lone et.al.|[2402.03767](http://arxiv.org/abs/2402.03767)|null|
 |**2024-02-06**|**The first robust evidence showing a dark matter density spike around the supermassive black hole in OJ 287**|Man Ho Chan et.al.|[2402.03751](http://arxiv.org/abs/2402.03751)|null|
 |**2024-02-05**|**A Random Matrix Approach to Low-Multilinear-Rank Tensor Approximation**|Hugo Lebeau et.al.|[2402.03169](http://arxiv.org/abs/2402.03169)|null|
@@ -4199,6 +4214,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks**|Yulong Huang et.al.|[2402.04663](http://arxiv.org/abs/2402.04663)|null|
 |**2024-02-06**|**Magnetic Field Gated and Current Controlled Spintronic Mem-transistor Neuron -based Spiking Neural Networks**|Aijaz H. Lone et.al.|[2402.03767](http://arxiv.org/abs/2402.03767)|null|
 |**2024-02-02**|**Inferring the Langevin Equation with Uncertainty via Bayesian Neural Networks**|Youngkyoung Bae et.al.|[2402.01338](http://arxiv.org/abs/2402.01338)|null|
 |**2024-02-02**|**Efficient Training Spiking Neural Networks with Parallel Spiking Unit**|Yang Li et.al.|[2402.00449](http://arxiv.org/abs/2402.00449)|null|
