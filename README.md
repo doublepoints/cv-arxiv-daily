@@ -27,6 +27,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Online and Certifiably Correct Visual Odometry and Mapping**|Devansh R Agrawal et.al.|[2402.05254](http://arxiv.org/abs/2402.05254)|null|
 |**2024-02-06**|**YOLOPoint Joint Keypoint and Object Detection**|Anton Backhaus et.al.|[2402.03989](http://arxiv.org/abs/2402.03989)|null|
 |**2024-01-19**|**Motion Consistency Loss for Monocular Visual Odometry with Attention-Based Deep Learning**|André O. Françani et.al.|[2401.10857](http://arxiv.org/abs/2401.10857)|null|
 |**2024-01-17**|**Event-Based Visual Odometry on Non-Holonomic Ground Vehicles**|Wanting Xu et.al.|[2401.09331](http://arxiv.org/abs/2401.09331)|**[link](https://github.com/gowanting/nhevo)**|
@@ -2499,6 +2500,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**Classifying Nodes in Graphs without GNNs**|Daniel Winter et.al.|[2402.05934](http://arxiv.org/abs/2402.05934)|**[link](https://github.com/dani3lwinter/cohop)**|
+|**2024-02-08**|**Large Language Model Meets Graph Neural Network in Knowledge Distillation**|Shengxiang Hu et.al.|[2402.05894](http://arxiv.org/abs/2402.05894)|null|
+|**2024-02-08**|**Rethinking Propagation for Unsupervised Graph Domain Adaptation**|Meihan Liu et.al.|[2402.05660](http://arxiv.org/abs/2402.05660)|**[link](https://github.com/meihan-liu/24aaai-a2gnn)**|
+|**2024-02-08**|**Hypergraph Node Classification With Graph Neural Networks**|Bohan Tang et.al.|[2402.05569](http://arxiv.org/abs/2402.05569)|null|
+|**2024-02-08**|**TASER: Temporal Adaptive Sampling for Fast and Accurate Dynamic Graph Representation Learning**|Gangda Deng et.al.|[2402.05396](http://arxiv.org/abs/2402.05396)|null|
+|**2024-02-08**|**Graph Neural Networks for Physical-Layer Security in Multi-User Flexible-Duplex Networks**|Tharaka Perera et.al.|[2402.05378](http://arxiv.org/abs/2402.05378)|null|
+|**2024-02-07**|**Graph Neural Networks as Fast and High-fidelity Emulators for Finite-Element Ice Sheet Modeling**|Maryam Rahnemoonfar et.al.|[2402.05291](http://arxiv.org/abs/2402.05291)|null|
+|**2024-02-07**|**Adaptive Hypergraph Network for Trust Prediction**|Rongwei Xu et.al.|[2402.05154](http://arxiv.org/abs/2402.05154)|**[link](https://github.com/sherry-xu1995/ahntp)**|
 |**2024-02-07**|**PAC Learnability under Explanation-Preserving Graph Perturbations**|Xu Zheng et.al.|[2402.05039](http://arxiv.org/abs/2402.05039)|null|
 |**2024-02-07**|**Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching**|Yuchen Zhang et.al.|[2402.05011](http://arxiv.org/abs/2402.05011)|null|
 |**2024-02-07**|**Moco: A Learnable Meta Optimizer for Combinatorial Optimization**|Tim Dernedde et.al.|[2402.04915](http://arxiv.org/abs/2402.04915)|**[link](https://github.com/timd3/moco)**|
@@ -3652,6 +3661,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**Linking Vision and Multi-Agent Communication through Visible Light Communication using Event Cameras**|Haruyuki Nakagawa et.al.|[2402.05619](http://arxiv.org/abs/2402.05619)|null|
 |**2024-02-02**|**Spectrum-guided Feature Enhancement Network for Event Person Re-Identification**|Hongchen Tan et.al.|[2402.01269](http://arxiv.org/abs/2402.01269)|null|
 |**2024-01-29**|**Neuromorphic Valence and Arousal Estimation**|Lorenzo Berlincioni et.al.|[2401.16058](http://arxiv.org/abs/2401.16058)|null|
 |**2024-01-23**|**MUSES: The Multi-Sensor Semantic Perception Dataset for Driving under Uncertainty**|Tim Brödermann et.al.|[2401.12761](http://arxiv.org/abs/2401.12761)|null|
@@ -3748,10 +3758,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**Effects of kappa-opioid agonist U-50488 and p38 MAPK inhibitor SB203580 on the spike activity of pyramidal neurons in the basolateral amygdala**|Konstantin Y. Kalitin et.al.|[2402.05815](http://arxiv.org/abs/2402.05815)|null|
+|**2024-02-08**|**Spiking Neural Network Enhanced Hand Gesture Recognition Using Low-Cost Single-photon Avalanche Diode Array**|Zhenya Zang et.al.|[2402.05441](http://arxiv.org/abs/2402.05441)|**[link](https://github.com/zzy666666zzy/tinylidar_net_snn)**|
+|**2024-02-08**|**MTSA-SNN: A Multi-modal Time Series Analysis Model Based on Spiking Neural Network**|Chengzhi Liu et.al.|[2402.05423](http://arxiv.org/abs/2402.05423)|**[link](https://github.com/chenngzz/mtsa-snn)**|
+|**2024-02-08**|**From atomic to global connectivity in the structure of the SARS-CoV2-Human ACE2 receptor complex**|Varsha Subramanyan et.al.|[2402.05416](http://arxiv.org/abs/2402.05416)|null|
 |**2024-02-07**|**Optimal input reverberation and homeostatic self-organization towards the edge of synchronization**|Sue L. Rhâmidda et.al.|[2402.05032](http://arxiv.org/abs/2402.05032)|null|
 |**2024-02-07**|**Asymptotics of feature learning in two-layer networks after one gradient-step**|Hugo Cui et.al.|[2402.04980](http://arxiv.org/abs/2402.04980)|**[link](https://github.com/spoc-group/onestepgd_asymptotics)**|
 |**2024-02-07**|**Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer**|Mingxaun Liu et.al.|[2402.04798](http://arxiv.org/abs/2402.04798)|null|
-|**2024-02-07**|**CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks**|Yulong Huang et.al.|[2402.04663](http://arxiv.org/abs/2402.04663)|null|
+|**2024-02-08**|**CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks**|Yulong Huang et.al.|[2402.04663](http://arxiv.org/abs/2402.04663)|null|
 |**2024-02-07**|**Towards Improved Imbalance Robustness in Continual Multi-Label Learning with Dual Output Spiking Architecture (DOSA)**|Sourav Mishra et.al.|[2402.04596](http://arxiv.org/abs/2402.04596)|null|
 |**2024-02-06**|**Magnetic Field Gated and Current Controlled Spintronic Mem-transistor Neuron -based Spiking Neural Networks**|Aijaz H. Lone et.al.|[2402.03767](http://arxiv.org/abs/2402.03767)|null|
 |**2024-02-06**|**The first robust evidence showing a dark matter density spike around the supermassive black hole in OJ 287**|Man Ho Chan et.al.|[2402.03751](http://arxiv.org/abs/2402.03751)|null|
@@ -4244,7 +4258,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-07**|**CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks**|Yulong Huang et.al.|[2402.04663](http://arxiv.org/abs/2402.04663)|null|
+|**2024-02-08**|**The impact of high frequency-based stability on the onset of action potentials in neuron models**|Eduardo Cerpa et.al.|[2402.05886](http://arxiv.org/abs/2402.05886)|null|
+|**2024-02-08**|**CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks**|Yulong Huang et.al.|[2402.04663](http://arxiv.org/abs/2402.04663)|null|
 |**2024-02-06**|**Magnetic Field Gated and Current Controlled Spintronic Mem-transistor Neuron -based Spiking Neural Networks**|Aijaz H. Lone et.al.|[2402.03767](http://arxiv.org/abs/2402.03767)|null|
 |**2024-02-02**|**Inferring the Langevin Equation with Uncertainty via Bayesian Neural Networks**|Youngkyoung Bae et.al.|[2402.01338](http://arxiv.org/abs/2402.01338)|null|
 |**2024-02-02**|**Efficient Training Spiking Neural Networks with Parallel Spiking Unit**|Yang Li et.al.|[2402.00449](http://arxiv.org/abs/2402.00449)|null|
