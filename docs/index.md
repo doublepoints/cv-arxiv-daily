@@ -1,4 +1,4 @@
-## <a id=top></a>Updated on 2024.02.14
+## <a id=top></a>Updated on 2024.02.15
 ---
 layout: default
 ---
@@ -8,7 +8,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.14
+## Updated on 2024.02.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## <a id=slam>SLAM</a>
@@ -4276,7 +4276,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-12**|**Sourcerer: Sample-based Maximum Entropy Source Distribution Estimation**|Julius Vetter et.al.|[2402.07808](http://arxiv.org/abs/2402.07808)|null|
+|**2024-02-12**|**Sourcerer: Sample-based Maximum Entropy Source Distribution Estimation**|Julius Vetter et.al.|[2402.07808](http://arxiv.org/abs/2402.07808)|**[link](https://github.com/mackelab/sourcerer)**|
 |**2024-02-12**|**A Computational Model of the Electrically or Acoustically Evoked Compound Action Potential in Cochlear Implant Users with Residual Hearing**|Daniel Kipping et.al.|[2402.07673](http://arxiv.org/abs/2402.07673)|null|
 |**2024-02-09**|**PULSE: Parametric Hardware Units for Low-power Sparsity-Aware Convolution Engine**|Ilkin Aliyev et.al.|[2402.06210](http://arxiv.org/abs/2402.06210)|null|
 |**2024-02-08**|**The impact of high frequency-based stability on the onset of action potentials in neuron models**|Eduardo Cerpa et.al.|[2402.05886](http://arxiv.org/abs/2402.05886)|**[link](https://github.com/estebanpaduro/qs-simulations)**|
