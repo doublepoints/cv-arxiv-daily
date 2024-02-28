@@ -1,4 +1,4 @@
-## <a id=top></a>Updated on 2024.02.27
+## <a id=top></a>Updated on 2024.02.28
 ---
 layout: default
 ---
@@ -8,7 +8,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.27
+## Updated on 2024.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## <a id=slam>SLAM</a>
@@ -2533,7 +2533,7 @@ layout: default
 |**2024-02-26**|**Graph Learning with Distributional Edge Layouts**|Xinjian Zhao et.al.|[2402.16402](http://arxiv.org/abs/2402.16402)|null|
 |**2024-02-26**|**Boosting Graph Pooling with Persistent Homology**|Chaolong Ying et.al.|[2402.16346](http://arxiv.org/abs/2402.16346)|null|
 |**2024-02-26**|**High-Frequency-aware Hierarchical Contrastive Selective Coding for Representation Learning on Text-attributed Graphs**|Peiyan Zhang et.al.|[2402.16240](http://arxiv.org/abs/2402.16240)|null|
-|**2024-02-25**|**Disentangled Graph Variational Auto-Encoder for Multimodal Recommendation with Interpretability**|Xin Zhou et.al.|[2402.16110](http://arxiv.org/abs/2402.16110)|null|
+|**2024-02-25**|**Disentangled Graph Variational Auto-Encoder for Multimodal Recommendation with Interpretability**|Xin Zhou et.al.|[2402.16110](http://arxiv.org/abs/2402.16110)|**[link](https://github.com/enoche/dgvae)**|
 |**2024-02-25**|**HiGPT: Heterogeneous Graph Language Model**|Jiabin Tang et.al.|[2402.16024](http://arxiv.org/abs/2402.16024)|**[link](https://github.com/hkuds/higpt)**|
 |**2024-02-25**|**Deep Contrastive Graph Learning with Clustering-Oriented Guidance**|Mulin Chen et.al.|[2402.16012](http://arxiv.org/abs/2402.16012)|null|
 |**2024-02-24**|**Pretraining Strategy for Neural Potentials**|Zehua Zhang et.al.|[2402.15921](http://arxiv.org/abs/2402.15921)|null|
