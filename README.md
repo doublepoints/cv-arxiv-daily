@@ -646,6 +646,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-04**|**Multi-Spectral Remote Sensing Image Retrieval Using Geospatial Foundation Models**|Benedikt Blumenstiel et.al.|[2403.02059](http://arxiv.org/abs/2403.02059)|**[link](https://github.com/ibm/remote-sensing-image-retrieval)**|
+|**2024-03-03**|**Image2Sentence based Asymmetrical Zero-shot Composed Image Retrieval**|Yongchao Du et.al.|[2403.01431](http://arxiv.org/abs/2403.01431)|null|
 |**2024-03-01**|**Asymmetric Feature Fusion for Image Retrieval**|Hui Wu et.al.|[2403.00671](http://arxiv.org/abs/2403.00671)|null|
 |**2024-03-01**|**Structure Similarity Preservation Learning for Asymmetric Image Retrieval**|Hui Wu et.al.|[2403.00648](http://arxiv.org/abs/2403.00648)|null|
 |**2024-02-29**|**CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition**|Feng Lu et.al.|[2402.19231](http://arxiv.org/abs/2402.19231)|**[link](https://github.com/lu-feng/cricavpr)**|
@@ -1324,9 +1326,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**Self-supervised 3D Patient Modeling with Multi-modal Attentive Fusion**|Meng Zheng et.al.|[2403.03217](http://arxiv.org/abs/2403.03217)|null|
 |**2024-02-22**|**A Self-supervised Pressure Map human keypoint Detection Approch: Optimizing Generalization and Computational Efficiency Across Datasets**|Chengzhang Yu et.al.|[2402.14241](http://arxiv.org/abs/2402.14241)|null|
 |**2024-02-25**|**A Feature Matching Method Based on Multi-Level Refinement Strategy**|Shaojie Zhang et.al.|[2402.13488](http://arxiv.org/abs/2402.13488)|null|
-|**2024-03-04**|**3D Kinematics Estimation from Video with a Biomechanical Model and Synthetic Training Data**|Zhi-Yi Lin et.al.|[2402.13172](http://arxiv.org/abs/2402.13172)|null|
+|**2024-03-05**|**3D Kinematics Estimation from Video with a Biomechanical Model and Synthetic Training Data**|Zhi-Yi Lin et.al.|[2402.13172](http://arxiv.org/abs/2402.13172)|null|
 |**2024-02-25**|**Region Feature Descriptor Adapted to High Affine Transformations**|Shaojie Zhang et.al.|[2402.09724](http://arxiv.org/abs/2402.09724)|null|
 |**2024-01-29**|**Reconstructing Close Human Interactions from Multiple Views**|Qing Shuai et.al.|[2401.16173](http://arxiv.org/abs/2401.16173)|**[link](https://github.com/zju3dv/closemocap)**|
 |**2024-01-17**|**To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection**|Luyi Han et.al.|[2401.09336](http://arxiv.org/abs/2401.09336)|**[link](https://github.com/fiy2w/treatment-aware-longitudinal-registration)**|
@@ -1742,6 +1745,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751](http://arxiv.org/abs/2403.02751)|null|
+|**2024-03-04**|**DaReNeRF: Direction-aware Representation for Dynamic Scenes**|Ange Lou et.al.|[2403.02265](http://arxiv.org/abs/2403.02265)|null|
+|**2024-03-04**|**Depth-Guided Robust and Fast Point Cloud Fusion NeRF for Sparse Input Views**|Shuai Guo et.al.|[2403.02063](http://arxiv.org/abs/2403.02063)|null|
 |**2024-03-02**|**NeRF-VPT: Learning Novel View Representations with Neural Radiance Fields via View Prompt Tuning**|Linsheng Chen et.al.|[2403.01325](http://arxiv.org/abs/2403.01325)|**[link](https://github.com/freedomcls/nerf-vpt)**|
 |**2024-03-02**|**Neural radiance fields-based holography [Invited]**|Minsung Kang et.al.|[2403.01137](http://arxiv.org/abs/2403.01137)|null|
 |**2024-03-02**|**Neural Field Classifiers via Target Encoding and Classification Loss**|Xindi Yang et.al.|[2403.01058](http://arxiv.org/abs/2403.01058)|null|
@@ -2575,6 +2581,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**Semi-Supervised Graph Representation Learning with Human-centric Explanation for Predicting Fatty Liver Disease**|So Yeon Kim et.al.|[2403.02786](http://arxiv.org/abs/2403.02786)|null|
+|**2024-03-05**|**Rehabilitation Exercise Quality Assessment through Supervised Contrastive Learning with Hard and Soft Negatives**|Mark Karlov et.al.|[2403.02772](http://arxiv.org/abs/2403.02772)|null|
+|**2024-03-05**|**Minimum Topology Attacks for Graph Neural Networks**|Mengmei Zhang et.al.|[2403.02723](http://arxiv.org/abs/2403.02723)|null|
+|**2024-03-04**|**MPI Errors Detection using GNN Embedding and Vector Embedding over LLVM IR**|Jad El Karchi et.al.|[2403.02518](http://arxiv.org/abs/2403.02518)|null|
+|**2024-03-04**|**Better Schedules for Low Precision Training of Deep Neural Networks**|Cameron R. Wolfe et.al.|[2403.02243](http://arxiv.org/abs/2403.02243)|null|
+|**2024-03-04**|**TPLLM: A Traffic Prediction Framework Based on Pretrained Large Language Models**|Yilong Ren et.al.|[2403.02221](http://arxiv.org/abs/2403.02221)|null|
+|**2024-03-04**|**Mitigating Label Noise on Graph via Topological Sample Selection**|Yuhao Wu et.al.|[2403.01942](http://arxiv.org/abs/2403.01942)|null|
+|**2024-03-04**|**MaliGNNoma: GNN-Based Malicious Circuit Classifier for Secure Cloud FPGAs**|Lilas Alrahis et.al.|[2403.01860](http://arxiv.org/abs/2403.01860)|null|
+|**2024-03-04**|**Graph neural network for in-network placement of real-time metaverse tasks in next-generation network**|Sulaiman Muhammad Rashid et.al.|[2403.01780](http://arxiv.org/abs/2403.01780)|null|
+|**2024-03-03**|**Applying Self-supervised Learning to Network Intrusion Detection for Network Flows with Graph Neural Network**|Renjie Xu et.al.|[2403.01501](http://arxiv.org/abs/2403.01501)|**[link](https://github.com/renj-xu/negsc)**|
 |**2024-03-02**|**Less is More: Hop-Wise Graph Attention for Scalable and Generalizable Learning on Circuits**|Chenhui Deng et.al.|[2403.01317](http://arxiv.org/abs/2403.01317)|null|
 |**2024-03-02**|**Polynormer: Polynomial-Expressive Graph Transformer in Linear Time**|Chenhui Deng et.al.|[2403.01232](http://arxiv.org/abs/2403.01232)|**[link](https://github.com/cornell-zhang/polynormer)**|
 |**2024-03-02**|**COOL: A Conjoint Perspective on Spatio-Temporal Graph Neural Network for Traffic Forecasting**|Wei Ju et.al.|[2403.01091](http://arxiv.org/abs/2403.01091)|null|
@@ -3979,6 +3995,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**Large Language Models and Video Games: A Preliminary Scoping Review**|Penny Sweetser et.al.|[2403.02613](http://arxiv.org/abs/2403.02613)|null|
+|**2024-03-04**|**Spectrotemporal shaping of attosecond x-ray pulses with a fresh-slice free-electron laser**|River R. Robles et.al.|[2403.02189](http://arxiv.org/abs/2403.02189)|null|
 |**2024-03-01**|**Parallel Hyperparameter Optimization Of Spiking Neural Network**|Thomas Firmin et.al.|[2403.00450](http://arxiv.org/abs/2403.00450)|**[link](https://github.com/thomasfirmin/hpo_snn)**|
 |**2024-03-01**|**Discovery of Asymmetric Spike-like Structures of 10 au Disk around the Very Low-luminosity Protostar Embedded in the Taurus Dense Core MC 27/L1521F with ALMA**|Kazuki Tokuda et.al.|[2403.00305](http://arxiv.org/abs/2403.00305)|null|
 |**2024-03-01**|**Event-Driven Learning for Spiking Neural Networks**|Wenjie Wei et.al.|[2403.00270](http://arxiv.org/abs/2403.00270)|null|
@@ -3986,7 +4004,7 @@
 |**2024-02-29**|**A Unified Evaluation Framework for Spiking Neural Network Hardware Accelerators Based on Emerging Non-Volatile Memory Devices**|Debasis Das et.al.|[2402.19139](http://arxiv.org/abs/2402.19139)|null|
 |**2024-02-29**|**Optimal ANN-SNN Conversion with Group Neurons**|Liuzhenghao Lv et.al.|[2402.19061](http://arxiv.org/abs/2402.19061)|**[link](https://github.com/lyu6poshao/ann2snn_gn)**|
 |**2024-02-29**|**Spyx: A Library for Just-In-Time Compiled Optimization of Spiking Neural Networks**|Kade M. Heckel et.al.|[2402.18994](http://arxiv.org/abs/2402.18994)|**[link](https://github.com/kmheckel/spyx)**|
-|**2024-02-29**|**Inferring Structure of Cortical Neuronal Networks from Firing Data: A Statistical Physics Approach**|Ho Fai Po et.al.|[2402.18788](http://arxiv.org/abs/2402.18788)|null|
+|**2024-03-05**|**Inferring Structure of Cortical Neuronal Networks from Firing Data: A Statistical Physics Approach**|Ho Fai Po et.al.|[2402.18788](http://arxiv.org/abs/2402.18788)|null|
 |**2024-02-28**|**Learning Associative Memories with Gradient Descent**|Vivien Cabannes et.al.|[2402.18724](http://arxiv.org/abs/2402.18724)|null|
 |**2024-02-28**|**Understanding random forests and overfitting: a visualization and simulation study**|Lasai Barreñada et.al.|[2402.18612](http://arxiv.org/abs/2402.18612)|null|
 |**2024-02-28**|**Implementing Online Reinforcement Learning with Clustering Neural Networks**|James E. Smith et.al.|[2402.18472](http://arxiv.org/abs/2402.18472)|null|
