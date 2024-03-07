@@ -646,6 +646,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Self-supervised Photographic Image Layout Representation Learning**|Zhaoran Zhao et.al.|[2403.03740](http://arxiv.org/abs/2403.03740)|**[link](https://github.com/cv-xueba/image-layout-learning)**|
 |**2024-03-04**|**Multi-Spectral Remote Sensing Image Retrieval Using Geospatial Foundation Models**|Benedikt Blumenstiel et.al.|[2403.02059](http://arxiv.org/abs/2403.02059)|**[link](https://github.com/ibm/remote-sensing-image-retrieval)**|
 |**2024-03-03**|**Image2Sentence based Asymmetrical Zero-shot Composed Image Retrieval**|Yongchao Du et.al.|[2403.01431](http://arxiv.org/abs/2403.01431)|null|
 |**2024-03-01**|**Asymmetric Feature Fusion for Image Retrieval**|Hui Wu et.al.|[2403.00671](http://arxiv.org/abs/2403.00671)|null|
@@ -1540,6 +1541,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Scene Depth Estimation from Traditional Oriental Landscape Paintings**|Sungho Kang et.al.|[2403.03408](http://arxiv.org/abs/2403.03408)|null|
 |**2024-02-21**|**Visual Style Prompting with Swapping Self-Attention**|Jaeseok Jeong et.al.|[2402.12974](http://arxiv.org/abs/2402.12974)|null|
 |**2024-02-16**|**GIM: Learning Generalizable Image Matcher From Internet Videos**|Xuelun Shen et.al.|[2402.11095](http://arxiv.org/abs/2402.11095)|null|
 |**2024-02-13**|**Are Semi-Dense Detector-Free Methods Good at Matching Local Features?**|Matthieu Vilain et.al.|[2402.08671](http://arxiv.org/abs/2402.08671)|null|
@@ -1745,6 +1747,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**GSNeRF: Generalizable Semantic Neural Radiance Fields with Enhanced 3D Scene Understanding**|Zi-Ting Chou et.al.|[2403.03608](http://arxiv.org/abs/2403.03608)|null|
+|**2024-03-05**|**A Deep Learning Framework for Wireless Radiation Field Reconstruction and Channel Prediction**|Haofan Lu et.al.|[2403.03241](http://arxiv.org/abs/2403.03241)|null|
 |**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751](http://arxiv.org/abs/2403.02751)|null|
 |**2024-03-04**|**DaReNeRF: Direction-aware Representation for Dynamic Scenes**|Ange Lou et.al.|[2403.02265](http://arxiv.org/abs/2403.02265)|null|
 |**2024-03-04**|**Depth-Guided Robust and Fast Point Cloud Fusion NeRF for Sparse Input Views**|Shuai Guo et.al.|[2403.02063](http://arxiv.org/abs/2403.02063)|null|
@@ -2581,6 +2585,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Graph neural network outputs are almost surely asymptotically constant**|Sam Adam-Day et.al.|[2403.03880](http://arxiv.org/abs/2403.03880)|**[link](https://github.com/benfinkelshtein/gnn-asymptotically-constant)**|
+|**2024-03-06**|**Predicting the Temperature Dependence of Surfactant CMCs Using Graph Neural Networks**|Christoforos Brozos et.al.|[2403.03767](http://arxiv.org/abs/2403.03767)|null|
+|**2024-03-06**|**Intent-aware Recommendation via Disentangled Graph Contrastive Learning**|Yuling Wang et.al.|[2403.03714](http://arxiv.org/abs/2403.03714)|null|
+|**2024-03-06**|**Simplified PCNet with Robustness**|Bingheng Li et.al.|[2403.03676](http://arxiv.org/abs/2403.03676)|null|
+|**2024-03-06**|**Provable Filter for Real-world Graph Clustering**|Xuanting Xie et.al.|[2403.03666](http://arxiv.org/abs/2403.03666)|null|
+|**2024-03-06**|**K-Link: Knowledge-Link Graph from LLMs for Enhanced Representation Learning in Multivariate Time-Series Data**|Yucheng Wang et.al.|[2403.03645](http://arxiv.org/abs/2403.03645)|null|
+|**2024-03-06**|**Learning Invariant Representations of Graph Neural Networks via Cluster Generalization**|Donglin Xia et.al.|[2403.03599](http://arxiv.org/abs/2403.03599)|**[link](https://github.com/bupt-gamma/citgnn)**|
+|**2024-03-06**|**LDSF: Lightweight Dual-Stream Framework for SAR Target Recognition by Coupling Local Electromagnetic Scattering Features and Global Visual Features**|Xuying Xiong et.al.|[2403.03527](http://arxiv.org/abs/2403.03527)|null|
+|**2024-03-06**|**IB-Net: Initial Branch Network for Variable Decision in Boolean Satisfiability**|Tsz Ho Chan et.al.|[2403.03517](http://arxiv.org/abs/2403.03517)|null|
+|**2024-03-06**|**A Teacher-Free Graph Knowledge Distillation Framework with Dual Self-Distillation**|Lirong Wu et.al.|[2403.03483](http://arxiv.org/abs/2403.03483)|null|
 |**2024-03-05**|**Semi-Supervised Graph Representation Learning with Human-centric Explanation for Predicting Fatty Liver Disease**|So Yeon Kim et.al.|[2403.02786](http://arxiv.org/abs/2403.02786)|null|
 |**2024-03-05**|**Rehabilitation Exercise Quality Assessment through Supervised Contrastive Learning with Hard and Soft Negatives**|Mark Karlov et.al.|[2403.02772](http://arxiv.org/abs/2403.02772)|null|
 |**2024-03-05**|**Minimum Topology Attacks for Graph Neural Networks**|Mengmei Zhang et.al.|[2403.02723](http://arxiv.org/abs/2403.02723)|null|
@@ -3995,6 +4009,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Photonic-electronic spiking neuron with multi-modal and multi-wavelength excitatory and inhibitory operation for high-speed neuromorphic sensing and computing**|Weikang Zhang et.al.|[2403.03775](http://arxiv.org/abs/2403.03775)|null|
+|**2024-03-06**|**Joint Sparsity Pattern Learning Based Channel Estimation for Massive MIMO-OTFS Systems**|Kuo Meng et.al.|[2403.03771](http://arxiv.org/abs/2403.03771)|null|
+|**2024-03-06**|**Spectral Phase Transition and Optimal PCA in Block-Structured Spiked models**|Pierre Mergny et.al.|[2403.03695](http://arxiv.org/abs/2403.03695)|null|
+|**2024-03-06**|**Sparse Spiking Neural Network: Exploiting Heterogeneity in Timescales for Pruning Recurrent SNN**|Biswadeep Chakraborty et.al.|[2403.03409](http://arxiv.org/abs/2403.03409)|null|
+|**2024-03-05**|**Small-Noise Sensitivity Analysis of Locating Pulses in the Presence of Adversarial Perturbation**|Meghna Kalra et.al.|[2403.03294](http://arxiv.org/abs/2403.03294)|null|
 |**2024-03-05**|**Large Language Models and Video Games: A Preliminary Scoping Review**|Penny Sweetser et.al.|[2403.02613](http://arxiv.org/abs/2403.02613)|null|
 |**2024-03-04**|**Spectrotemporal shaping of attosecond x-ray pulses with a fresh-slice free-electron laser**|River R. Robles et.al.|[2403.02189](http://arxiv.org/abs/2403.02189)|null|
 |**2024-03-01**|**Parallel Hyperparameter Optimization Of Spiking Neural Network**|Thomas Firmin et.al.|[2403.00450](http://arxiv.org/abs/2403.00450)|**[link](https://github.com/thomasfirmin/hpo_snn)**|
