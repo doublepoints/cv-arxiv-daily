@@ -1794,7 +1794,7 @@ layout: default
 |**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121](http://arxiv.org/abs/2401.17121)|**[link](https://github.com/mercerai/paev3d)**|
 |**2024-01-31**|**Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416](http://arxiv.org/abs/2401.16416)|null|
 |**2024-01-29**|**Divide and Conquer: Rethinking the Training Paradigm of Neural Radiance Fields**|Rongkai Ma et.al.|[2401.16144](http://arxiv.org/abs/2401.16144)|null|
-|**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726](http://arxiv.org/abs/2401.14726)|null|
+|**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726](http://arxiv.org/abs/2401.14726)|**[link](https://github.com/pcl3dv/dunerf)**|
 |**2024-01-25**|**Learning Robust Generalizable Radiance Field with Visibility and Feature Augmented Point Representation**|Jiaxu Wang et.al.|[2401.14354](http://arxiv.org/abs/2401.14354)|null|
 |**2024-01-27**|**Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**|Minglin Chen et.al.|[2401.14257](http://arxiv.org/abs/2401.14257)|null|
 |**2024-01-24**|**EndoGaussians: Single View Dynamic Gaussian Splatting for Deformable Endoscopic Tissues Reconstruction**|Yangsen Chen et.al.|[2401.13352](http://arxiv.org/abs/2401.13352)|null|
@@ -2579,7 +2579,7 @@ layout: default
 |**2024-03-07**|**DGR: A General Graph Desmoothing Framework for Recommendation via Global and Local Perspectives**|Leilei Ding et.al.|[2403.04287](http://arxiv.org/abs/2403.04287)|null|
 |**2024-03-07**|**Performance Assessment of Universal Machine Learning Interatomic Potentials: Challenges and Directions for Materials' Surfaces**|Bruno Focassio et.al.|[2403.04217](http://arxiv.org/abs/2403.04217)|null|
 |**2024-03-06**|**Graph neural network outputs are almost surely asymptotically constant**|Sam Adam-Day et.al.|[2403.03880](http://arxiv.org/abs/2403.03880)|**[link](https://github.com/benfinkelshtein/gnn-asymptotically-constant)**|
-|**2024-03-06**|**Predicting the Temperature Dependence of Surfactant CMCs Using Graph Neural Networks**|Christoforos Brozos et.al.|[2403.03767](http://arxiv.org/abs/2403.03767)|null|
+|**2024-03-06**|**Predicting the Temperature Dependence of Surfactant CMCs Using Graph Neural Networks**|Christoforos Brozos et.al.|[2403.03767](http://arxiv.org/abs/2403.03767)|**[link](https://github.com/brozosc/predicting-the-temperature-dependence-of-surfactant-cmcs-using-graph-neural-networks)**|
 |**2024-03-06**|**Intent-aware Recommendation via Disentangled Graph Contrastive Learning**|Yuling Wang et.al.|[2403.03714](http://arxiv.org/abs/2403.03714)|null|
 |**2024-03-06**|**Simplified PCNet with Robustness**|Bingheng Li et.al.|[2403.03676](http://arxiv.org/abs/2403.03676)|null|
 |**2024-03-06**|**Provable Filter for Real-world Graph Clustering**|Xuanting Xie et.al.|[2403.03666](http://arxiv.org/abs/2403.03666)|null|
@@ -2985,7 +2985,7 @@ layout: default
 |**2023-12-19**|**GCNext: Towards the Unity of Graph Convolutions for Human Motion Prediction**|Xinshun Wang et.al.|[2312.11850](http://arxiv.org/abs/2312.11850)|**[link](https://github.com/bradleywang0416/gcnext)**|
 |**2023-12-18**|**Stronger Graph Transformer with Regularized Attention Scores**|Eugene Ku et.al.|[2312.11730](http://arxiv.org/abs/2312.11730)|**[link](https://github.com/eugene29/graphgps_edge_regularization)**|
 |**2023-12-18**|**Reinforcement Learning Based Quantum Circuit Optimization via ZX-Calculus**|Jordi Riu et.al.|[2312.11597](http://arxiv.org/abs/2312.11597)|null|
-|**2023-12-19**|**CaseGNN: Graph Neural Networks for Legal Case Retrieval with Text-Attributed Graphs**|Yanran Tang et.al.|[2312.11229](http://arxiv.org/abs/2312.11229)|null|
+|**2023-12-19**|**CaseGNN: Graph Neural Networks for Legal Case Retrieval with Text-Attributed Graphs**|Yanran Tang et.al.|[2312.11229](http://arxiv.org/abs/2312.11229)|**[link](https://github.com/yanran-tang/casegnn)**|
 |**2023-12-17**|**Non-Euclidean Spatial Graph Neural Network**|Zheng Zhang et.al.|[2312.10808](http://arxiv.org/abs/2312.10808)|**[link](https://github.com/anonymous-submitter-1234/manifold_spatial_networks)**|
 |**2023-12-17**|**p-Laplacian Adaptation for Generative Pre-trained Vision-Language Models**|Haoyuan Wu et.al.|[2312.10613](http://arxiv.org/abs/2312.10613)|**[link](https://github.com/wuhy68/p-adapter)**|
 |**2023-12-16**|**Enabling Accelerators for Graph Computing**|Kaustubh Shivdikar et.al.|[2312.10561](http://arxiv.org/abs/2312.10561)|null|
@@ -3696,7 +3696,7 @@ layout: default
 |**2023-07-27**|**Self-Supervised Graph Transformer for Deepfake Detection**|Aminollah Khormali et.al.|[2307.15019](http://arxiv.org/abs/2307.15019)|null|
 |**2023-07-27**|**TimeGNN: Temporal Dynamic Graph Learning for Time Series Forecasting**|Nancy Xu et.al.|[2307.14680](http://arxiv.org/abs/2307.14680)|**[link](https://github.com/xun468/Time-GNN)**|
 |**2023-07-27**|**HUTFormer: Hierarchical U-Net Transformer for Long-Term Traffic Forecasting**|Zezhi Shao et.al.|[2307.14596](http://arxiv.org/abs/2307.14596)|null|
-|**2023-07-26**|**Improving Reliable Navigation under Uncertainty via Predictions Informed by Non-Local Information**|Raihan Islam Arnob et.al.|[2307.14501](http://arxiv.org/abs/2307.14501)|null|
+|**2023-07-26**|**Improving Reliable Navigation under Uncertainty via Predictions Informed by Non-Local Information**|Raihan Islam Arnob et.al.|[2307.14501](http://arxiv.org/abs/2307.14501)|**[link](https://github.com/RAIL-group/RAIL-group-software/tree/main/modules/lsp_gnn)**|
 |**2023-07-26**|**Memory-Efficient Graph Convolutional Networks for Object Classification and Detection with Event Cameras**|Kamil Jeziorek et.al.|[2307.14124](http://arxiv.org/abs/2307.14124)|null|
 |**2023-07-26**|**Learning Snippet-to-Motion Progression for Skeleton-based Human Motion Prediction**|Xinshun Wang et.al.|[2307.14006](http://arxiv.org/abs/2307.14006)|null|
 |**2023-07-26**|**Distributed Computing of Functions of Structured Sources with Helper Side Information**|Derya Malak et.al.|[2307.13987](http://arxiv.org/abs/2307.13987)|null|
@@ -3818,7 +3818,7 @@ layout: default
 |**2023-07-03**|**LMBot: Distilling Graph Knowledge into Language Model for Graph-less Deployment in Twitter Bot Detection**|Zijian Cai et.al.|[2306.17408](http://arxiv.org/abs/2306.17408)|**[link](https://github.com/czjdsg/lmbot)**|
 |**2023-06-29**|**A Neural Separation Algorithm for the Rounded Capacity Inequalities**|Hyeonah Kim et.al.|[2306.17283](http://arxiv.org/abs/2306.17283)|**[link](https://github.com/hyeonahkimm/neuralsep)**|
 |**2023-06-29**|**Sparsity exploitation via discovering graphical models in multi-variate time-series forecasting**|Ngoc-Dung Do et.al.|[2306.17090](http://arxiv.org/abs/2306.17090)|**[link](https://github.com/hysonlab/graphlasso)**|
-|**2023-06-29**|**Diffusion-Jump GNNs: Homophiliation via Learnable Metric Filters**|Ahmed Begga et.al.|[2306.16976](http://arxiv.org/abs/2306.16976)|null|
+|**2023-06-29**|**Diffusion-Jump GNNs: Homophiliation via Learnable Metric Filters**|Ahmed Begga et.al.|[2306.16976](http://arxiv.org/abs/2306.16976)|**[link](https://github.com/AhmedBegggaUA/TFM)**|
 |**2023-06-30**|**Dynamic-Resolution Model Learning for Object Pile Manipulation**|Yixuan Wang et.al.|[2306.16700](http://arxiv.org/abs/2306.16700)|null|
 |**2023-06-28**|**Accelerating Sampling and Aggregation Operations in GNN Frameworks with GPU Initiated Direct Storage Accesses**|Jeongmin Brian Park et.al.|[2306.16384](http://arxiv.org/abs/2306.16384)|**[link](https://github.com/jeongminpark417/gids)**|
 |**2023-06-28**|**Theater Aid System for the Visually Impaired Through Transfer Learning of Spatio-Temporal Graph Convolution Networks**|Leyla Benhamida et.al.|[2306.16357](http://arxiv.org/abs/2306.16357)|null|
