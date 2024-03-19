@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**An Accurate and Real-time Relative Pose Estimation from Triple Point-line Images by Decoupling Rotation and Translation**|Zewen Xu et.al.|[2403.11639](http://arxiv.org/abs/2403.11639)|null|
+|**2024-03-16**|**Efficient Domain Adaptation for Endoscopic Visual Odometry**|Junyang Wu et.al.|[2403.10860](http://arxiv.org/abs/2403.10860)|null|
+|**2024-03-14**|**Visual Inertial Odometry using Focal Plane Binary Features (BIT-VIO)**|Matthew Lisondra et.al.|[2403.09882](http://arxiv.org/abs/2403.09882)|null|
 |**2024-03-02**|**Grid-based Fast and Structural Visual Odometry**|Zhang Zhihe et.al.|[2403.01110](http://arxiv.org/abs/2403.01110)|null|
 |**2024-02-25**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961](http://arxiv.org/abs/2402.15961)|**[link](https://github.com/master-cai/voloc)**|
 |**2024-02-22**|**Secure Navigation using Landmark-based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2402.14280](http://arxiv.org/abs/2402.14280)|null|
@@ -465,6 +468,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**An Accurate and Real-time Relative Pose Estimation from Triple Point-line Images by Decoupling Rotation and Translation**|Zewen Xu et.al.|[2403.11639](http://arxiv.org/abs/2403.11639)|null|
 |**2024-03-14**|**Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting**|Jaewoo Jung et.al.|[2403.09413](http://arxiv.org/abs/2403.09413)|**[link](https://github.com/KU-CVLAB/RAIN-GS)**|
 |**2024-03-13**|**Refractive COLMAP: Refractive Structure-from-Motion Revisited**|Mengkun She et.al.|[2403.08640](http://arxiv.org/abs/2403.08640)|null|
 |**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|null|
@@ -635,6 +639,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-17**|**3DGS-ReLoc: 3D Gaussian Splatting for Map Representation and Visual ReLocalization**|Peng Jiang et.al.|[2403.11367](http://arxiv.org/abs/2403.11367)|null|
+|**2024-03-17**|**MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data**|Paul S. Scotti et.al.|[2403.11207](http://arxiv.org/abs/2403.11207)|**[link](https://github.com/medarc-ai/mindeyev2)**|
+|**2024-03-16**|**Refining Knowledge Transfer on Audio-Image Temporal Agreement for Audio-Text Cross Retrieval**|Shunsuke Tsubaki et.al.|[2403.10756](http://arxiv.org/abs/2403.10756)|null|
+|**2024-03-16**|**Vector search with small radiuses**|Gergely Szilvasy et.al.|[2403.10746](http://arxiv.org/abs/2403.10746)|null|
+|**2024-03-13**|**Training Self-localization Models for Unseen Unfamiliar Places via Teacher-to-Student Data-Free Knowledge Transfer**|Kenta Tsukahara et.al.|[2403.10552](http://arxiv.org/abs/2403.10552)|null|
+|**2024-03-15**|**Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**|Huy-Hoang Bui et.al.|[2403.10297](http://arxiv.org/abs/2403.10297)|**[link](https://github.com/ais-lab/descriptorsynthesis4feat2map)**|
+|**2024-03-15**|**Local positional graphs and attentive local features for a data and runtime-efficient hierarchical place recognition pipeline**|Fangming Yuan et.al.|[2403.10283](http://arxiv.org/abs/2403.10283)|null|
 |**2024-03-14**|**The NeRFect Match: Exploring NeRF Features for Visual Localization**|Qunjie Zhou et.al.|[2403.09577](http://arxiv.org/abs/2403.09577)|null|
 |**2024-03-14**|**VDNA-PR: Using General Dataset Representations for Robust Sequential Visual Place Recognition**|Benjamin Ramtoula et.al.|[2403.09025](http://arxiv.org/abs/2403.09025)|null|
 |**2024-03-13**|**PAPERCLIP: Associating Astronomical Observations and Natural Language with Multi-Modal Models**|Siddharth Mishra-Sharma et.al.|[2403.08851](http://arxiv.org/abs/2403.08851)|**[link](https://github.com/smsharma/paperclip-hubble)**|
@@ -1330,6 +1341,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events**|Xiangyuan Wang et.al.|[2403.11662](http://arxiv.org/abs/2403.11662)|null|
 |**2024-03-05**|**Self-supervised 3D Patient Modeling with Multi-modal Attentive Fusion**|Meng Zheng et.al.|[2403.03217](http://arxiv.org/abs/2403.03217)|null|
 |**2024-02-22**|**A Self-supervised Pressure Map human keypoint Detection Approch: Optimizing Generalization and Computational Efficiency Across Datasets**|Chengzhang Yu et.al.|[2402.14241](http://arxiv.org/abs/2402.14241)|null|
 |**2024-02-25**|**A Feature Matching Method Based on Multi-Level Refinement Strategy**|Shaojie Zhang et.al.|[2402.13488](http://arxiv.org/abs/2402.13488)|null|
@@ -1542,8 +1554,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-16**|**Refining Knowledge Transfer on Audio-Image Temporal Agreement for Audio-Text Cross Retrieval**|Shunsuke Tsubaki et.al.|[2403.10756](http://arxiv.org/abs/2403.10756)|null|
+|**2024-03-16**|**Vector search with small radiuses**|Gergely Szilvasy et.al.|[2403.10746](http://arxiv.org/abs/2403.10746)|null|
+|**2024-03-15**|**Local positional graphs and attentive local features for a data and runtime-efficient hierarchical place recognition pipeline**|Fangming Yuan et.al.|[2403.10283](http://arxiv.org/abs/2403.10283)|null|
+|**2024-03-15**|**Region-aware Distribution Contrast: A Novel Approach to Multi-Task Partially Supervised Learning**|Meixuan Li et.al.|[2403.10252](http://arxiv.org/abs/2403.10252)|null|
 |**2024-03-14**|**Virtual birefringence imaging and histological staining of amyloid deposits in label-free tissue using autofluorescence microscopy and deep learning**|Xilin Yang et.al.|[2403.09100](http://arxiv.org/abs/2403.09100)|null|
-|**2024-03-13**|**Matching Non-Identical Objects**|Yusuke Marumo et.al.|[2403.08227](http://arxiv.org/abs/2403.08227)|null|
+|**2024-03-18**|**Matching Non-Identical Objects**|Yusuke Marumo et.al.|[2403.08227](http://arxiv.org/abs/2403.08227)|null|
 |**2024-03-11**|**Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**|Yifan Wang et.al.|[2403.04765](http://arxiv.org/abs/2403.04765)|null|
 |**2024-03-07**|**Scene Depth Estimation from Traditional Oriental Landscape Paintings**|Sungho Kang et.al.|[2403.03408](http://arxiv.org/abs/2403.03408)|null|
 |**2024-02-21**|**Visual Style Prompting with Swapping Self-Attention**|Jaeseok Jeong et.al.|[2402.12974](http://arxiv.org/abs/2402.12974)|null|
@@ -1749,6 +1765,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**Exploring 3D-aware Latent Spaces for Efficiently Learning Numerous Scenes**|Antoine Schnepf et.al.|[2403.11678](http://arxiv.org/abs/2403.11678)|null|
+|**2024-03-18**|**UV Gaussians: Joint Learning of Mesh Deformation and Gaussian Textures for Human Avatar Modeling**|Yujiao Jiang et.al.|[2403.11589](http://arxiv.org/abs/2403.11589)|null|
+|**2024-03-18**|**Just Add $100 More: Augmenting NeRF-based Pseudo-LiDAR Point Cloud for Resolving Class-imbalance Problem**|Mincheol Chang et.al.|[2403.11573](http://arxiv.org/abs/2403.11573)|null|
+|**2024-03-17**|**Creating Seamless 3D Maps Using Radiance Fields**|Sai Tarun Sathyan et.al.|[2403.11364](http://arxiv.org/abs/2403.11364)|null|
+|**2024-03-17**|**SpikeNeRF: Learning Neural Radiance Fields from Continuous Spike Stream**|Lin Zhu et.al.|[2403.11222](http://arxiv.org/abs/2403.11222)|**[link](https://github.com/bit-vision/spikenerf)**|
+|**2024-03-17**|**Recent Advances in 3D Gaussian Splatting**|Tong Wu et.al.|[2403.11134](http://arxiv.org/abs/2403.11134)|null|
+|**2024-03-17**|**Omni-Recon: Towards General-Purpose Neural Radiance Fields for Versatile 3D Applications**|Yonggan Fu et.al.|[2403.11131](http://arxiv.org/abs/2403.11131)|null|
+|**2024-03-16**|**Fast Sparse View Guided NeRF Update for Object Reconfigurations**|Ziqi Lu et.al.|[2403.11024](http://arxiv.org/abs/2403.11024)|null|
+|**2024-03-16**|**HourglassNeRF: Casting an Hourglass as a Bundle of Rays for Few-shot Neural Rendering**|Seunghyeon Seo et.al.|[2403.10906](http://arxiv.org/abs/2403.10906)|null|
+|**2024-03-16**|**MSI-NeRF: Linking Omni-Depth with View Synthesis through Multi-Sphere Image aided Generalizable Neural Radiance Field**|Dongyu Yan et.al.|[2403.10840](http://arxiv.org/abs/2403.10840)|null|
 |**2024-03-14**|**GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping**|Yuhang Zheng et.al.|[2403.09637](http://arxiv.org/abs/2403.09637)|null|
 |**2024-03-14**|**The NeRFect Match: Exploring NeRF Features for Visual Localization**|Qunjie Zhou et.al.|[2403.09577](http://arxiv.org/abs/2403.09577)|null|
 |**2024-03-14**|**VIRUS-NeRF -- Vision, InfraRed and UltraSonic based Neural Radiance Fields**|Nicolaj Schmid et.al.|[2403.09477](http://arxiv.org/abs/2403.09477)|null|
@@ -2607,6 +2633,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**Dual-Channel Multiplex Graph Neural Networks for Recommendation**|Xiang Li et.al.|[2403.11624](http://arxiv.org/abs/2403.11624)|null|
+|**2024-03-18**|**Graph Partial Label Learning with Potential Cause Discovering**|Hang Gao et.al.|[2403.11449](http://arxiv.org/abs/2403.11449)|null|
+|**2024-03-18**|**Layer-diverse Negative Sampling for Graph Neural Networks**|Wei Duan et.al.|[2403.11408](http://arxiv.org/abs/2403.11408)|null|
+|**2024-03-17**|**DynamicGlue: Epipolar and Time-Informed Data Association in Dynamic Environments using Graph Neural Networks**|Theresa Huber et.al.|[2403.11370](http://arxiv.org/abs/2403.11370)|null|
+|**2024-03-17**|**Phonon predictions with E(3)-equivariant graph neural networks**|Shiang Fang et.al.|[2403.11347](http://arxiv.org/abs/2403.11347)|null|
+|**2024-03-17**|**Graph Neural Network based Double Machine Learning Estimator of Network Causal Effects**|Seyedeh Baharan Khatami et.al.|[2403.11332](http://arxiv.org/abs/2403.11332)|null|
+|**2024-03-17**|**Multi-Relational Graph Neural Network for Out-of-Domain Link Prediction**|Asma Sattar et.al.|[2403.11292](http://arxiv.org/abs/2403.11292)|null|
+|**2024-03-17**|**Jointly Optimizing Terahertz based Sensing and Communications in Vehicular Networks: A Dynamic Graph Neural Network Approach**|Xuefei Li et.al.|[2403.11102](http://arxiv.org/abs/2403.11102)|null|
+|**2024-03-17**|**Incorporating Higher-order Structural Information for Graph Clustering**|Qiankun Li et.al.|[2403.11087](http://arxiv.org/abs/2403.11087)|null|
+|**2024-03-16**|**Forward Learning of Graph Neural Networks**|Namyong Park et.al.|[2403.11004](http://arxiv.org/abs/2403.11004)|null|
 |**2024-03-14**|**SkateFormer: Skeletal-Temporal Transformer for Human Action Recognition**|Jeonghyeok Do et.al.|[2403.09508](http://arxiv.org/abs/2403.09508)|null|
 |**2024-03-14**|**Code Revert Prediction with Graph Neural Networks: A Case Study at J.P. Morgan Chase**|Yulong Pei et.al.|[2403.09507](http://arxiv.org/abs/2403.09507)|null|
 |**2024-03-14**|**DF4LCZ: A SAM-Empowered Data Fusion Framework for Scene-Level Local Climate Zone Classification**|Qianqian Wu et.al.|[2403.09367](http://arxiv.org/abs/2403.09367)|null|
@@ -3972,6 +4008,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events**|Xiangyuan Wang et.al.|[2403.11662](http://arxiv.org/abs/2403.11662)|null|
+|**2024-03-15**|**A Hybrid SNN-ANN Network for Event-based Object Detection with Spatial and Temporal Attention**|Soikat Hasan Ahmed et.al.|[2403.10173](http://arxiv.org/abs/2403.10173)|null|
 |**2024-03-14**|**EventRPG: Event Data Augmentation with Relevance Propagation Guidance**|Mingyuan Sun et.al.|[2403.09274](http://arxiv.org/abs/2403.09274)|**[link](https://github.com/myuansun/eventrpg)**|
 |**2024-03-12**|**CMax-SLAM: Event-based Rotational-Motion Bundle Adjustment and SLAM System using Contrast Maximization**|Shuang Guo et.al.|[2403.08119](http://arxiv.org/abs/2403.08119)|**[link](https://github.com/tub-rip/cmax_slam)**|
 |**2024-03-12**|**Flow-Based Visual Stream Compression for Event Cameras**|Daniel C. Stumpp et.al.|[2403.08086](http://arxiv.org/abs/2403.08086)|null|
@@ -4084,6 +4122,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-17**|**SpikeNeRF: Learning Neural Radiance Fields from Continuous Spike Stream**|Lin Zhu et.al.|[2403.11222](http://arxiv.org/abs/2403.11222)|**[link](https://github.com/bit-vision/spikenerf)**|
+|**2024-03-17**|**Spiking Wavelet Transformer**|Yuetong Fang et.al.|[2403.11138](http://arxiv.org/abs/2403.11138)|null|
+|**2024-03-16**|**Inference of Monosynaptic Connections from Parallel Spike Trains: A Review**|Ryota Kobayashi et.al.|[2403.10993](http://arxiv.org/abs/2403.10993)|null|
+|**2024-03-15**|**Spiking Neural Networks for Fast-Moving Object Detection on Neuromorphic Hardware Devices Using an Event-Based Camera**|Andreas Ziegler et.al.|[2403.10677](http://arxiv.org/abs/2403.10677)|null|
+|**2024-03-15**|**Peak energy--Isotropic Luminosity Correlation and Jet Opening Angle Evolution in Swift-BAT Short GRBs with Soft Tail Emission**|Naoki Ogino et.al.|[2403.10386](http://arxiv.org/abs/2403.10386)|null|
+|**2024-03-15**|**A Hybrid SNN-ANN Network for Event-based Object Detection with Spatial and Temporal Attention**|Soikat Hasan Ahmed et.al.|[2403.10173](http://arxiv.org/abs/2403.10173)|null|
 |**2024-03-14**|**The effect of spatially-varying collision frequency on the development of the Rayleigh-Taylor instability**|John Rodman et.al.|[2403.09591](http://arxiv.org/abs/2403.09591)|null|
 |**2024-03-14**|**SpikeReveal: Unlocking Temporal Sequences from Real Blurry Inputs with Spike Streams**|Kang Chen et.al.|[2403.09486](http://arxiv.org/abs/2403.09486)|**[link](https://github.com/chenkang455/s-sdm)**|
 |**2024-03-14**|**EventRPG: Event Data Augmentation with Relevance Propagation Guidance**|Mingyuan Sun et.al.|[2403.09274](http://arxiv.org/abs/2403.09274)|**[link](https://github.com/myuansun/eventrpg)**|
