@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**The POLAR Traverse Dataset: A Dataset of Stereo Camera Images Simulating Traverses across Lunar Polar Terrain under Extreme Lighting Conditions**|Margaret Hansen et.al.|[2403.12194](http://arxiv.org/abs/2403.12194)|null|
 |**2024-03-18**|**An Accurate and Real-time Relative Pose Estimation from Triple Point-line Images by Decoupling Rotation and Translation**|Zewen Xu et.al.|[2403.11639](http://arxiv.org/abs/2403.11639)|null|
 |**2024-03-16**|**Efficient Domain Adaptation for Endoscopic Visual Odometry**|Junyang Wu et.al.|[2403.10860](http://arxiv.org/abs/2403.10860)|null|
 |**2024-03-14**|**Visual Inertial Odometry using Focal Plane Binary Features (BIT-VIO)**|Matthew Lisondra et.al.|[2403.09882](http://arxiv.org/abs/2403.09882)|null|
@@ -639,6 +640,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**Learning Neural Volumetric Pose Features for Camera Localization**|Jingyu Lin et.al.|[2403.12800](http://arxiv.org/abs/2403.12800)|null|
+|**2024-03-19**|**Quantixar: High-performance Vector Data Management System**|Gulshan Yadav et.al.|[2403.12583](http://arxiv.org/abs/2403.12583)|null|
 |**2024-03-17**|**3DGS-ReLoc: 3D Gaussian Splatting for Map Representation and Visual ReLocalization**|Peng Jiang et.al.|[2403.11367](http://arxiv.org/abs/2403.11367)|null|
 |**2024-03-17**|**MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data**|Paul S. Scotti et.al.|[2403.11207](http://arxiv.org/abs/2403.11207)|**[link](https://github.com/medarc-ai/mindeyev2)**|
 |**2024-03-16**|**Refining Knowledge Transfer on Audio-Image Temporal Agreement for Audio-Text Cross Retrieval**|Shunsuke Tsubaki et.al.|[2403.10756](http://arxiv.org/abs/2403.10756)|null|
@@ -1554,6 +1557,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**HCPM: Hierarchical Candidates Pruning for Efficient Detector-Free Matching**|Ying Chen et.al.|[2403.12543](http://arxiv.org/abs/2403.12543)|null|
 |**2024-03-16**|**Refining Knowledge Transfer on Audio-Image Temporal Agreement for Audio-Text Cross Retrieval**|Shunsuke Tsubaki et.al.|[2403.10756](http://arxiv.org/abs/2403.10756)|null|
 |**2024-03-16**|**Vector search with small radiuses**|Gergely Szilvasy et.al.|[2403.10746](http://arxiv.org/abs/2403.10746)|null|
 |**2024-03-15**|**Local positional graphs and attentive local features for a data and runtime-efficient hierarchical place recognition pipeline**|Fangming Yuan et.al.|[2403.10283](http://arxiv.org/abs/2403.10283)|null|
@@ -1765,6 +1769,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**Global-guided Focal Neural Radiance Field for Large-scale Scene Rendering**|Mingqi Shao et.al.|[2403.12839](http://arxiv.org/abs/2403.12839)|null|
+|**2024-03-19**|**Learning Neural Volumetric Pose Features for Camera Localization**|Jingyu Lin et.al.|[2403.12800](http://arxiv.org/abs/2403.12800)|null|
+|**2024-03-19**|**IFFNeRF: Initialisation Free and Fast 6DoF pose estimation from a single image and a NeRF model**|Matteo Bortolon et.al.|[2403.12682](http://arxiv.org/abs/2403.12682)|null|
+|**2024-03-18**|**FLex: Joint Pose and Dynamic Radiance Fields Optimization for Stereo Endoscopic Videos**|Florian Philipp Stilz et.al.|[2403.12198](http://arxiv.org/abs/2403.12198)|null|
+|**2024-03-18**|**ThermoNeRF: Multimodal Neural Radiance Fields for Thermal Novel View Synthesis**|Mariam Hassan et.al.|[2403.12154](http://arxiv.org/abs/2403.12154)|**[link](https://github.com/schindlerepfl/thermo-nerf)**|
+|**2024-03-18**|**RoGUENeRF: A Robust Geometry-Consistent Universal Enhancer for NeRF**|Sibi Catley-Chandar et.al.|[2403.11909](http://arxiv.org/abs/2403.11909)|null|
+|**2024-03-18**|**GNeRP: Gaussian-guided Neural Reconstruction of Reflective Objects with Noisy Polarization Priors**|LI Yang et.al.|[2403.11899](http://arxiv.org/abs/2403.11899)|null|
+|**2024-03-18**|**Exploring Multi-modal Neural Scene Representations With Applications on Thermal Imaging**|Mert Özer et.al.|[2403.11865](http://arxiv.org/abs/2403.11865)|null|
+|**2024-03-19**|**BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting**|Lingzhe Zhao et.al.|[2403.11831](http://arxiv.org/abs/2403.11831)|**[link](https://github.com/WU-CVGL/BAD-Gaussians)**|
+|**2024-03-18**|**Aerial Lifting: Neural Urban Semantic and Building Instance Lifting from Aerial Imagery**|Yuqi Zhang et.al.|[2403.11812](http://arxiv.org/abs/2403.11812)|null|
 |**2024-03-18**|**Exploring 3D-aware Latent Spaces for Efficiently Learning Numerous Scenes**|Antoine Schnepf et.al.|[2403.11678](http://arxiv.org/abs/2403.11678)|null|
 |**2024-03-18**|**UV Gaussians: Joint Learning of Mesh Deformation and Gaussian Textures for Human Avatar Modeling**|Yujiao Jiang et.al.|[2403.11589](http://arxiv.org/abs/2403.11589)|null|
 |**2024-03-18**|**Just Add $100 More: Augmenting NeRF-based Pseudo-LiDAR Point Cloud for Resolving Class-imbalance Problem**|Mincheol Chang et.al.|[2403.11573](http://arxiv.org/abs/2403.11573)|null|
@@ -2633,6 +2647,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**Compositional 3D Scene Synthesis with Scene Graph Guided Layout-Shape Generation**|Yao Wei et.al.|[2403.12848](http://arxiv.org/abs/2403.12848)|null|
+|**2024-03-19**|**FlowerFormer: Empowering Neural Architecture Encoding using a Flow-aware Graph Transformer**|Dongyeong Hwang et.al.|[2403.12821](http://arxiv.org/abs/2403.12821)|**[link](https://github.com/y0ngjaenius/cvpr2024_flowerformer)**|
+|**2024-03-19**|**Confidence Self-Calibration for Multi-Label Class-Incremental Learning**|Kaile Du et.al.|[2403.12559](http://arxiv.org/abs/2403.12559)|null|
+|**2024-03-19**|**Contextualized Messages Boost Graph Representations**|Brian Godwin Lim et.al.|[2403.12529](http://arxiv.org/abs/2403.12529)|null|
+|**2024-03-19**|**Dynamic Spatial-Temporal Aggregation for Skeleton-Aware Sign Language Recognition**|Lianyu Hu et.al.|[2403.12519](http://arxiv.org/abs/2403.12519)|**[link](https://github.com/hulianyuyy/dsta-slr)**|
+|**2024-03-19**|**FairSIN: Achieving Fairness in Graph Neural Networks through Sensitive Information Neutralization**|Cheng Yang et.al.|[2403.12474](http://arxiv.org/abs/2403.12474)|null|
+|**2024-03-19**|**STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model**|Lincan Li et.al.|[2403.12418](http://arxiv.org/abs/2403.12418)|null|
+|**2024-03-18**|**Molecular dynamics simulation with finite electric fields using Perturbed Neural Network Potentials**|Kit Joll et.al.|[2403.12319](http://arxiv.org/abs/2403.12319)|null|
+|**2024-03-18**|**Molecular Classification Using Hyperdimensional Graph Classification**|Pere Verges et.al.|[2403.12307](http://arxiv.org/abs/2403.12307)|null|
+|**2024-03-18**|**Graph Neural Networks for Learning Equivariant Representations of Neural Networks**|Miltiadis Kofinas et.al.|[2403.12143](http://arxiv.org/abs/2403.12143)|**[link](https://github.com/mkofinas/neural-graphs)**|
 |**2024-03-18**|**Dual-Channel Multiplex Graph Neural Networks for Recommendation**|Xiang Li et.al.|[2403.11624](http://arxiv.org/abs/2403.11624)|null|
 |**2024-03-18**|**Graph Partial Label Learning with Potential Cause Discovering**|Hang Gao et.al.|[2403.11449](http://arxiv.org/abs/2403.11449)|null|
 |**2024-03-18**|**Layer-diverse Negative Sampling for Graph Neural Networks**|Wei Duan et.al.|[2403.11408](http://arxiv.org/abs/2403.11408)|null|
@@ -4008,6 +4032,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks**|Ziming Wang et.al.|[2403.12574](http://arxiv.org/abs/2403.12574)|null|
+|**2024-03-19**|**ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More**|Jiazhou Zhou et.al.|[2403.12534](http://arxiv.org/abs/2403.12534)|null|
 |**2024-03-18**|**FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events**|Xiangyuan Wang et.al.|[2403.11662](http://arxiv.org/abs/2403.11662)|null|
 |**2024-03-15**|**A Hybrid SNN-ANN Network for Event-based Object Detection with Spatial and Temporal Attention**|Soikat Hasan Ahmed et.al.|[2403.10173](http://arxiv.org/abs/2403.10173)|null|
 |**2024-03-14**|**EventRPG: Event Data Augmentation with Relevance Propagation Guidance**|Mingyuan Sun et.al.|[2403.09274](http://arxiv.org/abs/2403.09274)|**[link](https://github.com/myuansun/eventrpg)**|
@@ -4122,6 +4148,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**Regularised Spectral Estimation for High Dimensional Point Processes**|Carla Pinkney et.al.|[2403.12908](http://arxiv.org/abs/2403.12908)|null|
+|**2024-03-19**|**EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks**|Ziming Wang et.al.|[2403.12574](http://arxiv.org/abs/2403.12574)|null|
+|**2024-03-19**|**Topological Representations of Heterogeneous Learning Dynamics of Recurrent Spiking Neural Networks**|Biswadeep Chakraborty et.al.|[2403.12462](http://arxiv.org/abs/2403.12462)|null|
+|**2024-03-18**|**The Wreaths of KHAN: Uniform Graph Feature Selection with False Discovery Rate Control**|Jiajun Liang et.al.|[2403.12284](http://arxiv.org/abs/2403.12284)|null|
 |**2024-03-17**|**SpikeNeRF: Learning Neural Radiance Fields from Continuous Spike Stream**|Lin Zhu et.al.|[2403.11222](http://arxiv.org/abs/2403.11222)|**[link](https://github.com/bit-vision/spikenerf)**|
 |**2024-03-17**|**Spiking Wavelet Transformer**|Yuetong Fang et.al.|[2403.11138](http://arxiv.org/abs/2403.11138)|null|
 |**2024-03-16**|**Inference of Monosynaptic Connections from Parallel Spike Trains: A Review**|Ryota Kobayashi et.al.|[2403.10993](http://arxiv.org/abs/2403.10993)|null|
@@ -4696,6 +4726,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**PAON: A New Neuron Model using Padé Approximants**|Onur Keleş et.al.|[2403.11791](http://arxiv.org/abs/2403.11791)|null|
 |**2024-02-25**|**Efficient Online Learning for Networks of Two-Compartment Spiking Neurons**|Yujia Yin et.al.|[2402.15969](http://arxiv.org/abs/2402.15969)|null|
 |**2024-02-02**|**Balanced Resonate-and-Fire Neurons**|Saya Higuchi et.al.|[2402.14603](http://arxiv.org/abs/2402.14603)|null|
 |**2024-02-12**|**Sourcerer: Sample-based Maximum Entropy Source Distribution Estimation**|Julius Vetter et.al.|[2402.07808](http://arxiv.org/abs/2402.07808)|**[link](https://github.com/mackelab/sourcerer)**|
