@@ -641,6 +641,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**Enhancing Historical Image Retrieval with Compositional Cues**|Tingyu Lin et.al.|[2403.14287](http://arxiv.org/abs/2403.14287)|**[link](https://github.com/linty5/ccbir)**|
 |**2024-03-20**|**Leveraging High-Resolution Features for Improved Deep Hashing-based Image Retrieval**|Aymene Berriche et.al.|[2403.13747](http://arxiv.org/abs/2403.13747)|null|
 |**2024-03-20**|**Flickr30K-CFQ: A Compact and Fragmented Query Dataset for Text-image Retrieval**|Haoyu Liu et.al.|[2403.13317](http://arxiv.org/abs/2403.13317)|null|
 |**2024-03-19**|**Learning Neural Volumetric Pose Features for Camera Localization**|Jingyu Lin et.al.|[2403.12800](http://arxiv.org/abs/2403.12800)|null|
@@ -1773,6 +1774,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**ClusteringSDF: Self-Organized Neural Implicit Surfaces for 3D Decomposition**|Tianhao Wu et.al.|[2403.14619](http://arxiv.org/abs/2403.14619)|null|
+|**2024-03-21**|**CombiNeRF: A Combination of Regularization Techniques for Few-Shot Neural Radiance Field View Synthesis**|Matteo Bonotto et.al.|[2403.14412](http://arxiv.org/abs/2403.14412)|**[link](https://github.com/sarroccoluigi/combinerf)**|
+|**2024-03-21**|**InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity**|Jiabin Liang et.al.|[2403.14376](http://arxiv.org/abs/2403.14376)|null|
+|**2024-03-21**|**Leveraging Thermal Modality to Enhance Reconstruction in Low-Light Conditions**|Jiacong Xu et.al.|[2403.14053](http://arxiv.org/abs/2403.14053)|null|
 |**2024-03-20**|**MULAN-WC: Multi-Robot Localization Uncertainty-aware Active NeRF with Wireless Coordination**|Weiying Wang et.al.|[2403.13348](http://arxiv.org/abs/2403.13348)|null|
 |**2024-03-19**|**Depth-guided NeRF Training via Earth Mover's Distance**|Anita Rau et.al.|[2403.13206](http://arxiv.org/abs/2403.13206)|null|
 |**2024-03-19**|**DecentNeRFs: Decentralized Neural Radiance Fields from Crowdsourced Images**|Zaid Tasneem et.al.|[2403.13199](http://arxiv.org/abs/2403.13199)|null|
@@ -2654,6 +2659,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**Knowledge-Enhanced Recommendation with User-Centric Subgraph Network**|Guangyi Liu et.al.|[2403.14377](http://arxiv.org/abs/2403.14377)|**[link](https://github.com/leolouis14/kucnet)**|
+|**2024-03-20**|**EcoSense: Energy-Efficient Intelligent Sensing for In-Shore Ship Detection through Edge-Cloud Collaboration**|Wenjun Huang et.al.|[2403.14027](http://arxiv.org/abs/2403.14027)|null|
+|**2024-03-20**|**Data-Driven Modeling of Dislocation Mobility from Atomistics using Physics-Informed Machine Learning**|Yifeng Tian et.al.|[2403.14015](http://arxiv.org/abs/2403.14015)|null|
+|**2024-03-20**|**Considerations in the use of ML interaction potentials for free energy calculations**|Orlando A. Mendible et.al.|[2403.13952](http://arxiv.org/abs/2403.13952)|**[link](https://github.com/omendibleba/considerations_for_mlps_fes)**|
+|**2024-03-20**|**Graph Neural Network for Crawling Target Nodes in Social Networks**|Kirill Lukyanov et.al.|[2403.13865](http://arxiv.org/abs/2403.13865)|null|
 |**2024-03-20**|**Sparse Implementation of Versatile Graph-Informed Layers**|Francesco Della Santa et.al.|[2403.13781](http://arxiv.org/abs/2403.13781)|null|
 |**2024-03-20**|**T-Pixel2Mesh: Combining Global and Local Transformer for 3D Mesh Generation from a Single Image**|Shijie Zhang et.al.|[2403.13663](http://arxiv.org/abs/2403.13663)|null|
 |**2024-03-20**|**Unifews: Unified Entry-Wise Sparsification for Efficient Graph Neural Network**|Ningyi Liao et.al.|[2403.13268](http://arxiv.org/abs/2403.13268)|null|
@@ -4045,6 +4055,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**EventDance: Unsupervised Source-free Cross-modal Adaptation for Event-based Object Recognition**|Xu Zheng et.al.|[2403.14082](http://arxiv.org/abs/2403.14082)|null|
 |**2024-03-20**|**TimeRewind: Rewinding Time with Image-and-Events Video Diffusion**|Jingxi Chen et.al.|[2403.13800](http://arxiv.org/abs/2403.13800)|null|
 |**2024-03-19**|**EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks**|Ziming Wang et.al.|[2403.12574](http://arxiv.org/abs/2403.12574)|null|
 |**2024-03-19**|**ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More**|Jiazhou Zhou et.al.|[2403.12534](http://arxiv.org/abs/2403.12534)|null|
@@ -4162,6 +4173,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks**|Xinyu Shi et.al.|[2403.14302](http://arxiv.org/abs/2403.14302)|null|
+|**2024-03-21**|**Analysis of a map-based neuronal model**|G. Moza et.al.|[2403.14219](http://arxiv.org/abs/2403.14219)|null|
 |**2024-03-19**|**Regularised Spectral Estimation for High Dimensional Point Processes**|Carla Pinkney et.al.|[2403.12908](http://arxiv.org/abs/2403.12908)|null|
 |**2024-03-19**|**EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks**|Ziming Wang et.al.|[2403.12574](http://arxiv.org/abs/2403.12574)|null|
 |**2024-03-19**|**Topological Representations of Heterogeneous Learning Dynamics of Recurrent Spiking Neural Networks**|Biswadeep Chakraborty et.al.|[2403.12462](http://arxiv.org/abs/2403.12462)|null|
@@ -4740,6 +4753,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**Analysis of a map-based neuronal model**|G. Moza et.al.|[2403.14219](http://arxiv.org/abs/2403.14219)|null|
 |**2024-03-18**|**PAON: A New Neuron Model using Padé Approximants**|Onur Keleş et.al.|[2403.11791](http://arxiv.org/abs/2403.11791)|null|
 |**2024-02-25**|**Efficient Online Learning for Networks of Two-Compartment Spiking Neurons**|Yujia Yin et.al.|[2402.15969](http://arxiv.org/abs/2402.15969)|null|
 |**2024-02-02**|**Balanced Resonate-and-Fire Neurons**|Saya Higuchi et.al.|[2402.14603](http://arxiv.org/abs/2402.14603)|null|
