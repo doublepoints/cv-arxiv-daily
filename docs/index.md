@@ -1,4 +1,4 @@
-## <a id=top></a>Updated on 2024.04.04
+## <a id=top></a>Updated on 2024.04.05
 ---
 layout: default
 ---
@@ -8,7 +8,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.04
+## Updated on 2024.04.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## <a id=slam>SLAM</a>
@@ -4344,7 +4344,7 @@ layout: default
 |**2024-04-02**|**Non-invasive deep-brain stimulations by spatio-temporal fourier synthesis**|Laszlo B. Kish et.al.|[2404.02186](http://arxiv.org/abs/2404.02186)|null|
 |**2024-04-02**|**Continuous Spiking Graph Neural Networks**|Nan Yin et.al.|[2404.01897](http://arxiv.org/abs/2404.01897)|null|
 |**2024-04-02**|**Detection of bromochloro alkanes in indoor dust using a novel CP-Seeker data integration tool**|Thomas J Mcgrath et.al.|[2404.01698](http://arxiv.org/abs/2404.01698)|null|
-|**2024-04-02**|**A Methodology for Improving Accuracy of Embedded Spiking Neural Networks through Kernel Size Scaling**|Rachmad Vidya Wicaksana Putra et.al.|[2404.01685](http://arxiv.org/abs/2404.01685)|null|
+|**2024-04-04**|**A Methodology for Improving Accuracy of Embedded Spiking Neural Networks through Kernel Size Scaling**|Rachmad Vidya Wicaksana Putra et.al.|[2404.01685](http://arxiv.org/abs/2404.01685)|null|
 |**2024-04-01**|**Parallel Proportional Fusion of Spiking Quantum Neural Network for Optimizing Image Classification**|Zuyu Xu et.al.|[2404.01359](http://arxiv.org/abs/2404.01359)|null|
 |**2024-04-01**|**SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding**|Wenrui Li et.al.|[2404.01174](http://arxiv.org/abs/2404.01174)|null|
 |**2024-03-30**|**SpikingJET: Enhancing Fault Injection for Fully and Convolutional Spiking Neural Networks**|Anil Bayram Gogebakan et.al.|[2404.00383](http://arxiv.org/abs/2404.00383)|null|
