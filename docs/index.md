@@ -647,6 +647,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940](http://arxiv.org/abs/2404.03940)|null|
 |**2024-04-02**|**TSCM: A Teacher-Student Model for Vision Place Recognition Using Cross-Metric Knowledge Distillation**|Yehui Shen et.al.|[2404.01587](http://arxiv.org/abs/2404.01587)|**[link](https://github.com/nubot-nudt/tscm)**|
 |**2024-04-01**|**On Train-Test Class Overlap and Detection for Image Retrieval**|Chull Hwan Song et.al.|[2404.01524](http://arxiv.org/abs/2404.01524)|**[link](https://github.com/dealicious-inc/rgldv2-clean)**|
 |**2024-04-01**|**NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification**|Juyeop Han et.al.|[2404.01400](http://arxiv.org/abs/2404.01400)|null|
@@ -1807,6 +1808,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Robust Gaussian Splatting**|François Darmon et.al.|[2404.04211](http://arxiv.org/abs/2404.04211)|null|
+|**2024-04-04**|**SC4D: Sparse-Controlled Video-to-4D Generation and Motion Transfer**|Zijie Wu et.al.|[2404.03736](http://arxiv.org/abs/2404.03736)|null|
 |**2024-04-04**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654](http://arxiv.org/abs/2404.03654)|null|
 |**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650](http://arxiv.org/abs/2404.03650)|null|
 |**2024-04-04**|**VF-NeRF: Viewshed Fields for Rigid NeRF Registration**|Leo Segre et.al.|[2404.03349](http://arxiv.org/abs/2404.03349)|null|
@@ -2742,6 +2745,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Superior Genetic Algorithms for the Target Set Selection Problem Based on Power-Law Parameter Choices and Simple Greedy Heuristics**|Benjamin Doerr et.al.|[2404.04018](http://arxiv.org/abs/2404.04018)|**[link](https://github.com/nnguyenu/brkgatss)**|
+|**2024-04-04**|**Free Energy Calculations using Smooth Basin Classification**|Sander Vandenhaute et.al.|[2404.03777](http://arxiv.org/abs/2404.03777)|null|
 |**2024-04-04**|**Generalization Bounds for Message Passing Networks on Mixture of Graphons**|Sohir Maskey et.al.|[2404.03473](http://arxiv.org/abs/2404.03473)|null|
 |**2024-04-04**|**On the Theoretical Expressive Power and the Design Space of Higher-Order Graph Transformers**|Cai Zhou et.al.|[2404.03380](http://arxiv.org/abs/2404.03380)|null|
 |**2024-04-04**|**Graph Neural Networks for Electric and Hydraulic Data Fusion to Enhance Short-term Forecasting of Pumped-storage Hydroelectricity**|Raffael Theiler et.al.|[2404.03368](http://arxiv.org/abs/2404.03368)|null|
@@ -4348,7 +4353,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-04**|**A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**|Iqra Bano et.al.|[2404.03493](http://arxiv.org/abs/2404.03493)|null|
+|**2024-04-05**|**Modulation of metastable ensemble dynamics explains optimal coding at moderate arousal in auditory cortex**|Lia Papadopoulos et.al.|[2404.03902](http://arxiv.org/abs/2404.03902)|null|
+|**2024-04-04**|**SpikeExplorer: hardware-oriented Design Space Exploration for Spiking Neural Networks on FPGA**|Dario Padovano et.al.|[2404.03714](http://arxiv.org/abs/2404.03714)|null|
+|**2024-04-05**|**A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**|Iqra Bano et.al.|[2404.03493](http://arxiv.org/abs/2404.03493)|null|
 |**2024-04-04**|**Embodied Neuromorphic Artificial Intelligence for Robotics: Perspectives, Challenges, and Research Development Stack**|Rachmad Vidya Wicaksana Putra et.al.|[2404.03325](http://arxiv.org/abs/2404.03325)|null|
 |**2024-04-04**|**Simultaneous clustering and estimation of additive shape invariant models for recurrent event data**|Zitong Zhang et.al.|[2404.03160](http://arxiv.org/abs/2404.03160)|null|
 |**2024-04-03**|**A Coupled Neural Field Model for the Standard Consolidation Theory**|Lisa Blum Moyse et.al.|[2404.02938](http://arxiv.org/abs/2404.02938)|null|
@@ -4969,6 +4976,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**SpikeExplorer: hardware-oriented Design Space Exploration for Spiking Neural Networks on FPGA**|Dario Padovano et.al.|[2404.03714](http://arxiv.org/abs/2404.03714)|null|
 |**2024-03-30**|**SpikingJET: Enhancing Fault Injection for Fully and Convolutional Spiking Neural Networks**|Anil Bayram Gogebakan et.al.|[2404.00383](http://arxiv.org/abs/2404.00383)|null|
 |**2024-03-21**|**Analysis of a map-based neuronal model**|G. Moza et.al.|[2403.14219](http://arxiv.org/abs/2403.14219)|null|
 |**2024-03-18**|**PAON: A New Neuron Model using Padé Approximants**|Onur Keleş et.al.|[2403.11791](http://arxiv.org/abs/2403.11791)|null|
