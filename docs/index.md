@@ -1,4 +1,4 @@
-## <a id=top></a>Updated on 2024.04.09
+## <a id=top></a>Updated on 2024.04.10
 ---
 layout: default
 ---
@@ -8,7 +8,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.09
+## Updated on 2024.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## <a id=slam>SLAM</a>
@@ -4378,7 +4378,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-08**|**Escape time in bistable neuronal populations driven by colored synaptic noise**|Gianni Valerio Vinci et.al.|[2404.05391](http://arxiv.org/abs/2404.05391)|null|
 |**2024-04-06**|**Efficient Learning Using Spiking Neural Networks Equipped With Affine Encoders and Decoders**|A. Martina Neuman et.al.|[2404.04549](http://arxiv.org/abs/2404.04549)|null|
-|**2024-04-05**|**Modulation of metastable ensemble dynamics explains optimal coding at moderate arousal in auditory cortex**|Lia Papadopoulos et.al.|[2404.03902](http://arxiv.org/abs/2404.03902)|null|
+|**2024-04-08**|**Modulation of metastable ensemble dynamics explains optimal coding at moderate arousal in auditory cortex**|Lia Papadopoulos et.al.|[2404.03902](http://arxiv.org/abs/2404.03902)|null|
 |**2024-04-04**|**SpikeExplorer: hardware-oriented Design Space Exploration for Spiking Neural Networks on FPGA**|Dario Padovano et.al.|[2404.03714](http://arxiv.org/abs/2404.03714)|null|
 |**2024-04-05**|**A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**|Iqra Bano et.al.|[2404.03493](http://arxiv.org/abs/2404.03493)|null|
 |**2024-04-04**|**Embodied Neuromorphic Artificial Intelligence for Robotics: Perspectives, Challenges, and Research Development Stack**|Rachmad Vidya Wicaksana Putra et.al.|[2404.03325](http://arxiv.org/abs/2404.03325)|null|
