@@ -2783,7 +2783,7 @@ layout: default
 |**2024-04-10**|**Gaze-Guided Graph Neural Network for Action Anticipation Conditioned on Intention**|Suleyman Ozdel et.al.|[2404.07347](http://arxiv.org/abs/2404.07347)|null|
 |**2024-04-10**|**VN-EGNN: E(3)-Equivariant Graph Neural Networks with Virtual Nodes Enhance Protein Binding Site Identification**|Florian Sestak et.al.|[2404.07194](http://arxiv.org/abs/2404.07194)|**[link](https://github.com/ml-jku/vnegnn)**|
 |**2024-04-10**|**GCV-Turbo: End-to-end Acceleration of GNN-based Computer Vision Tasks on FPGA**|Bingyi Zhang et.al.|[2404.07188](http://arxiv.org/abs/2404.07188)|null|
-|**2024-04-10**|**Machine learning-based similarity measure to forecast M&A from patent data**|Giambattista Albora et.al.|[2404.07179](http://arxiv.org/abs/2404.07179)|null|
+|**2024-04-10**|**Machine learning-based similarity measure to forecast M&A from patent data**|Giambattista Albora et.al.|[2404.07179](http://arxiv.org/abs/2404.07179)|**[link](https://github.com/giamba95/saplingsimilarity)**|
 |**2024-04-10**|**Fast System Technology Co-Optimization Framework for Emerging Technology Based on Graph Neural Networks**|Tianliang Ma et.al.|[2404.06939](http://arxiv.org/abs/2404.06939)|null|
 |**2024-04-10**|**GraSAME: Injecting Token-Level Structural Information to Pretrained Language Models via Graph-guided Self-Attention Mechanism**|Shuzhou Yuan et.al.|[2404.06911](http://arxiv.org/abs/2404.06911)|null|
 |**2024-04-10**|**NFARec: A Negative Feedback-Aware Recommender Model**|Xinfeng Wang et.al.|[2404.06900](http://arxiv.org/abs/2404.06900)|**[link](https://github.com/wangxfng/nfarec)**|
