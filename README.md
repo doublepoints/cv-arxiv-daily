@@ -669,9 +669,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-15**|**CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**|Haojian Huang et.al.|[2404.09640](http://arxiv.org/abs/2404.09640)|**[link](https://github.com/JethroJames/CREST)**|
+|**2024-04-16**|**SPVLoc: Semantic Panoramic Viewport Matching for 6D Camera Localization in Unseen Environments**|Niklas Gard et.al.|[2404.10527](http://arxiv.org/abs/2404.10527)|null|
+|**2024-04-16**|**CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**|Haojian Huang et.al.|[2404.09640](http://arxiv.org/abs/2404.09640)|**[link](https://github.com/JethroJames/CREST)**|
 |**2024-04-11**|**PRAM: Place Recognition Anywhere Model for Efficient Visual Localization**|Fei Xue et.al.|[2404.07785](http://arxiv.org/abs/2404.07785)|null|
-|**2024-04-15**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644](http://arxiv.org/abs/2404.07644)|**[link](https://github.com/littledang/2dliw-slam)**|
+|**2024-04-16**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644](http://arxiv.org/abs/2404.07644)|**[link](https://github.com/littledang/2dliw-slam)**|
 |**2024-04-11**|**Semantically-correlated memories in a dense associative model**|Thomas F Burns et.al.|[2404.07123](http://arxiv.org/abs/2404.07123)|**[link](https://github.com/tfburns/cdam)**|
 |**2024-04-09**|**Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation**|Luca Barsellotti et.al.|[2404.06542](http://arxiv.org/abs/2404.06542)|null|
 |**2024-04-09**|**Learning Embeddings with Centroid Triplet Loss for Object Identification in Robotic Grasping**|Anas Gouda et.al.|[2404.06277](http://arxiv.org/abs/2404.06277)|null|
@@ -1623,6 +1624,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**Exploring selective image matching methods for zero-shot and few-sample unsupervised domain adaptation of urban canopy prediction**|John Francis et.al.|[2404.10626](http://arxiv.org/abs/2404.10626)|null|
 |**2024-04-15**|**XoFTR: Cross-modal Feature Matching Transformer**|Önder Tuzcuoğlu et.al.|[2404.09692](http://arxiv.org/abs/2404.09692)|null|
 |**2024-04-13**|**DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector**|Johan Edstedt et.al.|[2404.08928](http://arxiv.org/abs/2404.08928)|**[link](https://github.com/parskatt/dedode)**|
 |**2024-04-09**|**Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences**|Axel Barroso-Laguna et.al.|[2404.06337](http://arxiv.org/abs/2404.06337)|**[link](https://github.com/nianticlabs/mickey)**|
@@ -1847,6 +1849,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**Gaussian Splatting Decoder for 3D-aware Generative Adversarial Networks**|Florian Barthel et.al.|[2404.10625](http://arxiv.org/abs/2404.10625)|null|
+|**2024-04-16**|**Enhancing 3D Fidelity of Text-to-3D using Cross-View Correspondences**|Seungwook Kim et.al.|[2404.10603](http://arxiv.org/abs/2404.10603)|null|
+|**2024-04-16**|**1st Place Solution for ICCV 2023 OmniObject3D Challenge: Sparse-View Reconstruction**|Hang Du et.al.|[2404.10441](http://arxiv.org/abs/2404.10441)|null|
+|**2024-04-16**|**SRGS: Super-Resolution 3D Gaussian Splatting**|Xiang Feng et.al.|[2404.10318](http://arxiv.org/abs/2404.10318)|null|
+|**2024-04-16**|**Plug-and-Play Acceleration of Occupancy Grid-based NeRF Rendering using VDB Grid and Hierarchical Ray Traversal**|Yoshio Kato et.al.|[2404.10272](http://arxiv.org/abs/2404.10272)|**[link](https://github.com/yosshi999/faster-occgrid)**|
+|**2024-04-15**|**Taming Latent Diffusion Model for Neural Radiance Field Inpainting**|Chieh Hubert Lin et.al.|[2404.09995](http://arxiv.org/abs/2404.09995)|null|
+|**2024-04-15**|**Video2Game: Real-time, Interactive, Realistic and Browser-Compatible Environment from a Single Video**|Hongchi Xia et.al.|[2404.09833](http://arxiv.org/abs/2404.09833)|null|
 |**2024-04-15**|**DeferredGS: Decoupled and Editable Gaussian Splatting with Deferred Shading**|Tong Wu et.al.|[2404.09412](http://arxiv.org/abs/2404.09412)|null|
 |**2024-04-14**|**VRS-NeRF: Visual Relocalization with Sparse Neural Radiance Field**|Fei Xue et.al.|[2404.09271](http://arxiv.org/abs/2404.09271)|**[link](https://github.com/feixue94/vrs-nerf)**|
 |**2024-04-15**|**OccGaussian: 3D Gaussian Splatting for Occluded Human Rendering**|Jingrui Ye et.al.|[2404.08449](http://arxiv.org/abs/2404.08449)|null|
@@ -2810,6 +2819,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**Interpolation and differentiation of alchemical degrees of freedom in machine learning interatomic potentials**|Juno Nam et.al.|[2404.10746](http://arxiv.org/abs/2404.10746)|null|
+|**2024-04-16**|**A Sentiment Analysis of Medical Text Based on Deep Learning**|Yinan Chen et.al.|[2404.10503](http://arxiv.org/abs/2404.10503)|null|
+|**2024-04-16**|**Graph Neural Networks for Protein-Protein Interactions - A Short Survey**|Mingda Xu et.al.|[2404.10450](http://arxiv.org/abs/2404.10450)|null|
+|**2024-04-16**|**AGHINT: Attribute-Guided Representation Learning on Heterogeneous Information Networks with Transformer**|Jinhui Yuan et.al.|[2404.10443](http://arxiv.org/abs/2404.10443)|null|
+|**2024-04-16**|**Physical formula enhanced multi-task learning for pharmacokinetics prediction**|Ruifeng Li et.al.|[2404.10354](http://arxiv.org/abs/2404.10354)|null|
+|**2024-04-16**|**Rethinking the Graph Polynomial Filter via Positive and Negative Coupling Analysis**|Haodong Wen et.al.|[2404.10353](http://arxiv.org/abs/2404.10353)|null|
+|**2024-04-16**|**Graph neural network-based surrogate modelling for real-time hydraulic prediction of urban drainage networks**|Zhiyu Zhang et.al.|[2404.10324](http://arxiv.org/abs/2404.10324)|**[link](https://github.com/Zhiyu014/GNN-UDS)**|
+|**2024-04-16**|**Cluster-based Graph Collaborative Filtering**|Fan Liu et.al.|[2404.10321](http://arxiv.org/abs/2404.10321)|**[link](https://github.com/zhao254014/clustergcf)**|
+|**2024-04-16**|**Two-Stage Stance Labeling: User-Hashtag Heuristics with Graph Neural Networks**|Joshua Melton et.al.|[2404.10228](http://arxiv.org/abs/2404.10228)|null|
+|**2024-04-16**|**MK-SGN: A Spiking Graph Convolutional Network with Multimodal Fusion and Knowledge Distillation for Skeleton-based Action Recognition**|Naichuan Zheng et.al.|[2404.10210](http://arxiv.org/abs/2404.10210)|null|
 |**2024-04-15**|**RandAlign: A Parameter-Free Method for Regularizing Graph Convolutional Networks**|Haimin Zhang et.al.|[2404.09774](http://arxiv.org/abs/2404.09774)|null|
 |**2024-04-15**|**Enhancing Code Vulnerability Detection via Vulnerability-Preserving Data Augmentation**|Shangqing Liu et.al.|[2404.09599](http://arxiv.org/abs/2404.09599)|null|
 |**2024-04-15**|**GNNavigator: Towards Adaptive Training of Graph Neural Networks via Automatic Guideline Exploration**|Tong Qiao et.al.|[2404.09544](http://arxiv.org/abs/2404.09544)|null|
@@ -4329,9 +4348,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-15**|**Table tennis ball spin estimation with an event camera**|Thomas Gossard et.al.|[2404.09870](http://arxiv.org/abs/2404.09870)|null|
 |**2024-04-13**|**A Lightweight Spatiotemporal Network for Online Eye Tracking with Event Camera**|Yan Ru Pei et.al.|[2404.08858](http://arxiv.org/abs/2404.08858)|**[link](https://github.com/PeaBrane/eye_track_spatiotemporal)**|
 |**2024-04-12**|**EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams**|Christen Millerdurai et.al.|[2404.08640](http://arxiv.org/abs/2404.08640)|**[link](https://github.com/Chris10M/EventEgo3D)**|
-|**2024-04-12**|**3D Human Scan With A Moving Event Camera**|Kai Kohyama et.al.|[2404.08504](http://arxiv.org/abs/2404.08504)|null|
+|**2024-04-16**|**3D Human Scan With A Moving Event Camera**|Kai Kohyama et.al.|[2404.08504](http://arxiv.org/abs/2404.08504)|null|
 |**2024-04-11**|**Event-Enhanced Snapshot Compressive Videography at 10K FPS**|Bo Zhang et.al.|[2404.07551](http://arxiv.org/abs/2404.07551)|null|
 |**2024-04-12**|**SpikeNVS: Enhancing Novel View Synthesis from Blurry Images via Spike Camera**|Gaole Dai et.al.|[2404.06710](http://arxiv.org/abs/2404.06710)|null|
 |**2024-04-09**|**Passive Non-line-of-sight imaging of moving targets using Physical embedding and Event-based vision**|Conghe Wang et.al.|[2404.05977](http://arxiv.org/abs/2404.05977)|null|
@@ -4475,6 +4495,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**Towards free-response paradigm: a theory on decision-making in spiking neural networks**|Zhichao Zhu et.al.|[2404.10599](http://arxiv.org/abs/2404.10599)|null|
+|**2024-04-16**|**Hardware-aware training of models with synaptic delays for digital event-driven neuromorphic processors**|Alberto Patino-Saucedo et.al.|[2404.10597](http://arxiv.org/abs/2404.10597)|null|
+|**2024-04-16**|**Photonic Neuromorphic Accelerators for Event-Based Imaging Flow Cytometry**|Ioannis Tsilikas et.al.|[2404.10564](http://arxiv.org/abs/2404.10564)|null|
+|**2024-04-16**|**MK-SGN: A Spiking Graph Convolutional Network with Multimodal Fusion and Knowledge Distillation for Skeleton-based Action Recognition**|Naichuan Zheng et.al.|[2404.10210](http://arxiv.org/abs/2404.10210)|null|
+|**2024-04-15**|**Asymptotic mutual information in quadratic estimation problems over compact groups**|Kaylee Y. Yang et.al.|[2404.10169](http://arxiv.org/abs/2404.10169)|null|
 |**2024-04-15**|**From laminar to chaotic flow via stochastic resonance in viscoelastic channel flow**|Yuke Li et.al.|[2404.09508](http://arxiv.org/abs/2404.09508)|null|
 |**2024-04-14**|**SNN4Agents: A Framework for Developing Energy-Efficient Embodied Spiking Neural Networks for Autonomous Agents**|Rachmad Vidya Wicaksana Putra et.al.|[2404.09331](http://arxiv.org/abs/2404.09331)|null|
 |**2024-04-13**|**Phase-Amplitude Description of Stochastic Oscillators: A Parameterization Method Approach**|Alberto Pérez-Cervera et.al.|[2404.09046](http://arxiv.org/abs/2404.09046)|null|
