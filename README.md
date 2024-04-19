@@ -27,7 +27,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-17**|**VBR: A Vision Benchmark in Rome**|Leonardo Brizi et.al.|[2404.11322](http://arxiv.org/abs/2404.11322)|null|
+|**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339](http://arxiv.org/abs/2404.12339)|null|
+|**2024-04-17**|**VBR: A Vision Benchmark in Rome**|Leonardo Brizi et.al.|[2404.11322](http://arxiv.org/abs/2404.11322)|**[link](https://github.com/rvp-group/vbr-devkit)**|
 |**2024-04-14**|**Increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration**|Yanhao Zhang et.al.|[2404.09169](http://arxiv.org/abs/2404.09169)|null|
 |**2024-04-06**|**Salient Sparse Visual Odometry With Pose-Only Supervision**|Siyu Chen et.al.|[2404.04677](http://arxiv.org/abs/2404.04677)|null|
 |**2024-03-25**|**A Comparative Analysis of Visual Odometry in Virtual and Real-World Railways Environments**|Gianluca D'Amico et.al.|[2403.17084](http://arxiv.org/abs/2403.17084)|null|
@@ -489,7 +490,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-04-17**|**A Subspace-Constrained Tyler's Estimator and its Applications to Structure from Motion**|Feng Yu et.al.|[2404.11590](http://arxiv.org/abs/2404.11590)|null|
-|**2024-04-17**|**DeblurGS: Gaussian Splatting for Camera Motion Blur**|Jeongtaek Oh et.al.|[2404.11358](http://arxiv.org/abs/2404.11358)|null|
+|**2024-04-18**|**DeblurGS: Gaussian Splatting for Camera Motion Blur**|Jeongtaek Oh et.al.|[2404.11358](http://arxiv.org/abs/2404.11358)|null|
 |**2024-04-15**|**LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian Primitives**|Jiadi Cui et.al.|[2404.09748](http://arxiv.org/abs/2404.09748)|null|
 |**2024-04-12**|**MonoPatchNeRF: Improving Neural Radiance Fields with Patch-based Monocular Guidance**|Yuqun Wu et.al.|[2404.08252](http://arxiv.org/abs/2404.08252)|null|
 |**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933](http://arxiv.org/abs/2404.07933)|**[link](https://github.com/keonhee-han/KDBTS)**|
@@ -672,9 +673,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339](http://arxiv.org/abs/2404.12339)|null|
 |**2024-04-17**|**Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives**|Zhangchi Feng et.al.|[2404.11317](http://arxiv.org/abs/2404.11317)|null|
 |**2024-04-17**|**Spatial-Aware Image Retrieval: A Hyperdimensional Computing Approach for Efficient Similarity Hashing**|Sanggeon Yun et.al.|[2404.11025](http://arxiv.org/abs/2404.11025)|null|
-|**2024-04-16**|**SPVLoc: Semantic Panoramic Viewport Matching for 6D Camera Localization in Unseen Environments**|Niklas Gard et.al.|[2404.10527](http://arxiv.org/abs/2404.10527)|null|
+|**2024-04-16**|**SPVLoc: Semantic Panoramic Viewport Matching for 6D Camera Localization in Unseen Environments**|Niklas Gard et.al.|[2404.10527](http://arxiv.org/abs/2404.10527)|**[link](https://github.com/fraunhoferhhi/spvloc)**|
 |**2024-04-16**|**CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**|Haojian Huang et.al.|[2404.09640](http://arxiv.org/abs/2404.09640)|**[link](https://github.com/JethroJames/CREST)**|
 |**2024-04-11**|**PRAM: Place Recognition Anywhere Model for Efficient Visual Localization**|Fei Xue et.al.|[2404.07785](http://arxiv.org/abs/2404.07785)|null|
 |**2024-04-16**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644](http://arxiv.org/abs/2404.07644)|**[link](https://github.com/littledang/2dliw-slam)**|
@@ -1856,6 +1858,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**MeshLRM: Large Reconstruction Model for High-Quality Mesh**|Xinyue Wei et.al.|[2404.12385](http://arxiv.org/abs/2404.12385)|null|
+|**2024-04-18**|**AG-NeRF: Attention-guided Neural Radiance Fields for Multi-height Large-scale Outdoor Scene Rendering**|Jingfeng Guo et.al.|[2404.11897](http://arxiv.org/abs/2404.11897)|null|
+|**2024-04-18**|**Cicero: Addressing Algorithmic and Architectural Bottlenecks in Neural Rendering by Radiance Warping and Memory Optimizations**|Yu Feng et.al.|[2404.11852](http://arxiv.org/abs/2404.11852)|null|
 |**2024-04-17**|**SLAIM: Robust Dense Neural SLAM for Online Tracking and Mapping**|Vincent Cartillier et.al.|[2404.11419](http://arxiv.org/abs/2404.11419)|null|
 |**2024-04-16**|**Gaussian Splatting Decoder for 3D-aware Generative Adversarial Networks**|Florian Barthel et.al.|[2404.10625](http://arxiv.org/abs/2404.10625)|null|
 |**2024-04-16**|**Enhancing 3D Fidelity of Text-to-3D using Cross-View Correspondences**|Seungwook Kim et.al.|[2404.10603](http://arxiv.org/abs/2404.10603)|null|
@@ -2827,10 +2832,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**Improving the interpretability of GNN predictions through conformal-based graph sparsification**|Pablo Sanchez-Martin et.al.|[2404.12356](http://arxiv.org/abs/2404.12356)|null|
+|**2024-04-18**|**Graph Neural Networks for Wireless Networks: Graph Representation, Architecture and Evaluation**|Yang Lu et.al.|[2404.11858](http://arxiv.org/abs/2404.11858)|null|
+|**2024-04-17**|**End-to-End Mesh Optimization of a Hybrid Deep Learning Black-Box PDE Solver**|Shaocong Ma et.al.|[2404.11766](http://arxiv.org/abs/2404.11766)|null|
 |**2024-04-17**|**On the Scalability of GNNs for Molecular Graphs**|Maciej Sypetkowski et.al.|[2404.11568](http://arxiv.org/abs/2404.11568)|null|
 |**2024-04-17**|**Disentangled Cascaded Graph Convolution Networks for Multi-Behavior Recommendation**|Zhiyong Cheng et.al.|[2404.11519](http://arxiv.org/abs/2404.11519)|**[link](https://github.com/jianhuadongcs/disen-cgcn)**|
 |**2024-04-17**|**Tensor Factorisation for Polypharmacy Side Effect Prediction**|Oliver Lloyd et.al.|[2404.11374](http://arxiv.org/abs/2404.11374)|null|
-|**2024-04-17**|**RiboDiffusion: Tertiary Structure-based RNA Inverse Folding with Generative Diffusion Models**|Han Huang et.al.|[2404.11199](http://arxiv.org/abs/2404.11199)|null|
+|**2024-04-17**|**RiboDiffusion: Tertiary Structure-based RNA Inverse Folding with Generative Diffusion Models**|Han Huang et.al.|[2404.11199](http://arxiv.org/abs/2404.11199)|**[link](https://github.com/ml4bio/ribodiffusion)**|
 |**2024-04-17**|**EEG_GLT-Net: Optimising EEG Graphs for Real-time Motor Imagery Signals Classification**|Htoo Wai Aung et.al.|[2404.11075](http://arxiv.org/abs/2404.11075)|null|
 |**2024-04-17**|**You do not have to train Graph Neural Networks at all on text-attributed graphs**|Kaiwen Dong et.al.|[2404.11019](http://arxiv.org/abs/2404.11019)|null|
 |**2024-04-17**|**Graph Continual Learning with Debiased Lossless Memory Replay**|Chaoxi Niu et.al.|[2404.10984](http://arxiv.org/abs/2404.10984)|null|
@@ -4363,6 +4371,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**MambaPupil: Bidirectional Selective Recurrent model for Event-based Eye tracking**|Zhong Wang et.al.|[2404.12083](http://arxiv.org/abs/2404.12083)|null|
+|**2024-04-18**|**Seeing Motion at Nighttime with an Event Camera**|Haoyue Liu et.al.|[2404.11884](http://arxiv.org/abs/2404.11884)|**[link](https://github.com/liu-haoyue/ner-net)**|
+|**2024-04-17**|**Event-Based Eye Tracking. AIS 2024 Challenge Survey**|Zuowen Wang et.al.|[2404.11770](http://arxiv.org/abs/2404.11770)|null|
 |**2024-04-17**|**Event Cameras Meet SPADs for High-Speed, Low-Bandwidth Imaging**|Manasi Muglikar et.al.|[2404.11511](http://arxiv.org/abs/2404.11511)|null|
 |**2024-04-15**|**Table tennis ball spin estimation with an event camera**|Thomas Gossard et.al.|[2404.09870](http://arxiv.org/abs/2404.09870)|null|
 |**2024-04-13**|**A Lightweight Spatiotemporal Network for Online Eye Tracking with Event Camera**|Yan Ru Pei et.al.|[2404.08858](http://arxiv.org/abs/2404.08858)|**[link](https://github.com/PeaBrane/eye_track_spatiotemporal)**|
@@ -4511,6 +4522,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**Measuring the refractive index and thickness of multilayer samples by Fourier domain optical coherence tomography**|Yu-Lin Ku et.al.|[2404.11736](http://arxiv.org/abs/2404.11736)|null|
 |**2024-04-17**|**Dark matter, black holes, and gravitational waves**|Gianfranco Bertone et.al.|[2404.11513](http://arxiv.org/abs/2404.11513)|null|
 |**2024-04-16**|**Information encoding and decoding in in-vitro neural networks on micro electrode arrays through stimulation timing**|Trym A. E. Lindell et.al.|[2404.10946](http://arxiv.org/abs/2404.10946)|null|
 |**2024-04-16**|**Towards free-response paradigm: a theory on decision-making in spiking neural networks**|Zhichao Zhu et.al.|[2404.10599](http://arxiv.org/abs/2404.10599)|null|
