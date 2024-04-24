@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization**|Lahav Lipson et.al.|[2404.15263](http://arxiv.org/abs/2404.15263)|**[link](https://github.com/princeton-vl/multislam_diffpose)**|
 |**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339](http://arxiv.org/abs/2404.12339)|null|
 |**2024-04-17**|**VBR: A Vision Benchmark in Rome**|Leonardo Brizi et.al.|[2404.11322](http://arxiv.org/abs/2404.11322)|**[link](https://github.com/rvp-group/vbr-devkit)**|
 |**2024-04-14**|**Increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration**|Yanhao Zhang et.al.|[2404.09169](http://arxiv.org/abs/2404.09169)|null|
@@ -1402,6 +1403,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**Adaptive Local Binary Pattern: A Novel Feature Descriptor for Enhanced Analysis of Kidney Abnormalities in CT Scan Images using ensemble based Machine Learning Approach**|Tahmim Hossain et.al.|[2404.14560](http://arxiv.org/abs/2404.14560)|null|
 |**2024-04-19**|**SkelFormer: Markerless 3D Pose and Shape Estimation using Skeletal Transformers**|Vandad Davoodnia et.al.|[2404.12625](http://arxiv.org/abs/2404.12625)|null|
 |**2024-04-17**|**Pixel-Wise Symbol Spotting via Progressive Points Location for Parsing CAD Images**|Junbiao Pang et.al.|[2404.10985](http://arxiv.org/abs/2404.10985)|null|
 |**2024-03-28**|**Towards Long Term SLAM on Thermal Imagery**|Colin Keil et.al.|[2403.19885](http://arxiv.org/abs/2403.19885)|**[link](https://github.com/neufieldrobotics/irslam_baseline)**|
@@ -1620,6 +1622,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**FINEMATCH: Aspect-based Fine-grained Image and Text Mismatch Detection and Correction**|Hang Hua et.al.|[2404.14715](http://arxiv.org/abs/2404.14715)|null|
 |**2024-04-22**|**Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer**|Eric Brachmann et.al.|[2404.14351](http://arxiv.org/abs/2404.14351)|null|
 |**2024-04-17**|**A Semantic Segmentation-guided Approach for Ground-to-Aerial Image Matching**|Francesco Pro et.al.|[2404.11302](http://arxiv.org/abs/2404.11302)|**[link](https://github.com/pro1944191/semanticalignnet)**|
 |**2024-04-16**|**Exploring selective image matching methods for zero-shot and few-sample unsupervised domain adaptation of urban canopy prediction**|John Francis et.al.|[2404.10626](http://arxiv.org/abs/2404.10626)|null|
@@ -1847,7 +1850,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-22**|**GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting**|Hongyun Yu et.al.|[2404.14037](http://arxiv.org/abs/2404.14037)|null|
 |**2024-04-22**|**NeRF-DetS: Enhancing Multi-View 3D Object Detection with Sampling-adaptive Network of Continuous NeRF-based Representation**|Chi Huang et.al.|[2404.13921](http://arxiv.org/abs/2404.13921)|null|
-|**2024-04-22**|**CT-NeRF: Incremental Optimizing Neural Radiance Field and Poses with Complex Trajectory**|Yunlong Ran et.al.|[2404.13896](http://arxiv.org/abs/2404.13896)|null|
+|**2024-04-23**|**CT-NeRF: Incremental Optimizing Neural Radiance Field and Poses with Complex Trajectory**|Yunlong Ran et.al.|[2404.13896](http://arxiv.org/abs/2404.13896)|null|
 |**2024-04-22**|**Neural Radiance Field in Autonomous Driving: A Survey**|Lei He et.al.|[2404.13816](http://arxiv.org/abs/2404.13816)|null|
 |**2024-04-21**|**ArtNeRF: A Stylized Neural Field for 3D-Aware Cartoonized Face Synthesis**|Zichen Tang et.al.|[2404.13711](http://arxiv.org/abs/2404.13711)|**[link](https://github.com/silence-tang/artnerf)**|
 |**2024-04-21**|**Generalizable Novel-View Synthesis using a Stereo Camera**|Haechan Lee et.al.|[2404.13541](http://arxiv.org/abs/2404.13541)|null|
@@ -2827,6 +2830,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**PHLP: Sole Persistent Homology for Link Prediction -- Interpretable Feature Extraction**|Junwon You et.al.|[2404.15225](http://arxiv.org/abs/2404.15225)|null|
+|**2024-04-23**|**Formal Verification of Graph Convolutional Networks with Uncertain Node Features and Uncertain Graph Structure**|Tobias Ladner et.al.|[2404.15065](http://arxiv.org/abs/2404.15065)|null|
+|**2024-04-23**|**Deep Multi-View Channel-Wise Spatio-Temporal Network for Traffic Flow Prediction**|Hao Miao et.al.|[2404.15034](http://arxiv.org/abs/2404.15034)|null|
+|**2024-04-23**|**Digital Twin of Industrial Networked Control System based on Value of Information**|Van-Phuc Bui et.al.|[2404.14960](http://arxiv.org/abs/2404.14960)|null|
+|**2024-04-23**|**Delayed Bottlenecking: Alleviating Forgetting in Pre-trained Graph Neural Networks**|Zhe Zhao et.al.|[2404.14941](http://arxiv.org/abs/2404.14941)|null|
+|**2024-04-23**|**Graph Machine Learning in the Era of Large Language Models (LLMs)**|Wenqi Fan et.al.|[2404.14928](http://arxiv.org/abs/2404.14928)|null|
+|**2024-04-23**|**CNN2GNN: How to Bridge CNN with GNN**|Ziheng Jiao et.al.|[2404.14822](http://arxiv.org/abs/2404.14822)|null|
+|**2024-04-23**|**Source Code Vulnerability Detection: Combining Code Language Models and Code Property Graphs**|Ruitong Liu et.al.|[2404.14719](http://arxiv.org/abs/2404.14719)|null|
+|**2024-04-23**|**Deep Overlapping Community Search via Subspace Embedding**|Qing Sima et.al.|[2404.14692](http://arxiv.org/abs/2404.14692)|null|
+|**2024-04-23**|**Uncertainty Quantification on Graph Learning: A Survey**|Chao Chen et.al.|[2404.14642](http://arxiv.org/abs/2404.14642)|null|
 |**2024-04-22**|**FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated Learning**|Yinlin Zhu et.al.|[2404.14061](http://arxiv.org/abs/2404.14061)|null|
 |**2024-04-22**|**Liquid-Graph Time-Constant Network for Multi-Agent Systems Control**|Antonio Marino et.al.|[2404.13982](http://arxiv.org/abs/2404.13982)|null|
 |**2024-04-21**|**SPGNN: Recognizing Salient Subgraph Patterns via Enhanced Graph Convolution and Pooling**|Zehao Dong et.al.|[2404.13655](http://arxiv.org/abs/2404.13655)|null|
@@ -4528,6 +4541,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**An Introduction to Complex Random Tensors**|Divyanshu Pandey et.al.|[2404.15170](http://arxiv.org/abs/2404.15170)|null|
+|**2024-04-23**|**Elucidating the theoretical underpinnings of surrogate gradient learning in spiking neural networks**|Julia Gygax et.al.|[2404.14964](http://arxiv.org/abs/2404.14964)|null|
+|**2024-04-23**|**Eigenvector distributions and optimal shrinkage estimators for large covariance and precision matrices**|Xiucai Ding et.al.|[2404.14751](http://arxiv.org/abs/2404.14751)|null|
+|**2024-04-22**|**Shapiro Steps and Stability of Skyrmions Interacting with Alternating Anisotropy Under the Influence of ac and dc Drives**|J. C. Bellizotti Souza et.al.|[2404.14612](http://arxiv.org/abs/2404.14612)|null|
 |**2024-04-22**|**Adapting to time: why nature evolved a diverse set of neurons**|Karim G. Habashy et.al.|[2404.14325](http://arxiv.org/abs/2404.14325)|null|
 |**2024-04-22**|**Exploring neural oscillations during speech perception via surrogate gradient spiking neural networks**|Alexandre Bittar et.al.|[2404.14024](http://arxiv.org/abs/2404.14024)|null|
 |**2024-04-22**|**Quantitative Analysis of Roles of Direct and Indirect Pathways for Action Selection in The Basal Ganglia**|Sang-Yoon Kim et.al.|[2404.13888](http://arxiv.org/abs/2404.13888)|null|
