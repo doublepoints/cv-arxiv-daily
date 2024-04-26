@@ -677,6 +677,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-25**|**Revisiting Relevance Feedback for CLIP-based Interactive Image Retrieval**|Ryoya Nara et.al.|[2404.16398](http://arxiv.org/abs/2404.16398)|null|
+|**2024-04-24**|**Simple but Effective Raw-Data Level Multimodal Fusion for Composed Image Retrieval**|Haokun Wen et.al.|[2404.15875](http://arxiv.org/abs/2404.15875)|null|
+|**2024-04-24**|**DVF: Advancing Robust and Accurate Fine-Grained Image Retrieval with Retrieval Guidelines**|Xin Jiang et.al.|[2404.15771](http://arxiv.org/abs/2404.15771)|null|
 |**2024-04-23**|**Visual Delta Generator with Large Multi-modal Models for Semi-supervised Composed Image Retrieval**|Young Kyun Jang et.al.|[2404.15516](http://arxiv.org/abs/2404.15516)|null|
 |**2024-04-22**|**EcoPull: Sustainable IoT Image Retrieval Empowered by TinyML Models**|Mathias Thorsager et.al.|[2404.14236](http://arxiv.org/abs/2404.14236)|null|
 |**2024-04-22**|**Hierarchical localization with panoramic views and triplet loss functions**|Marcos Alfaro et.al.|[2404.14117](http://arxiv.org/abs/2404.14117)|**[link](https://github.com/marcosalfaro/tripletnetworksindoorlocalization)**|
@@ -1422,7 +1425,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-22**|**Adaptive Local Binary Pattern: A Novel Feature Descriptor for Enhanced Analysis of Kidney Abnormalities in CT Scan Images using ensemble based Machine Learning Approach**|Tahmim Hossain et.al.|[2404.14560](http://arxiv.org/abs/2404.14560)|null|
+|**2024-04-25**|**Adaptive Local Binary Pattern: A Novel Feature Descriptor for Enhanced Analysis of Kidney Abnormalities in CT Scan Images using ensemble based Machine Learning Approach**|Tahmim Hossain et.al.|[2404.14560](http://arxiv.org/abs/2404.14560)|null|
 |**2024-04-19**|**SkelFormer: Markerless 3D Pose and Shape Estimation using Skeletal Transformers**|Vandad Davoodnia et.al.|[2404.12625](http://arxiv.org/abs/2404.12625)|null|
 |**2024-04-17**|**Pixel-Wise Symbol Spotting via Progressive Points Location for Parsing CAD Images**|Junbiao Pang et.al.|[2404.10985](http://arxiv.org/abs/2404.10985)|null|
 |**2024-03-28**|**Towards Long Term SLAM on Thermal Imagery**|Colin Keil et.al.|[2403.19885](http://arxiv.org/abs/2403.19885)|**[link](https://github.com/neufieldrobotics/irslam_baseline)**|
@@ -1643,6 +1646,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-25**|**Transformer-Based Local Feature Matching for Multimodal Image Registration**|Remi Delaunay et.al.|[2404.16802](http://arxiv.org/abs/2404.16802)|null|
 |**2024-04-23**|**FINEMATCH: Aspect-based Fine-grained Image and Text Mismatch Detection and Correction**|Hang Hua et.al.|[2404.14715](http://arxiv.org/abs/2404.14715)|null|
 |**2024-04-22**|**Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer**|Eric Brachmann et.al.|[2404.14351](http://arxiv.org/abs/2404.14351)|null|
 |**2024-04-17**|**A Semantic Segmentation-guided Approach for Ground-to-Aerial Image Matching**|Francesco Pro et.al.|[2404.11302](http://arxiv.org/abs/2404.11302)|**[link](https://github.com/pro1944191/semanticalignnet)**|
@@ -1871,6 +1875,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-25**|**Depth Supervised Neural Surface Reconstruction from Airborne Imagery**|Vincent Hackstein et.al.|[2404.16429](http://arxiv.org/abs/2404.16429)|null|
+|**2024-04-24**|**NeRF-XL: Scaling NeRFs with Multiple GPUs**|Ruilong Li et.al.|[2404.16221](http://arxiv.org/abs/2404.16221)|null|
+|**2024-04-24**|**ESR-NeRF: Emissive Source Reconstruction Using LDR Multi-view Images**|Jinseo Jeong et.al.|[2404.15707](http://arxiv.org/abs/2404.15707)|null|
 |**2024-04-23**|**DreamCraft: Text-Guided Generation of Functional 3D Environments in Minecraft**|Sam Earle et.al.|[2404.15538](http://arxiv.org/abs/2404.15538)|null|
 |**2024-04-22**|**GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting**|Hongyun Yu et.al.|[2404.14037](http://arxiv.org/abs/2404.14037)|null|
 |**2024-04-22**|**NeRF-DetS: Enhancing Multi-View 3D Object Detection with Sampling-adaptive Network of Continuous NeRF-based Representation**|Chi Huang et.al.|[2404.13921](http://arxiv.org/abs/2404.13921)|null|
@@ -2856,6 +2863,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-25**|**Global Concept Explanations for Graphs by Contrastive Learning**|Jonas Teufel et.al.|[2404.16532](http://arxiv.org/abs/2404.16532)|null|
+|**2024-04-25**|**Guarding Graph Neural Networks for Unsupervised Graph Anomaly Detection**|Yuanchen Bei et.al.|[2404.16366](http://arxiv.org/abs/2404.16366)|null|
+|**2024-04-25**|**Feature graph construction with static features for malware detection**|Binghui Zou et.al.|[2404.16362](http://arxiv.org/abs/2404.16362)|null|
+|**2024-04-24**|**Improving Multi-label Recognition using Class Co-Occurrence Probabilities**|Samyak Rawlekar et.al.|[2404.16193](http://arxiv.org/abs/2404.16193)|null|
+|**2024-04-24**|**3D Human Pose Estimation with Occlusions: Introducing BlendMimic3D Dataset and GCN Refinement**|Filipa Lino et.al.|[2404.16136](http://arxiv.org/abs/2404.16136)|null|
+|**2024-04-24**|**Power Failure Cascade Prediction using Graph Neural Networks**|Sathwik Chadaga et.al.|[2404.16134](http://arxiv.org/abs/2404.16134)|**[link](https://github.com/sathwikchadaga/failure-cascade)**|
+|**2024-04-24**|**A General Black-box Adversarial Attack on Graph-based Fake News Detectors**|Peican Zhu et.al.|[2404.15744](http://arxiv.org/abs/2404.15744)|null|
+|**2024-04-24**|**Gradformer: Graph Transformer with Exponential Decay**|Chuang Liu et.al.|[2404.15729](http://arxiv.org/abs/2404.15729)|**[link](https://github.com/liuchuang0059/gradformer)**|
+|**2024-04-25**|**HDBN: A Novel Hybrid Dual-branch Network for Robust Skeleton-based Action Recognition**|Jinfu Liu et.al.|[2404.15719](http://arxiv.org/abs/2404.15719)|**[link](https://github.com/liujf69/icmew2024-track10)**|
+|**2024-04-24**|**Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation**|Zhaoyang Chu et.al.|[2404.15687](http://arxiv.org/abs/2404.15687)|**[link](https://github.com/Zhaoyang-Chu/counterfactual-vulnerability-detection)**|
 |**2024-04-24**|**FR-NAS: Forward-and-Reverse Graph Predictor for Efficient Neural Architecture Search**|Haoming Zhang et.al.|[2404.15622](http://arxiv.org/abs/2404.15622)|**[link](https://github.com/emi-group/fr-nas)**|
 |**2024-04-24**|**DyGCL: Dynamic Graph Contrastive Learning For Event Prediction**|Muhammed Ifte Khairul Islam et.al.|[2404.15612](http://arxiv.org/abs/2404.15612)|null|
 |**2024-04-23**|**NeuraChip: Accelerating GNN Computations with a Hash-based Decoupled Spatial Accelerator**|Kaustubh Shivdikar et.al.|[2404.15510](http://arxiv.org/abs/2404.15510)|null|
@@ -4575,6 +4592,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-25**|**Lu.i -- A low-cost electronic neuron for education and outreach**|Yannik Stradmann et.al.|[2404.16664](http://arxiv.org/abs/2404.16664)|null|
+|**2024-04-25**|**Rotating strings and anomalous dimensions in Non-AdS holography**|Meseret Asrat et.al.|[2404.16601](http://arxiv.org/abs/2404.16601)|null|
+|**2024-04-25**|**Directional intermodular coupling enriches functional complexity in biological neuronal networks**|Nobuaki Monma et.al.|[2404.16582](http://arxiv.org/abs/2404.16582)|null|
+|**2024-04-24**|**GPU-RANC: A CUDA Accelerated Simulation Framework for Neuromorphic Architectures**|Sahil Hassan et.al.|[2404.16208](http://arxiv.org/abs/2404.16208)|null|
+|**2024-04-24**|**Resonance of low-frequency electromagnetic and ion-sound modes in the solar wind**|I. Y. Vasko et.al.|[2404.16121](http://arxiv.org/abs/2404.16121)|null|
+|**2024-04-24**|**Spinning solar jets explained through the interplay between plasma sheets and vortex columns**|Sahel Dey et.al.|[2404.16096](http://arxiv.org/abs/2404.16096)|null|
+|**2024-04-24**|**Augmented CARDS: A machine learning approach to identifying triggers of climate change misinformation on Twitter**|Cristian Rojas et.al.|[2404.15673](http://arxiv.org/abs/2404.15673)|null|
+|**2024-04-24**|**Self-generated magnetic field in three-dimensional ablative Rayleigh-Taylor instability**|Dehua Zhang et.al.|[2404.15642](http://arxiv.org/abs/2404.15642)|null|
 |**2024-04-24**|**Biologically-Informed Excitatory and Inhibitory Balance for Robust Spiking Neural Network Training**|Joseph A. Kilgore et.al.|[2404.15627](http://arxiv.org/abs/2404.15627)|null|
 |**2024-04-24**|**GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL**|Lang Qin et.al.|[2404.15597](http://arxiv.org/abs/2404.15597)|null|
 |**2024-04-23**|**A Rapid Adapting and Continual Learning Spiking Neural Network Path Planning Algorithm for Mobile Robots**|Harrison Espino et.al.|[2404.15524](http://arxiv.org/abs/2404.15524)|null|
@@ -5235,6 +5260,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-25**|**Lu.i -- A low-cost electronic neuron for education and outreach**|Yannik Stradmann et.al.|[2404.16664](http://arxiv.org/abs/2404.16664)|null|
 |**2024-04-22**|**An Artificial Neuron for Enhanced Problem Solving in Large Language Models**|Sumedh Rasal et.al.|[2404.14222](http://arxiv.org/abs/2404.14222)|null|
 |**2024-04-22**|**Travelling waves in an ensemble of excitable oscillators: the interplay of memristive coupling and noise**|Ivan A. Korneev et.al.|[2404.14147](http://arxiv.org/abs/2404.14147)|null|
 |**2024-04-15**|**Listen to the Waves: Using a Neuronal Model of the Human Auditory System to Predict Ocean Waves**|Artur Matysiak et.al.|[2404.09510](http://arxiv.org/abs/2404.09510)|null|
