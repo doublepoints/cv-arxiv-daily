@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**Camera Motion Estimation from RGB-D-Inertial Scene Flow**|Samuel Cerezo et.al.|[2404.17251](http://arxiv.org/abs/2404.17251)|null|
 |**2024-04-23**|**Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization**|Lahav Lipson et.al.|[2404.15263](http://arxiv.org/abs/2404.15263)|**[link](https://github.com/princeton-vl/multislam_diffpose)**|
 |**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339](http://arxiv.org/abs/2404.12339)|null|
 |**2024-04-17**|**VBR: A Vision Benchmark in Rome**|Leonardo Brizi et.al.|[2404.11322](http://arxiv.org/abs/2404.11322)|**[link](https://github.com/rvp-group/vbr-devkit)**|
@@ -661,6 +662,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**Learning text-to-video retrieval from image captioning**|Lucas Ventura et.al.|[2404.17498](http://arxiv.org/abs/2404.17498)|null|
+|**2024-04-25**|**CriSp: Leveraging Tread Depth Maps for Enhanced Crime-Scene Shoeprint Matching**|Samia Shafique et.al.|[2404.16972](http://arxiv.org/abs/2404.16972)|null|
 |**2024-04-25**|**Revisiting Relevance Feedback for CLIP-based Interactive Image Retrieval**|Ryoya Nara et.al.|[2404.16398](http://arxiv.org/abs/2404.16398)|null|
 |**2024-04-24**|**Simple but Effective Raw-Data Level Multimodal Fusion for Composed Image Retrieval**|Haokun Wen et.al.|[2404.15875](http://arxiv.org/abs/2404.15875)|**[link](https://github.com/haokunwen/dqu-cir)**|
 |**2024-04-24**|**DVF: Advancing Robust and Accurate Fine-Grained Image Retrieval with Retrieval Guidelines**|Xin Jiang et.al.|[2404.15771](http://arxiv.org/abs/2404.15771)|null|
@@ -1853,6 +1856,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields**|Tianqi Liu et.al.|[2404.17528](http://arxiv.org/abs/2404.17528)|null|
 |**2024-04-25**|**Depth Supervised Neural Surface Reconstruction from Airborne Imagery**|Vincent Hackstein et.al.|[2404.16429](http://arxiv.org/abs/2404.16429)|null|
 |**2024-04-24**|**NeRF-XL: Scaling NeRFs with Multiple GPUs**|Ruilong Li et.al.|[2404.16221](http://arxiv.org/abs/2404.16221)|null|
 |**2024-04-24**|**ESR-NeRF: Emissive Source Reconstruction Using LDR Multi-view Images**|Jinseo Jeong et.al.|[2404.15707](http://arxiv.org/abs/2404.15707)|null|
@@ -1860,8 +1864,8 @@ layout: default
 |**2024-04-22**|**GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting**|Hongyun Yu et.al.|[2404.14037](http://arxiv.org/abs/2404.14037)|null|
 |**2024-04-22**|**NeRF-DetS: Enhancing Multi-View 3D Object Detection with Sampling-adaptive Network of Continuous NeRF-based Representation**|Chi Huang et.al.|[2404.13921](http://arxiv.org/abs/2404.13921)|null|
 |**2024-04-23**|**CT-NeRF: Incremental Optimizing Neural Radiance Field and Poses with Complex Trajectory**|Yunlong Ran et.al.|[2404.13896](http://arxiv.org/abs/2404.13896)|null|
-|**2024-04-22**|**Neural Radiance Field in Autonomous Driving: A Survey**|Lei He et.al.|[2404.13816](http://arxiv.org/abs/2404.13816)|null|
-|**2024-04-21**|**ArtNeRF: A Stylized Neural Field for 3D-Aware Cartoonized Face Synthesis**|Zichen Tang et.al.|[2404.13711](http://arxiv.org/abs/2404.13711)|**[link](https://github.com/silence-tang/artnerf)**|
+|**2024-04-26**|**Neural Radiance Field in Autonomous Driving: A Survey**|Lei He et.al.|[2404.13816](http://arxiv.org/abs/2404.13816)|null|
+|**2024-04-26**|**ArtNeRF: A Stylized Neural Field for 3D-Aware Cartoonized Face Synthesis**|Zichen Tang et.al.|[2404.13711](http://arxiv.org/abs/2404.13711)|**[link](https://github.com/silence-tang/artnerf)**|
 |**2024-04-21**|**Generalizable Novel-View Synthesis using a Stereo Camera**|Haechan Lee et.al.|[2404.13541](http://arxiv.org/abs/2404.13541)|null|
 |**2024-04-20**|**High-fidelity Endoscopic Image Synthesis by Utilizing Depth-guided Neural Surfaces**|Baoru Huang et.al.|[2404.13437](http://arxiv.org/abs/2404.13437)|null|
 |**2024-04-20**|**EC-SLAM: Real-time Dense Neural RGB-D SLAM System with Effectively Constrained Global Bundle Adjustment**|Guanghao Li et.al.|[2404.13346](http://arxiv.org/abs/2404.13346)|**[link](https://github.com/lightingooo/ec-slam)**|
@@ -2839,6 +2843,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**Bridging the Fairness Divide: Achieving Group and Individual Fairness in Graph Neural Networks**|Duna Zhan et.al.|[2404.17511](http://arxiv.org/abs/2404.17511)|null|
+|**2024-04-26**|**Similarity Equivariant Graph Neural Networks for Homogenization of Metamaterials**|Fleur Hendriks et.al.|[2404.17365](http://arxiv.org/abs/2404.17365)|null|
+|**2024-04-26**|**FairGT: A Fairness-aware Graph Transformer**|Renqiang Luo et.al.|[2404.17169](http://arxiv.org/abs/2404.17169)|**[link](https://github.com/yushuowiki/fairgt)**|
+|**2024-04-26**|**DPGAN: A Dual-Path Generative Adversarial Network for Missing Data Imputation in Graphs**|Xindi Zheng et.al.|[2404.17164](http://arxiv.org/abs/2404.17164)|null|
+|**2024-04-26**|**Sub-6GHz Assisted mmWave Hybrid Beamforming with Heterogeneous Graph Neural Network**|Zhaohui Huang et.al.|[2404.17138](http://arxiv.org/abs/2404.17138)|null|
+|**2024-04-26**|**Unleashing the Potential of Fractional Calculus in Graph Neural Networks with FROND**|Qiyu Kang et.al.|[2404.17099](http://arxiv.org/abs/2404.17099)|**[link](https://github.com/zknus/torchfde)**|
+|**2024-04-25**|**Transductive Spiking Graph Neural Networks for Loihi**|Shay Snyder et.al.|[2404.17048](http://arxiv.org/abs/2404.17048)|null|
+|**2024-04-25**|**HEroBM: a deep equivariant graph neural network for universal backmapping from coarse-grained to all-atom representations**|Daniele Angioletti et.al.|[2404.16911](http://arxiv.org/abs/2404.16911)|null|
 |**2024-04-25**|**Global Concept Explanations for Graphs by Contrastive Learning**|Jonas Teufel et.al.|[2404.16532](http://arxiv.org/abs/2404.16532)|**[link](https://github.com/aimat-lab/megan_global_explanations)**|
 |**2024-04-25**|**Guarding Graph Neural Networks for Unsupervised Graph Anomaly Detection**|Yuanchen Bei et.al.|[2404.16366](http://arxiv.org/abs/2404.16366)|null|
 |**2024-04-25**|**Feature graph construction with static features for malware detection**|Binghui Zou et.al.|[2404.16362](http://arxiv.org/abs/2404.16362)|null|
@@ -4414,6 +4426,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**A Novel Spike Transformer Network for Depth Estimation from Event Cameras via Cross-modality Knowledge Distillation**|Xin Zhang et.al.|[2404.17335](http://arxiv.org/abs/2404.17335)|null|
 |**2024-04-22**|**Co-designing a Sub-millisecond Latency Event-based Eye Tracking System with Submanifold Sparse CNN**|Baoheng Zhang et.al.|[2404.14279](http://arxiv.org/abs/2404.14279)|**[link](https://github.com/casr-hku/esda)**|
 |**2024-04-18**|**MambaPupil: Bidirectional Selective Recurrent model for Event-based Eye tracking**|Zhong Wang et.al.|[2404.12083](http://arxiv.org/abs/2404.12083)|null|
 |**2024-04-18**|**Seeing Motion at Nighttime with an Event Camera**|Haoyue Liu et.al.|[2404.11884](http://arxiv.org/abs/2404.11884)|**[link](https://github.com/liu-haoyue/ner-net)**|
@@ -4564,6 +4577,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**Converting High-Performance and Low-Latency SNNs through Explicit Modelling of Residual Error in ANNs**|Zhipeng Huang et.al.|[2404.17456](http://arxiv.org/abs/2404.17456)|null|
+|**2024-04-26**|**A Novel Spike Transformer Network for Depth Estimation from Event Cameras via Cross-modality Knowledge Distillation**|Xin Zhang et.al.|[2404.17335](http://arxiv.org/abs/2404.17335)|null|
+|**2024-04-26**|**Synchronized Stepwise Control of Firing and Learning Thresholds in a Spiking Randomly Connected Neural Network toward Hardware Implementation**|Kumiko Nomura et.al.|[2404.17241](http://arxiv.org/abs/2404.17241)|null|
+|**2024-04-26**|**Defending Spiking Neural Networks against Adversarial Attacks through Image Purification**|Weiran Chen et.al.|[2404.17092](http://arxiv.org/abs/2404.17092)|null|
+|**2024-04-25**|**Transductive Spiking Graph Neural Networks for Loihi**|Shay Snyder et.al.|[2404.17048](http://arxiv.org/abs/2404.17048)|null|
 |**2024-04-25**|**Lu.i -- A low-cost electronic neuron for education and outreach**|Yannik Stradmann et.al.|[2404.16664](http://arxiv.org/abs/2404.16664)|null|
 |**2024-04-25**|**Rotating strings and anomalous dimensions in Non-AdS holography**|Meseret Asrat et.al.|[2404.16601](http://arxiv.org/abs/2404.16601)|null|
 |**2024-04-25**|**Directional intermodular coupling enriches functional complexity in biological neuronal networks**|Nobuaki Monma et.al.|[2404.16582](http://arxiv.org/abs/2404.16582)|null|
@@ -5230,6 +5248,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**Synchronized Stepwise Control of Firing and Learning Thresholds in a Spiking Randomly Connected Neural Network toward Hardware Implementation**|Kumiko Nomura et.al.|[2404.17241](http://arxiv.org/abs/2404.17241)|null|
 |**2024-04-25**|**Lu.i -- A low-cost electronic neuron for education and outreach**|Yannik Stradmann et.al.|[2404.16664](http://arxiv.org/abs/2404.16664)|null|
 |**2024-04-22**|**An Artificial Neuron for Enhanced Problem Solving in Large Language Models**|Sumedh Rasal et.al.|[2404.14222](http://arxiv.org/abs/2404.14222)|null|
 |**2024-04-22**|**Travelling waves in an ensemble of excitable oscillators: the interplay of memristive coupling and noise**|Ivan A. Korneev et.al.|[2404.14147](http://arxiv.org/abs/2404.14147)|null|
