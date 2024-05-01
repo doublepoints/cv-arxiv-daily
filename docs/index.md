@@ -663,6 +663,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**Large Language Model Informed Patent Image Retrieval**|Hao-Cheng Lo et.al.|[2404.19360](http://arxiv.org/abs/2404.19360)|null|
+|**2024-04-30**|**XFeat: Accelerated Features for Lightweight Image Matching**|Guilherme Potje et.al.|[2404.19174](http://arxiv.org/abs/2404.19174)|null|
 |**2024-04-29**|**Enhancing Interactive Image Retrieval With Query Rewriting Using Large Language Models and Vision Language Models**|Hongyi Zhu et.al.|[2404.18746](http://arxiv.org/abs/2404.18746)|null|
 |**2024-04-29**|**Dual-Modal Prompting for Sketch-Based Image Retrieval**|Liying Gao et.al.|[2404.18695](http://arxiv.org/abs/2404.18695)|null|
 |**2024-04-29**|**Semantic Line Combination Detector**|Jinwon Ko et.al.|[2404.18399](http://arxiv.org/abs/2404.18399)|**[link](https://github.com/jinwon-ko/slcd)**|
@@ -1414,6 +1416,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images**|Wang Zhang et.al.|[2404.19311](http://arxiv.org/abs/2404.19311)|null|
 |**2024-04-25**|**Adaptive Local Binary Pattern: A Novel Feature Descriptor for Enhanced Analysis of Kidney Abnormalities in CT Scan Images using ensemble based Machine Learning Approach**|Tahmim Hossain et.al.|[2404.14560](http://arxiv.org/abs/2404.14560)|null|
 |**2024-04-19**|**SkelFormer: Markerless 3D Pose and Shape Estimation using Skeletal Transformers**|Vandad Davoodnia et.al.|[2404.12625](http://arxiv.org/abs/2404.12625)|null|
 |**2024-04-17**|**Pixel-Wise Symbol Spotting via Progressive Points Location for Parsing CAD Images**|Junbiao Pang et.al.|[2404.10985](http://arxiv.org/abs/2404.10985)|null|
@@ -1633,6 +1636,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images**|Wang Zhang et.al.|[2404.19311](http://arxiv.org/abs/2404.19311)|null|
+|**2024-04-30**|**XFeat: Accelerated Features for Lightweight Image Matching**|Guilherme Potje et.al.|[2404.19174](http://arxiv.org/abs/2404.19174)|null|
 |**2024-04-27**|**MinBackProp -- Backpropagating through Minimal Solvers**|Diana Sungatullina et.al.|[2404.17993](http://arxiv.org/abs/2404.17993)|null|
 |**2024-04-25**|**Transformer-Based Local Feature Matching for Multimodal Image Registration**|Remi Delaunay et.al.|[2404.16802](http://arxiv.org/abs/2404.16802)|null|
 |**2024-04-23**|**FINEMATCH: Aspect-based Fine-grained Image and Text Mismatch Detection and Correction**|Hang Hua et.al.|[2404.14715](http://arxiv.org/abs/2404.14715)|null|
@@ -1861,9 +1866,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting**|Zhexi Peng et.al.|[2404.19706](http://arxiv.org/abs/2404.19706)|null|
+|**2024-04-30**|**NeRF-Insert: 3D Local Editing with Multimodal Control Signals**|Benet Oriol Sabat et.al.|[2404.19204](http://arxiv.org/abs/2404.19204)|null|
+|**2024-04-29**|**SAGS: Structure-Aware 3D Gaussian Splatting**|Evangelos Ververas et.al.|[2404.19149](http://arxiv.org/abs/2404.19149)|null|
+|**2024-04-29**|**GSTalker: Real-time Audio-Driven Talking Face Generation via Deformable Gaussian Splatting**|Bo Chen et.al.|[2404.19040](http://arxiv.org/abs/2404.19040)|null|
+|**2024-04-29**|**Embedded Representation Learning Network for Animating Styled Video Portrait**|Tianyong Wang et.al.|[2404.19038](http://arxiv.org/abs/2404.19038)|null|
+|**2024-04-29**|**Simple-RF: Regularizing Sparse Input Radiance Fields with Simpler Solutions**|Nagabhushan Somraj et.al.|[2404.19015](http://arxiv.org/abs/2404.19015)|null|
 |**2024-04-28**|**S3-SLAM: Sparse Tri-plane Encoding for Neural Implicit SLAM**|Zhiyao Zhang et.al.|[2404.18284](http://arxiv.org/abs/2404.18284)|null|
 |**2024-04-27**|**DPER: Diffusion Prior Driven Neural Representation for Limited Angle and Sparse View CT Reconstruction**|Chenhe Du et.al.|[2404.17890](http://arxiv.org/abs/2404.17890)|null|
-|**2024-04-26**|**Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields**|Tianqi Liu et.al.|[2404.17528](http://arxiv.org/abs/2404.17528)|null|
+|**2024-04-26**|**Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields**|Tianqi Liu et.al.|[2404.17528](http://arxiv.org/abs/2404.17528)|**[link](https://github.com/tqtqliu/gefu)**|
 |**2024-04-25**|**Depth Supervised Neural Surface Reconstruction from Airborne Imagery**|Vincent Hackstein et.al.|[2404.16429](http://arxiv.org/abs/2404.16429)|null|
 |**2024-04-24**|**NeRF-XL: Scaling NeRFs with Multiple GPUs**|Ruilong Li et.al.|[2404.16221](http://arxiv.org/abs/2404.16221)|null|
 |**2024-04-24**|**ESR-NeRF: Emissive Source Reconstruction Using LDR Multi-view Images**|Jinseo Jeong et.al.|[2404.15707](http://arxiv.org/abs/2404.15707)|null|
@@ -2850,6 +2861,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**Generating Robust Counterfactual Witnesses for Graph Neural Networks**|Dazhuo Qiu et.al.|[2404.19519](http://arxiv.org/abs/2404.19519)|null|
+|**2024-04-30**|**EvGNN: An Event-driven Graph Neural Network Accelerator for Edge Vision**|Yufeng Yang et.al.|[2404.19489](http://arxiv.org/abs/2404.19489)|null|
+|**2024-04-30**|**Bayesian Functional Connectivity and Graph Convolutional Network for Working Memory Load Classification**|Harshini Gangapuram et.al.|[2404.19467](http://arxiv.org/abs/2404.19467)|null|
+|**2024-04-30**|**Cross-Block Fine-Grained Semantic Cascade for Skeleton-Based Sports Action Recognition**|Zhendong Liu et.al.|[2404.19383](http://arxiv.org/abs/2404.19383)|null|
+|**2024-04-30**|**Deep Learning Forecasts Caldera Collapse Events at Kīlauea Volcano**|Ian W. McBrearty et.al.|[2404.19351](http://arxiv.org/abs/2404.19351)|null|
+|**2024-04-30**|**Multi-Scale Heterogeneity-Aware Hypergraph Representation for Histopathology Whole Slide Images**|Minghao Han et.al.|[2404.19334](http://arxiv.org/abs/2404.19334)|**[link](https://github.com/hanminghao/h2gt)**|
+|**2024-04-30**|**Training-free Graph Neural Networks and the Power of Labels as Features**|Ryoma Sato et.al.|[2404.19288](http://arxiv.org/abs/2404.19288)|null|
+|**2024-04-30**|**Quater-GCN: Enhancing 3D Human Pose Estimation with Orientation and Semi-supervised Training**|Xingyu Song et.al.|[2404.19279](http://arxiv.org/abs/2404.19279)|null|
+|**2024-04-29**|**The Shape of Money Laundering: Subgraph Representation Learning on the Blockchain with the Elliptic2 Dataset**|Claudio Bellei et.al.|[2404.19109](http://arxiv.org/abs/2404.19109)|null|
 |**2024-04-29**|**Graph Convolutional Networks and Graph Attention Networks for Approximating Arguments Acceptability -- Technical Report**|Paul Cibier et.al.|[2404.18672](http://arxiv.org/abs/2404.18672)|null|
 |**2024-04-28**|**Multi-stage Attack Detection and Prediction Using Graph Neural Networks: An IoT Feasibility Study**|Hamdi Friji et.al.|[2404.18328](http://arxiv.org/abs/2404.18328)|null|
 |**2024-04-28**|**Parameter-Efficient Tuning Large Language Models for Graph Representation Learning**|Qi Zhu et.al.|[2404.18271](http://arxiv.org/abs/2404.18271)|null|
@@ -4445,7 +4465,7 @@ layout: default
 |**2024-04-28**|**Event-based Video Frame Interpolation with Edge Guided Motion Refinement**|Yuhan Liu et.al.|[2404.18156](http://arxiv.org/abs/2404.18156)|null|
 |**2024-04-26**|**A Novel Spike Transformer Network for Depth Estimation from Event Cameras via Cross-modality Knowledge Distillation**|Xin Zhang et.al.|[2404.17335](http://arxiv.org/abs/2404.17335)|null|
 |**2024-04-22**|**Co-designing a Sub-millisecond Latency Event-based Eye Tracking System with Submanifold Sparse CNN**|Baoheng Zhang et.al.|[2404.14279](http://arxiv.org/abs/2404.14279)|**[link](https://github.com/casr-hku/esda)**|
-|**2024-04-18**|**MambaPupil: Bidirectional Selective Recurrent model for Event-based Eye tracking**|Zhong Wang et.al.|[2404.12083](http://arxiv.org/abs/2404.12083)|null|
+|**2024-04-30**|**MambaPupil: Bidirectional Selective Recurrent model for Event-based Eye tracking**|Zhong Wang et.al.|[2404.12083](http://arxiv.org/abs/2404.12083)|null|
 |**2024-04-18**|**Seeing Motion at Nighttime with an Event Camera**|Haoyue Liu et.al.|[2404.11884](http://arxiv.org/abs/2404.11884)|**[link](https://github.com/liu-haoyue/ner-net)**|
 |**2024-04-17**|**Event-Based Eye Tracking. AIS 2024 Challenge Survey**|Zuowen Wang et.al.|[2404.11770](http://arxiv.org/abs/2404.11770)|**[link](https://github.com/hh-xiaohu/event-based-eye-tracking-challenge-solution)**|
 |**2024-04-17**|**Event Cameras Meet SPADs for High-Speed, Low-Bandwidth Imaging**|Manasi Muglikar et.al.|[2404.11511](http://arxiv.org/abs/2404.11511)|null|
@@ -4594,6 +4614,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**AGN constraints on neutrino-dark matter scattering**|James M. Cline et.al.|[2404.19471](http://arxiv.org/abs/2404.19471)|null|
+|**2024-04-30**|**Active Dendrites Enable Efficient Continual Learning in Time-To-First-Spike Neural Networks**|Lorenzo Pes et.al.|[2404.19419](http://arxiv.org/abs/2404.19419)|null|
+|**2024-04-30**|**Detecting Spectral Breaks in Spiked Covariance Models**|Nina Dörnemann et.al.|[2404.19176](http://arxiv.org/abs/2404.19176)|null|
+|**2024-04-30**|**DelGrad: Exact gradients in spiking networks for learning transmission delays and weights**|Julian Göltz et.al.|[2404.19165](http://arxiv.org/abs/2404.19165)|null|
 |**2024-04-29**|**Sparse Sampling in Fractional Fourier Domain: Recovery Guarantees and Cramér-Rao Bounds**|Václav Pavlíček et.al.|[2404.18850](http://arxiv.org/abs/2404.18850)|null|
 |**2024-04-29**|**The Constant in HATE: Analyzing Toxicity in Reddit across Topics and Languages**|Wondimagegnhue Tsegaye Tufa et.al.|[2404.18726](http://arxiv.org/abs/2404.18726)|**[link](https://github.com/cltl/reddit_topic)**|
 |**2024-04-29**|**Scalable Event-by-event Processing of Neuromorphic Sensory Signals With Deep State-Space Models**|Mark Schöne et.al.|[2404.18508](http://arxiv.org/abs/2404.18508)|null|
@@ -5273,7 +5297,7 @@ layout: default
 |**2024-04-28**|**Quantized Context Based LIF Neurons for Recurrent Spiking Neural Networks in 45nm**|Sai Sukruth Bezugam et.al.|[2404.18066](http://arxiv.org/abs/2404.18066)|null|
 |**2024-04-26**|**Stochastic Spiking Neural Networks with First-to-Spike Coding**|Yi Jiang et.al.|[2404.17719](http://arxiv.org/abs/2404.17719)|null|
 |**2024-04-26**|**Synchronized Stepwise Control of Firing and Learning Thresholds in a Spiking Randomly Connected Neural Network toward Hardware Implementation**|Kumiko Nomura et.al.|[2404.17241](http://arxiv.org/abs/2404.17241)|null|
-|**2024-04-25**|**Lu.i -- A low-cost electronic neuron for education and outreach**|Yannik Stradmann et.al.|[2404.16664](http://arxiv.org/abs/2404.16664)|null|
+|**2024-04-25**|**Lu.i -- A low-cost electronic neuron for education and outreach**|Yannik Stradmann et.al.|[2404.16664](http://arxiv.org/abs/2404.16664)|**[link](https://github.com/giant-axon/lu.i-neuron-pcb)**|
 |**2024-04-22**|**An Artificial Neuron for Enhanced Problem Solving in Large Language Models**|Sumedh Rasal et.al.|[2404.14222](http://arxiv.org/abs/2404.14222)|null|
 |**2024-04-22**|**Travelling waves in an ensemble of excitable oscillators: the interplay of memristive coupling and noise**|Ivan A. Korneev et.al.|[2404.14147](http://arxiv.org/abs/2404.14147)|null|
 |**2024-04-15**|**Listen to the Waves: Using a Neuronal Model of the Human Auditory System to Predict Ocean Waves**|Artur Matysiak et.al.|[2404.09510](http://arxiv.org/abs/2404.09510)|null|
