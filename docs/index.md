@@ -1867,6 +1867,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**NeRF in Robotics: A Survey**|Guangming Wang et.al.|[2405.01333](http://arxiv.org/abs/2405.01333)|null|
+|**2024-05-01**|**DiL-NeRF: Delving into Lidar for Neural Radiance Field on Street Scenes**|Shanlin Sun et.al.|[2405.00900](http://arxiv.org/abs/2405.00900)|null|
 |**2024-05-01**|**Depth Priors in Removal Neural Radiance Fields**|Zhihao Guo et.al.|[2405.00630](http://arxiv.org/abs/2405.00630)|null|
 |**2024-05-01**|**NeRF-Guided Unsupervised Learning of RGB-D Registration**|Zhinan Yu et.al.|[2405.00507](http://arxiv.org/abs/2405.00507)|null|
 |**2024-05-01**|**RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting**|Zhexi Peng et.al.|[2404.19706](http://arxiv.org/abs/2404.19706)|null|
@@ -2864,6 +2866,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**GTX: A Transactional Graph Data System For HTAP Workloads**|Libin Zhou et.al.|[2405.01448](http://arxiv.org/abs/2405.01448)|null|
+|**2024-05-02**|**The Importance of Model Inspection for Better Understanding Performance Characteristics of Graph Neural Networks**|Nairouz Shehata et.al.|[2405.01270](http://arxiv.org/abs/2405.01270)|null|
+|**2024-05-02**|**MFTraj: Map-Free, Behavior-Driven Trajectory Prediction for Autonomous Driving**|Haicheng Liao et.al.|[2405.01266](http://arxiv.org/abs/2405.01266)|null|
+|**2024-05-02**|**Learning-to-solve unit commitment based on few-shot physics-guided spatial-temporal graph convolution network**|Mei Yang et.al.|[2405.01200](http://arxiv.org/abs/2405.01200)|null|
+|**2024-05-02**|**IntraMix: Intra-Class Mixup Generation for Accurate Labels and Neighbors**|Shenghe Zheng et.al.|[2405.00957](http://arxiv.org/abs/2405.00957)|null|
+|**2024-05-01**|**Solving Maxwell's equations with Non-Trainable Graph Neural Network Message Passing**|Stefanos Bakirtzis et.al.|[2405.00814](http://arxiv.org/abs/2405.00814)|null|
 |**2024-05-01**|**Discovering robust biomarkers of neurological disorders from functional MRI using graph neural networks: A Review**|Yi Hao Chan et.al.|[2405.00577](http://arxiv.org/abs/2405.00577)|null|
 |**2024-05-01**|**WEST GCN-LSTM: Weighted Stacked Spatio-Temporal Graph Neural Networks for Regional Traffic Forecasting**|Theodoros Theodoropoulos et.al.|[2405.00570](http://arxiv.org/abs/2405.00570)|null|
 |**2024-05-01**|**A Comprehensive Survey of Dynamic Graph Neural Networks: Models, Frameworks, Benchmarks, Experiments and Challenges**|ZhengZhao Feng et.al.|[2405.00476](http://arxiv.org/abs/2405.00476)|null|
@@ -4623,6 +4631,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**Natural Language to Verilog: Design of a Recurrent Spiking Neural Network using Large Language Models and ChatGPT**|Paola Vitolo et.al.|[2405.01419](http://arxiv.org/abs/2405.01419)|null|
+|**2024-05-02**|**Anti-seizure medication tapering is associated with delta band power reduction in a dose, region and time-dependent manner**|Guillermo M. Besne et.al.|[2405.01385](http://arxiv.org/abs/2405.01385)|null|
+|**2024-05-02**|**On Nanowire Morphological Instability and Pinch-Off by Surface Electromigration**|Mikhail Khenner et.al.|[2405.01331](http://arxiv.org/abs/2405.01331)|null|
+|**2024-05-02**|**Distributed Representations Enable Robust Multi-Timescale Computation in Neuromorphic Hardware**|Madison Cotteret et.al.|[2405.01305](http://arxiv.org/abs/2405.01305)|null|
+|**2024-05-02**|**Misclassification bounds for PAC-Bayesian sparse deep learning**|The Tien Mai et.al.|[2405.01304](http://arxiv.org/abs/2405.01304)|null|
+|**2024-05-02**|**Hypergraph $p$ -Laplacian regularization on point clouds for data interpolation**|Kehan Shi et.al.|[2405.01109](http://arxiv.org/abs/2405.01109)|null|
+|**2024-05-02**|**On Ridge Estimation in High-dimensional Rotationally Sparse Linear Regression**|Libin Liang et.al.|[2405.00974](http://arxiv.org/abs/2405.00974)|null|
+|**2024-05-01**|**A perturbative analysis for noisy spectral estimation**|Lexing Ying et.al.|[2405.00803](http://arxiv.org/abs/2405.00803)|null|
 |**2024-05-01**|**Koopman-based Deep Learning for Nonlinear System Estimation**|Zexin Sun et.al.|[2405.00627](http://arxiv.org/abs/2405.00627)|null|
 |**2024-05-01**|**Weight Sparsity Complements Activity Sparsity in Neuromorphic Language Models**|Rishav Mukherji et.al.|[2405.00433](http://arxiv.org/abs/2405.00433)|null|
 |**2024-05-01**|**Covariant spatio-temporal receptive fields for neuromorphic computing**|Jens Egholm Pedersen et.al.|[2405.00318](http://arxiv.org/abs/2405.00318)|**[link](https://github.com/jegp/nrf)**|
