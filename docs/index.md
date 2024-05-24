@@ -1667,6 +1667,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-22**|**Affine-based Deformable Attention and Selective Fusion for Semi-dense Matching**|Hongkai Chen et.al.|[2405.13874](http://arxiv.org/abs/2405.13874)|null|
 |**2024-05-21**|**OmniGlue: Generalizable Feature Matching with Foundation Model Guidance**|Hanwen Jiang et.al.|[2405.12979](http://arxiv.org/abs/2405.12979)|null|
 |**2024-05-14**|**Shape-aware synthesis of pathological lung CT scans using CycleGAN for enhanced semi-supervised lung segmentation**|Rezkellah Noureddine Khiati et.al.|[2405.08556](http://arxiv.org/abs/2405.08556)|**[link](https://github.com/noureddinekhiati/semi-supervised-lung-segmentation)**|
 |**2024-05-14**|**TP3M: Transformer-based Pseudo 3D Image Matching with Reference**|Liming Han et.al.|[2405.08434](http://arxiv.org/abs/2405.08434)|null|
@@ -1901,6 +1902,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**NeRF-Casting: Improved View-Dependent Appearance with Consistent Reflections**|Dor Verbin et.al.|[2405.14871](http://arxiv.org/abs/2405.14871)|null|
+|**2024-05-23**|**Neural Directional Encoding for Efficient and Accurate View-Dependent Appearance Modeling**|Liwen Wu et.al.|[2405.14847](http://arxiv.org/abs/2405.14847)|null|
+|**2024-05-23**|**Camera Relocalization in Shadow-free Neural Radiance Fields**|Shiyao Xu et.al.|[2405.14824](http://arxiv.org/abs/2405.14824)|null|
+|**2024-05-23**|**LDM: Large Tensorial SDF Model for Textured Mesh Generation**|Rengan Xie et.al.|[2405.14580](http://arxiv.org/abs/2405.14580)|null|
+|**2024-05-23**|**JointRF: End-to-End Joint Optimization for Dynamic Neural Radiance Field Representation and Compression**|Zihan Zheng et.al.|[2405.14452](http://arxiv.org/abs/2405.14452)|null|
+|**2024-05-22**|**DoGaussian: Distributed-Oriented Gaussian Splatting for Large-Scale 3D Reconstruction Via Gaussian Consensus**|Yu Chen et.al.|[2405.13943](http://arxiv.org/abs/2405.13943)|null|
+|**2024-05-22**|**Gaussian Time Machine: A Real-Time Rendering Methodology for Time-Variant Appearances**|Licheng Shen et.al.|[2405.13694](http://arxiv.org/abs/2405.13694)|null|
 |**2024-05-21**|**MOSS: Motion-based 3D Clothed Human Synthesis from Monocular Video**|Hongsheng Wang et.al.|[2405.12806](http://arxiv.org/abs/2405.12806)|null|
 |**2024-05-21**|**Leveraging Neural Radiance Fields for Pose Estimation of an Unknown Space Object during Proximity Operations**|Antoine Legrand et.al.|[2405.12728](http://arxiv.org/abs/2405.12728)|null|
 |**2024-05-20**|**Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo**|Tianqi Liu et.al.|[2405.12218](http://arxiv.org/abs/2405.12218)|null|
@@ -2933,6 +2941,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Analysis of Atom-level pretraining with QM data for Graph Neural Networks Molecular property models**|Jose Arjona-Medina et.al.|[2405.14837](http://arxiv.org/abs/2405.14837)|null|
+|**2024-05-23**|**Development of a Gaussian Approximation Potential to Study Structure and Thermodynamics of Nickel Nanoclusters**|Suvo Banik et.al.|[2405.14683](http://arxiv.org/abs/2405.14683)|null|
+|**2024-05-23**|**Logical Characterizations of Recurrent Graph Neural Networks with Reals and Floats**|Veeti Ahvonen et.al.|[2405.14606](http://arxiv.org/abs/2405.14606)|null|
+|**2024-05-23**|**Gradient Transformation: Towards Efficient and Model-Agnostic Unlearning for Dynamic Graph Neural Networks**|He Zhang et.al.|[2405.14407](http://arxiv.org/abs/2405.14407)|null|
+|**2024-05-23**|**Explaining Graph Neural Networks via Structure-aware Interaction Index**|Ngoc Bui et.al.|[2405.14352](http://arxiv.org/abs/2405.14352)|null|
+|**2024-05-23**|**AdaGMLP: AdaBoosting GNN-to-MLP Knowledge Distillation**|Weigang Lu et.al.|[2405.14307](http://arxiv.org/abs/2405.14307)|null|
+|**2024-05-23**|**Similarity-Navigated Conformal Prediction for Graph Neural Networks**|Jianqing Song et.al.|[2405.14303](http://arxiv.org/abs/2405.14303)|null|
+|**2024-05-23**|**Graphcode: Learning from multiparameter persistent homology using graph neural networks**|Michael Kerber et.al.|[2405.14302](http://arxiv.org/abs/2405.14302)|null|
+|**2024-05-23**|**Graph Sparsification via Mixture of Graphs**|Guibin Zhang et.al.|[2405.14260](http://arxiv.org/abs/2405.14260)|null|
+|**2024-05-23**|**Automated Loss function Search for Class-imbalanced Node Classification**|Xinyu Guo et.al.|[2405.14133](http://arxiv.org/abs/2405.14133)|null|
 |**2024-05-21**|**Equivariant Spatio-Temporal Attentive Graph Networks to Simulate Physical Dynamics**|Liming Wu et.al.|[2405.12868](http://arxiv.org/abs/2405.12868)|null|
 |**2024-05-21**|**Utilizing Description Logics for Global Explanations of Heterogeneous Graph Neural Networks**|Dominik Köhler et.al.|[2405.12654](http://arxiv.org/abs/2405.12654)|null|
 |**2024-05-21**|**Unleash Graph Neural Networks from Heavy Tuning**|Lequan Lin et.al.|[2405.12521](http://arxiv.org/abs/2405.12521)|null|
@@ -4640,6 +4658,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Event-based dataset for the detection and classification of manufacturing assembly tasks**|Laura Duarte et.al.|[2405.14626](http://arxiv.org/abs/2405.14626)|null|
+|**2024-05-22**|**HR-INR: Continuous Space-Time Video Super-Resolution via Event Camera**|Yunfan Lu et.al.|[2405.13389](http://arxiv.org/abs/2405.13389)|null|
 |**2024-05-16**|**Bilateral Event Mining and Complementary for Event Stream Super-Resolution**|Zhilin Huang et.al.|[2405.10037](http://arxiv.org/abs/2405.10037)|**[link](https://github.com/lqm26/bmcnet-esr)**|
 |**2024-05-15**|**Vector-Symbolic Architecture for Event-Based Optical Flow**|Hongzhi You et.al.|[2405.08300](http://arxiv.org/abs/2405.08300)|null|
 |**2024-05-11**|**Learning Monocular Depth from Focus with Event Focal Stack**|Chenxu Jiang et.al.|[2405.06944](http://arxiv.org/abs/2405.06944)|null|
@@ -4800,6 +4820,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Domain Wall Magnetic Tunnel Junction Reliable Integrate and Fire Neuron**|Can Cui1 et.al.|[2405.14851](http://arxiv.org/abs/2405.14851)|null|
+|**2024-05-23**|**Prospective and retrospective coding in cortical neurons**|Simon Brandt et.al.|[2405.14810](http://arxiv.org/abs/2405.14810)|null|
+|**2024-05-23**|**Time Cell Inspired Temporal Codebook in Spiking Neural Networks for Enhanced Image Generation**|Linghao Feng et.al.|[2405.14474](http://arxiv.org/abs/2405.14474)|null|
+|**2024-05-23**|**Poisson Variational Autoencoder**|Hadi Vafaii et.al.|[2405.14473](http://arxiv.org/abs/2405.14473)|null|
+|**2024-05-23**|**Mitigating Quantization Errors Due to Activation Spikes in GLU-Based LLMs**|Jaewoo Yang et.al.|[2405.14428](http://arxiv.org/abs/2405.14428)|**[link](https://github.com/onnoo/activation-spikes)**|
+|**2024-05-23**|**SpGesture: Source-Free Domain-adaptive sEMG-based Gesture Recognition with Jaccard Attentive Spiking Neural Network**|Weiyu Guo et.al.|[2405.14398](http://arxiv.org/abs/2405.14398)|null|
+|**2024-05-23**|**Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators**|Changze Lv et.al.|[2405.14362](http://arxiv.org/abs/2405.14362)|null|
+|**2024-05-22**|**EchoSpike Predictive Plasticity: An Online Local Learning Rule for Spiking Neural Networks**|Lars Graf et.al.|[2405.13976](http://arxiv.org/abs/2405.13976)|null|
+|**2024-05-22**|**Advancing Spiking Neural Networks towards Multiscale Spatiotemporal Interaction Learning**|Yimeng Shan et.al.|[2405.13672](http://arxiv.org/abs/2405.13672)|null|
+|**2024-05-22**|**Exact Gradients for Stochastic Spiking Neural Networks Driven by Rough Signals**|Christian Holberg et.al.|[2405.13587](http://arxiv.org/abs/2405.13587)|null|
 |**2024-05-21**|**Training and inference in the ReckON RSNN architecture implemented on a MPSoC**|Alejandro Linares-Barranco et.al.|[2405.12849](http://arxiv.org/abs/2405.12849)|null|
 |**2024-05-21**|**Implementing feature binding through dendritic networks of a single neuron**|Yuanhong Tang et.al.|[2405.12645](http://arxiv.org/abs/2405.12645)|null|
 |**2024-05-20**|**Trace Moments for Schrödinger Operators with Matrix White Noise and the Rigidity of the Multivariate Stochastic Airy Operator**|Pierre Yves Gaudreau Lamarre et.al.|[2405.12316](http://arxiv.org/abs/2405.12316)|null|
