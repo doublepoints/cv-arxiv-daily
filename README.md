@@ -1,10 +1,10 @@
-## <a id=top></a>Updated on 2024.05.24
+## <a id=top></a>Updated on 2024.05.25
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.24
+## Updated on 2024.05.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -687,7 +687,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-20**|**UAV-VisLoc: A Large-scale Dataset for UAV Visual Localization**|Wenjia Xu et.al.|[2405.11936](http://arxiv.org/abs/2405.11936)|null|
+|**2024-05-20**|**UAV-VisLoc: A Large-scale Dataset for UAV Visual Localization**|Wenjia Xu et.al.|[2405.11936](http://arxiv.org/abs/2405.11936)|**[link](https://github.com/intellisensing/uav-visloc)**|
 |**2024-05-19**|**Register assisted aggregation for Visual Place Recognition**|Xuan Yu et.al.|[2405.11526](http://arxiv.org/abs/2405.11526)|null|
 |**2024-05-17**|**CCTNet: A Circular Convolutional Transformer Network for LiDAR-based Place Recognition Handling Movable Objects Occlusion**|Gang Wang et.al.|[2405.10793](http://arxiv.org/abs/2405.10793)|null|
 |**2024-05-16**|**FFF: Fixing Flawed Foundations in contrastive pre-training results in very strong Vision-Language models**|Adrian Bulat et.al.|[2405.10286](http://arxiv.org/abs/2405.10286)|null|
