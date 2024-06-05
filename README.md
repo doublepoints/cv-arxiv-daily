@@ -1,10 +1,10 @@
-## <a id=top></a>Updated on 2024.06.04
+## <a id=top></a>Updated on 2024.06.05
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.04
+## Updated on 2024.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -4777,7 +4777,7 @@
 |**2024-05-29**|**EvaGaussians: Event Stream Assisted Gaussian Splatting from Blurry Images**|Wangbo Yu et.al.|[2405.20224](http://arxiv.org/abs/2405.20224)|null|
 |**2024-05-30**|**LED: A Large-scale Real-world Paired Dataset for Event Camera Denoising**|Yuxing Duan et.al.|[2405.19718](http://arxiv.org/abs/2405.19718)|null|
 |**2024-05-28**|**MULi-Ev: Maintaining Unperturbed LiDAR-Event Calibration**|Mathieu Cocheteux et.al.|[2405.18021](http://arxiv.org/abs/2405.18021)|null|
-|**2024-05-28**|**Microsaccade-inspired Event Camera for Robotics**|Botao He et.al.|[2405.17769](http://arxiv.org/abs/2405.17769)|null|
+|**2024-05-28**|**Microsaccade-inspired Event Camera for Robotics**|Botao He et.al.|[2405.17769](http://arxiv.org/abs/2405.17769)|**[link](https://zenodo.org/record/10542425)**|
 |**2024-05-27**|**EF-Calib: Spatiotemporal Calibration of Event- and Frame-Based Cameras Using Continuous-Time Trajectories**|Shaoan Wang et.al.|[2405.17278](http://arxiv.org/abs/2405.17278)|**[link](https://github.com/wsakobe/ef-calib)**|
 |**2024-05-24**|**Unsupervised Motion Segmentation for Neuromorphic Aerial Surveillance**|Sami Arja et.al.|[2405.15209](http://arxiv.org/abs/2405.15209)|null|
 |**2024-06-03**|**EvGGS: A Collaborative Learning Framework for Event-based Generalizable Gaussian Splatting**|Jiaxu Wang et.al.|[2405.14959](http://arxiv.org/abs/2405.14959)|**[link](https://github.com/mercerai/evggs)**|
