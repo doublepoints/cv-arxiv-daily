@@ -3033,10 +3033,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-06**|**On the Expressive Power of Spectral Invariant Graph Neural Networks**|Bohang Zhang et.al.|[2406.04336](http://arxiv.org/abs/2406.04336)|null|
+|**2024-06-06**|**On the Expressive Power of Spectral Invariant Graph Neural Networks**|Bohang Zhang et.al.|[2406.04336](http://arxiv.org/abs/2406.04336)|**[link](https://github.com/LingxiaoShawn/EPNN-Experiments)**|
 |**2024-06-06**|**NoisyGL: A Comprehensive Benchmark for Graph Neural Networks under Label Noise**|Zhonghao Wang et.al.|[2406.04299](http://arxiv.org/abs/2406.04299)|**[link](https://github.com/eaglelab-zju/noisygl)**|
 |**2024-06-06**|**Transformers need glasses! Information over-squashing in language tasks**|Federico Barbero et.al.|[2406.04267](http://arxiv.org/abs/2406.04267)|null|
-|**2024-06-06**|**Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**|Cong Liu et.al.|[2406.04052](http://arxiv.org/abs/2406.04052)|null|
+|**2024-06-06**|**Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**|Cong Liu et.al.|[2406.04052](http://arxiv.org/abs/2406.04052)|**[link](https://github.com/congliuUvA/Multivector-Neurons)**|
 |**2024-06-06**|**Energy-based Epistemic Uncertainty for Graph Neural Networks**|Dominik Fuchsgruber et.al.|[2406.04043](http://arxiv.org/abs/2406.04043)|null|
 |**2024-06-06**|**Exploiting Global Graph Homophily for Generalized Defense in Graph Neural Networks**|Duanyu Li et.al.|[2406.03833](http://arxiv.org/abs/2406.03833)|null|
 |**2024-06-06**|**BindGPT: A Scalable Framework for 3D Molecular Design via Language Modeling and Reinforcement Learning**|Artem Zholus et.al.|[2406.03686](http://arxiv.org/abs/2406.03686)|null|
@@ -5011,7 +5011,7 @@
 |---|---|---|---|---|
 |**2024-06-06**|**Estimation of Out-of-Sample Sharpe Ratio for High Dimensional Portfolio Optimization**|Xuran Meng et.al.|[2406.03954](http://arxiv.org/abs/2406.03954)|null|
 |**2024-06-06**|**CORTEX: Large-Scale Brain Simulator Utilizing Indegree Sub-Graph Decomposition on Fugaku Supercomputer**|Tianxiang Lyu et.al.|[2406.03762](http://arxiv.org/abs/2406.03762)|null|
-|**2024-06-05**|**SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN**|Kang You et.al.|[2406.03470](http://arxiv.org/abs/2406.03470)|null|
+|**2024-06-05**|**SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN**|Kang You et.al.|[2406.03470](http://arxiv.org/abs/2406.03470)|**[link](https://github.com/intelligent-computing-research-group/spikezip_transformer)**|
 |**2024-06-05**|**SpikeLM: Towards General Spike-Driven Language Modeling via Elastic Bi-Spiking Mechanisms**|Xingrun Xing et.al.|[2406.03287](http://arxiv.org/abs/2406.03287)|**[link](https://github.com/xingrun-xing/spikelm)**|
 |**2024-06-05**|**The Harder You Try, The Harder You Fail: The KeyTrap Denial-of-Service Algorithmic Complexity Attacks on DNSSEC**|Elias Heftrig et.al.|[2406.03133](http://arxiv.org/abs/2406.03133)|null|
 |**2024-06-05**|**Spiking representation learning for associative memories**|Naresh Ravichandran et.al.|[2406.03054](http://arxiv.org/abs/2406.03054)|null|
@@ -5796,7 +5796,7 @@
 |**2024-06-05**|**Autaptic Synaptic Circuit Enhances Spatio-temporal Predictive Learning of Spiking Neural Networks**|Lihao Wang et.al.|[2406.00405](http://arxiv.org/abs/2406.00405)|**[link](https://github.com/wangtianyi1874/stclif)**|
 |**2024-05-29**|**Quantitative hydrodynamics for a generalized contact model**|Julian Amorim et.al.|[2405.19437](http://arxiv.org/abs/2405.19437)|null|
 |**2024-05-29**|**Transformers as Neural Operators for Solutions of Differential Equations with Finite Regularity**|Benjamin Shih et.al.|[2405.19166](http://arxiv.org/abs/2405.19166)|null|
-|**2024-05-28**|**Inference for the stochastic FitzHugh-Nagumo model from real action potential data via approximate Bayesian computation**|Adeline Samson et.al.|[2405.17972](http://arxiv.org/abs/2405.17972)|null|
+|**2024-05-28**|**Inference for the stochastic FitzHugh-Nagumo model from real action potential data via approximate Bayesian computation**|Adeline Samson et.al.|[2405.17972](http://arxiv.org/abs/2405.17972)|**[link](https://github.com/IreneTubikanec/SMC-ABC_FHN)**|
 |**2024-06-02**|**Adaptive Robotic Arm Control with a Spiking Recurrent Neural Network on a Digital Accelerator**|Alejandro Linares-Barranco et.al.|[2405.12849](http://arxiv.org/abs/2405.12849)|null|
 |**2024-05-09**|**Mitigation of extreme events in an excitable system**|R. Shashangan et.al.|[2405.05994](http://arxiv.org/abs/2405.05994)|null|
 |**2024-05-13**|**Dynamical properties of a small heterogeneous chain network of neurons in discrete time**|Indranil Ghosh et.al.|[2405.05675](http://arxiv.org/abs/2405.05675)|null|
