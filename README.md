@@ -697,6 +697,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions**|Renjie Pi et.al.|[2406.07502](http://arxiv.org/abs/2406.07502)|**[link](https://github.com/sterzhang/image-textualization)**|
+|**2024-06-11**|**Benchmarking Vision-Language Contrastive Methods for Medical Representation Learning**|Shuvendu Roy et.al.|[2406.07450](http://arxiv.org/abs/2406.07450)|**[link](https://github.com/shuvenduroy/multimodal)**|
+|**2024-06-11**|**Fetch-A-Set: A Large-Scale OCR-Free Benchmark for Historical Document Retrieval**|Adrià Molina et.al.|[2406.07315](http://arxiv.org/abs/2406.07315)|null|
 |**2024-06-10**|**Multicam-SLAM: Non-overlapping Multi-camera SLAM for Indirect Visual Localization and Navigation**|Shenghao Li et.al.|[2406.06374](http://arxiv.org/abs/2406.06374)|**[link](https://github.com/alterpang/multi_orb_slam)**|
 |**2024-06-09**|**Unified Text-to-Image Generation and Retrieval**|Leigang Qu et.al.|[2406.05814](http://arxiv.org/abs/2406.05814)|null|
 |**2024-06-07**|**The Unmet Promise of Synthetic Training Images: Using Retrieved Real Images Performs Better**|Scott Geng et.al.|[2406.05184](http://arxiv.org/abs/2406.05184)|**[link](https://github.com/scottgeng00/unmet-promise)**|
@@ -1962,6 +1965,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**Active Scout: Multi-Target Tracking Using Neural Radiance Fields in Dense Urban Environments**|Christopher D. Hsu et.al.|[2406.07431](http://arxiv.org/abs/2406.07431)|null|
+|**2024-06-11**|**Generative Lifting of Multiview to 3D from Unknown Pose: Wrapping NeRF inside Diffusion**|Xin Yuan et.al.|[2406.06972](http://arxiv.org/abs/2406.06972)|null|
+|**2024-06-11**|**Neural Visibility Field for Uncertainty-Driven Active Mapping**|Shangjie Xue et.al.|[2406.06948](http://arxiv.org/abs/2406.06948)|null|
 |**2024-06-10**|**IllumiNeRF: 3D Relighting without Inverse Rendering**|Xiaoming Zhao et.al.|[2406.06527](http://arxiv.org/abs/2406.06527)|null|
 |**2024-06-10**|**GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation**|Haozhe Xie et.al.|[2406.06526](http://arxiv.org/abs/2406.06526)|null|
 |**2024-06-10**|**PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**|Danpeng Chen et.al.|[2406.06521](http://arxiv.org/abs/2406.06521)|null|
@@ -3046,6 +3052,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**Graph Reasoning for Explainable Cold Start Recommendation**|Jibril Frej et.al.|[2406.07420](http://arxiv.org/abs/2406.07420)|null|
+|**2024-06-11**|**Embedded Graph Convolutional Networks for Real-Time Event Data Processing on SoC FPGAs**|Kamil Jeziorek et.al.|[2406.07318](http://arxiv.org/abs/2406.07318)|null|
+|**2024-06-11**|**Rethinking the impact of noisy labels in graph classification: A utility and privacy perspective**|De Li et.al.|[2406.07314](http://arxiv.org/abs/2406.07314)|null|
+|**2024-06-11**|**Logical Distillation of Graph Neural Networks**|Alexander Pluska et.al.|[2406.07126](http://arxiv.org/abs/2406.07126)|**[link](https://github.com/lexpk/logicaldistillationofgnns)**|
+|**2024-06-11**|**CHARME: A chain-based reinforcement learning approach for the minor embedding problem**|Hoang M. Ngo et.al.|[2406.07124](http://arxiv.org/abs/2406.07124)|null|
+|**2024-06-11**|**On the Hölder Stability of Multiset and Graph Neural Networks**|Yair Davidson et.al.|[2406.06984](http://arxiv.org/abs/2406.06984)|null|
+|**2024-06-11**|**Non-autoregressive Personalized Bundle Generation**|Wenchuan Yang et.al.|[2406.06925](http://arxiv.org/abs/2406.06925)|null|
+|**2024-06-10**|**An Elliptic Kernel Unsupervised Autoencoder-Graph Convolutional Network Ensemble Model for Hyperspectral Unmixing**|Estefania Alfaro-Mejia et.al.|[2406.06742](http://arxiv.org/abs/2406.06742)|null|
 |**2024-06-10**|**GKAN: Graph Kolmogorov-Arnold Networks**|Mehrdad Kiamari et.al.|[2406.06470](http://arxiv.org/abs/2406.06470)|null|
 |**2024-06-10**|**Spatiotemporal Graph Neural Network Modelling Perfusion MRI**|Ruodan Yan et.al.|[2406.06434](http://arxiv.org/abs/2406.06434)|null|
 |**2024-06-10**|**Explainable Graph Neural Networks Under Fire**|Zhong Li et.al.|[2406.06417](http://arxiv.org/abs/2406.06417)|null|
@@ -4868,9 +4882,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**Embedded Graph Convolutional Networks for Real-Time Event Data Processing on SoC FPGAs**|Kamil Jeziorek et.al.|[2406.07318](http://arxiv.org/abs/2406.07318)|null|
 |**2024-06-05**|**Text-to-Events: Synthetic Event Camera Streams from Conditional Text Input**|Joachim Ott et.al.|[2406.03439](http://arxiv.org/abs/2406.03439)|null|
 |**2024-06-05**|**FAPNet: An Effective Frequency Adaptive Point-based Eye Tracker**|Xiaopeng Lin et.al.|[2406.03177](http://arxiv.org/abs/2406.03177)|null|
-|**2024-06-05**|**Event3DGS: Event-based 3D Gaussian Splatting for Fast Egomotion**|Tianyi Xiong et.al.|[2406.02972](http://arxiv.org/abs/2406.02972)|null|
+|**2024-06-10**|**Event3DGS: Event-Based 3D Gaussian Splatting for High-Speed Robot Egomotion**|Tianyi Xiong et.al.|[2406.02972](http://arxiv.org/abs/2406.02972)|null|
 |**2024-05-29**|**EvaGaussians: Event Stream Assisted Gaussian Splatting from Blurry Images**|Wangbo Yu et.al.|[2405.20224](http://arxiv.org/abs/2405.20224)|null|
 |**2024-05-30**|**LED: A Large-scale Real-world Paired Dataset for Event Camera Denoising**|Yuxing Duan et.al.|[2405.19718](http://arxiv.org/abs/2405.19718)|null|
 |**2024-05-28**|**MULi-Ev: Maintaining Unperturbed LiDAR-Event Calibration**|Mathieu Cocheteux et.al.|[2405.18021](http://arxiv.org/abs/2405.18021)|null|
@@ -5042,6 +5057,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**Metastability in networks of nonlinear stochastic integrate-and-fire neurons**|Siddharth Paliwal et.al.|[2406.07445](http://arxiv.org/abs/2406.07445)|null|
+|**2024-06-11**|**SpikePipe: Accelerated Training of Spiking Neural Networks via Inter-Layer Pipelining and Multiprocessor Scheduling**|Sai Sanjeet et.al.|[2406.06879](http://arxiv.org/abs/2406.06879)|null|
 |**2024-06-10**|**NeuroMoCo: A Neuromorphic Momentum Contrast Learning Method for Spiking Neural Networks**|Yuqi Ma et.al.|[2406.06305](http://arxiv.org/abs/2406.06305)|null|
 |**2024-06-10**|**Supervised Radio Frequency Interference Detection with SNNs**|Nicholas J. Pritchard et.al.|[2406.06075](http://arxiv.org/abs/2406.06075)|null|
 |**2024-06-10**|**Quantifying dissipation in stochastic complex oscillations**|Athokpam Langlen Chanu et.al.|[2406.06019](http://arxiv.org/abs/2406.06019)|null|
