@@ -1,4 +1,4 @@
-## <a id=top></a>Updated on 2024.06.13
+## <a id=top></a>Updated on 2024.06.14
 ---
 layout: default
 ---
@@ -8,14 +8,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.13
+## Updated on 2024.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## <a id=slam>SLAM</a>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785](http://arxiv.org/abs/2406.07785)|null|
+|**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785](http://arxiv.org/abs/2406.07785)|**[link](https://github.com/swami1995/v2v)**|
 |**2024-06-03**|**The Empirical Impact of Forgetting and Transfer in Continual Visual Odometry**|Paolo Cudrano et.al.|[2406.01797](http://arxiv.org/abs/2406.01797)|null|
 |**2024-06-03**|**Self-Supervised Geometry-Guided Initialization for Robust Monocular Visual Odometry**|Takayuki Kanai et.al.|[2406.00929](http://arxiv.org/abs/2406.00929)|null|
 |**2024-05-30**|**TAMBRIDGE: Bridging Frame-Centered Tracking and 3D Gaussian Splatting for Enhanced SLAM**|Peifeng Jiang et.al.|[2405.19614](http://arxiv.org/abs/2405.19614)|null|
@@ -1948,7 +1948,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-12**|**ICE-G: Image Conditional Editing of 3D Gaussian Splats**|Vishnu Jaganathan et.al.|[2406.08488](http://arxiv.org/abs/2406.08488)|null|
 |**2024-06-12**|**OpenObj: Open-Vocabulary Object-Level Neural Radiance Fields with Fine-Grained Understanding**|Yinan Deng et.al.|[2406.08009](http://arxiv.org/abs/2406.08009)|**[link](https://github.com/BIT-DYN/OpenObj)**|
-|**2024-06-12**|**Spatial Annealing Smoothing for Efficient Few-shot Neural Rendering**|Yuru Xiao et.al.|[2406.07828](http://arxiv.org/abs/2406.07828)|null|
+|**2024-06-12**|**Spatial Annealing Smoothing for Efficient Few-shot Neural Rendering**|Yuru Xiao et.al.|[2406.07828](http://arxiv.org/abs/2406.07828)|**[link](https://github.com/pulangk97/SANeRF)**|
 |**2024-06-11**|**C3DAG: Controlled 3D Animal Generation using 3D pose guidance**|Sandeep Mishra et.al.|[2406.07742](http://arxiv.org/abs/2406.07742)|null|
 |**2024-06-11**|**M-LRM: Multi-view Large Reconstruction Model**|Mengfei Li et.al.|[2406.07648](http://arxiv.org/abs/2406.07648)|null|
 |**2024-06-11**|**Active Scout: Multi-Target Tracking Using Neural Radiance Fields in Dense Urban Environments**|Christopher D. Hsu et.al.|[2406.07431](http://arxiv.org/abs/2406.07431)|null|
@@ -3040,9 +3040,9 @@ layout: default
 |**2024-06-12**|**Pre-Training Identification of Graph Winning Tickets in Adaptive Spatial-Temporal Graph Neural Networks**|Wenying Duan et.al.|[2406.08287](http://arxiv.org/abs/2406.08287)|null|
 |**2024-06-12**|**Conformal Load Prediction with Transductive Graph Autoencoders**|Rui Luo et.al.|[2406.08281](http://arxiv.org/abs/2406.08281)|null|
 |**2024-06-12**|**Expressivity and Generalization: Fragment-Biases for Molecular GNNs**|Tom Wollschläger et.al.|[2406.08210](http://arxiv.org/abs/2406.08210)|null|
-|**2024-06-12**|**Balancing Molecular Information and Empirical Data in the Prediction of Physico-Chemical Properties**|Johannes Zenn et.al.|[2406.08075](http://arxiv.org/abs/2406.08075)|null|
+|**2024-06-12**|**Balancing Molecular Information and Empirical Data in the Prediction of Physico-Chemical Properties**|Johannes Zenn et.al.|[2406.08075](http://arxiv.org/abs/2406.08075)|**[link](https://github.com/jzenn/gnn-mcm)**|
 |**2024-06-12**|**Heuristic Learning with Graph Neural Networks: A Unified Framework for Link Prediction**|Juzhen Zhang et.al.|[2406.07979](http://arxiv.org/abs/2406.07979)|null|
-|**2024-06-12**|**How Interpretable Are Interpretable Graph Neural Networks?**|Yongqiang Chen et.al.|[2406.07955](http://arxiv.org/abs/2406.07955)|null|
+|**2024-06-12**|**How Interpretable Are Interpretable Graph Neural Networks?**|Yongqiang Chen et.al.|[2406.07955](http://arxiv.org/abs/2406.07955)|**[link](https://github.com/LFhase/GMT)**|
 |**2024-06-12**|**Multi-Teacher Multi-Objective Meta-Learning for Zero-Shot Hyperspectral Band Selection**|Jie Feng et.al.|[2406.07949](http://arxiv.org/abs/2406.07949)|null|
 |**2024-06-12**|**Graph Transductive Defense: a Two-Stage Defense for Graph Membership Inference Attacks**|Peizhi Niu et.al.|[2406.07917](http://arxiv.org/abs/2406.07917)|null|
 |**2024-06-11**|**Graph Reasoning for Explainable Cold Start Recommendation**|Jibril Frej et.al.|[2406.07420](http://arxiv.org/abs/2406.07420)|null|
