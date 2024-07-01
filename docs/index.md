@@ -690,6 +690,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**PathAlign: A vision-language model for whole slide images in histopathology**|Faruk Ahmed et.al.|[2406.19578](http://arxiv.org/abs/2406.19578)|null|
 |**2024-06-27**|**360 in the Wild: Dataset for Depth Prediction and View Synthesis**|Kibaek Park et.al.|[2406.18898](http://arxiv.org/abs/2406.18898)|null|
 |**2024-06-27**|**Zero-shot Composed Image Retrieval Considering Query-target Relationship Leveraging Masked Image-text Pairs**|Huaying Zhang et.al.|[2406.18836](http://arxiv.org/abs/2406.18836)|null|
 |**2024-06-26**|**WV-Net: A foundation model for SAR WV-mode satellite imagery trained using contrastive self-supervised learning on 10 million images**|Yannik Glaser et.al.|[2406.18765](http://arxiv.org/abs/2406.18765)|null|
@@ -1507,6 +1508,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**Beyond First-Order: A Multi-Scale Approach to Finger Knuckle Print Biometrics**|Chengrui Gao et.al.|[2406.19672](http://arxiv.org/abs/2406.19672)|null|
 |**2024-06-24**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|**[link](https://github.com/mit-spark/certifiable_tracking)**|
 |**2024-06-03**|**Scale-Free Image Keypoints Using Differentiable Persistent Homology**|Giovanni Barbarani et.al.|[2406.01315](http://arxiv.org/abs/2406.01315)|**[link](https://github.com/gbarbarani/MorseDet)**|
 |**2024-06-23**|**W-Net: A Facial Feature-Guided Face Super-Resolution Network**|Hao Liu et.al.|[2406.00676](http://arxiv.org/abs/2406.00676)|null|
@@ -1976,6 +1978,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**ASSR-NeRF: Arbitrary-Scale Super-Resolution on Voxel Grid for High-Quality Radiance Fields Reconstruction**|Ding-Jiun Huang et.al.|[2406.20066](http://arxiv.org/abs/2406.20066)|null|
+|**2024-06-28**|**EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting**|Daiwei Zhang et.al.|[2406.19811](http://arxiv.org/abs/2406.19811)|null|
 |**2024-06-27**|**Shorter SPECT Scans Using Self-supervised Coordinate Learning to Synthesize Skipped Projection Views**|Zongyu Li et.al.|[2406.18840](http://arxiv.org/abs/2406.18840)|null|
 |**2024-06-25**|**Implicit-Zoo: A Large-Scale Dataset of Neural Implicit Functions for 2D Images and 3D Scenes**|Qi Ma et.al.|[2406.17438](http://arxiv.org/abs/2406.17438)|**[link](https://github.com/qimaqi/Implicit-Zoo)**|
 |**2024-06-25**|**NerfBaselines: Consistent and Reproducible Evaluation of Novel View Synthesis Methods**|Jonas Kulhanek et.al.|[2406.17345](http://arxiv.org/abs/2406.17345)|null|
@@ -3105,6 +3109,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**GRACE: Graph-Regularized Attentive Convolutional Entanglement with Laplacian Smoothing for Robust DeepFake Video Detection**|Chih-Chung Hsu et.al.|[2406.19941](http://arxiv.org/abs/2406.19941)|**[link](https://github.com/ming053l/grace)**|
+|**2024-06-28**|**Modeling the Real World with High-Density Visual Particle Dynamics**|William F. Whitney et.al.|[2406.19800](http://arxiv.org/abs/2406.19800)|null|
+|**2024-06-28**|**SPIRONet: Spatial-Frequency Learning and Topological Channel Interaction Network for Vessel Segmentation**|De-Xing Huang et.al.|[2406.19749](http://arxiv.org/abs/2406.19749)|**[link](https://github.com/dxhuang-casia/spironet)**|
 |**2024-06-27**|**Leveraging Contrastive Learning for Enhanced Node Representations in Tokenized Graph Transformers**|Jinsong Chen et.al.|[2406.19258](http://arxiv.org/abs/2406.19258)|null|
 |**2024-06-27**|**NTFormer: A Composite Node Tokenized Graph Transformer for Node Classification**|Jinsong Chen et.al.|[2406.19249](http://arxiv.org/abs/2406.19249)|null|
 |**2024-06-27**|**Improving the Expressiveness of $K$ -hop Message-Passing GNNs by Injecting Contextualized Substructure Information**|Tianjun Yao et.al.|[2406.19244](http://arxiv.org/abs/2406.19244)|**[link](https://github.com/tianyao-aka/expresive_k_hop_gnns)**|
@@ -5027,6 +5034,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**eMoE-Tracker: Environmental MoE-based Transformer for Robust Event-guided Object Tracking**|Yucheng Chen et.al.|[2406.20024](http://arxiv.org/abs/2406.20024)|null|
 |**2024-06-21**|**E2GS: Event Enhanced Gaussian Splatting**|Hiroyuki Deguchi et.al.|[2406.14978](http://arxiv.org/abs/2406.14978)|**[link](https://github.com/deguchihiroyuki/e2gs)**|
 |**2024-06-20**|**Deblurring Neural Radiance Fields with Event-driven Bundle Adjustment**|Yunshan Qi et.al.|[2406.14360](http://arxiv.org/abs/2406.14360)|null|
 |**2024-06-20**|**EvSegSNN: Neuromorphic Semantic Segmentation for Event Data**|Dalia Hareb et.al.|[2406.14178](http://arxiv.org/abs/2406.14178)|null|
@@ -5206,6 +5214,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**A Differentiable Approach to Multi-scale Brain Modeling**|Chaoming Wang et.al.|[2406.19708](http://arxiv.org/abs/2406.19708)|**[link](https://github.com/chaoming0625/differentiable-brain-modeling-workflow)**|
+|**2024-06-28**|**Directly Training Temporal Spiking Neural Network with Sparse Surrogate Gradient**|Yang Li et.al.|[2406.19645](http://arxiv.org/abs/2406.19645)|null|
+|**2024-06-27**|**Bayesian Rank-Clustering**|Michael Pearce et.al.|[2406.19563](http://arxiv.org/abs/2406.19563)|null|
 |**2024-06-27**|**Spiking Convolutional Neural Networks for Text Classification**|Changze Lv et.al.|[2406.19230](http://arxiv.org/abs/2406.19230)|**[link](https://github.com/Lvchangze/snn)**|
 |**2024-06-27**|**Spikes and spines in 3D Lorentzian simplicial quantum gravity**|Johanna Borissova et.al.|[2406.19169](http://arxiv.org/abs/2406.19169)|null|
 |**2024-06-27**|**Resilience of the surface code to error bursts**|Shi Jie Samuel Tan et.al.|[2406.18897](http://arxiv.org/abs/2406.18897)|null|
@@ -6032,6 +6043,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**A Differentiable Approach to Multi-scale Brain Modeling**|Chaoming Wang et.al.|[2406.19708](http://arxiv.org/abs/2406.19708)|**[link](https://github.com/chaoming0625/differentiable-brain-modeling-workflow)**|
 |**2024-06-19**|**An eight-neuron network for quadruped locomotion with hip-knee joint control**|Yide Liu et.al.|[2406.13419](http://arxiv.org/abs/2406.13419)|null|
 |**2024-06-18**|**Evolutionary Spiking Neural Networks: A Survey**|Shuaijie Shen et.al.|[2406.12552](http://arxiv.org/abs/2406.12552)|null|
 |**2024-06-10**|**Quantifying dissipation in stochastic complex oscillations**|Athokpam Langlen Chanu et.al.|[2406.06019](http://arxiv.org/abs/2406.06019)|null|
