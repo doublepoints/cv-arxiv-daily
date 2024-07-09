@@ -28,7 +28,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-07-01**|**Preserving Relative Localization of FoV-Limited Drone Swarm via Active Mutual Observation**|Lianjie Guo et.al.|[2407.01292](http://arxiv.org/abs/2407.01292)|null|
-|**2024-06-23**|**Imperative Learning: A Self-supervised Neural-Symbolic Learning Framework for Robot Autonomy**|Chen Wang et.al.|[2406.16087](http://arxiv.org/abs/2406.16087)|null|
+|**2024-07-07**|**Imperative Learning: A Self-supervised Neural-Symbolic Learning Framework for Robot Autonomy**|Chen Wang et.al.|[2406.16087](http://arxiv.org/abs/2406.16087)|null|
 |**2024-06-16**|**Self-supervised Pretraining and Finetuning for Monocular Depth and Visual Odometry**|Boris Chidlovskii et.al.|[2406.11019](http://arxiv.org/abs/2406.11019)|null|
 |**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785](http://arxiv.org/abs/2406.07785)|**[link](https://github.com/swami1995/v2v)**|
 |**2024-06-03**|**The Empirical Impact of Forgetting and Transfer in Continual Visual Odometry**|Paolo Cudrano et.al.|[2406.01797](http://arxiv.org/abs/2406.01797)|null|
@@ -504,6 +504,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Enhancing Neural Radiance Fields with Depth and Normal Completion Priors from Sparse Views**|Jiawei Guo et.al.|[2407.05666](http://arxiv.org/abs/2407.05666)|null|
 |**2024-07-05**|**Efficient Detection of Long Consistent Cycles and its Application to Distributed Synchronization**|Shaohan Li et.al.|[2407.04260](http://arxiv.org/abs/2407.04260)|null|
 |**2024-07-04**|**SfM on-the-fly: Get better 3D from What You Capture**|Zhan Zongqian et.al.|[2407.03939](http://arxiv.org/abs/2407.03939)|null|
 |**2024-07-03**|**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**|Jiaxin Guo et.al.|[2407.02918](http://arxiv.org/abs/2407.02918)|**[link](https://github.com/wrld/free-surgs)**|
@@ -711,6 +712,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Pseudo-triplet Guided Few-shot Composed Image Retrieval**|Bohan Hou et.al.|[2407.06001](http://arxiv.org/abs/2407.06001)|null|
+|**2024-07-08**|**HyCIR: Boosting Zero-Shot Composed Image Retrieval with Synthetic Labels**|Yingying Jiang et.al.|[2407.05795](http://arxiv.org/abs/2407.05795)|null|
 |**2024-07-05**|**Elevating All Zero-Shot Sketch-Based Image Retrieval Through Multimodal Prompt Learning**|Mainak Singha et.al.|[2407.04207](http://arxiv.org/abs/2407.04207)|null|
 |**2024-07-04**|**Visualizing Dialogues: Enhancing Image Selection through Dialogue Understanding with Large Language Models**|Chang-Sheng Kao et.al.|[2407.03615](http://arxiv.org/abs/2407.03615)|null|
 |**2024-07-03**|**Celeb-FBI: A Benchmark Dataset on Human Full Body Images and Age, Gender, Height and Weight Estimation using Deep Learning Approach**|Pronay Debnath et.al.|[2407.03486](http://arxiv.org/abs/2407.03486)|null|
@@ -2017,6 +2020,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**|Mohammad Reza Karimi Dastjerdi et.al.|[2407.06150](http://arxiv.org/abs/2407.06150)|null|
+|**2024-07-08**|**Enhancing Neural Radiance Fields with Depth and Normal Completion Priors from Sparse Views**|Jiawei Guo et.al.|[2407.05666](http://arxiv.org/abs/2407.05666)|null|
+|**2024-07-08**|**GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields**|Weiyi Xue et.al.|[2407.05597](http://arxiv.org/abs/2407.05597)|null|
+|**2024-07-08**|**Dynamic Neural Radiance Field From Defocused Monocular Video**|Xianrui Luo et.al.|[2407.05586](http://arxiv.org/abs/2407.05586)|null|
+|**2024-07-07**|**GaussReg: Fast 3D Registration with Gaussian Splatting**|Jiahao Chang et.al.|[2407.05254](http://arxiv.org/abs/2407.05254)|null|
+|**2024-07-06**|**SurgicalGaussian: Deformable 3D Gaussians for High-Fidelity Surgical Scene Reconstruction**|Weixing Xie et.al.|[2407.05023](http://arxiv.org/abs/2407.05023)|null|
 |**2024-07-04**|**CRiM-GS: Continuous Rigid Motion-Aware Gaussian Splatting from Motion Blur Images**|Junghe Lee et.al.|[2407.03923](http://arxiv.org/abs/2407.03923)|null|
 |**2024-07-02**|**MomentsNeRF: Leveraging Orthogonal Moments for Few-Shot Neural Rendering**|Ahmad AlMughrabi et.al.|[2407.02668](http://arxiv.org/abs/2407.02668)|null|
 |**2024-07-03**|**BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**|Wenpu Li et.al.|[2407.02174](http://arxiv.org/abs/2407.02174)|**[link](https://github.com/WU-CVGL/BeNeRF)**|
@@ -3157,6 +3166,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Enhancing the Prediction of Glass Dynamics by Incorporating the Direction of Deviation from Equilibrium Positions**|Xiao Jiang et.al.|[2407.06111](http://arxiv.org/abs/2407.06111)|null|
+|**2024-07-08**|**Graph Reasoning Networks**|Markus Zopf et.al.|[2407.05816](http://arxiv.org/abs/2407.05816)|null|
+|**2024-07-08**|**LDGCN: An Edge-End Lightweight Dual GCN Based on Single-Channel EEG for Driver Drowsiness Monitoring**|Jingwei Huang et.al.|[2407.05749](http://arxiv.org/abs/2407.05749)|**[link](https://github.com/bryantdom/driver-drowsiness-monitoring)**|
+|**2024-07-08**|**Fine-Grained Multi-View Hand Reconstruction Using Inverse Rendering**|Qijun Gan et.al.|[2407.05680](http://arxiv.org/abs/2407.05680)|**[link](https://github.com/agnjason/fmhr)**|
+|**2024-07-08**|**Graph Attention with Random Rewiring**|Tongzhou Liao et.al.|[2407.05649](http://arxiv.org/abs/2407.05649)|null|
+|**2024-07-08**|**MEEG and AT-DGNN: Advancing EEG Emotion Recognition with Music and Graph Learning**|Minghao Xiao et.al.|[2407.05550](http://arxiv.org/abs/2407.05550)|null|
+|**2024-07-07**|**PICA: Physics-Integrated Clothed Avatar**|Bo Peng et.al.|[2407.05324](http://arxiv.org/abs/2407.05324)|null|
+|**2024-07-07**|**Vulnerability-Hunter: An Adaptive Feature Perception Attention Network for Smart Contract Vulnerabilities**|Yizhou Chen et.al.|[2407.05318](http://arxiv.org/abs/2407.05318)|null|
+|**2024-07-06**|**Leveraging Persistent Homology Features for Accurate Defect Formation Energy Predictions via Graph Neural Networks**|Zhenyao Fang et.al.|[2407.05204](http://arxiv.org/abs/2407.05204)|null|
+|**2024-07-06**|**A Generalized Transformer-based Radio Link Failure Prediction Framework in 5G RANs**|Kazi Hasan et.al.|[2407.05197](http://arxiv.org/abs/2407.05197)|null|
 |**2024-07-05**|**Peering inside the black box: Learning the relevance of many-body functions in Neural Network potentials**|Klara Bonneau et.al.|[2407.04526](http://arxiv.org/abs/2407.04526)|null|
 |**2024-07-05**|**G-Adaptive mesh refinement -- leveraging graph neural networks and differentiable finite element solvers**|James Rowbottom et.al.|[2407.04516](http://arxiv.org/abs/2407.04516)|null|
 |**2024-07-05**|**Wavelet-based Temporal Attention Improves Traffic Forecasting**|Yash Jakhmola et.al.|[2407.04440](http://arxiv.org/abs/2407.04440)|null|
@@ -5108,6 +5127,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**LaSe-E2V: Towards Language-guided Semantic-Aware Event-to-Video Reconstruction**|Kanghao Chen et.al.|[2407.05547](http://arxiv.org/abs/2407.05547)|null|
+|**2024-07-06**|**Helios: An extremely low power event-based gesture recognition for always-on smart eyewear**|Prarthana Bhattacharyya et.al.|[2407.05206](http://arxiv.org/abs/2407.05206)|null|
+|**2024-07-06**|**DailyDVS-200: A Comprehensive Benchmark Dataset for Event-Based Action Recognition**|Qi Wang et.al.|[2407.05106](http://arxiv.org/abs/2407.05106)|**[link](https://github.com/qiwang233/dailydvs-200)**|
 |**2024-07-02**|**Generalized Event Cameras**|Varun Sundar et.al.|[2407.02683](http://arxiv.org/abs/2407.02683)|null|
 |**2024-07-01**|**Real-Time Neuromorphic Navigation: Integrating Event-Based Vision and Physics-Driven Planning on a Parrot Bebop2 Quadrotor**|Amogh Joshi et.al.|[2407.00931](http://arxiv.org/abs/2407.00931)|null|
 |**2024-06-30**|**An abstract theory of sensor eventification**|Yulin Zhang et.al.|[2407.00563](http://arxiv.org/abs/2407.00563)|null|
@@ -5293,6 +5315,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Multi-Bit Mechanism: A Novel Information Transmission Paradigm for Spiking Neural Networks**|Yongjun Xiao et.al.|[2407.05739](http://arxiv.org/abs/2407.05739)|null|
+|**2024-07-08**|**Synthetic Data for Discriminating Serotonergic Neurons using Convolutional Neural Networks**|Daniele Corradetti et.al.|[2407.05701](http://arxiv.org/abs/2407.05701)|null|
+|**2024-07-07**|**Ternary Spike-based Neuromorphic Signal Processing System**|Shuai Wang et.al.|[2407.05310](http://arxiv.org/abs/2407.05310)|null|
+|**2024-07-07**|**FastSpiker: Enabling Fast Training for Spiking Neural Networks on Event-based Data through Learning Rate Enhancements for Autonomous Embedded Systems**|Iqra Bano et.al.|[2407.05262](http://arxiv.org/abs/2407.05262)|null|
+|**2024-07-06**|**Bayesian network-guided sparse regression with flexible varying effects**|Yangfan Ren et.al.|[2407.05089](http://arxiv.org/abs/2407.05089)|null|
+|**2024-07-05**|**SpikeLLM: Scaling up Spiking Neural Network to Large Language Models via Saliency-based Spiking**|Xingrun Xing et.al.|[2407.04752](http://arxiv.org/abs/2407.04752)|null|
 |**2024-07-05**|**Enhancing learning in artificial neural networks through cellular heterogeneity and neuromodulatory signaling**|Alejandro Rodriguez-Garcia et.al.|[2407.04525](http://arxiv.org/abs/2407.04525)|null|
 |**2024-07-04**|**Natively neuromorphic LMU architecture for encoding-free SNN-based HAR on commercial edge devices**|Vittorio Fra et.al.|[2407.04076](http://arxiv.org/abs/2407.04076)|null|
 |**2024-07-04**|**A Generalized Spiking Locally Competitive Algorithm for Multiple Optimization Problems**|Xuexing Du et.al.|[2407.03930](http://arxiv.org/abs/2407.03930)|null|
@@ -6140,6 +6168,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**The Dynamic Net Architecture: Learning Robust and Holistic Visual Representations Through Self-Organizing Networks**|Pascal J. Sager et.al.|[2407.05650](http://arxiv.org/abs/2407.05650)|**[link](https://github.com/sagerpascal/dynamic-link-architecture)**|
 |**2024-07-04**|**Natively neuromorphic LMU architecture for encoding-free SNN-based HAR on commercial edge devices**|Vittorio Fra et.al.|[2407.04076](http://arxiv.org/abs/2407.04076)|null|
 |**2024-07-04**|**Efficient optimization of ODE neuron models using gradient descent**|Ilenna Simone Jones et.al.|[2407.04025](http://arxiv.org/abs/2407.04025)|null|
 |**2024-07-04**|**A Generalized Spiking Locally Competitive Algorithm for Multiple Optimization Problems**|Xuexing Du et.al.|[2407.03930](http://arxiv.org/abs/2407.03930)|null|
