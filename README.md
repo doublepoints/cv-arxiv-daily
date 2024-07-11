@@ -1781,6 +1781,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching**|Xiaoyong Lu et.al.|[2407.07789](http://arxiv.org/abs/2407.07789)|null|
+|**2024-07-10**|**Mutual Information calculation on different appearances**|Jiecheng Liao et.al.|[2407.07410](http://arxiv.org/abs/2407.07410)|null|
 |**2024-07-04**|**SfM on-the-fly: Get better 3D from What You Capture**|Zhan Zongqian et.al.|[2407.03939](http://arxiv.org/abs/2407.03939)|null|
 |**2024-07-03**|**IMC 2024 Methods & Solutions Review**|Shyam Gupta et.al.|[2407.03172](http://arxiv.org/abs/2407.03172)|null|
 |**2024-06-21**|**High Resolution Surface Reconstruction of Cultural Heritage Objects Using Shape from Polarization Method**|F. S. Mortazavi et.al.|[2406.15121](http://arxiv.org/abs/2406.15121)|null|
@@ -2024,6 +2026,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Protecting NeRFs' Copyright via Plug-And-Play Watermarking Base Model**|Qi Song et.al.|[2407.07735](http://arxiv.org/abs/2407.07735)|null|
+|**2024-07-10**|**Drantal-NeRF: Diffusion-Based Restoration for Anti-aliasing Neural Radiance Field**|Ganlin Yang et.al.|[2407.07461](http://arxiv.org/abs/2407.07461)|null|
+|**2024-07-09**|**Reference-based Controllable Scene Stylization with Gaussian Splatting**|Yiqun Mei et.al.|[2407.07220](http://arxiv.org/abs/2407.07220)|null|
 |**2024-07-09**|**Sparse-DeRF: Deblurred Neural Radiance Fields from Sparse View**|Dogyoon Lee et.al.|[2407.06613](http://arxiv.org/abs/2407.06613)|null|
 |**2024-07-08**|**RRM: Relightable assets using Radiance guided Material extraction**|Diego Gomez et.al.|[2407.06397](http://arxiv.org/abs/2407.06397)|null|
 |**2024-07-08**|**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**|Mohammad Reza Karimi Dastjerdi et.al.|[2407.06150](http://arxiv.org/abs/2407.06150)|null|
@@ -3172,6 +3177,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**AdaptiGraph: Material-Adaptive Graph-Based Neural Dynamics for Robotic Manipulation**|Kaifeng Zhang et.al.|[2407.07889](http://arxiv.org/abs/2407.07889)|null|
+|**2024-07-10**|**Prediction of Frequency-Dependent Optical Spectrum for Solid Materials: A Multi-Output & Multi-Fidelity Machine Learning Approach**|Akram Ibrahim et.al.|[2407.07736](http://arxiv.org/abs/2407.07736)|null|
+|**2024-07-10**|**Deep-Graph-Sprints: Accelerated Representation Learning in Continuous-Time Dynamic Graphs**|Ahmad Naser Eddin et.al.|[2407.07712](http://arxiv.org/abs/2407.07712)|null|
+|**2024-07-10**|**Explaining Graph Neural Networks for Node Similarity on Graphs**|Daniel Daza et.al.|[2407.07639](http://arxiv.org/abs/2407.07639)|null|
+|**2024-07-10**|**GLBench: A Comprehensive Benchmark for Graph with Large Language Models**|Yuhan Li et.al.|[2407.07457](http://arxiv.org/abs/2407.07457)|**[link](https://github.com/nineabyss/glbench)**|
+|**2024-07-10**|**A deep graph model for the signed interaction prediction in biological network**|Shuyi Jin et.al.|[2407.07357](http://arxiv.org/abs/2407.07357)|null|
+|**2024-07-09**|**Graph Reinforcement Learning for Exploring BSM Model Spaces**|George N. Wojcik et.al.|[2407.07203](http://arxiv.org/abs/2407.07203)|null|
 |**2024-07-09**|**Decoding Climate Disagreement: A Graph Neural Network-Based Approach to Understanding Social Media Dynamics**|Ruiran Su et.al.|[2407.07038](http://arxiv.org/abs/2407.07038)|null|
 |**2024-07-09**|**Changepoint Detection in Highly-Attributed Dynamic Graphs**|Emiliano Penaloza et.al.|[2407.06998](http://arxiv.org/abs/2407.06998)|null|
 |**2024-07-09**|**Limiting Over-Smoothing and Over-Squashing of Graph Message Passing by Deep Scattering Transforms**|Yuanhong Jiang et.al.|[2407.06988](http://arxiv.org/abs/2407.06988)|null|
@@ -5141,7 +5153,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-09**|**Hyperion - A fast, versatile symbolic Gaussian Belief Propagation framework for Continuous-Time SLAM**|David Hug et.al.|[2407.07074](http://arxiv.org/abs/2407.07074)|null|
+|**2024-07-09**|**Hyperion -- A fast, versatile symbolic Gaussian Belief Propagation framework for Continuous-Time SLAM**|David Hug et.al.|[2407.07074](http://arxiv.org/abs/2407.07074)|**[link](https://github.com/vis4rob-lab/hyperion)**|
 |**2024-07-08**|**LaSe-E2V: Towards Language-guided Semantic-Aware Event-to-Video Reconstruction**|Kanghao Chen et.al.|[2407.05547](http://arxiv.org/abs/2407.05547)|null|
 |**2024-07-06**|**Helios: An extremely low power event-based gesture recognition for always-on smart eyewear**|Prarthana Bhattacharyya et.al.|[2407.05206](http://arxiv.org/abs/2407.05206)|null|
 |**2024-07-06**|**DailyDVS-200: A Comprehensive Benchmark Dataset for Event-Based Action Recognition**|Qi Wang et.al.|[2407.05106](http://arxiv.org/abs/2407.05106)|**[link](https://github.com/qiwang233/dailydvs-200)**|
