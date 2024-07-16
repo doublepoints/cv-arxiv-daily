@@ -490,11 +490,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-15**|**LVCP: LiDAR-Vision Tightly Coupled Collaborative Real-time Relative Positioning**|Zhuozhu Jian et.al.|[2407.10782](http://arxiv.org/abs/2407.10782)|null|
+|**2024-07-15**|**Towards Scale-Aware Full Surround Monodepth with Transformers**|Yuchen Yang et.al.|[2407.10406](http://arxiv.org/abs/2407.10406)|null|
+|**2024-07-14**|**3DEgo: 3D Editing on the Go!**|Umar Khalid et.al.|[2407.10102](http://arxiv.org/abs/2407.10102)|null|
 |**2024-07-10**|**Hybrid Structure-from-Motion and Camera Relocalization for Enhanced Egocentric Localization**|Jinjie Mai et.al.|[2407.08023](http://arxiv.org/abs/2407.08023)|**[link](https://github.com/wayne-mai/egoloc_v1)**|
 |**2024-07-09**|**Computer vision tasks for intelligent aerospace missions: An overview**|Huilin Chen et.al.|[2407.06513](http://arxiv.org/abs/2407.06513)|null|
 |**2024-07-08**|**Enhancing Neural Radiance Fields with Depth and Normal Completion Priors from Sparse Views**|Jiawei Guo et.al.|[2407.05666](http://arxiv.org/abs/2407.05666)|null|
 |**2024-07-05**|**Efficient Detection of Long Consistent Cycles and its Application to Distributed Synchronization**|Shaohan Li et.al.|[2407.04260](http://arxiv.org/abs/2407.04260)|null|
-|**2024-07-12**|**SfM on-the-fly: Get better 3D from What You Capture**|Zhan Zongqian et.al.|[2407.03939](http://arxiv.org/abs/2407.03939)|null|
+|**2024-07-15**|**SfM on-the-fly: Get better 3D from What You Capture**|Zongqian Zhan et.al.|[2407.03939](http://arxiv.org/abs/2407.03939)|null|
 |**2024-07-03**|**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**|Jiaxin Guo et.al.|[2407.02918](http://arxiv.org/abs/2407.02918)|**[link](https://github.com/wrld/free-surgs)**|
 |**2024-07-02**|**Indoor 3D Reconstruction with an Unknown Camera-Projector Pair**|Zhaoshuai Qi et.al.|[2407.01945](http://arxiv.org/abs/2407.01945)|null|
 |**2024-05-29**|**Rotation Averaging: A Primal-Dual Method and Closed-Forms in Cycle Graphs**|Gabriel Moreira et.al.|[2406.18564](http://arxiv.org/abs/2406.18564)|null|
@@ -698,6 +701,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-15**|**No Train, all Gain: Self-Supervised Gradients Improve Deep Frozen Representations**|Walter Simoncini et.al.|[2407.10964](http://arxiv.org/abs/2407.10964)|**[link](https://github.com/waltersimoncini/fungivision)**|
+|**2024-07-15**|**DINO Pre-training for Vision-based End-to-end Autonomous Driving**|Shubham Juneja et.al.|[2407.10803](http://arxiv.org/abs/2407.10803)|null|
+|**2024-07-15**|**Addressing Image Hallucination in Text-to-Image Generation through Factual Image Retrieval**|Youngsun Lim et.al.|[2407.10683](http://arxiv.org/abs/2407.10683)|null|
+|**2024-07-15**|**An evaluation of CNN models and data augmentation techniques in hierarchical localization of mobile robots**|J. J. Cabrera et.al.|[2407.10596](http://arxiv.org/abs/2407.10596)|**[link](https://github.com/juanjo-cabrera/indoorlocalizationsinglecnn)**|
+|**2024-07-15**|**An experimental evaluation of Siamese Neural Networks for robot localization using omnidirectional imaging in indoor environments**|J. J. Cabrera et.al.|[2407.10536](http://arxiv.org/abs/2407.10536)|null|
 |**2024-07-12**|**Are They the Same Picture? Adapting Concept Bottleneck Models for Human-AI Collaboration in Image Retrieval**|Vaibhav Balloli et.al.|[2407.08908](http://arxiv.org/abs/2407.08908)|**[link](https://github.com/realize-lab/chair)**|
 |**2024-07-11**|**Improving Visual Place Recognition Based Robot Navigation Through Verification of Localization Estimates**|Owen Claxton et.al.|[2407.08162](http://arxiv.org/abs/2407.08162)|**[link](https://github.com/QVPR/aarapsiproject)**|
 |**2024-07-12**|**Lifelong Histopathology Whole Slide Image Retrieval via Distance Consistency Rehearsal**|Xinyu Zhu et.al.|[2407.08153](http://arxiv.org/abs/2407.08153)|null|
@@ -1766,9 +1774,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-10**|**Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching**|Xiaoyong Lu et.al.|[2407.07789](http://arxiv.org/abs/2407.07789)|null|
+|**2024-07-14**|**Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching**|Xiaoyong Lu et.al.|[2407.07789](http://arxiv.org/abs/2407.07789)|null|
 |**2024-07-10**|**Mutual Information calculation on different appearances**|Jiecheng Liao et.al.|[2407.07410](http://arxiv.org/abs/2407.07410)|null|
-|**2024-07-12**|**SfM on-the-fly: Get better 3D from What You Capture**|Zhan Zongqian et.al.|[2407.03939](http://arxiv.org/abs/2407.03939)|null|
+|**2024-07-15**|**SfM on-the-fly: Get better 3D from What You Capture**|Zongqian Zhan et.al.|[2407.03939](http://arxiv.org/abs/2407.03939)|null|
 |**2024-07-03**|**IMC 2024 Methods & Solutions Review**|Shyam Gupta et.al.|[2407.03172](http://arxiv.org/abs/2407.03172)|null|
 |**2024-06-21**|**High Resolution Surface Reconstruction of Cultural Heritage Objects Using Shape from Polarization Method**|F. S. Mortazavi et.al.|[2406.15121](http://arxiv.org/abs/2406.15121)|null|
 |**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902](http://arxiv.org/abs/2406.10902)|**[link](https://github.com/ykzhang721/COG)**|
@@ -2009,6 +2017,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-15**|**AirNeRF: 3D Reconstruction of Human with Drone and NeRF for Future Communication Systems**|Alexey Kotcov et.al.|[2407.10865](http://arxiv.org/abs/2407.10865)|null|
+|**2024-07-15**|**Domain Generalization for 6D Pose Estimation Through NeRF-based Image Synthesis**|Antoine Legrand et.al.|[2407.10762](http://arxiv.org/abs/2407.10762)|null|
+|**2024-07-15**|**IE-NeRF: Inpainting Enhanced Neural Radiance Fields in the Wild**|Shuaixian Wang et.al.|[2407.10695](http://arxiv.org/abs/2407.10695)|null|
+|**2024-07-15**|**NGP-RT: Fusing Multi-Level Hash Features with Lightweight Attention for Real-Time Novel View Synthesis**|Yubin Hu et.al.|[2407.10482](http://arxiv.org/abs/2407.10482)|null|
+|**2024-07-15**|**Boost Your NeRF: A Model-Agnostic Mixture of Experts Framework for High Quality and Efficient Rendering**|Francesco Di Sario et.al.|[2407.10389](http://arxiv.org/abs/2407.10389)|null|
+|**2024-07-14**|**RS-NeRF: Neural Radiance Fields from Rolling Shutter Images**|Muyao Niu et.al.|[2407.10267](http://arxiv.org/abs/2407.10267)|**[link](https://github.com/myniuuu/rs-nerf)**|
+|**2024-07-14**|**SpikeGS: 3D Gaussian Splatting from Spike Streams with High-Speed Camera Motion**|Jiyuan Zhang et.al.|[2407.10062](http://arxiv.org/abs/2407.10062)|null|
+|**2024-07-12**|**Physics-Informed Learning of Characteristic Trajectories for Smoke Reconstruction**|Yiming Wang et.al.|[2407.09679](http://arxiv.org/abs/2407.09679)|null|
 |**2024-07-12**|**Radiance Fields from Photons**|Sacha Jungerman et.al.|[2407.09386](http://arxiv.org/abs/2407.09386)|null|
 |**2024-07-12**|**HPC: Hierarchical Progressive Coding Framework for Volumetric Video**|Zihan Zheng et.al.|[2407.09026](http://arxiv.org/abs/2407.09026)|null|
 |**2024-07-11**|**Feasibility of Neural Radiance Fields for Crime Scene Video Reconstruction**|Shariq Nadeem Malik et.al.|[2407.08795](http://arxiv.org/abs/2407.08795)|null|
@@ -3166,6 +3182,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-15**|**Provable Robustness of (Graph) Neural Networks Against Data Poisoning and Backdoor Attacks**|Lukas Gosch et.al.|[2407.10867](http://arxiv.org/abs/2407.10867)|null|
+|**2024-07-15**|**Rotationally Invariant Latent Distances for Uncertainty Estimation of Relaxed Energy Predictions by Graph Neural Network Potentials**|Joseph Musielewicz et.al.|[2407.10844](http://arxiv.org/abs/2407.10844)|null|
+|**2024-07-15**|**Probability Passing for Graph Neural Networks: Graph Structure and Representations Joint Learning**|Ziyan Wang et.al.|[2407.10688](http://arxiv.org/abs/2407.10688)|null|
+|**2024-07-15**|**Automated Label Unification for Multi-Dataset Semantic Segmentation with GNNs**|Rong Ma et.al.|[2407.10534](http://arxiv.org/abs/2407.10534)|null|
+|**2024-07-15**|**Predicting doping strategies for ternary nickel-cobalt-manganese cathode materials to enhance battery performance using graph neural networks**|Zirui Zhao et.al.|[2407.10458](http://arxiv.org/abs/2407.10458)|null|
+|**2024-07-15**|**Expanding the Scope: Inductive Knowledge Graph Reasoning with Multi-Starting Progressive Propagation**|Zhoutian Shao et.al.|[2407.10430](http://arxiv.org/abs/2407.10430)|**[link](https://github.com/nju-websoft/mstar)**|
+|**2024-07-14**|**MambaForGCN: Enhancing Long-Range Dependency with State Space Model and Kolmogorov-Arnold Networks for Aspect-Based Sentiment Analysis**|Adamu Lawan et.al.|[2407.10347](http://arxiv.org/abs/2407.10347)|null|
+|**2024-07-14**|**Toward Explainable Reasoning in 6G: A Proof of Concept Study on Radio Resource Allocation**|Farhad Rezazadeh et.al.|[2407.10186](http://arxiv.org/abs/2407.10186)|null|
+|**2024-07-14**|**Warming Up Cold-Start CTR Prediction by Learning Item-Specific Feature Interactions**|Yaqing Wang et.al.|[2407.10112](http://arxiv.org/abs/2407.10112)|null|
+|**2024-07-13**|**Biased Backpressure Routing Using Link Features and Graph Neural Networks**|Zhongyuan Zhao et.al.|[2407.09753](http://arxiv.org/abs/2407.09753)|null|
 |**2024-07-12**|**The $μ\mathcal{G}$ Language for Programming Graph Neural Networks**|Matteo Belenchia et.al.|[2407.09441](http://arxiv.org/abs/2407.09441)|null|
 |**2024-07-12**|**A Perspective on Foundation Models for the Electric Power Grid**|Hendrik F. Hamann et.al.|[2407.09434](http://arxiv.org/abs/2407.09434)|null|
 |**2024-07-12**|**The Effectiveness of Curvature-Based Rewiring and the Role of Hyperparameters in GNNs Revisited**|Floriano Tori et.al.|[2407.09381](http://arxiv.org/abs/2407.09381)|null|
@@ -5153,13 +5179,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-15**|**Temporal Event Stereo via Joint Learning with Stereoscopic Flow**|Hoonhee Cho et.al.|[2407.10831](http://arxiv.org/abs/2407.10831)|null|
+|**2024-07-15**|**Motion-prior Contrast Maximization for Dense Continuous-Time Motion Estimation**|Friedhelm Hamann et.al.|[2407.10802](http://arxiv.org/abs/2407.10802)|**[link](https://github.com/tub-rip/motionpriorcmax)**|
+|**2024-07-15**|**Towards Robust Event-based Networks for Nighttime via Unpaired Day-to-Night Event Translation**|Yuhwan Jeong et.al.|[2407.10703](http://arxiv.org/abs/2407.10703)|**[link](https://github.com/jeongyh98/udnet)**|
 |**2024-07-11**|**Event-based vision on FPGAs -- a survey**|Tomasz Kryjak et.al.|[2407.08356](http://arxiv.org/abs/2407.08356)|null|
 |**2024-07-11**|**PowerYOLO: Mixed Precision Model for Hardware Efficient Object Detection with Event Data**|Dominika Przewlocka-Rus et.al.|[2407.08272](http://arxiv.org/abs/2407.08272)|null|
 |**2024-07-11**|**E2VIDiff: Perceptual Events-to-Video Reconstruction using Diffusion Priors**|Jinxiu Liang et.al.|[2407.08231](http://arxiv.org/abs/2407.08231)|null|
 |**2024-07-09**|**Hyperion -- A fast, versatile symbolic Gaussian Belief Propagation framework for Continuous-Time SLAM**|David Hug et.al.|[2407.07074](http://arxiv.org/abs/2407.07074)|**[link](https://github.com/vis4rob-lab/hyperion)**|
 |**2024-07-12**|**LaSe-E2V: Towards Language-guided Semantic-Aware Event-to-Video Reconstruction**|Kanghao Chen et.al.|[2407.05547](http://arxiv.org/abs/2407.05547)|null|
 |**2024-07-11**|**Helios: An extremely low power event-based gesture recognition for always-on smart eyewear**|Prarthana Bhattacharyya et.al.|[2407.05206](http://arxiv.org/abs/2407.05206)|null|
-|**2024-07-06**|**DailyDVS-200: A Comprehensive Benchmark Dataset for Event-Based Action Recognition**|Qi Wang et.al.|[2407.05106](http://arxiv.org/abs/2407.05106)|**[link](https://github.com/qiwang233/dailydvs-200)**|
+|**2024-07-13**|**DailyDVS-200: A Comprehensive Benchmark Dataset for Event-Based Action Recognition**|Qi Wang et.al.|[2407.05106](http://arxiv.org/abs/2407.05106)|**[link](https://github.com/qiwang233/dailydvs-200)**|
 |**2024-07-02**|**Generalized Event Cameras**|Varun Sundar et.al.|[2407.02683](http://arxiv.org/abs/2407.02683)|null|
 |**2024-07-01**|**Real-Time Neuromorphic Navigation: Integrating Event-Based Vision and Physics-Driven Planning on a Parrot Bebop2 Quadrotor**|Amogh Joshi et.al.|[2407.00931](http://arxiv.org/abs/2407.00931)|**[link](https://github.com/amoghj98/neuronav)**|
 |**2024-06-30**|**An abstract theory of sensor eventification**|Yulin Zhang et.al.|[2407.00563](http://arxiv.org/abs/2407.00563)|null|
@@ -5343,9 +5372,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-14**|**Evolution of the DM distribution function in the density spikes around PBHs**|Yury N. Eroshenko et.al.|[2407.10225](http://arxiv.org/abs/2407.10225)|null|
+|**2024-07-14**|**StatuScale: Status-aware and Elastic Scaling Strategy for Microservice Applications**|Linfeng Wen et.al.|[2407.10173](http://arxiv.org/abs/2407.10173)|null|
+|**2024-07-14**|**SpikeGS: 3D Gaussian Splatting from Spike Streams with High-Speed Camera Motion**|Jiyuan Zhang et.al.|[2407.10062](http://arxiv.org/abs/2407.10062)|null|
+|**2024-07-13**|**Time-Integrated Spike-Timing-Dependent-Plasticity**|William Gebhardt et.al.|[2407.10028](http://arxiv.org/abs/2407.10028)|null|
+|**2024-07-12**|**Investigating the Interplay of Prioritized Replay and Generalization**|Parham Mohammad Panahi et.al.|[2407.09702](http://arxiv.org/abs/2407.09702)|null|
 |**2024-07-12**|**Evaluation of Encoding Schemes on Ubiquitous Sensor Signal for Spiking Neural Network**|Sizhen Bian et.al.|[2407.09260](http://arxiv.org/abs/2407.09260)|null|
 |**2024-07-12**|**68-Channel Highly-Integrated Neural Signal Processing PSoC with On-Chip Feature Extraction, Compression, and Hardware Accelerators for Neuroprosthetics in 22nm FDSOI**|Liyuan Guo et.al.|[2407.09166](http://arxiv.org/abs/2407.09166)|null|
-|**2024-07-12**|**BKDSNN: Enhancing the Performance of Learning-based Spiking Neural Networks Training with Blurred Knowledge Distillation**|Zekai Xu et.al.|[2407.09083](http://arxiv.org/abs/2407.09083)|null|
+|**2024-07-15**|**BKDSNN: Enhancing the Performance of Learning-based Spiking Neural Networks Training with Blurred Knowledge Distillation**|Zekai Xu et.al.|[2407.09083](http://arxiv.org/abs/2407.09083)|**[link](https://github.com/intelligent-computing-research-group/bkdsnn)**|
 |**2024-07-11**|**A Hybrid Spiking-Convolutional Neural Network Approach for Advancing Machine Learning Models**|Sanaullah et.al.|[2407.08861](http://arxiv.org/abs/2407.08861)|null|
 |**2024-07-11**|**Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware**|James Seekings et.al.|[2407.08704](http://arxiv.org/abs/2407.08704)|null|
 |**2024-07-11**|**STAL: Spike Threshold Adaptive Learning Encoder for Classification of Pain-Related Biosignal Data**|Freek Hens et.al.|[2407.08362](http://arxiv.org/abs/2407.08362)|null|
