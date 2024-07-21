@@ -1,10 +1,10 @@
-## <a id=top></a>Updated on 2024.07.20
+## <a id=top></a>Updated on 2024.07.21
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.20
+## Updated on 2024.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -6334,7 +6334,7 @@
 |**2024-07-11**|**A Hybrid Spiking-Convolutional Neural Network Approach for Advancing Machine Learning Models**|Sanaullah et.al.|[2407.08861](http://arxiv.org/abs/2407.08861)|null|
 |**2024-07-08**|**The Dynamic Net Architecture: Learning Robust and Holistic Visual Representations Through Self-Organizing Networks**|Pascal J. Sager et.al.|[2407.05650](http://arxiv.org/abs/2407.05650)|**[link](https://github.com/sagerpascal/dynamic-link-architecture)**|
 |**2024-07-04**|**Natively neuromorphic LMU architecture for encoding-free SNN-based HAR on commercial edge devices**|Vittorio Fra et.al.|[2407.04076](http://arxiv.org/abs/2407.04076)|null|
-|**2024-07-04**|**Efficient optimization of ODE neuron models using gradient descent**|Ilenna Simone Jones et.al.|[2407.04025](http://arxiv.org/abs/2407.04025)|null|
+|**2024-07-04**|**Efficient optimization of ODE neuron models using gradient descent**|Ilenna Simone Jones et.al.|[2407.04025](http://arxiv.org/abs/2407.04025)|**[link](https://github.com/ilennaj/ode_neuron_backprop)**|
 |**2024-07-04**|**A Generalized Spiking Locally Competitive Algorithm for Multiple Optimization Problems**|Xuexing Du et.al.|[2407.03930](http://arxiv.org/abs/2407.03930)|null|
 |**2024-07-01**|**A Differentiable Approach to Multi-scale Brain Modeling**|Chaoming Wang et.al.|[2406.19708](http://arxiv.org/abs/2406.19708)|**[link](https://github.com/chaoming0625/differentiable-brain-modeling-workflow)**|
 |**2024-06-19**|**An eight-neuron network for quadruped locomotion with hip-knee joint control**|Yide Liu et.al.|[2406.13419](http://arxiv.org/abs/2406.13419)|null|
