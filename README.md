@@ -1,10 +1,10 @@
-## <a id=top></a>Updated on 2024.07.25
+## <a id=top></a>Updated on 2024.07.26
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.25
+## Updated on 2024.07.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -3248,7 +3248,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-24**|**Systematic Reasoning About Relational Domains With Graph Neural Networks**|Irtaza Khalid et.al.|[2407.17396](http://arxiv.org/abs/2407.17396)|null|
+|**2024-07-24**|**Systematic Reasoning About Relational Domains With Graph Neural Networks**|Irtaza Khalid et.al.|[2407.17396](http://arxiv.org/abs/2407.17396)|**[link](https://github.com/erg0dic/gnn-sg)**|
 |**2024-07-24**|**2D and 3D Deep Learning Models for MRI-based Parkinson's Disease Classification: A Comparative Analysis of Convolutional Kolmogorov-Arnold Networks, Convolutional Neural Networks, and Graph Convolutional Networks**|Salil B Patel et.al.|[2407.17380](http://arxiv.org/abs/2407.17380)|null|
 |**2024-07-24**|**Global and Local Confidence Based Fraud Detection Graph Neural Network**|Jiaxun Liu et.al.|[2407.17333](http://arxiv.org/abs/2407.17333)|null|
 |**2024-07-24**|**Graph Neural Networks: A suitable Alternative to MLPs in Latent 3D Medical Image Classification?**|Johannes Kiechle et.al.|[2407.17219](http://arxiv.org/abs/2407.17219)|**[link](https://github.com/compai-lab/2024-miccai-grail-kiechle)**|
@@ -5506,7 +5506,7 @@
 |**2024-07-24**|**Federated Automatic Latent Variable Selection in Multi-output Gaussian Processes**|Jingyi Gao et.al.|[2407.16935](http://arxiv.org/abs/2407.16935)|null|
 |**2024-07-23**|**Constraining dark photon parameters based on the very high energy observations of blazars**|Tian-Ci Liu et.al.|[2407.16628](http://arxiv.org/abs/2407.16628)|null|
 |**2024-07-23**|**Dust rings trap protoplanets on eccentric orbits and get consumed by them**|David A. Velasco-Romero et.al.|[2407.16546](http://arxiv.org/abs/2407.16546)|null|
-|**2024-07-23**|**A Quantum Leaky Integrate-and-Fire Spiking Neuron and Network**|Dean Brand et.al.|[2407.16398](http://arxiv.org/abs/2407.16398)|null|
+|**2024-07-23**|**A Quantum Leaky Integrate-and-Fire Spiking Neuron and Network**|Dean Brand et.al.|[2407.16398](http://arxiv.org/abs/2407.16398)|**[link](https://github.com/deanbrand/QSNN)**|
 |**2024-07-23**|**Robust Bayesian Model Averaging for Linear Regression Models With Heavy-Tailed Errors**|Shamriddha De et.al.|[2407.16366](http://arxiv.org/abs/2407.16366)|null|
 |**2024-07-23**|**Bayesian modelling of VAR precision matrices using stochastic block networks**|Florian Huber et.al.|[2407.16349](http://arxiv.org/abs/2407.16349)|null|
 |**2024-07-22**|**A statistical significance test for spatio-temporal receptive field estimates obtained using spike-triggered averaging of binary pseudo-random sequences**|Murat Okatan et.al.|[2407.16013](http://arxiv.org/abs/2407.16013)|null|
