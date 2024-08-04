@@ -509,6 +509,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-01**|**LoopSparseGS: Loop Based Sparse-View Friendly Gaussian Splatting**|Zhenyu Bao et.al.|[2408.00254](http://arxiv.org/abs/2408.00254)|null|
 |**2024-07-29**|**Global Structure-from-Motion Revisited**|Linfei Pan et.al.|[2407.20219](http://arxiv.org/abs/2407.20219)|**[link](https://github.com/colmap/glomap)**|
 |**2024-07-27**|**Revisit Self-supervised Depth Estimation with Local Structure-from-Motion**|Shengjie Zhu et.al.|[2407.19166](http://arxiv.org/abs/2407.19166)|null|
 |**2024-07-16**|**NeuSurfEmb: A Complete Pipeline for Dense Correspondence-based 6D Object Pose Estimation without CAD Models**|Francesco Milano et.al.|[2407.12207](http://arxiv.org/abs/2407.12207)|**[link](https://github.com/ethz-asl/neusurfemb)**|
@@ -1582,6 +1583,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-31**|**Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**|Xusheng Luo et.al.|[2408.00117](http://arxiv.org/abs/2408.00117)|null|
 |**2024-07-26**|**SHIC: Shape-Image Correspondences with no Keypoint Supervision**|Aleksandar Shtedritski et.al.|[2407.18907](http://arxiv.org/abs/2407.18907)|null|
 |**2024-07-25**|**LION: Linear Group RNN for 3D Object Detection in Point Clouds**|Zhe Liu et.al.|[2407.18232](http://arxiv.org/abs/2407.18232)|**[link](https://github.com/happinesslz/LION)**|
 |**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
@@ -2073,6 +2075,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-31**|**StyleRF-VolVis: Style Transfer of Neural Radiance Fields for Expressive Volume Visualization**|Kaiyuan Tang et.al.|[2408.00150](http://arxiv.org/abs/2408.00150)|null|
 |**2024-07-22**|**PAV: Personalized Head Avatar from Unstructured Video Collection**|Akin Caliskan et.al.|[2407.21047](http://arxiv.org/abs/2407.21047)|null|
 |**2024-07-30**|**Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**|Yanpeng Zhao et.al.|[2407.20908](http://arxiv.org/abs/2407.20908)|**[link](https://github.com/zyp123494/dynavol)**|
 |**2024-07-29**|**Radiance Fields for Robotic Teleoperation**|Maximum Wilder-Smith et.al.|[2407.20194](http://arxiv.org/abs/2407.20194)|**[link](https://github.com/leggedrobotics/rf_ros)**|
@@ -3266,6 +3269,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-01**|**You Can't Ignore Either: Unifying Structure and Feature Denoising for Robust Graph Learning**|Tianmeng Yang et.al.|[2408.00700](http://arxiv.org/abs/2408.00700)|null|
+|**2024-08-01**|**Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation**|Chu Zhao et.al.|[2408.00490](http://arxiv.org/abs/2408.00490)|null|
+|**2024-08-01**|**Contrastive Graph Representation Learning with Adversarial Cross-view Reconstruction and Information Bottleneck**|Yuntao Shou et.al.|[2408.00295](http://arxiv.org/abs/2408.00295)|null|
+|**2024-08-01**|**Multi-Modal Parameter-Efficient Fine-tuning via Graph Neural Network**|Bin Cheng et.al.|[2408.00290](http://arxiv.org/abs/2408.00290)|null|
+|**2024-08-01**|**CDFGNN: a Systematic Design of Cache-based Distributed Full-Batch Graph Neural Network Training with Communication Reduction**|Shuai Zhang et.al.|[2408.00232](http://arxiv.org/abs/2408.00232)|null|
+|**2024-07-31**|**Non-convolutional Graph Neural Networks**|Yuanqing Wang et.al.|[2408.00165](http://arxiv.org/abs/2408.00165)|null|
 |**2024-07-31**|**UMMAN: Unsupervised Multi-graph Merge Adversarial Network for Disease Prediction Based on Intestinal Flora**|Dingkun Liu et.al.|[2407.21714](http://arxiv.org/abs/2407.21714)|null|
 |**2024-07-31**|**MART: MultiscAle Relational Transformer Networks for Multi-agent Trajectory Prediction**|Seongju Lee et.al.|[2407.21635](http://arxiv.org/abs/2407.21635)|null|
 |**2024-07-31**|**MicroMIL: Graph-based Contextual Multiple Instance Learning for Patient Diagnosis Using Microscopy Images**|JongWoo Kim et.al.|[2407.21604](http://arxiv.org/abs/2407.21604)|null|
@@ -5359,6 +5368,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-01**|**Collecting Larg-Scale Robotic Datasets on a High-Speed Mobile Platform**|Yuxin Lin et.al.|[2408.00545](http://arxiv.org/abs/2408.00545)|null|
 |**2024-07-31**|**Unifying Event-based Flow, Stereo and Depth Estimation via Feature Similarity Matching**|Pengjie Zhang et.al.|[2407.21735](http://arxiv.org/abs/2407.21735)|null|
 |**2024-07-31**|**EZSR: Event-based Zero-Shot Recognition**|Yan Yang et.al.|[2407.21616](http://arxiv.org/abs/2407.21616)|null|
 |**2024-07-30**|**Spiking-DD: Neuromorphic Event Camera based Driver Distraction Detection with Spiking Neural Network**|Waseem Shariff et.al.|[2407.20633](http://arxiv.org/abs/2407.20633)|null|
@@ -5565,6 +5575,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-01**|**Using CSNNs to Perform Event-based Data Processing & Classification on ASL-DVS**|Ria Patel et.al.|[2408.00611](http://arxiv.org/abs/2408.00611)|null|
+|**2024-08-01**|**Low-Power Vibration-Based Predictive Maintenance for Industry 4.0 using Neural Networks: A Survey**|Alexandru Vasilache et.al.|[2408.00516](http://arxiv.org/abs/2408.00516)|null|
+|**2024-08-01**|**Towards Scalable GPU-Accelerated SNN Training via Temporal Fusion**|Yanchen Li et.al.|[2408.00280](http://arxiv.org/abs/2408.00280)|null|
 |**2024-07-31**|**Mean-field approximation for networks with synchrony-driven adaptive coupling**|Niamh Fennelly et.al.|[2407.21393](http://arxiv.org/abs/2407.21393)|null|
 |**2024-07-30**|**Functional ISS-Driven Verification of Superscalar RISC-V Processors**|Andrea Galimberti et.al.|[2407.21192](http://arxiv.org/abs/2407.21192)|null|
 |**2024-07-30**|**An Asynchronous Multi-core Accelerator for SNN inference**|Zhuo Chen et.al.|[2407.20947](http://arxiv.org/abs/2407.20947)|null|
