@@ -2065,6 +2065,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting**|Joanna Kaleta et.al.|[2408.04474](http://arxiv.org/abs/2408.04474)|null|
+|**2024-08-08**|**A Review of 3D Reconstruction Techniques for Deformable Tissues in Robotic Surgery**|Mengya Xu et.al.|[2408.04426](http://arxiv.org/abs/2408.04426)|**[link](https://github.com/epsilon404/surgicalnerf)**|
+|**2024-08-08**|**Evaluating Modern Approaches in 3D Scene Reconstruction: NeRF vs Gaussian-Based Methods**|Yiming Zhou et.al.|[2408.04268](http://arxiv.org/abs/2408.04268)|null|
 |**2024-08-07**|**Goal-oriented Semantic Communication for the Metaverse Application**|Zhe Wang et.al.|[2408.03646](http://arxiv.org/abs/2408.03646)|null|
 |**2024-08-06**|**RayGauss: Volumetric Gaussian-Based Ray Casting for Photorealistic Novel View Synthesis**|Hugo Blanc et.al.|[2408.03356](http://arxiv.org/abs/2408.03356)|null|
 |**2024-08-06**|**Efficient NeRF Optimization -- Not All Samples Remain Equally Hard**|Juuso Korhonen et.al.|[2408.03193](http://arxiv.org/abs/2408.03193)|null|
@@ -3266,6 +3269,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**Advancing Molecular Machine (Learned) Representations with Stereoelectronics-Infused Molecular Graphs**|Daniil A. Boiko et.al.|[2408.04520](http://arxiv.org/abs/2408.04520)|**[link](https://github.com/gomesgroup/simg)**|
+|**2024-08-08**|**Understanding and Modeling Job Marketplace with Pretrained Language Models**|Yaochen Zhu et.al.|[2408.04381](http://arxiv.org/abs/2408.04381)|null|
+|**2024-08-08**|**Enhanced Traffic Flow Prediction with Multi-Segment Fusion Tensor Graph Convolutional Networks**|Wei Zhang et.al.|[2408.04232](http://arxiv.org/abs/2408.04232)|null|
+|**2024-08-08**|**Uncertainty-Aware Crime Prediction With Spatial Temporal Multivariate Graph Neural Networks**|Zepu Wang et.al.|[2408.04193](http://arxiv.org/abs/2408.04193)|null|
+|**2024-08-08**|**wav2graph: A Framework for Supervised Learning Knowledge Graph from Speech**|Khai Le-Duc et.al.|[2408.04174](http://arxiv.org/abs/2408.04174)|null|
+|**2024-08-07**|**Heterogeneous Graph Sequence Neural Networks for Dynamic Traffic Assignment**|Tong Liu et.al.|[2408.04131](http://arxiv.org/abs/2408.04131)|null|
+|**2024-08-07**|**Deep Generative Models for Subgraph Prediction**|Erfaneh Mahmoudzadeh et.al.|[2408.04053](http://arxiv.org/abs/2408.04053)|null|
 |**2024-08-07**|**Knowledge Probing for Graph Representation Learning**|Mingyu Zhao et.al.|[2408.03877](http://arxiv.org/abs/2408.03877)|null|
 |**2024-08-07**|**Beyond Over-smoothing: Uncovering the Trainability Challenges in Deep Graph Neural Networks**|Jie Peng et.al.|[2408.03669](http://arxiv.org/abs/2408.03669)|null|
 |**2024-08-06**|**A Study on Quantum Graph Neural Networks Applied to Molecular Physics**|Simone Piperno et.al.|[2408.03427](http://arxiv.org/abs/2408.03427)|null|
@@ -5389,6 +5399,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**LiDAR-Event Stereo Fusion with Hallucinations**|Luca Bartolomei et.al.|[2408.04633](http://arxiv.org/abs/2408.04633)|**[link](https://github.com/bartn8/eventvppstereo)**|
 |**2024-08-06**|**Line-based 6-DoF Object Pose Estimation and Tracking With an Event Camera**|Zibin Liu et.al.|[2408.03225](http://arxiv.org/abs/2408.03225)|**[link](https://github.com/zibin6/lopet)**|
 |**2024-08-02**|**EVIT: Event-based Visual-Inertial Tracking in Semi-Dense Maps Using Windowed Nonlinear Optimization**|Runze Yuan et.al.|[2408.01370](http://arxiv.org/abs/2408.01370)|null|
 |**2024-08-01**|**Collecting Larg-Scale Robotic Datasets on a High-Speed Mobile Platform**|Yuxin Lin et.al.|[2408.00545](http://arxiv.org/abs/2408.00545)|null|
@@ -5596,6 +5607,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**Sparse Spiking Neural-like Membrane Systems on Graphics Processing Units**|Javier Hernández-Tello et.al.|[2408.04343](http://arxiv.org/abs/2408.04343)|null|
+|**2024-08-07**|**Case studies on pre-eruptive X-class flares using R-value in the lower solar atmosphere**|Shreeyesh Biswal et.al.|[2408.04018](http://arxiv.org/abs/2408.04018)|null|
 |**2024-08-06**|**Synaptic Modulation using Interspike Intervals Increases Energy Efficiency of Spiking Neural Networks**|Dylan Adams et.al.|[2408.02961](http://arxiv.org/abs/2408.02961)|null|
 |**2024-08-04**|**Abstraction in Neural Networks**|Nancy Lynch et.al.|[2408.02125](http://arxiv.org/abs/2408.02125)|null|
 |**2024-08-04**|**Configuring Safe Spiking Neural Controllers for Cyber-Physical Systems through Formal Verification**|Arkaprava Gupta et.al.|[2408.01996](http://arxiv.org/abs/2408.01996)|null|
@@ -6515,6 +6528,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**Harmonic fractal transformation, 4R-regeneration and noise shaping for ultra wide-band reception in FitzHugh-Nagumo neuronal model**|Mariia Sorokina et.al.|[2408.03951](http://arxiv.org/abs/2408.03951)|null|
 |**2024-07-16**|**Spike Talk: Genesis and Neural Coding Scheme Translations**|Subham Sahoo et.al.|[2408.00773](http://arxiv.org/abs/2408.00773)|null|
 |**2024-07-09**|**Synchronization in a small-world network of non-identical Chialvo neurons**|J. Used et.al.|[2407.18922](http://arxiv.org/abs/2407.18922)|null|
 |**2024-07-18**|**BRSR-OpGAN: Blind Radar Signal Restoration using Operational Generative Adversarial Network**|Muhammad Uzair Zahid et.al.|[2407.13949](http://arxiv.org/abs/2407.13949)|null|
