@@ -837,7 +837,7 @@ layout: default
 |**2024-04-20**|**High-fidelity Endoscopic Image Synthesis by Utilizing Depth-guided Neural Surfaces**|Baoru Huang et.al.|[2404.13437](http://arxiv.org/abs/2404.13437)|null|
 |**2024-04-20**|**Collaborative Visual Place Recognition through Federated Learning**|Mattia Dutto et.al.|[2404.13324](http://arxiv.org/abs/2404.13324)|null|
 |**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339](http://arxiv.org/abs/2404.12339)|null|
-|**2024-04-17**|**Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives**|Zhangchi Feng et.al.|[2404.11317](http://arxiv.org/abs/2404.11317)|null|
+|**2024-04-17**|**Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives**|Zhangchi Feng et.al.|[2404.11317](http://arxiv.org/abs/2404.11317)|**[link](https://github.com/BUAADreamer/SPN4CIR)**|
 |**2024-04-17**|**Spatial-Aware Image Retrieval: A Hyperdimensional Computing Approach for Efficient Similarity Hashing**|Sanggeon Yun et.al.|[2404.11025](http://arxiv.org/abs/2404.11025)|null|
 |**2024-04-16**|**SPVLoc: Semantic Panoramic Viewport Matching for 6D Camera Localization in Unseen Environments**|Niklas Gard et.al.|[2404.10527](http://arxiv.org/abs/2404.10527)|**[link](https://github.com/fraunhoferhhi/spvloc)**|
 |**2024-04-20**|**CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**|Haojian Huang et.al.|[2404.09640](http://arxiv.org/abs/2404.09640)|**[link](https://github.com/JethroJames/CREST)**|
@@ -3294,7 +3294,7 @@ layout: default
 |**2024-08-04**|**A Semi-supervised Multi-channel Graph Convolutional Network for Query Classification in E-commerce**|Chunyuan Yuan et.al.|[2408.01928](http://arxiv.org/abs/2408.01928)|null|
 |**2024-08-04**|**A Comprehensive Survey on GNN Characterization**|Meng Wu et.al.|[2408.01902](http://arxiv.org/abs/2408.01902)|null|
 |**2024-08-03**|**Signal-SGN: A Spiking Graph Convolutional Network for Skeletal Action Recognition via Learning Temporal-Frequency Dynamics**|Naichuan Zheng et.al.|[2408.01701](http://arxiv.org/abs/2408.01701)|null|
-|**2024-08-03**|**Invariant Graph Learning Meets Information Bottleneck for Out-of-Distribution Generalization**|Wenyu Mao et.al.|[2408.01697](http://arxiv.org/abs/2408.01697)|null|
+|**2024-08-03**|**Invariant Graph Learning Meets Information Bottleneck for Out-of-Distribution Generalization**|Wenyu Mao et.al.|[2408.01697](http://arxiv.org/abs/2408.01697)|**[link](https://github.com/maowenyu-11/infoigl)**|
 |**2024-08-02**|**Efficient Graph Coloring with Neural Networks: A Physics-Inspired Approach for Large Graphs**|Lorenzo Colantonio et.al.|[2408.01503](http://arxiv.org/abs/2408.01503)|null|
 |**2024-08-02**|**Derivation of Back-propagation for Graph Convolutional Networks using Matrix Calculus and its Application to Explainable Artificial Intelligence**|Yen-Che Hsiao et.al.|[2408.01408](http://arxiv.org/abs/2408.01408)|null|
 |**2024-08-02**|**Tailoring Graph Neural Network-based Flow-guided Localization to Individual Bloodstreams and Activities**|Pablo Galván et.al.|[2408.01239](http://arxiv.org/abs/2408.01239)|null|
@@ -5854,7 +5854,7 @@ layout: default
 |**2024-04-30**|**DelGrad: Exact gradients in spiking networks for learning transmission delays and weights**|Julian Göltz et.al.|[2404.19165](http://arxiv.org/abs/2404.19165)|null|
 |**2024-04-29**|**Sparse Sampling in Fractional Fourier Domain: Recovery Guarantees and Cramér-Rao Bounds**|Václav Pavlíček et.al.|[2404.18850](http://arxiv.org/abs/2404.18850)|null|
 |**2024-04-29**|**The Constant in HATE: Analyzing Toxicity in Reddit across Topics and Languages**|Wondimagegnhue Tsegaye Tufa et.al.|[2404.18726](http://arxiv.org/abs/2404.18726)|**[link](https://github.com/cltl/reddit_topic)**|
-|**2024-04-29**|**Scalable Event-by-event Processing of Neuromorphic Sensory Signals With Deep State-Space Models**|Mark Schöne et.al.|[2404.18508](http://arxiv.org/abs/2404.18508)|null|
+|**2024-04-29**|**Scalable Event-by-event Processing of Neuromorphic Sensory Signals With Deep State-Space Models**|Mark Schöne et.al.|[2404.18508](http://arxiv.org/abs/2404.18508)|**[link](https://github.com/Efficient-Scalable-Machine-Learning/event-ssm)**|
 |**2024-04-28**|**Quantized Context Based LIF Neurons for Recurrent Spiking Neural Networks in 45nm**|Sai Sukruth Bezugam et.al.|[2404.18066](http://arxiv.org/abs/2404.18066)|null|
 |**2024-04-26**|**Stochastic Spiking Neural Networks with First-to-Spike Coding**|Yi Jiang et.al.|[2404.17719](http://arxiv.org/abs/2404.17719)|null|
 |**2024-04-26**|**Converting High-Performance and Low-Latency SNNs through Explicit Modelling of Residual Error in ANNs**|Zhipeng Huang et.al.|[2404.17456](http://arxiv.org/abs/2404.17456)|null|
