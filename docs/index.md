@@ -1,4 +1,4 @@
-## <a id=top></a>Updated on 2024.08.16
+## <a id=top></a>Updated on 2024.08.17
 ---
 layout: default
 ---
@@ -8,7 +8,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.16
+## Updated on 2024.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## <a id=slam>SLAM</a>
@@ -1824,7 +1824,7 @@ layout: default
 |**2024-08-09**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823](http://arxiv.org/abs/2408.04823)|null|
 |**2024-08-07**|**PRISM: PRogressive dependency maxImization for Scale-invariant image Matching**|Xudong Cai et.al.|[2408.03598](http://arxiv.org/abs/2408.03598)|null|
 |**2024-08-05**|**ConDL: Detector-Free Dense Image Matching**|Monika Kwiatkowski et.al.|[2408.02766](http://arxiv.org/abs/2408.02766)|null|
-|**2024-08-04**|**Improving Neural Surface Reconstruction with Feature Priors from Multi-View Image**|Xinlin Ren et.al.|[2408.02079](http://arxiv.org/abs/2408.02079)|null|
+|**2024-08-04**|**Improving Neural Surface Reconstruction with Feature Priors from Multi-View Image**|Xinlin Ren et.al.|[2408.02079](http://arxiv.org/abs/2408.02079)|**[link](https://github.com/maybeLx/MVS_NeuS)**|
 |**2024-07-29**|**Image-text matching for large-scale book collections**|Artemis Llabrés et.al.|[2407.19812](http://arxiv.org/abs/2407.19812)|**[link](https://github.com/llabres/library-dataset)**|
 |**2024-07-26**|**PIV3CAMS: a multi-camera dataset for multiple computer vision problems and its application to novel view-point synthesis**|Sohyeong Kim et.al.|[2407.18695](http://arxiv.org/abs/2407.18695)|null|
 |**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
@@ -2079,7 +2079,7 @@ layout: default
 |**2024-08-13**|**Potamoi: Accelerating Neural Rendering via a Unified Streaming Architecture**|Yu Feng et.al.|[2408.06608](http://arxiv.org/abs/2408.06608)|null|
 |**2024-08-13**|**ActiveNeRF: Learning Accurate 3D Geometry by Active Pattern Projection**|Jianyu Tao et.al.|[2408.06592](http://arxiv.org/abs/2408.06592)|**[link](https://github.com/hcp16/active_nerf)**|
 |**2024-08-13**|**HDRGS: High Dynamic Range Gaussian Splatting**|Jiahao Wu et.al.|[2408.06543](http://arxiv.org/abs/2408.06543)|**[link](https://github.com/wujh2001/hdrgs)**|
-|**2024-08-12**|**Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering**|Jiameng Li et.al.|[2408.06286](http://arxiv.org/abs/2408.06286)|null|
+|**2024-08-12**|**Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering**|Jiameng Li et.al.|[2408.06286](http://arxiv.org/abs/2408.06286)|**[link](https://github.com/renaissanceee/mipmap-gs)**|
 |**2024-08-12**|**3D Reconstruction of Protein Structures from Multi-view AFM Images using Neural Radiance Fields (NeRFs)**|Jaydeep Rade et.al.|[2408.06244](http://arxiv.org/abs/2408.06244)|null|
 |**2024-08-10**|**Radiance Field Learners As UAV First-Person Viewers**|Liqi Yan et.al.|[2408.05533](http://arxiv.org/abs/2408.05533)|null|
 |**2024-08-09**|**DreamCouple: Exploring High Quality Text-to-3D Generation Via Rectified Flow**|Hangyu Li et.al.|[2408.05008](http://arxiv.org/abs/2408.05008)|null|
@@ -3295,9 +3295,9 @@ layout: default
 |**2024-08-14**|**Towards Few-shot Self-explaining Graph Neural Networks**|Jingyu Peng et.al.|[2408.07340](http://arxiv.org/abs/2408.07340)|**[link](https://github.com/jypeng28/mse-gnn)**|
 |**2024-08-14**|**RSEA-MVGNN: Multi-View Graph Neural Network with Reliable Structural Enhancement and Aggregation**|Junyu Chen et.al.|[2408.07331](http://arxiv.org/abs/2408.07331)|null|
 |**2024-08-13**|**Pan-cancer gene set discovery via scRNA-seq for optimal deep learning based downstream tasks**|Jong Hyun Kim et.al.|[2408.07233](http://arxiv.org/abs/2408.07233)|null|
-|**2024-08-13**|**Joint Graph Rewiring and Feature Denoising via Spectral Resonance**|Jonas Linkerhägner et.al.|[2408.07191](http://arxiv.org/abs/2408.07191)|null|
+|**2024-08-13**|**Joint Graph Rewiring and Feature Denoising via Spectral Resonance**|Jonas Linkerhägner et.al.|[2408.07191](http://arxiv.org/abs/2408.07191)|**[link](https://github.com/jlinki/JDR)**|
 |**2024-08-13**|**Physics-informed graph neural networks for flow field estimation in carotid arteries**|Julian Suk et.al.|[2408.07110](http://arxiv.org/abs/2408.07110)|null|
-|**2024-08-13**|**Machine Learning Message-Passing for the Scalable Decoding of QLDPC Codes**|Arshpreet Singh Maan et.al.|[2408.07038](http://arxiv.org/abs/2408.07038)|null|
+|**2024-08-13**|**Machine Learning Message-Passing for the Scalable Decoding of QLDPC Codes**|Arshpreet Singh Maan et.al.|[2408.07038](http://arxiv.org/abs/2408.07038)|**[link](https://github.com/arshpreetmaan/astra)**|
 |**2024-08-13**|**LLMs can Schedule**|Henrik Abgaryan et.al.|[2408.06993](http://arxiv.org/abs/2408.06993)|**[link](https://github.com/starjob42/datasetjsp)**|
 |**2024-08-13**|**Graph Neural Network Approach to Predict the Effects of Road Capacity Reduction Policies: A Case Study for Paris, France**|Elena Natterer et.al.|[2408.06762](http://arxiv.org/abs/2408.06762)|null|
 |**2024-08-13**|**Computation-friendly Graph Neural Network Design by Accumulating Knowledge on Large Language Models**|Jialiang Wang et.al.|[2408.06717](http://arxiv.org/abs/2408.06717)|null|
@@ -5669,7 +5669,7 @@ layout: default
 |**2024-08-14**|**Analog Spiking Neuron in CMOS 28 nm Towards Large-Scale Neuromorphic Processors**|Marwan Besrour et.al.|[2408.07734](http://arxiv.org/abs/2408.07734)|null|
 |**2024-08-14**|**Model-Based Control of Water Treatment with Pumped Water Storage**|Ryan Mauery et.al.|[2408.07696](http://arxiv.org/abs/2408.07696)|null|
 |**2024-08-14**|**Embodied Biocomputing Sequential Circuits with Data Processing and Storage for Neurons-on-a-chip**|Giulio Basso et.al.|[2408.07628](http://arxiv.org/abs/2408.07628)|null|
-|**2024-08-14**|**Advancing Spatio-Temporal Processing in Spiking Neural Networks through Adaptation**|Maximilian Baronig et.al.|[2408.07517](http://arxiv.org/abs/2408.07517)|null|
+|**2024-08-14**|**Advancing Spatio-Temporal Processing in Spiking Neural Networks through Adaptation**|Maximilian Baronig et.al.|[2408.07517](http://arxiv.org/abs/2408.07517)|**[link](https://github.com/IGITUGraz/SE-adlif)**|
 |**2024-08-14**|**DPSNN: Spiking Neural Network for Low-Latency Streaming Speech Enhancement**|Tao Sun et.al.|[2408.07388](http://arxiv.org/abs/2408.07388)|null|
 |**2024-08-14**|**Fast Bayesian inference in a class of sparse linear mixed effects models**|M-Z. Spyropoulou et.al.|[2408.07365](http://arxiv.org/abs/2408.07365)|null|
 |**2024-08-13**|**The Potential of Combined Learning Strategies to Enhance Energy Efficiency of Spiking Neuromorphic Systems**|Ali Shiri Sichani et.al.|[2408.07150](http://arxiv.org/abs/2408.07150)|null|
@@ -6602,7 +6602,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-14**|**Advancing Spatio-Temporal Processing in Spiking Neural Networks through Adaptation**|Maximilian Baronig et.al.|[2408.07517](http://arxiv.org/abs/2408.07517)|null|
+|**2024-08-14**|**Advancing Spatio-Temporal Processing in Spiking Neural Networks through Adaptation**|Maximilian Baronig et.al.|[2408.07517](http://arxiv.org/abs/2408.07517)|**[link](https://github.com/IGITUGraz/SE-adlif)**|
 |**2024-07-22**|**Signal selective amplification for below-the-threshold stimulus in Fitzhugh-Nagumo neuronal model**|Mariia Sorokina et.al.|[2408.04635](http://arxiv.org/abs/2408.04635)|null|
 |**2024-07-22**|**Harmonic fractal transformation, 4R-regeneration and noise shaping for ultra wide-band reception in FitzHugh-Nagumo neuronal model**|Mariia Sorokina et.al.|[2408.03951](http://arxiv.org/abs/2408.03951)|null|
 |**2024-07-16**|**Spike Talk: Genesis and Neural Coding Scheme Translations**|Subham Sahoo et.al.|[2408.00773](http://arxiv.org/abs/2408.00773)|null|
