@@ -1,10 +1,10 @@
-## <a id=top></a>Updated on 2024.08.20
+## <a id=top></a>Updated on 2024.08.21
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.20
+## Updated on 2024.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -5510,7 +5510,7 @@
 |**2024-08-16**|**CoSEC: A Coaxial Stereo Event Camera Dataset for Autonomous Driving**|Shihan Peng et.al.|[2408.08500](http://arxiv.org/abs/2408.08500)|null|
 |**2024-08-15**|**Monte Carlo Path Tracing and Statistical Event Detection for Event Camera Simulation**|Yuichiro Manabe et.al.|[2408.07996](http://arxiv.org/abs/2408.07996)|**[link](https://github.com/ichi-raven/mc-ebcs)**|
 |**2024-08-13**|**Event-Stream Super Resolution using Sigma-Delta Neural Network**|Waseem Shariff et.al.|[2408.06968](http://arxiv.org/abs/2408.06968)|null|
-|**2024-08-13**|**EE3P3D: Event-based Estimation of Periodic Phenomena Frequency using 3D Correlation**|Jakub Kolář et.al.|[2408.06899](http://arxiv.org/abs/2408.06899)|**[link](https://github.com/JackPieCZ/EE3P3D)**|
+|**2024-08-19**|**EEPPR: Event-based Estimation of Periodic Phenomena Rate using Correlation in 3D**|Jakub Kolář et.al.|[2408.06899](http://arxiv.org/abs/2408.06899)|**[link](https://github.com/JackPieCZ/EE3P3D)**|
 |**2024-08-12**|**Rethinking Video with a Universal Event-Based Representation**|Andrew Freeman et.al.|[2408.06248](http://arxiv.org/abs/2408.06248)|null|
 |**2024-08-10**|**EV-MGDispNet: Motion-Guided Event-Based Stereo Disparity Estimation Network with Left-Right Consistency**|Junjie Jiang et.al.|[2408.05452](http://arxiv.org/abs/2408.05452)|null|
 |**2024-08-08**|**LiDAR-Event Stereo Fusion with Hallucinations**|Luca Bartolomei et.al.|[2408.04633](http://arxiv.org/abs/2408.04633)|**[link](https://github.com/bartn8/eventvppstereo)**|
