@@ -3664,7 +3664,7 @@
 |**2024-07-12**|**Graph Neural Network Causal Explanation via Neural Causal Models**|Arman Behnam et.al.|[2407.09378](http://arxiv.org/abs/2407.09378)|**[link](https://github.com/armanbehnam/cxgnn)**|
 |**2024-07-12**|**GNN with Model-based RL for Multi-agent Systems**|Hanxiao Chen et.al.|[2407.09249](http://arxiv.org/abs/2407.09249)|null|
 |**2024-07-12**|**Conformal Inductive Graph Neural Networks**|Soroush H. Zargarbashi et.al.|[2407.09173](http://arxiv.org/abs/2407.09173)|null|
-|**2024-07-12**|**SlideGCD: Slide-based Graph Collaborative Training with Knowledge Distillation for Whole Slide Image Classification**|Tong Shu et.al.|[2407.08968](http://arxiv.org/abs/2407.08968)|null|
+|**2024-07-12**|**SlideGCD: Slide-based Graph Collaborative Training with Knowledge Distillation for Whole Slide Image Classification**|Tong Shu et.al.|[2407.08968](http://arxiv.org/abs/2407.08968)|**[link](https://github.com/hfut-mialab/slidegcd)**|
 |**2024-07-12**|**Domain-Hierarchy Adaptation via Chain of Iterative Reasoning for Few-shot Hierarchical Text Classification**|Ke Ji et.al.|[2407.08959](http://arxiv.org/abs/2407.08959)|null|
 |**2024-07-11**|**Deep Inverse Design for High-Level Synthesis**|Ping Chang et.al.|[2407.08797](http://arxiv.org/abs/2407.08797)|null|
 |**2024-07-11**|**Robust Generalization of Graph Neural Networks for Carrier Scheduling**|Daniel F. Perez-Ramirez et.al.|[2407.08479](http://arxiv.org/abs/2407.08479)|null|
@@ -3782,7 +3782,7 @@
 |**2024-06-18**|**Federated Learning with Limited Node Labels**|Bisheng Tang et.al.|[2406.12435](http://arxiv.org/abs/2406.12435)|null|
 |**2024-06-18**|**SAGDFN: A Scalable Adaptive Graph Diffusion Forecasting Network for Multivariate Time Series Forecasting**|Yue Jiang et.al.|[2406.12282](http://arxiv.org/abs/2406.12282)|**[link](https://github.com/JIANGYUE61610306/SAGDFN)**|
 |**2024-06-17**|**Thermodynamic Transferability in Coarse-Grained Force Fields using Graph Neural Networks**|Emily Shinkle et.al.|[2406.12112](http://arxiv.org/abs/2406.12112)|null|
-|**2024-06-17**|**Composing Object Relations and Attributes for Image-Text Matching**|Khoi Pham et.al.|[2406.11820](http://arxiv.org/abs/2406.11820)|null|
+|**2024-06-17**|**Composing Object Relations and Attributes for Image-Text Matching**|Khoi Pham et.al.|[2406.11820](http://arxiv.org/abs/2406.11820)|**[link](https://github.com/vkhoi/cora_cvpr24)**|
 |**2024-06-17**|**Graph Neural Re-Ranking via Corpus Graph**|Andrea Giuseppe Di Francesco et.al.|[2406.11720](http://arxiv.org/abs/2406.11720)|null|
 |**2024-06-17**|**Scalable Expressiveness through Preprocessed Graph Perturbations**|Danial Saber et.al.|[2406.11714](http://arxiv.org/abs/2406.11714)|**[link](https://github.com/Danial-sb/SE2P)**|
 |**2024-06-17**|**On the Feasibility of Fidelity $^-$ for Graph Pruning**|Yong-Min Shin et.al.|[2406.11504](http://arxiv.org/abs/2406.11504)|null|
@@ -3971,7 +3971,7 @@
 |**2024-05-15**|**SMUG-Explain: A Framework for Symbolic Music Graph Explanations**|Emmanouil Karystinaios et.al.|[2405.09241](http://arxiv.org/abs/2405.09241)|**[link](https://github.com/manoskary/smug-explain)**|
 |**2024-05-15**|**Unraveling impacts of polycrystalline microstructures on ionic conductivity of ceramic electrolytes by computational homogenization and machine learning**|Xiang-Long Peng et.al.|[2405.09227](http://arxiv.org/abs/2405.09227)|null|
 |**2024-05-15**|**StateGuard: Detecting State Derailment Defects in Decentralized Exchange Smart Contract**|Zongwei Li et.al.|[2405.09181](http://arxiv.org/abs/2405.09181)|null|
-|**2024-05-15**|**Enhancing Function Name Prediction using Votes-Based Name Tokenization and Multi-Task Learning**|Xiaoling Zhang et.al.|[2405.09112](http://arxiv.org/abs/2405.09112)|null|
+|**2024-05-15**|**Enhancing Function Name Prediction using Votes-Based Name Tokenization and Multi-Task Learning**|Xiaoling Zhang et.al.|[2405.09112](http://arxiv.org/abs/2405.09112)|**[link](https://github.com/Xiaolinger-Z/Epitome)**|
 |**2024-05-15**|**Deep Learning in Earthquake Engineering: A Comprehensive Review**|Yazhou Xie et.al.|[2405.09021](http://arxiv.org/abs/2405.09021)|null|
 |**2024-05-14**|**Certifying Robustness of Graph Convolutional Networks for Node Perturbation with Polyhedra Abstract Interpretation**|Boqi Chen et.al.|[2405.08645](http://arxiv.org/abs/2405.08645)|null|
 |**2024-05-14**|**Chemical-motif characterization of short-range order with E(3)-equivariant graph neural networks**|Killian Sheriff et.al.|[2405.08628](http://arxiv.org/abs/2405.08628)|null|
@@ -4880,7 +4880,7 @@
 |**2023-11-22**|**Complexity-Guided Curriculum Learning for Text Graphs**|Nidhi Vakil et.al.|[2311.13472](http://arxiv.org/abs/2311.13472)|null|
 |**2023-11-22**|**Accelerating Inference in Molecular Diffusion Models with Latent Representations of Protein Structure**|Ian Dunn et.al.|[2311.13466](http://arxiv.org/abs/2311.13466)|**[link](https://github.com/dunni3/keypoint-diffusion)**|
 |**2023-11-22**|**From Images to Connections: Can DQN with GNNs learn the Strategic Game of Hex?**|Yannik Keller et.al.|[2311.13414](http://arxiv.org/abs/2311.13414)|**[link](https://github.com/yannikkellerde/gnn_hex)**|
-|**2023-11-22**|**Comprehensive Evaluation of GNN Training Systems: A Data Management Perspective**|Hao Yuan et.al.|[2311.13279](http://arxiv.org/abs/2311.13279)|null|
+|**2023-11-22**|**Comprehensive Evaluation of GNN Training Systems: A Data Management Perspective**|Hao Yuan et.al.|[2311.13279](http://arxiv.org/abs/2311.13279)|**[link](https://github.com/idc-neu/neutronbench)**|
 |**2023-11-22**|**Hard Label Black Box Node Injection Attack on Graph Neural Networks**|Yu Zhou et.al.|[2311.13244](http://arxiv.org/abs/2311.13244)|**[link](https://github.com/bryanzhou008/hard_label_black_box_attack_gnn)**|
 |**2023-11-22**|**NeutronOrch: Rethinking Sample-based GNN Training under CPU-GPU Heterogeneous Environments**|Xin Ai et.al.|[2311.13225](http://arxiv.org/abs/2311.13225)|null|
 |**2023-11-21**|**Neural Graph Control Barrier Functions Guided Distributed Collision-avoidance Multi-agent Control**|Songyuan Zhang et.al.|[2311.13014](http://arxiv.org/abs/2311.13014)|null|
@@ -5900,7 +5900,7 @@
 |**2024-08-29**|**Spiking Diffusion Models**|Jiahang Cao et.al.|[2408.16467](http://arxiv.org/abs/2408.16467)|**[link](https://github.com/andycao1125/sdm)**|
 |**2024-08-29**|**Chemometrics-aided Surface-enhanced Raman spectrometric detection and quantification of GH and TE hormones in blood**|Annah M. Ondieki et.al.|[2408.16413](http://arxiv.org/abs/2408.16413)|null|
 |**2024-08-28**|**Accelerating Sensor Fusion in Neuromorphic Computing: A Case Study on Loihi-2**|Murat Isik et.al.|[2408.16096](http://arxiv.org/abs/2408.16096)|null|
-|**2024-08-28**|**A Model-Free Method to Quantify Memory Utilization in Neural Point Processes**|Gorana Mijatovic et.al.|[2408.15875](http://arxiv.org/abs/2408.15875)|null|
+|**2024-08-28**|**A Model-Free Method to Quantify Memory Utilization in Neural Point Processes**|Gorana Mijatovic et.al.|[2408.15875](http://arxiv.org/abs/2408.15875)|**[link](https://github.com/mijatovicg/cMUR)**|
 |**2024-08-28**|**NeuroVE: Brain-inspired Linear-Angular Velocity Estimation with Spiking Neural Networks**|Xiao Li et.al.|[2408.15663](http://arxiv.org/abs/2408.15663)|null|
 |**2024-08-28**|**FireFly-S: Exploiting Dual-Side Sparsity for Spiking Neural Networks Acceleration with Reconfigurable Spatial Architecture**|Tenglong Li et.al.|[2408.15578](http://arxiv.org/abs/2408.15578)|null|
 |**2024-08-27**|**PMSN: A Parallel Multi-compartment Spiking Neuron for Multi-scale Temporal Processing**|Xinyi Chen et.al.|[2408.14917](http://arxiv.org/abs/2408.14917)|null|
@@ -6215,7 +6215,7 @@
 |**2024-04-23**|**Eigenvector distributions and optimal shrinkage estimators for large covariance and precision matrices**|Xiucai Ding et.al.|[2404.14751](http://arxiv.org/abs/2404.14751)|null|
 |**2024-04-22**|**Shapiro Steps and Stability of Skyrmions Interacting with Alternating Anisotropy Under the Influence of ac and dc Drives**|J. C. Bellizotti Souza et.al.|[2404.14612](http://arxiv.org/abs/2404.14612)|null|
 |**2024-04-22**|**Adapting to time: why nature evolved a diverse set of neurons**|Karim G. Habashy et.al.|[2404.14325](http://arxiv.org/abs/2404.14325)|null|
-|**2024-04-22**|**Exploring neural oscillations during speech perception via surrogate gradient spiking neural networks**|Alexandre Bittar et.al.|[2404.14024](http://arxiv.org/abs/2404.14024)|null|
+|**2024-04-22**|**Exploring neural oscillations during speech perception via surrogate gradient spiking neural networks**|Alexandre Bittar et.al.|[2404.14024](http://arxiv.org/abs/2404.14024)|**[link](https://github.com/idiap/sparse)**|
 |**2024-04-22**|**Quantitative Analysis of Roles of Direct and Indirect Pathways for Action Selection in The Basal Ganglia**|Sang-Yoon Kim et.al.|[2404.13888](http://arxiv.org/abs/2404.13888)|null|
 |**2024-04-21**|**A stable and accurate discretization for fractional-order adaptive exponential integrate-and-fire models**|Alexandru Fikl et.al.|[2404.13554](http://arxiv.org/abs/2404.13554)|null|
 |**2024-04-19**|**Phase-space analysis of a two-section InP laser as an all-optical spiking neuron: dependency on control and design parameters**|Lukas Puts et.al.|[2404.12771](http://arxiv.org/abs/2404.12771)|null|
