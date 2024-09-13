@@ -731,13 +731,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Structured Pruning for Efficient Visual Place Recognition**|Oliver Grainge et.al.|[2409.07834](http://arxiv.org/abs/2409.07834)|null|
 |**2024-09-10**|**GeoCalib: Learning Single-image Calibration with Geometric Optimization**|Alexander Veicht et.al.|[2409.06704](http://arxiv.org/abs/2409.06704)|**[link](https://github.com/cvg/geocalib)**|
 |**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi et.al.|[2409.06471](http://arxiv.org/abs/2409.06471)|**[link](https://github.com/yujiaoshi/g2sweakly)**|
 |**2024-09-10**|**A Cross-Font Image Retrieval Network for Recognizing Undeciphered Oracle Bone Inscriptions**|Zhicong Wu et.al.|[2409.06381](http://arxiv.org/abs/2409.06381)|null|
 |**2024-09-09**|**Referring Expression Generation in Visually Grounded Dialogue with Discourse-aware Comprehension Guiding**|Bram Willemsen et.al.|[2409.05721](http://arxiv.org/abs/2409.05721)|**[link](https://github.com/willemsenbram/reg-with-guiding)**|
 |**2024-09-09**|**Open-World Dynamic Prompt and Continual Visual Representation Learning**|Youngeun Kim et.al.|[2409.05312](http://arxiv.org/abs/2409.05312)|null|
 |**2024-09-12**|**Training-free ZS-CIR via Weighted Modality Fusion and Similarity**|Ren-Di Wu et.al.|[2409.04918](http://arxiv.org/abs/2409.04918)|null|
-|**2024-09-06**|**Zero-Shot Whole Slide Image Retrieval in Histopathology Using Embeddings of Foundation Models**|Saghir Alfasly et.al.|[2409.04631](http://arxiv.org/abs/2409.04631)|null|
+|**2024-09-12**|**Zero-Shot Whole Slide Image Retrieval in Histopathology Using Embeddings of Foundation Models**|Saghir Alfasly et.al.|[2409.04631](http://arxiv.org/abs/2409.04631)|null|
 |**2024-09-06**|**Reprojection Errors as Prompts for Efficient Scene Coordinate Regression**|Ting-Ru Liu et.al.|[2409.04178](http://arxiv.org/abs/2409.04178)|null|
 |**2024-09-06**|**Matched Filtering based LiDAR Place Recognition for Urban and Natural Environments**|Therese Joseph et.al.|[2409.03998](http://arxiv.org/abs/2409.03998)|null|
 |**2024-09-04**|**Design and Evaluation of Camera-Centric Mobile Crowdsourcing Applications**|Abby Stylianou et.al.|[2409.03012](http://arxiv.org/abs/2409.03012)|null|
@@ -2130,11 +2131,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors**|Thomas Hanwen Zhu et.al.|[2409.08278](http://arxiv.org/abs/2409.08278)|null|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
 |**2024-09-11**|**ThermalGaussian: Thermal 3D Gaussian Splatting**|Rongfeng Lu et.al.|[2409.07200](http://arxiv.org/abs/2409.07200)|null|
 |**2024-09-10**|**LEIA: Latent View-invariant Embeddings for Implicit 3D Articulation**|Archana Swaminathan et.al.|[2409.06703](http://arxiv.org/abs/2409.06703)|null|
 |**2024-09-10**|**Sources of Uncertainty in 3D Scene Reconstruction**|Marcus Klasson et.al.|[2409.06407](http://arxiv.org/abs/2409.06407)|**[link](https://github.com/aaltoml/uncertainty-nerf-gs)**|
-|**2024-09-09**|**LSE-NeRF: Learning Sensor Modeling Errors for Deblured Neural Radiance Fields with RGB-Event Stereo**|Wei Zhi Tang et.al.|[2409.06104](http://arxiv.org/abs/2409.06104)|null|
+|**2024-09-09**|**LSE-NeRF: Learning Sensor Modeling Errors for Deblured Neural Radiance Fields with RGB-Event Stereo**|Wei Zhi Tang et.al.|[2409.06104](http://arxiv.org/abs/2409.06104)|**[link](https://github.com/ubc-vision/lsenerf)**|
 |**2024-09-09**|**G-NeLF: Memory- and Data-Efficient Hybrid Neural Light Field for Novel View Synthesis**|Lutao Jiang et.al.|[2409.05617](http://arxiv.org/abs/2409.05617)|null|
 |**2024-09-09**|**From Words to Poses: Enhancing Novel Object Pose Estimation with Vision Language Models**|Tessa Pulli et.al.|[2409.05413](http://arxiv.org/abs/2409.05413)|null|
 |**2024-09-09**|**KRONC: Keypoint-based Robust Camera Optimization for 3D Car Reconstruction**|Davide Di Nucci et.al.|[2409.05407](http://arxiv.org/abs/2409.05407)|null|
@@ -3384,6 +3386,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Learning incomplete factorization preconditioners for GMRES**|Paul Häusner et.al.|[2409.08262](http://arxiv.org/abs/2409.08262)|**[link](https://github.com/paulhausner/neural-incomplete-factorization)**|
+|**2024-09-12**|**CliquePH: Higher-Order Information for Graph Neural Networks through Persistent Homology on Clique Graphs**|Davide Buffelli et.al.|[2409.08217](http://arxiv.org/abs/2409.08217)|null|
+|**2024-09-12**|**Gaussian Garments: Reconstructing Simulation-Ready Clothing with Photorealistic Appearance from Multi-View Video**|Boxiang Rong et.al.|[2409.08189](http://arxiv.org/abs/2409.08189)|null|
+|**2024-09-12**|**Hierarchical Symbolic Pop Music Generation with Graph Neural Networks**|Wen Qing Lim et.al.|[2409.08155](http://arxiv.org/abs/2409.08155)|null|
+|**2024-09-12**|**Heterogeneous Sheaf Neural Networks**|Luke Braithwaite et.al.|[2409.08036](http://arxiv.org/abs/2409.08036)|null|
+|**2024-09-12**|**Edge-Wise Graph-Instructed Neural Networks**|Francesco Della Santa et.al.|[2409.08023](http://arxiv.org/abs/2409.08023)|null|
+|**2024-09-12**|**Data-efficient multi-fidelity training for high-fidelity machine learning interatomic potentials**|Jaesun Kim et.al.|[2409.07947](http://arxiv.org/abs/2409.07947)|null|
+|**2024-09-12**|**Tera-SpaceCom: GNN-based Deep Reinforcement Learning for Joint Resource Allocation and Task Offloading in TeraHertz Band Space Networks**|Zhifeng Hu et.al.|[2409.07911](http://arxiv.org/abs/2409.07911)|null|
+|**2024-09-12**|**Graph Neural Networks for Parkinsons Disease Detection**|Shakeel A. Sheikh et.al.|[2409.07884](http://arxiv.org/abs/2409.07884)|null|
+|**2024-09-12**|**Efficient Learning of Balanced Signed Graphs via Iterative Linear Programming**|Haruki Yokota et.al.|[2409.07794](http://arxiv.org/abs/2409.07794)|null|
 |**2024-09-11**|**Demo: SGCode: A Flexible Prompt-Optimizing System for Secure Generation of Code**|Khiem Ton et.al.|[2409.07368](http://arxiv.org/abs/2409.07368)|null|
 |**2024-09-11**|**Descriptors-free Collective Variables From Geometric Graph Neural Networks**|Jintu Zhang et.al.|[2409.07339](http://arxiv.org/abs/2409.07339)|null|
 |**2024-09-11**|**Recurrent Aggregators in Neural Algorithmic Reasoning**|Kaijia Xu et.al.|[2409.07154](http://arxiv.org/abs/2409.07154)|null|
@@ -5670,8 +5682,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-11**|**Event-based Mosaicing Bundle Adjustment**|Shuang Guo et.al.|[2409.07365](http://arxiv.org/abs/2409.07365)|null|
-|**2024-09-09**|**LSE-NeRF: Learning Sensor Modeling Errors for Deblured Neural Radiance Fields with RGB-Event Stereo**|Wei Zhi Tang et.al.|[2409.06104](http://arxiv.org/abs/2409.06104)|null|
+|**2024-09-11**|**Event-based Mosaicing Bundle Adjustment**|Shuang Guo et.al.|[2409.07365](http://arxiv.org/abs/2409.07365)|**[link](https://github.com/tub-rip/emba)**|
+|**2024-09-09**|**LSE-NeRF: Learning Sensor Modeling Errors for Deblured Neural Radiance Fields with RGB-Event Stereo**|Wei Zhi Tang et.al.|[2409.06104](http://arxiv.org/abs/2409.06104)|**[link](https://github.com/ubc-vision/lsenerf)**|
 |**2024-09-06**|**SDformerFlow: Spatiotemporal swin spikeformer for event-based optical flow estimation**|Yi Tian et.al.|[2409.04082](http://arxiv.org/abs/2409.04082)|**[link](https://github.com/yitian97/SDformerFlow)**|
 |**2024-09-05**|**MouseSIS: A Frames-and-Events Dataset for Space-Time Instance Segmentation of Mice**|Friedhelm Hamann et.al.|[2409.03358](http://arxiv.org/abs/2409.03358)|null|
 |**2024-09-03**|**Gradient events: improved acquisition of visual information in event cameras**|Eero Lehtonen et.al.|[2409.01764](http://arxiv.org/abs/2409.01764)|null|
@@ -5902,6 +5914,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Spike-timing-dependent-plasticity learning in a planar magnetic domain wall artificial synapsis**|J. O. Castro et.al.|[2409.08055](http://arxiv.org/abs/2409.08055)|null|
+|**2024-09-12**|**Classifying Images with CoLaNET Spiking Neural Network -- the MNIST Example**|Mikhail Kiselev et.al.|[2409.07833](http://arxiv.org/abs/2409.07833)|null|
+|**2024-09-12**|**Training Spiking Neural Networks via Augmented Direct Feedback Alignment**|Yongbo Zhang et.al.|[2409.07776](http://arxiv.org/abs/2409.07776)|null|
+|**2024-09-12**|**Surprising Resilience of Science During a Global Pandemic: A Large-Scale Descriptive Analysis**|Kian Ahrabian et.al.|[2409.07710](http://arxiv.org/abs/2409.07710)|null|
 |**2024-09-10**|**Analysis of a Simple Neuromorphic Controller for Linear Systems: A Hybrid Systems Perspective**|E. Petri et.al.|[2409.06353](http://arxiv.org/abs/2409.06353)|null|
 |**2024-09-10**|**Mimicking synaptic plasticity with wedged Pt/Co/Pt spin-orbit torque device**|Shiwei Chen et.al.|[2409.06286](http://arxiv.org/abs/2409.06286)|null|
 |**2024-09-09**|**Use Model Averaging instead of Model Selection in Pulsar Timing**|Rutger van Haasteren et.al.|[2409.06050](http://arxiv.org/abs/2409.06050)|null|
