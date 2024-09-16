@@ -516,6 +516,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Dense Point Clouds Matter: Dust-GS for Scene Reconstruction from Sparse Viewpoints**|Shan Chen et.al.|[2409.08613](http://arxiv.org/abs/2409.08613)|null|
 |**2024-09-09**|**KRONC: Keypoint-based Robust Camera Optimization for 3D Car Reconstruction**|Davide Di Nucci et.al.|[2409.05407](http://arxiv.org/abs/2409.05407)|null|
 |**2024-09-04**|**Object Gaussian for Monocular 6D Pose Estimation from Sparse Views**|Luqing Luo et.al.|[2409.02581](http://arxiv.org/abs/2409.02581)|null|
 |**2024-09-11**|**Geometry-aware Feature Matching for Large-Scale Structure from Motion**|Gonglin Chen et.al.|[2409.02310](http://arxiv.org/abs/2409.02310)|null|
@@ -1645,6 +1646,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|null|
 |**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara et.al.|[2409.04060](http://arxiv.org/abs/2409.04060)|null|
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-07-31**|**Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**|Xusheng Luo et.al.|[2408.00117](http://arxiv.org/abs/2408.00117)|null|
@@ -3410,6 +3412,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**SAUC: Sparsity-Aware Uncertainty Calibration for Spatiotemporal Prediction with Graph Neural Networks**|Dingyi Zhuang et.al.|[2409.08766](http://arxiv.org/abs/2409.08766)|null|
+|**2024-09-13**|**Redesigning graph filter-based GNNs to relax the homophily assumption**|Samuel Rey et.al.|[2409.08676](http://arxiv.org/abs/2409.08676)|null|
+|**2024-09-13**|**Sybil Detection using Graph Neural Networks**|Stuart Heeb et.al.|[2409.08631](http://arxiv.org/abs/2409.08631)|null|
+|**2024-09-13**|**Molecular Graph Representation Learning via Structural Similarity Information**|Chengyu Yao et.al.|[2409.08580](http://arxiv.org/abs/2409.08580)|**[link](https://github.com/yaoyao-yaoyao-cell/mssm-gnn)**|
+|**2024-09-13**|**Causal GNNs: A GNN-Driven Instrumental Variable Approach for Causal Inference in Networks**|Xiaojing Du et.al.|[2409.08544](http://arxiv.org/abs/2409.08544)|null|
+|**2024-09-13**|**ATFLRec: A Multimodal Recommender System with Audio-Text Fusion and Low-Rank Adaptation via Instruction-Tuned Large Language Model**|Zezheng Qin et.al.|[2409.08543](http://arxiv.org/abs/2409.08543)|null|
+|**2024-09-13**|**An Efficient Privacy-aware Split Learning Framework for Satellite Communications**|Jianfei Sun et.al.|[2409.08538](http://arxiv.org/abs/2409.08538)|null|
 |**2024-09-12**|**Learning incomplete factorization preconditioners for GMRES**|Paul Häusner et.al.|[2409.08262](http://arxiv.org/abs/2409.08262)|**[link](https://github.com/paulhausner/neural-incomplete-factorization)**|
 |**2024-09-12**|**CliquePH: Higher-Order Information for Graph Neural Networks through Persistent Homology on Clique Graphs**|Davide Buffelli et.al.|[2409.08217](http://arxiv.org/abs/2409.08217)|null|
 |**2024-09-12**|**Gaussian Garments: Reconstructing Simulation-Ready Clothing with Photorealistic Appearance from Multi-View Video**|Boxiang Rong et.al.|[2409.08189](http://arxiv.org/abs/2409.08189)|null|
@@ -5708,6 +5717,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Pushing the boundaries of event subsampling in event-based video classification using CNNs**|Hesam Araghi et.al.|[2409.08953](http://arxiv.org/abs/2409.08953)|**[link](https://github.com/hesamaraghi/pushing-boundaries-event-subsampling)**|
 |**2024-09-11**|**Event-based Mosaicing Bundle Adjustment**|Shuang Guo et.al.|[2409.07365](http://arxiv.org/abs/2409.07365)|**[link](https://github.com/tub-rip/emba)**|
 |**2024-09-09**|**LSE-NeRF: Learning Sensor Modeling Errors for Deblured Neural Radiance Fields with RGB-Event Stereo**|Wei Zhi Tang et.al.|[2409.06104](http://arxiv.org/abs/2409.06104)|**[link](https://github.com/ubc-vision/lsenerf)**|
 |**2024-09-06**|**SDformerFlow: Spatiotemporal swin spikeformer for event-based optical flow estimation**|Yi Tian et.al.|[2409.04082](http://arxiv.org/abs/2409.04082)|**[link](https://github.com/yitian97/SDformerFlow)**|
@@ -5942,6 +5952,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**On spiked eigenvalues of a renormalized sample covariance matrix from multi-population**|Weiming Li et.al.|[2409.08715](http://arxiv.org/abs/2409.08715)|null|
+|**2024-09-13**|**Efficient FPGA Implementation of an Optimized SNN-based DFE for Optical Communications**|Mohamed Moursi et.al.|[2409.08698](http://arxiv.org/abs/2409.08698)|null|
+|**2024-09-12**|**Social Equity Based Optimal Power Flow Framework to Hedge Against Price Events**|Sachinth Viththarachchige et.al.|[2409.08411](http://arxiv.org/abs/2409.08411)|null|
 |**2024-09-12**|**Spike-timing-dependent-plasticity learning in a planar magnetic domain wall artificial synapsis**|J. O. Castro et.al.|[2409.08055](http://arxiv.org/abs/2409.08055)|null|
 |**2024-09-12**|**Classifying Images with CoLaNET Spiking Neural Network -- the MNIST Example**|Mikhail Kiselev et.al.|[2409.07833](http://arxiv.org/abs/2409.07833)|null|
 |**2024-09-12**|**Training Spiking Neural Networks via Augmented Direct Feedback Alignment**|Yongbo Zhang et.al.|[2409.07776](http://arxiv.org/abs/2409.07776)|null|
