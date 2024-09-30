@@ -589,7 +589,7 @@
 |**2024-03-18**|**An Accurate and Real-time Relative Pose Estimation from Triple Point-line Images by Decoupling Rotation and Translation**|Zewen Xu et.al.|[2403.11639](http://arxiv.org/abs/2403.11639)|null|
 |**2024-03-14**|**Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting**|Jaewoo Jung et.al.|[2403.09413](http://arxiv.org/abs/2403.09413)|**[link](https://github.com/KU-CVLAB/RAIN-GS)**|
 |**2024-03-13**|**Refractive COLMAP: Refractive Structure-from-Motion Revisited**|Mengkun She et.al.|[2403.08640](http://arxiv.org/abs/2403.08640)|null|
-|**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|null|
+|**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|**[link](https://github.com/AliYoussef97/SuperPoint-PrP)**|
 |**2024-03-11**|**SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**|Yifu Tao et.al.|[2403.06877](http://arxiv.org/abs/2403.06877)|null|
 |**2024-03-24**|**BAGS: Blur Agnostic Gaussian Splatting through Multi-Scale Kernel Modeling**|Cheng Peng et.al.|[2403.04926](http://arxiv.org/abs/2403.04926)|**[link](https://github.com/snldmt/bags)**|
 |**2024-02-22**|**GaussianPro: 3D Gaussian Splatting with Progressive Propagation**|Kai Cheng et.al.|[2402.14650](http://arxiv.org/abs/2402.14650)|null|
@@ -804,7 +804,7 @@
 |**2024-08-21**|**UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation**|Xiangyu Zhao et.al.|[2408.11305](http://arxiv.org/abs/2408.11305)|**[link](https://github.com/xiangyu-mm/unifashion)**|
 |**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|null|
 |**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
-|**2024-08-23**|**Fashion Image-to-Image Translation for Complementary Item Retrieval**|Matteo Attimonelli et.al.|[2408.09847](http://arxiv.org/abs/2408.09847)|null|
+|**2024-08-23**|**Fashion Image-to-Image Translation for Complementary Item Retrieval**|Matteo Attimonelli et.al.|[2408.09847](http://arxiv.org/abs/2408.09847)|**[link](https://github.com/sisinflab/geco)**|
 |**2024-08-20**|**MambaLoc: Efficient Camera Localisation via State Space Model**|Jialu Wang et.al.|[2408.09680](http://arxiv.org/abs/2408.09680)|null|
 |**2024-08-15**|**DM2RM: Dual-Mode Multimodal Ranking for Target Objects and Receptacles Based on Open-Vocabulary Instructions**|Ryosuke Korekata et.al.|[2408.07910](http://arxiv.org/abs/2408.07910)|null|
 |**2024-08-13**|**A Miniature Vision-Based Localization System for Indoor Blimps**|Shicong Ma et.al.|[2408.06648](http://arxiv.org/abs/2408.06648)|null|
@@ -977,7 +977,7 @@
 |**2024-03-14**|**The NeRFect Match: Exploring NeRF Features for Visual Localization**|Qunjie Zhou et.al.|[2403.09577](http://arxiv.org/abs/2403.09577)|null|
 |**2024-03-14**|**VDNA-PR: Using General Dataset Representations for Robust Sequential Visual Place Recognition**|Benjamin Ramtoula et.al.|[2403.09025](http://arxiv.org/abs/2403.09025)|null|
 |**2024-03-13**|**PAPERCLIP: Associating Astronomical Observations and Natural Language with Multi-Modal Models**|Siddharth Mishra-Sharma et.al.|[2403.08851](http://arxiv.org/abs/2403.08851)|**[link](https://github.com/smsharma/paperclip-hubble)**|
-|**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|null|
+|**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|**[link](https://github.com/AliYoussef97/SuperPoint-PrP)**|
 |**2024-03-12**|**It's All About Your Sketch: Democratising Sketch Control in Diffusion Models**|Subhadeep Koley et.al.|[2403.07234](http://arxiv.org/abs/2403.07234)|**[link](https://github.com/subhadeepkoley/demosketch2rgb)**|
 |**2024-03-12**|**You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval**|Subhadeep Koley et.al.|[2403.07222](http://arxiv.org/abs/2403.07222)|null|
 |**2024-03-12**|**Text-to-Image Diffusion Models are Great Sketch-Photo Matchmakers**|Subhadeep Koley et.al.|[2403.07214](http://arxiv.org/abs/2403.07214)|null|
@@ -2598,7 +2598,7 @@
 |**2024-03-17**|**Creating Seamless 3D Maps Using Radiance Fields**|Sai Tarun Sathyan et.al.|[2403.11364](http://arxiv.org/abs/2403.11364)|null|
 |**2024-03-17**|**SpikeNeRF: Learning Neural Radiance Fields from Continuous Spike Stream**|Lin Zhu et.al.|[2403.11222](http://arxiv.org/abs/2403.11222)|**[link](https://github.com/bit-vision/spikenerf)**|
 |**2024-03-17**|**Recent Advances in 3D Gaussian Splatting**|Tong Wu et.al.|[2403.11134](http://arxiv.org/abs/2403.11134)|null|
-|**2024-03-17**|**Omni-Recon: Towards General-Purpose Neural Radiance Fields for Versatile 3D Applications**|Yonggan Fu et.al.|[2403.11131](http://arxiv.org/abs/2403.11131)|null|
+|**2024-03-17**|**Omni-Recon: Towards General-Purpose Neural Radiance Fields for Versatile 3D Applications**|Yonggan Fu et.al.|[2403.11131](http://arxiv.org/abs/2403.11131)|**[link](https://github.com/GATECH-EIC/Omni-Recon)**|
 |**2024-03-16**|**Fast Sparse View Guided NeRF Update for Object Reconfigurations**|Ziqi Lu et.al.|[2403.11024](http://arxiv.org/abs/2403.11024)|null|
 |**2024-03-16**|**HourglassNeRF: Casting an Hourglass as a Bundle of Rays for Few-shot Neural Rendering**|Seunghyeon Seo et.al.|[2403.10906](http://arxiv.org/abs/2403.10906)|null|
 |**2024-03-16**|**MSI-NeRF: Linking Omni-Depth with View Synthesis through Multi-Sphere Image aided Generalizable Neural Radiance Field**|Dongyu Yan et.al.|[2403.10840](http://arxiv.org/abs/2403.10840)|null|
@@ -2610,7 +2610,7 @@
 |**2024-03-14**|**PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors**|Tianyuan Yuan et.al.|[2403.09079](http://arxiv.org/abs/2403.09079)|**[link](https://github.com/yuantianyuan01/presight)**|
 |**2024-03-13**|**Gaussian Splatting in Style**|Abhishek Saroha et.al.|[2403.08498](http://arxiv.org/abs/2403.08498)|null|
 |**2024-03-13**|**StyleDyRF: Zero-shot 4D Style Transfer for Dynamic Neural Radiance Fields**|Hongbin Xu et.al.|[2403.08310](http://arxiv.org/abs/2403.08310)|**[link](https://github.com/toughstonex/styledyrf)**|
-|**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|null|
+|**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|**[link](https://github.com/AliYoussef97/SuperPoint-PrP)**|
 |**2024-03-12**|**Q-SLAM: Quadric Representations for Monocular SLAM**|Chensheng Peng et.al.|[2403.08125](http://arxiv.org/abs/2403.08125)|null|
 |**2024-03-12**|**SMURF: Continuous Dynamics for Motion-Deblurring Radiance Fields**|Jungho Lee et.al.|[2403.07547](http://arxiv.org/abs/2403.07547)|**[link](https://github.com/jho-yonsei/smurf)**|
 |**2024-03-11**|**SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**|Yifu Tao et.al.|[2403.06877](http://arxiv.org/abs/2403.06877)|null|
@@ -2668,7 +2668,7 @@
 |**2024-02-11**|**3D Gaussian as a New Vision Era: A Survey**|Ben Fei et.al.|[2402.07181](http://arxiv.org/abs/2402.07181)|null|
 |**2024-02-09**|**ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting**|Georgii Stanishevskii et.al.|[2402.06390](http://arxiv.org/abs/2402.06390)|**[link](https://github.com/quereste/implicit-deepfake)**|
 |**2024-02-07**|**NeRF as Non-Distant Environment Emitter in Physics-based Inverse Rendering**|Jingwang Ling et.al.|[2402.04829](http://arxiv.org/abs/2402.04829)|null|
-|**2024-02-07**|**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**|Guibiao Liao et.al.|[2402.04648](http://arxiv.org/abs/2402.04648)|null|
+|**2024-02-07**|**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**|Guibiao Liao et.al.|[2402.04648](http://arxiv.org/abs/2402.04648)|**[link](https://github.com/pcl3dv/ov-nerf)**|
 |**2024-02-11**|**BirdNeRF: Fast Neural Reconstruction of Large-Scale Scenes From Aerial Imagery**|Huiqing Zhang et.al.|[2402.04554](http://arxiv.org/abs/2402.04554)|null|
 |**2024-02-06**|**Improved Generalization of Weight Space Networks via Augmentations**|Aviv Shamsian et.al.|[2402.04081](http://arxiv.org/abs/2402.04081)|null|
 |**2024-02-05**|**ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**|Bernard Spiegl et.al.|[2402.02906](http://arxiv.org/abs/2402.02906)|**[link](https://github.com/bronemos/view-fusion)**|
@@ -3491,7 +3491,7 @@
 |**2024-09-17**|**Preventing Representational Rank Collapse in MPNNs by Splitting the Computational Graph**|Andreas Roth et.al.|[2409.11504](http://arxiv.org/abs/2409.11504)|null|
 |**2024-09-17**|**Uncertainty and Prediction Quality Estimation for Semantic Segmentation via Graph Neural Networks**|Edgar Heinert et.al.|[2409.11373](http://arxiv.org/abs/2409.11373)|null|
 |**2024-09-17**|**High-Order Evolving Graphs for Enhanced Representation of Traffic Dynamics**|Aditya Humnabadkar et.al.|[2409.11206](http://arxiv.org/abs/2409.11206)|null|
-|**2024-09-17**|**MI-HGNN: Morphology-Informed Heterogeneous Graph Neural Network for Legged Robot Contact Perception**|Daniel Butterfield et.al.|[2409.11146](http://arxiv.org/abs/2409.11146)|null|
+|**2024-09-17**|**MI-HGNN: Morphology-Informed Heterogeneous Graph Neural Network for Legged Robot Contact Perception**|Daniel Butterfield et.al.|[2409.11146](http://arxiv.org/abs/2409.11146)|**[link](https://github.com/lunarlab-gatech/morphology-informed-hgnn)**|
 |**2024-09-17**|**Can Graph Reordering Speed Up Graph Neural Network Training? An Experimental Study**|Nikolai Merkel et.al.|[2409.11129](http://arxiv.org/abs/2409.11129)|**[link](https://github.com/nikolaimerkel/reordering)**|
 |**2024-09-17**|**GINTRIP: Interpretable Temporal Graph Regression using Information bottleneck and Prototype-based method**|Ali Royat et.al.|[2409.10996](http://arxiv.org/abs/2409.10996)|null|
 |**2024-09-17**|**Contrasformer: A Brain Network Contrastive Transformer for Neurodegenerative Condition Identification**|Jiaxing Xu et.al.|[2409.10944](http://arxiv.org/abs/2409.10944)|**[link](https://github.com/angusmonroe/contrasformer)**|
@@ -4092,7 +4092,7 @@
 |**2024-05-24**|**Cardinality Estimation on Hyper-relational Knowledge Graphs**|Fei Teng et.al.|[2405.15231](http://arxiv.org/abs/2405.15231)|null|
 |**2024-05-24**|**AGS-GNN: Attribute-guided Sampling for Graph Neural Networks**|Siddhartha Shankar Das et.al.|[2405.15218](http://arxiv.org/abs/2405.15218)|**[link](https://github.com/siddhartha047/AGS-GNN)**|
 |**2024-05-24**|**TrojanForge: Adversarial Hardware Trojan Examples with Reinforcement Learning**|Amin Sarihi et.al.|[2405.15184](http://arxiv.org/abs/2405.15184)|null|
-|**2024-05-23**|**Message-Passing Monte Carlo: Generating low-discrepancy point sets via Graph Neural Networks**|T. Konstantin Rusch et.al.|[2405.15059](http://arxiv.org/abs/2405.15059)|null|
+|**2024-05-23**|**Message-Passing Monte Carlo: Generating low-discrepancy point sets via Graph Neural Networks**|T. Konstantin Rusch et.al.|[2405.15059](http://arxiv.org/abs/2405.15059)|**[link](https://github.com/tk-rusch/mpmc)**|
 |**2024-05-23**|**Analysis of Atom-level pretraining with QM data for Graph Neural Networks Molecular property models**|Jose Arjona-Medina et.al.|[2405.14837](http://arxiv.org/abs/2405.14837)|null|
 |**2024-05-23**|**Development of a Gaussian Approximation Potential to Study Structure and Thermodynamics of Nickel Nanoclusters**|Suvo Banik et.al.|[2405.14683](http://arxiv.org/abs/2405.14683)|null|
 |**2024-05-23**|**Logical Characterizations of Recurrent Graph Neural Networks with Reals and Floats**|Veeti Ahvonen et.al.|[2405.14606](http://arxiv.org/abs/2405.14606)|null|
@@ -4432,7 +4432,7 @@
 |**2024-03-19**|**Dynamic Spatial-Temporal Aggregation for Skeleton-Aware Sign Language Recognition**|Lianyu Hu et.al.|[2403.12519](http://arxiv.org/abs/2403.12519)|**[link](https://github.com/hulianyuyy/dsta-slr)**|
 |**2024-03-19**|**FairSIN: Achieving Fairness in Graph Neural Networks through Sensitive Information Neutralization**|Cheng Yang et.al.|[2403.12474](http://arxiv.org/abs/2403.12474)|null|
 |**2024-03-19**|**STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model**|Lincan Li et.al.|[2403.12418](http://arxiv.org/abs/2403.12418)|**[link](https://github.com/LincanLi98/STG-Mamba)**|
-|**2024-03-18**|**Molecular dynamics simulation with finite electric fields using Perturbed Neural Network Potentials**|Kit Joll et.al.|[2403.12319](http://arxiv.org/abs/2403.12319)|null|
+|**2024-03-18**|**Molecular dynamics simulation with finite electric fields using Perturbed Neural Network Potentials**|Kit Joll et.al.|[2403.12319](http://arxiv.org/abs/2403.12319)|**[link](https://github.com/pschienbein/atomicpolartensor)**|
 |**2024-03-18**|**Molecular Classification Using Hyperdimensional Graph Classification**|Pere Verges et.al.|[2403.12307](http://arxiv.org/abs/2403.12307)|null|
 |**2024-03-18**|**Graph Neural Networks for Learning Equivariant Representations of Neural Networks**|Miltiadis Kofinas et.al.|[2403.12143](http://arxiv.org/abs/2403.12143)|**[link](https://github.com/mkofinas/neural-graphs)**|
 |**2024-03-18**|**Dual-Channel Multiplex Graph Neural Networks for Recommendation**|Xiang Li et.al.|[2403.11624](http://arxiv.org/abs/2403.11624)|null|
@@ -4710,7 +4710,7 @@
 |**2024-01-30**|**Online Algorithm for Node Feature Forecasting in Temporal Graphs**|Aniq Ur Rahman et.al.|[2401.16800](http://arxiv.org/abs/2401.16800)|null|
 |**2024-01-30**|**Graph Fairness Learning under Distribution Shifts**|Yibo Li et.al.|[2401.16784](http://arxiv.org/abs/2401.16784)|null|
 |**2024-01-30**|**Optimal-Landmark-Guided Image Blending for Face Morphing Attacks**|Qiaoyun He et.al.|[2401.16722](http://arxiv.org/abs/2401.16722)|null|
-|**2024-01-29**|**Accelerating superconductor discovery through tempered deep learning of the electron-phonon spectral function**|Jason B. Gibson et.al.|[2401.16611](http://arxiv.org/abs/2401.16611)|null|
+|**2024-01-29**|**Accelerating superconductor discovery through tempered deep learning of the electron-phonon spectral function**|Jason B. Gibson et.al.|[2401.16611](http://arxiv.org/abs/2401.16611)|**[link](https://github.com/henniggroup/bete-net)**|
 |**2024-01-29**|**Towards Accurate Prediction of Configurational Disorder Properties in Materials using Graph Neural Networks**|Zhenyao Fang et.al.|[2401.16565](http://arxiv.org/abs/2401.16565)|**[link](https://github.com/qmatyanlab/configurational-disorder)**|
 |**2024-01-29**|**Enhancing Molecular Property Prediction with Auxiliary Learning and Task-Specific Adaptation**|Vishal Dey et.al.|[2401.16299](http://arxiv.org/abs/2401.16299)|**[link](https://github.com/vishaldeyiiest/graphta)**|
 |**2024-01-29**|**Graph Neural Networks: Theory for Estimation with Application on Network Heterogeneity**|Yike Wang et.al.|[2401.16275](http://arxiv.org/abs/2401.16275)|null|
@@ -5274,7 +5274,7 @@
 |**2023-10-11**|**Global Minima, Recoverability Thresholds, and Higher-Order Structure in GNNS**|Drake Brown et.al.|[2310.07667](http://arxiv.org/abs/2310.07667)|null|
 |**2023-10-11**|**Graph Transformer Network for Flood Forecasting with Heterogeneous Covariates**|Jimeng Shi et.al.|[2310.07631](http://arxiv.org/abs/2310.07631)|null|
 |**2023-10-11**|**GMOCAT: A Graph-Enhanced Multi-Objective Method for Computerized Adaptive Testing**|Hangyu Wang et.al.|[2310.07477](http://arxiv.org/abs/2310.07477)|**[link](https://github.com/justarter/gmocat)**|
-|**2023-10-11**|**Non-backtracking Graph Neural Networks**|Seonghyun Park et.al.|[2310.07430](http://arxiv.org/abs/2310.07430)|null|
+|**2023-10-11**|**Non-backtracking Graph Neural Networks**|Seonghyun Park et.al.|[2310.07430](http://arxiv.org/abs/2310.07430)|**[link](https://github.com/seonghyun26/nba-gnn)**|
 |**2023-10-11**|**Are GATs Out of Balance?**|Nimrah Mustafa et.al.|[2310.07235](http://arxiv.org/abs/2310.07235)|null|
 |**2023-10-11**|**My Brother Helps Me: Node Injection Based Adversarial Attack on Social Bot Detection**|Lanjun Wang et.al.|[2310.07159](http://arxiv.org/abs/2310.07159)|null|
 |**2023-10-11**|**GraphCloak: Safeguarding Task-specific Knowledge within Graph-structured Data from Unauthorized Exploitation**|Yixin Liu et.al.|[2310.07100](http://arxiv.org/abs/2310.07100)|null|
@@ -6181,7 +6181,7 @@
 |**2024-08-04**|**Configuring Safe Spiking Neural Controllers for Cyber-Physical Systems through Formal Verification**|Arkaprava Gupta et.al.|[2408.01996](http://arxiv.org/abs/2408.01996)|null|
 |**2024-08-03**|**State-dependent Filtering of the Ring Model**|Jing Yan et.al.|[2408.01817](http://arxiv.org/abs/2408.01817)|null|
 |**2024-08-03**|**Signal-SGN: A Spiking Graph Convolutional Network for Skeletal Action Recognition via Learning Temporal-Frequency Dynamics**|Naichuan Zheng et.al.|[2408.01701](http://arxiv.org/abs/2408.01701)|null|
-|**2024-08-02**|**Continuous-Time Neural Networks Can Stably Memorize Random Spike Trains**|Hugo Aguettaz et.al.|[2408.01166](http://arxiv.org/abs/2408.01166)|null|
+|**2024-08-02**|**Continuous-Time Neural Networks Can Stably Memorize Random Spike Trains**|Hugo Aguettaz et.al.|[2408.01166](http://arxiv.org/abs/2408.01166)|**[link](https://github.com/haguettaz/rsnn)**|
 |**2024-08-02**|**General-purpose Dataflow Model with Neuromorphic Primitives**|Weihao Zhang et.al.|[2408.01090](http://arxiv.org/abs/2408.01090)|null|
 |**2024-08-01**|**Using CSNNs to Perform Event-based Data Processing & Classification on ASL-DVS**|Ria Patel et.al.|[2408.00611](http://arxiv.org/abs/2408.00611)|null|
 |**2024-08-01**|**Low-Power Vibration-Based Predictive Maintenance for Industry 4.0 using Neural Networks: A Survey**|Alexandru Vasilache et.al.|[2408.00516](http://arxiv.org/abs/2408.00516)|null|
