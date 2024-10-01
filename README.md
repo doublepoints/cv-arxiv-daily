@@ -521,6 +521,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-29**|**Robust Incremental Structure-from-Motion with Hybrid Features**|Shaohui Liu et.al.|[2409.19811](http://arxiv.org/abs/2409.19811)|null|
+|**2024-09-27**|**MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion**|Bardienus Duisterhof et.al.|[2409.19152](http://arxiv.org/abs/2409.19152)|null|
 |**2024-09-27**|**Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**|Yipeng Lu et.al.|[2409.18673](http://arxiv.org/abs/2409.18673)|null|
 |**2024-09-26**|**BlinkTrack: Feature Tracking over 100 FPS via Events and Images**|Yichen Shen et.al.|[2409.17981](http://arxiv.org/abs/2409.17981)|null|
 |**2024-09-24**|**Frequency-based View Selection in Gaussian Splatting Reconstruction**|Monica M. Q. Li et.al.|[2409.16470](http://arxiv.org/abs/2409.16470)|null|
@@ -760,6 +762,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-29**|**CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation**|Yifan Duan et.al.|[2409.19597](http://arxiv.org/abs/2409.19597)|null|
+|**2024-09-28**|**VLAD-BuFF: Burst-aware Fast Feature Aggregation for Visual Place Recognition**|Ahmad Khaliq et.al.|[2409.19293](http://arxiv.org/abs/2409.19293)|**[link](https://github.com/ahmedest61/vlad-buff)**|
+|**2024-09-27**|**MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion**|Bardienus Duisterhof et.al.|[2409.19152](http://arxiv.org/abs/2409.19152)|null|
 |**2024-09-26**|**Search and Detect: Training-Free Long Tail Object Detection via Web-Image Retrieval**|Mankeerat Sidhu et.al.|[2409.18733](http://arxiv.org/abs/2409.18733)|null|
 |**2024-09-26**|**Revisit Anything: Visual Place Recognition via Image Segment Retrieval**|Kartik Garg et.al.|[2409.18049](http://arxiv.org/abs/2409.18049)|**[link](https://github.com/anyloc/revisit-anything)**|
 |**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502](http://arxiv.org/abs/2409.16502)|**[link](https://github.com/haksorus/gsplatloc)**|
@@ -1673,6 +1678,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**OpenKD: Opening Prompt Diversity for Zero- and Few-shot Keypoint Detection**|Changsheng Lu et.al.|[2409.19899](http://arxiv.org/abs/2409.19899)|null|
 |**2024-09-26**|**SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation**|Xin Li et.al.|[2409.18082](http://arxiv.org/abs/2409.18082)|null|
 |**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502](http://arxiv.org/abs/2409.16502)|**[link](https://github.com/haksorus/gsplatloc)**|
 |**2024-09-20**|**Keypoint Detection Technique for Image-Based Visual Servoing of Manipulators**|Niloufar Amiri et.al.|[2409.13668](http://arxiv.org/abs/2409.13668)|null|
@@ -2188,6 +2194,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**Distributed NeRF Learning for Collaborative Multi-Robot Perception**|Hongrui Zhao et.al.|[2409.20289](http://arxiv.org/abs/2409.20289)|null|
+|**2024-09-30**|**Active Neural Mapping at Scale**|Zijia Kuang et.al.|[2409.20276](http://arxiv.org/abs/2409.20276)|null|
+|**2024-09-30**|**OPONeRF: One-Point-One NeRF for Robust Neural Rendering**|Yu Zheng et.al.|[2409.20043](http://arxiv.org/abs/2409.20043)|null|
+|**2024-09-28**|**G3R: Gradient Guided Generalizable Reconstruction**|Yun Chen et.al.|[2409.19405](http://arxiv.org/abs/2409.19405)|null|
 |**2024-09-26**|**LightAvatar: Efficient Head Avatar as Dynamic Neural Light Field**|Huan Wang et.al.|[2409.18057](http://arxiv.org/abs/2409.18057)|**[link](https://github.com/mingsun-tse/lightavatar-tensorflow)**|
 |**2024-09-26**|**Deblur e-NeRF: NeRF from Motion-Blurred Events under High-speed or Low-light Conditions**|Weng Fei Low et.al.|[2409.17988](http://arxiv.org/abs/2409.17988)|null|
 |**2024-09-26**|**Neural Implicit Representation for Highly Dynamic LiDAR Mapping and Odometry**|Qi Zhang et.al.|[2409.17729](http://arxiv.org/abs/2409.17729)|null|
@@ -3465,6 +3475,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**geom2vec: pretrained GNNs as geometric featurizers for conformational dynamics**|Zihan Pengmei et.al.|[2409.19838](http://arxiv.org/abs/2409.19838)|null|
+|**2024-09-29**|**Generalizability of Graph Neural Networks for Decentralized Unlabeled Motion Planning**|Shreyas Muthusamy et.al.|[2409.19829](http://arxiv.org/abs/2409.19829)|null|
+|**2024-09-29**|**A Survey on Graph Neural Networks for Remaining Useful Life Prediction: Methodologies, Evaluation and Future Trends**|Yucheng Wang et.al.|[2409.19629](http://arxiv.org/abs/2409.19629)|null|
+|**2024-09-29**|**DropEdge not Foolproof: Effective Augmentation Method for Signed Graph Neural Networks**|Zeyu Zhang et.al.|[2409.19620](http://arxiv.org/abs/2409.19620)|null|
+|**2024-09-29**|**DuoGNN: Topology-aware Graph Neural Network with Homophily and Heterophily Interaction-Decoupling**|K. Mancini et.al.|[2409.19616](http://arxiv.org/abs/2409.19616)|null|
+|**2024-09-29**|**MASKDROID: Robust Android Malware Detection with Masked Graph Representations**|Jingnan Zheng et.al.|[2409.19594](http://arxiv.org/abs/2409.19594)|null|
+|**2024-09-29**|**One Node Per User: Node-Level Federated Learning for Graph Neural Networks**|Zhidong Gao et.al.|[2409.19513](http://arxiv.org/abs/2409.19513)|null|
+|**2024-09-28**|**Sequential Signal Mixing Aggregation for Message Passing Graph Neural Networks**|Mitchell Keren Taraday et.al.|[2409.19414](http://arxiv.org/abs/2409.19414)|null|
+|**2024-09-27**|**TwinCL: A Twin Graph Contrastive Learning Model for Collaborative Filtering**|Chengkai Liu et.al.|[2409.19169](http://arxiv.org/abs/2409.19169)|null|
+|**2024-09-27**|**Enhancing Robustness of Graph Neural Networks through p-Laplacian**|Anuj Kumar Sirohi et.al.|[2409.19096](http://arxiv.org/abs/2409.19096)|null|
 |**2024-09-27**|**Positional Encoder Graph Quantile Neural Networks for Geographic Data**|William E. R. de Amorim et.al.|[2409.18865](http://arxiv.org/abs/2409.18865)|null|
 |**2024-09-27**|**HardCore Generation: Generating Hard UNSAT Problems for Data Augmentation**|Joseph Cotnareanu et.al.|[2409.18778](http://arxiv.org/abs/2409.18778)|null|
 |**2024-09-27**|**Geometric deep learning for galaxy-halo connection: a case study for galaxy intrinsic alignments**|Yesukhei Jagvaral et.al.|[2409.18761](http://arxiv.org/abs/2409.18761)|null|
@@ -5822,6 +5842,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-29**|**PPLNs: Parametric Piecewise Linear Networks for Event-Based Temporal Modeling and Beyond**|Chen Song et.al.|[2409.19772](http://arxiv.org/abs/2409.19772)|null|
+|**2024-09-28**|**Steering Prediction via a Multi-Sensor System for Autonomous Racing**|Zhuyun Zhou et.al.|[2409.19356](http://arxiv.org/abs/2409.19356)|null|
+|**2024-09-28**|**GS-EVT: Cross-Modal Event Camera Tracking based on Gaussian Splatting**|Tao Liu et.al.|[2409.19228](http://arxiv.org/abs/2409.19228)|null|
 |**2024-09-27**|**EyeTrAES: Fine-grained, Low-Latency Eye Tracking via Adaptive Event Slicing**|Argha Sen et.al.|[2409.18813](http://arxiv.org/abs/2409.18813)|null|
 |**2024-09-26**|**EvMAPPER: High Altitude Orthomapping with Event Cameras**|Fernando Cladera et.al.|[2409.18120](http://arxiv.org/abs/2409.18120)|null|
 |**2024-09-26**|**Deblur e-NeRF: NeRF from Motion-Blurred Events under High-speed or Low-light Conditions**|Weng Fei Low et.al.|[2409.17988](http://arxiv.org/abs/2409.17988)|null|
@@ -6076,6 +6099,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**Rotated Runtime Smooth: Training-Free Activation Smoother for accurate INT4 inference**|Ke Yi et.al.|[2409.20361](http://arxiv.org/abs/2409.20361)|null|
+|**2024-09-30**|**Random Features Outperform Linear Models: Effect of Strong Input-Label Correlation in Spiked Covariance Data**|Samet Demir et.al.|[2409.20250](http://arxiv.org/abs/2409.20250)|null|
+|**2024-09-30**|**New matrix perturbation bounds via contour expansion**|Phuc Tran et.al.|[2409.20207](http://arxiv.org/abs/2409.20207)|null|
+|**2024-09-29**|**Spiking Transformer with Spatial-Temporal Attention**|Donghyun Lee et.al.|[2409.19764](http://arxiv.org/abs/2409.19764)|null|
+|**2024-09-29**|**Nonparametric Covariance Regression for Massive Neural Data on Restricted Covariates via Graph**|Ganchao Wei et.al.|[2409.19717](http://arxiv.org/abs/2409.19717)|null|
+|**2024-09-28**|**Membership Privacy Evaluation in Deep Spiking Neural Networks**|Jiaxin Li et.al.|[2409.19413](http://arxiv.org/abs/2409.19413)|null|
 |**2024-09-27**|**Heterogeneous quantization regularizes spiking neural network activity**|Roy Moyal et.al.|[2409.18396](http://arxiv.org/abs/2409.18396)|null|
 |**2024-09-26**|**Relating Superconducting Optoelectronic Networks to Classical Neurodynamics**|Jeffrey M. Shainline et.al.|[2409.18016](http://arxiv.org/abs/2409.18016)|null|
 |**2024-09-26**|**Granger Causality for Mixed Time Series Generalized Linear Models: A Case Study on Multimodal Brain Connectivity**|Luiza S. C. Piancastelli et.al.|[2409.17751](http://arxiv.org/abs/2409.17751)|null|
