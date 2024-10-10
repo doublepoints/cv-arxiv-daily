@@ -1,4 +1,4 @@
-## <a id=top></a>Updated on 2024.10.09
+## <a id=top></a>Updated on 2024.10.10
 ---
 layout: default
 ---
@@ -8,7 +8,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.09
+## Updated on 2024.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## <a id=slam>SLAM</a>
@@ -514,7 +514,7 @@ layout: default
 |**2024-09-27**|**Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**|Yipeng Lu et.al.|[2409.18673](http://arxiv.org/abs/2409.18673)|null|
 |**2024-09-26**|**BlinkTrack: Feature Tracking over 100 FPS via Events and Images**|Yichen Shen et.al.|[2409.17981](http://arxiv.org/abs/2409.17981)|null|
 |**2024-09-24**|**Frequency-based View Selection in Gaussian Splatting Reconstruction**|Monica M. Q. Li et.al.|[2409.16470](http://arxiv.org/abs/2409.16470)|null|
-|**2024-09-24**|**Initialization of Monocular Visual Navigation for Autonomous Agents Using Modified Structure from Small Motion**|Juan-Diego Florez et.al.|[2409.16465](http://arxiv.org/abs/2409.16465)|null|
+|**2024-10-07**|**Initialization of Monocular Visual Navigation for Autonomous Agents Using Modified Structure from Small Motion**|Juan-Diego Florez et.al.|[2409.16465](http://arxiv.org/abs/2409.16465)|null|
 |**2024-09-24**|**Exploring the potential of collaborative UAV 3D mapping in Kenyan savanna for wildlife research**|Vandita Shukla et.al.|[2409.15914](http://arxiv.org/abs/2409.15914)|null|
 |**2024-09-23**|**Assessment of Submillimeter Precision via Structure from Motion Technique in Close-Range Capture Environments**|Francisco Roza de Moraes et.al.|[2409.15602](http://arxiv.org/abs/2409.15602)|null|
 |**2024-09-17**|**GS-Net: Generalizable Plug-and-Play 3D Gaussian Splatting Module**|Yichen Zhang et.al.|[2409.11307](http://arxiv.org/abs/2409.11307)|null|
@@ -3479,7 +3479,7 @@ layout: default
 |**2024-10-06**|**Modeling Social Media Recommendation Impacts Using Academic Networks: A Graph Neural Network Approach**|Sabrina Guidotti et.al.|[2410.04552](http://arxiv.org/abs/2410.04552)|null|
 |**2024-10-05**|**Unveiling the Impact of Local Homophily on GNN Fairness: In-Depth Analysis and New Benchmarks**|Donald Loveland et.al.|[2410.04287](http://arxiv.org/abs/2410.04287)|null|
 |**2024-10-05**|**Applying Hybrid Graph Neural Networks to Strengthen Credit Risk Analysis**|Mengfang Sun et.al.|[2410.04283](http://arxiv.org/abs/2410.04283)|null|
-|**2024-10-05**|**Enhancing Future Link Prediction in Quantum Computing Semantic Networks through LLM-Initiated Node Features**|Gilchan Park et.al.|[2410.04251](http://arxiv.org/abs/2410.04251)|null|
+|**2024-10-05**|**Enhancing Future Link Prediction in Quantum Computing Semantic Networks through LLM-Initiated Node Features**|Gilchan Park et.al.|[2410.04251](http://arxiv.org/abs/2410.04251)|**[link](https://github.com/boxorange/QC-LinkPrediction)**|
 |**2024-10-05**|**Multimodal Large Language Models for Inverse Molecular Design with Retrosynthetic Planning**|Gang Liu et.al.|[2410.04223](http://arxiv.org/abs/2410.04223)|null|
 |**2024-10-05**|**Improving Temporal Link Prediction via Temporal Walk Matrix Projection**|Xiaodong Lu et.al.|[2410.04013](http://arxiv.org/abs/2410.04013)|**[link](https://github.com/lxd99/tpnet)**|
 |**2024-10-04**|**Fine-Grained Expressive Power of Weisfeiler-Leman: A Homomorphism Counting Perspective**|Junru Zhou et.al.|[2410.03517](http://arxiv.org/abs/2410.03517)|null|
