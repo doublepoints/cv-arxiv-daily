@@ -751,6 +751,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**|Zheng Liu et.al.|[2410.08935](http://arxiv.org/abs/2410.08935)|null|
+|**2024-10-11**|**Semantic Token Reweighting for Interpretable and Controllable Text Embeddings in CLIP**|Eunji Kim et.al.|[2410.08469](http://arxiv.org/abs/2410.08469)|null|
+|**2024-10-11**|**A Unified Deep Semantic Expansion Framework for Domain-Generalized Person Re-identification**|Eugene P. W. Ang et.al.|[2410.08456](http://arxiv.org/abs/2410.08456)|null|
 |**2024-10-10**|**A Unified Debiasing Approach for Vision-Language Models across Modalities and Tasks**|Hoin Jung et.al.|[2410.07593](http://arxiv.org/abs/2410.07593)|null|
 |**2024-10-09**|**Exploiting Distribution Constraints for Scalable and Efficient Image Retrieval**|Mohammad Omama et.al.|[2410.07022](http://arxiv.org/abs/2410.07022)|null|
 |**2024-10-09**|**Pair-VPR: Place-Aware Pre-training and Contrastive Pair Classification for Visual Place Recognition with Vision Transformers**|Stephen Hausler et.al.|[2410.06614](http://arxiv.org/abs/2410.06614)|null|
@@ -2196,9 +2199,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**SceneCraft: Layout-Guided 3D Scene Generation**|Xiuyu Yang et.al.|[2410.09049](http://arxiv.org/abs/2410.09049)|**[link](https://github.com/orangesodahub/scenecraft)**|
+|**2024-10-11**|**MeshGS: Adaptive Mesh-Aligned Gaussian Splatting for High-Quality Rendering**|Jaehoon Choi et.al.|[2410.08941](http://arxiv.org/abs/2410.08941)|null|
+|**2024-10-11**|**Optimizing NeRF-based SLAM with Trajectory Smoothness Constraints**|Yicheng He et.al.|[2410.08780](http://arxiv.org/abs/2410.08780)|null|
 |**2024-10-10**|**RGM: Reconstructing High-fidelity 3D Car Assets with Relightable 3D-GS Generative Model from a Single Image**|Xiaoxue Chen et.al.|[2410.08181](http://arxiv.org/abs/2410.08181)|null|
 |**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107](http://arxiv.org/abs/2410.08107)|**[link](https://github.com/wu-cvgl/inceventgs)**|
-|**2024-10-09**|**NeRF-Accelerated Ecological Monitoring in Mixed-Evergreen Redwood Forest**|Adam Korycki et.al.|[2410.07418](http://arxiv.org/abs/2410.07418)|**[link](https://github.com/harelab-ucsc/redwoodnerf)**|
+|**2024-10-11**|**NeRF-Accelerated Ecological Monitoring in Mixed-Evergreen Redwood Forest**|Adam Korycki et.al.|[2410.07418](http://arxiv.org/abs/2410.07418)|**[link](https://github.com/harelab-ucsc/redwoodnerf)**|
 |**2024-10-09**|**DreamMesh4D: Video-to-4D Generation with Sparse-Controlled Gaussian-Mesh Hybrid Representation**|Zhiqi Li et.al.|[2410.06756](http://arxiv.org/abs/2410.06756)|null|
 |**2024-10-09**|**MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes**|Zhenhui Ye et.al.|[2410.06734](http://arxiv.org/abs/2410.06734)|null|
 |**2024-10-09**|**3D Representation Methods: A Survey**|Zhengren Wang et.al.|[2410.06475](http://arxiv.org/abs/2410.06475)|null|
@@ -3495,6 +3501,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**M $^3$ -Impute: Mask-guided Representation Learning for Missing Value Imputation**|Zhongyi Yu et.al.|[2410.08794](http://arxiv.org/abs/2410.08794)|**[link](https://github.com/alleinx/m3-impute)**|
+|**2024-10-11**|**Enhancing GNNs with Architecture-Agnostic Graph Transformations: A Systematic Analysis**|Zhifei Li et.al.|[2410.08759](http://arxiv.org/abs/2410.08759)|null|
+|**2024-10-11**|**Enhanced Robot Planning and Perception through Environment Prediction**|Vishnu Dutt Sharma et.al.|[2410.08560](http://arxiv.org/abs/2410.08560)|null|
+|**2024-10-11**|**IGNN-Solver: A Graph Neural Solver for Implicit Graph Neural Networks**|Junchao Lin et.al.|[2410.08524](http://arxiv.org/abs/2410.08524)|null|
+|**2024-10-11**|**Evaluating the effects of Data Sparsity on the Link-level Bicycling Volume Estimation: A Graph Convolutional Neural Network Approach**|Mohit Gupta et.al.|[2410.08522](http://arxiv.org/abs/2410.08522)|null|
+|**2024-10-11**|**Deeper Insights into Deep Graph Convolutional Networks: Stability and Generalization**|Guangrui Yang et.al.|[2410.08473](http://arxiv.org/abs/2410.08473)|null|
+|**2024-10-10**|**KnowGraph: Knowledge-Enabled Anomaly Detection via Logical Reasoning on Graph Data**|Andy Zhou et.al.|[2410.08390](http://arxiv.org/abs/2410.08390)|null|
 |**2024-10-10**|**Heterogeneous Graph Auto-Encoder for CreditCard Fraud Detection**|Moirangthem Tiken Singh et.al.|[2410.08121](http://arxiv.org/abs/2410.08121)|null|
 |**2024-10-10**|**Learning Equivariant Non-Local Electron Density Functionals**|Nicholas Gao et.al.|[2410.07972](http://arxiv.org/abs/2410.07972)|null|
 |**2024-10-10**|**Understanding Human Activity with Uncertainty Measure for Novelty in Graph Convolutional Networks**|Hao Xing et.al.|[2410.07917](http://arxiv.org/abs/2410.07917)|null|
@@ -5912,6 +5925,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**E-Motion: Future Motion Simulation via Event Sequence Diffusion**|Song Wu et.al.|[2410.08649](http://arxiv.org/abs/2410.08649)|null|
 |**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107](http://arxiv.org/abs/2410.08107)|**[link](https://github.com/wu-cvgl/inceventgs)**|
 |**2024-10-09**|**Fourier-based Action Recognition for Wildlife Behavior Quantification with Event Cameras**|Friedhelm Hamann et.al.|[2410.06698](http://arxiv.org/abs/2410.06698)|null|
 |**2024-10-04**|**EvenNICER-SLAM: Event-based Neural Implicit Encoding SLAM**|Shi Chen et.al.|[2410.03812](http://arxiv.org/abs/2410.03812)|null|
@@ -6170,6 +6184,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Realizing Linear Synaptic Plasticity in Electric Double Layer-Gated Transistors for Improved Predictive Accuracy and Efficiency in Neuromorphic Computing**|Nithil Harris Manimaran et.al.|[2410.08978](http://arxiv.org/abs/2410.08978)|null|
+|**2024-10-11**|**SpikeBottleNet: Energy Efficient Spike Neural Network Partitioning for Feature Compression in Device-Edge Co-Inference Systems**|Maruf Hassan et.al.|[2410.08673](http://arxiv.org/abs/2410.08673)|null|
+|**2024-10-11**|**Unsupervised Learning of Spatio-Temporal Patterns in Spiking Neuronal Networks**|Florian Feiler et.al.|[2410.08637](http://arxiv.org/abs/2410.08637)|null|
 |**2024-10-10**|**Type-III intermittency in emergent bursting dynamics of globally coupled rotators**|Marzena Ciszak et.al.|[2410.07953](http://arxiv.org/abs/2410.07953)|null|
 |**2024-10-10**|**SNN-PAR: Energy Efficient Pedestrian Attribute Recognition via Spiking Neural Networks**|Haiyang Wang et.al.|[2410.07857](http://arxiv.org/abs/2410.07857)|**[link](https://github.com/event-ahu/openpar)**|
 |**2024-10-10**|**Comprehensive Online Training and Deployment for Spiking Neural Networks**|Zecheng Hao et.al.|[2410.07547](http://arxiv.org/abs/2410.07547)|null|
