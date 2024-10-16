@@ -523,6 +523,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505](http://arxiv.org/abs/2410.11505)|null|
 |**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar et.al.|[2410.09533](http://arxiv.org/abs/2410.09533)|null|
 |**2024-10-09**|**Surgical Depth Anything: Depth Estimation for Surgical Scenes using Foundation Models**|Ange Lou et.al.|[2410.07434](http://arxiv.org/abs/2410.07434)|null|
 |**2024-10-08**|**Are Minimal Radial Distortion Solvers Necessary for Relative Pose Estimation?**|Charalambos Tzamos et.al.|[2410.05984](http://arxiv.org/abs/2410.05984)|**[link](https://github.com/kocurvik/rd)**|
@@ -769,6 +770,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505](http://arxiv.org/abs/2410.11505)|null|
+|**2024-10-15**|**Multiview Scene Graph**|Juexiao Zhang et.al.|[2410.11187](http://arxiv.org/abs/2410.11187)|null|
 |**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar et.al.|[2410.09533](http://arxiv.org/abs/2410.09533)|null|
 |**2024-10-11**|**Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**|Zheng Liu et.al.|[2410.08935](http://arxiv.org/abs/2410.08935)|null|
 |**2024-10-11**|**Semantic Token Reweighting for Interpretable and Controllable Text Embeddings in CLIP**|Eunji Kim et.al.|[2410.08469](http://arxiv.org/abs/2410.08469)|null|
@@ -1957,6 +1960,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505](http://arxiv.org/abs/2410.11505)|null|
 |**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar et.al.|[2410.09533](http://arxiv.org/abs/2410.09533)|null|
 |**2024-09-27**|**Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**|Yipeng Lu et.al.|[2409.18673](http://arxiv.org/abs/2409.18673)|null|
 |**2024-09-25**|**Game4Loc: A UAV Geo-Localization Benchmark from Game Data**|Yuxiang Ji et.al.|[2409.16925](http://arxiv.org/abs/2409.16925)|**[link](https://github.com/Yux1angJi/GTA-UAV)**|
@@ -3534,6 +3538,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**Regional Ocean Forecasting with Hierarchical Graph Neural Networks**|Daniel Holmberg et.al.|[2410.11807](http://arxiv.org/abs/2410.11807)|null|
+|**2024-10-15**|**G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks**|Guibin Zhang et.al.|[2410.11782](http://arxiv.org/abs/2410.11782)|null|
+|**2024-10-15**|**ECGN: A Cluster-Aware Approach to Graph Neural Networks for Imbalanced Classification**|Bishal Thapaliya et.al.|[2410.11765](http://arxiv.org/abs/2410.11765)|null|
+|**2024-10-15**|**Towards Fair Graph Representation Learning in Social Networks**|Guixian Zhang et.al.|[2410.11493](http://arxiv.org/abs/2410.11493)|null|
+|**2024-10-15**|**CoActionGraphRec: Sequential Multi-Interest Recommendations Using Co-Action Graphs**|Yi Sun et.al.|[2410.11464](http://arxiv.org/abs/2410.11464)|null|
+|**2024-10-15**|**Are High-Degree Representations Really Unnecessary in Equivariant Graph Neural Networks?**|Jiacheng Cen et.al.|[2410.11443](http://arxiv.org/abs/2410.11443)|null|
+|**2024-10-15**|**KA-GNN: Kolmogorov-Arnold Graph Neural Networks for Molecular Property Prediction**|Longlong Li et.al.|[2410.11323](http://arxiv.org/abs/2410.11323)|null|
+|**2024-10-15**|**Backdoor Attack on Vertical Federated Graph Neural Network Learning**|Jirui Yang et.al.|[2410.11290](http://arxiv.org/abs/2410.11290)|null|
+|**2024-10-15**|**Rethinking Graph Transformer Architecture Design for Node Classification**|Jiajun Zhou et.al.|[2410.11189](http://arxiv.org/abs/2410.11189)|null|
+|**2024-10-14**|**SGUQ: Staged Graph Convolution Neural Network for Alzheimer's Disease Diagnosis using Multi-Omics Data**|Liang Tao et.al.|[2410.11046](http://arxiv.org/abs/2410.11046)|**[link](https://github.com/chenzhao2023/multiomicsuncertainty)**|
 |**2024-10-14**|**Arrhythmia Classification Using Graph Neural Networks Based on Correlation Matrix**|Seungwoo Han et.al.|[2410.10758](http://arxiv.org/abs/2410.10758)|null|
 |**2024-10-14**|**NT-LLM: A Novel Node Tokenizer for Integrating Graph Structure into Large Language Models**|Yanbiao Ji et.al.|[2410.10743](http://arxiv.org/abs/2410.10743)|null|
 |**2024-10-14**|**A Personalized MOOC Learning Group and Course Recommendation Method Based on Graph Neural Network and Social Network Analysis**|Zijin Luo et.al.|[2410.10658](http://arxiv.org/abs/2410.10658)|null|
@@ -6233,6 +6247,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**Spiking Neural Belief Propagation Decoder for Short Block Length LDPC Codes**|Alexander von Bank et.al.|[2410.11543](http://arxiv.org/abs/2410.11543)|null|
+|**2024-10-15**|**Advancing Training Efficiency of Deep Spiking Neural Networks through Rate-based Backpropagation**|Chengting Yu et.al.|[2410.11488](http://arxiv.org/abs/2410.11488)|**[link](https://github.com/tab-ct/rate-based-backpropagation)**|
+|**2024-10-15**|**The Tracking Tapered Gridded Estimator for the 21-cm power spectrum from MWA drift scan observations II: The Missing Frequency Channels**|Khandakar Md Asif Elahi et.al.|[2410.11380](http://arxiv.org/abs/2410.11380)|null|
+|**2024-10-14**|**Intramuscular High-Density Micro-Electrode Arrays Enable High-Precision Decoding and Mapping of Spinal Motor Neurons to Reveal Hand Control**|Agnese Grison et.al.|[2410.11016](http://arxiv.org/abs/2410.11016)|null|
 |**2024-10-14**|**Fully Asynchronous Neuromorphic Perception for Mobile Robot Dodging with Loihi Chips**|Junjie Jiang et.al.|[2410.10601](http://arxiv.org/abs/2410.10601)|null|
 |**2024-10-12**|**EG-SpikeFormer: Eye-Gaze Guided Transformer on Spiking Neural Networks for Medical Image Analysis**|Yi Pan et.al.|[2410.09674](http://arxiv.org/abs/2410.09674)|null|
 |**2024-10-12**|**Boundary spike-layer solutions of the singular Keller-Segel system: existence, profiles and stability**|Jose A. Carrillo et.al.|[2410.09572](http://arxiv.org/abs/2410.09572)|null|
