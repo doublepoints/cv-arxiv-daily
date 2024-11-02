@@ -763,7 +763,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-31**|**Nearest Neighbor Normalization Improves Multimodal Retrieval**|Neil Chowdhury et.al.|[2410.24114](http://arxiv.org/abs/2410.24114)|null|
+|**2024-10-31**|**Nearest Neighbor Normalization Improves Multimodal Retrieval**|Neil Chowdhury et.al.|[2410.24114](http://arxiv.org/abs/2410.24114)|**[link](https://github.com/multimodal-interpretability/nnn)**|
 |**2024-10-31**|**MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval**|Haiwen Li et.al.|[2410.23736](http://arxiv.org/abs/2410.23736)|null|
 |**2024-10-30**|**Decoupling Semantic Similarity from Spatial Alignment for Neural Networks**|Tassilo Wald et.al.|[2410.23107](http://arxiv.org/abs/2410.23107)|null|
 |**2024-10-29**|**Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications**|Monica Riedler et.al.|[2410.21943](http://arxiv.org/abs/2410.21943)|**[link](https://github.com/riedlerm/multimodal_rag_for_industry)**|
@@ -3588,7 +3588,7 @@ layout: default
 |**2024-10-31**|**Reducing Oversmoothing through Informed Weight Initialization in Graph Neural Networks**|Dimitrios Kelesis et.al.|[2410.23830](http://arxiv.org/abs/2410.23830)|null|
 |**2024-10-31**|**Graph Neural Networks Uncover Geometric Neural Representations in Reinforcement-Based Motor Learning**|Federico Nardi et.al.|[2410.23812](http://arxiv.org/abs/2410.23812)|null|
 |**2024-10-31**|**Enhancing Chess Reinforcement Learning with Graph Representation**|Tomas Rigaux et.al.|[2410.23753](http://arxiv.org/abs/2410.23753)|**[link](https://github.com/akulen/alphagateau)**|
-|**2024-10-31**|**Exploring Consistency in Graph Representations:from Graph Kernels to Graph Neural Networks**|Xuyuan Liu et.al.|[2410.23748](http://arxiv.org/abs/2410.23748)|null|
+|**2024-10-31**|**Exploring Consistency in Graph Representations:from Graph Kernels to Graph Neural Networks**|Xuyuan Liu et.al.|[2410.23748](http://arxiv.org/abs/2410.23748)|**[link](https://github.com/graphminddartmouth/graph-consistency)**|
 |**2024-10-31**|**Towards Dynamic Message Passing on Graphs**|Junshu Sun et.al.|[2410.23686](http://arxiv.org/abs/2410.23686)|null|
 |**2024-10-30**|**Multi-fidelity Machine Learning for Uncertainty Quantification and Optimization**|Ruda Zhang et.al.|[2410.23482](http://arxiv.org/abs/2410.23482)|null|
 |**2024-10-30**|**Conditional Forecasting of Margin Calls using Dynamic Graph Neural Networks**|Matteo Citterio et.al.|[2410.23275](http://arxiv.org/abs/2410.23275)|null|
@@ -6397,7 +6397,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-31**|**Coherence-free Entrywise Estimation of Eigenvectors in Low-rank Signal-plus-noise Matrix Models**|Hao Yan et.al.|[2410.24195](http://arxiv.org/abs/2410.24195)|null|
-|**2024-10-31**|**Approaches to human activity recognition via passive radar**|Christian Bresciani et.al.|[2410.24166](http://arxiv.org/abs/2410.24166)|null|
+|**2024-10-31**|**Approaches to human activity recognition via passive radar**|Christian Bresciani et.al.|[2410.24166](http://arxiv.org/abs/2410.24166)|**[link](https://github.com/christianbresciani/nscep-spiking-NN)**|
 |**2024-10-31**|**A Visual Case Study of the Training Dynamics in Neural Networks**|Ambroise Odonnat et.al.|[2410.24050](http://arxiv.org/abs/2410.24050)|**[link](https://github.com/facebookresearch/pal)**|
 |**2024-10-31**|**Tightness for interlacing geometric random walk bridges**|Evgeni Dimitrov et.al.|[2410.23899](http://arxiv.org/abs/2410.23899)|null|
 |**2024-10-31**|**Collective dynamics in spiking neural networks: A systematic review**|Afifurrahman et.al.|[2410.23876](http://arxiv.org/abs/2410.23876)|null|
