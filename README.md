@@ -781,8 +781,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**From Pixels to Prose: Advancing Multi-Modal Language Models for Remote Sensing**|Xintian Sun et.al.|[2411.05826](http://arxiv.org/abs/2411.05826)|null|
 |**2024-11-04**|**TripletCLIP: Improving Compositional Reasoning of CLIP via Synthetic Vision-Language Negatives**|Maitreya Patel et.al.|[2411.02545](http://arxiv.org/abs/2411.02545)|null|
-|**2024-11-06**|**INQUIRE: A Natural World Text-to-Image Retrieval Benchmark**|Edward Vendrow et.al.|[2411.02537](http://arxiv.org/abs/2411.02537)|**[link](https://github.com/inquire-benchmark/INQUIRE)**|
+|**2024-11-11**|**INQUIRE: A Natural World Text-to-Image Retrieval Benchmark**|Edward Vendrow et.al.|[2411.02537](http://arxiv.org/abs/2411.02537)|**[link](https://github.com/inquire-benchmark/INQUIRE)**|
 |**2024-11-04**|**Exploiting Contextual Uncertainty of Visual Data for Efficient Training of Deep Models**|Sharat Agarwal et.al.|[2411.01925](http://arxiv.org/abs/2411.01925)|null|
 |**2024-11-04**|**Semantic Masking and Visual Feature Matching for Robust Localization**|Luisa Mao et.al.|[2411.01804](http://arxiv.org/abs/2411.01804)|null|
 |**2024-11-03**|**Efficient Medical Image Retrieval Using DenseNet and FAISS for BIRADS Classification**|MD Shaikh Rahman et.al.|[2411.01473](http://arxiv.org/abs/2411.01473)|null|
@@ -2277,11 +2278,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**LuSh-NeRF: Lighting up and Sharpening NeRFs for Low-light Scenes**|Zefan Qu et.al.|[2411.06757](http://arxiv.org/abs/2411.06757)|null|
+|**2024-11-10**|**Through the Curved Cover: Synthesizing Cover Aberrated Scenes with Refractive Field**|Liuyue Xie et.al.|[2411.06365](http://arxiv.org/abs/2411.06365)|null|
+|**2024-11-09**|**AI-Driven Stylization of 3D Environments**|Yuanbo Chen et.al.|[2411.06067](http://arxiv.org/abs/2411.06067)|null|
 |**2024-11-08**|**A Nerf-Based Color Consistency Method for Remote Sensing Images**|Zongcheng Zuo et.al.|[2411.05557](http://arxiv.org/abs/2411.05557)|null|
 |**2024-11-08**|**Rate-aware Compression for NeRF-based Volumetric Video**|Zhiyu Zhang et.al.|[2411.05322](http://arxiv.org/abs/2411.05322)|null|
 |**2024-11-07**|**Planar Reflection-Aware Neural Radiance Fields**|Chen Gao et.al.|[2411.04984](http://arxiv.org/abs/2411.04984)|null|
 |**2024-11-07**|**GANESH: Generalizable NeRF for Lensless Imaging**|Rakesh Raj Madavan et.al.|[2411.04810](http://arxiv.org/abs/2411.04810)|null|
-|**2024-11-07**|**SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation**|Xun Tu et.al.|[2411.04386](http://arxiv.org/abs/2411.04386)|null|
+|**2024-11-08**|**SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation**|Xun Tu et.al.|[2411.04386](http://arxiv.org/abs/2411.04386)|null|
 |**2024-11-06**|**Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis**|Rui Peng et.al.|[2411.03637](http://arxiv.org/abs/2411.03637)|**[link](https://github.com/prstrive/scgaussian)**|
 |**2024-11-05**|**Enhancing Exploratory Capability of Visual Navigation Using Uncertainty of Implicit Scene Representation**|Yichen Wang et.al.|[2411.03487](http://arxiv.org/abs/2411.03487)|**[link](https://github.com/IRMVLab/NUE-NeRF-nav)**|
 |**2024-11-05**|**CAD-NeRF: Learning NeRFs from Uncalibrated Few-view Images by CAD Model Retrieval**|Xin Wen et.al.|[2411.02979](http://arxiv.org/abs/2411.02979)|null|
@@ -3632,6 +3636,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**General Geospatial Inference with a Population Dynamics Foundation Model**|Mohit Agarwal et.al.|[2411.07207](http://arxiv.org/abs/2411.07207)|null|
+|**2024-11-11**|**Efficient Unsupervised Domain Adaptation Regression for Spatial-Temporal Air Quality Sensor Fusion**|Keivan Faghih Niresi et.al.|[2411.06917](http://arxiv.org/abs/2411.06917)|null|
+|**2024-11-11**|**Predicting ionic conductivity in solids from the machine-learned potential energy landscape**|Artem Maevskiy et.al.|[2411.06804](http://arxiv.org/abs/2411.06804)|null|
+|**2024-11-11**|**GTA-Net: An IoT-Integrated 3D Human Pose Estimation System for Real-Time Adolescent Sports Posture Correction**|Shizhe Yuan et.al.|[2411.06725](http://arxiv.org/abs/2411.06725)|null|
+|**2024-11-11**|**Shedding Light on Problems with Hyperbolic Graph Learning**|Isay Katsman et.al.|[2411.06688](http://arxiv.org/abs/2411.06688)|null|
+|**2024-11-11**|**Inductive Graph Few-shot Class Incremental Learning**|Yayong Li et.al.|[2411.06634](http://arxiv.org/abs/2411.06634)|null|
+|**2024-11-10**|**Graph Neural Networks for modelling breast biomechanical compression**|Hadeel Awwad et.al.|[2411.06596](http://arxiv.org/abs/2411.06596)|**[link](https://github.com/hadiiiil/gnns-breastcompression)**|
+|**2024-11-10**|**Extended multi-stream temporal-attention module for skeleton-based human action recognition (HAR)**|Faisal Mehmood et.al.|[2411.06553](http://arxiv.org/abs/2411.06553)|null|
+|**2024-11-10**|**Towards Graph Neural Network Surrogates Leveraging Mechanistic Expert Knowledge for Pandemic Response**|Agatha Schmidt et.al.|[2411.06500](http://arxiv.org/abs/2411.06500)|null|
+|**2024-11-10**|**Deep Learning Approaches for BSM Physics: Evaluating DNN and GNN Performance in Particle Collision Event Classification**|Ali Çelik et.al.|[2411.06487](http://arxiv.org/abs/2411.06487)|null|
 |**2024-11-08**|**Topology-aware Reinforcement Feature Space Reconstruction for Graph Data**|Wangyang Ying et.al.|[2411.05742](http://arxiv.org/abs/2411.05742)|null|
 |**2024-11-08**|**YOSO: You-Only-Sample-Once via Compressed Sensing for Graph Neural Network Training**|Yi Li et.al.|[2411.05693](http://arxiv.org/abs/2411.05693)|null|
 |**2024-11-08**|**Autoregressive Adaptive Hypergraph Transformer for Skeleton-based Activity Recognition**|Abhisek Ray et.al.|[2411.05692](http://arxiv.org/abs/2411.05692)|**[link](https://github.com/rayabhisek123/autoregad-hgformer)**|
@@ -6222,8 +6236,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**Low Complexity Learning-based Lossless Event-based Compression**|Ahmadreza Sezavar et.al.|[2411.07155](http://arxiv.org/abs/2411.07155)|null|
 |**2024-11-06**|**Increasing the scalability of graph convolution for FPGA-implemented event-based vision**|Piotr Wzorek et.al.|[2411.04269](http://arxiv.org/abs/2411.04269)|null|
-|**2024-11-06**|**DEIO: Deep Event Inertial Odometry**|Weipeng Guan et.al.|[2411.03928](http://arxiv.org/abs/2411.03928)|**[link](https://github.com/arclab-hku/deio)**|
+|**2024-11-09**|**DEIO: Deep Event Inertial Odometry**|Weipeng Guan et.al.|[2411.03928](http://arxiv.org/abs/2411.03928)|**[link](https://github.com/arclab-hku/deio)**|
 |**2024-11-05**|**Monocular Event-Based Vision for Obstacle Avoidance with a Quadrotor**|Anish Bhattacharya et.al.|[2411.03303](http://arxiv.org/abs/2411.03303)|null|
 |**2024-11-05**|**Learning-based Lossless Event Data Compression**|Ahmadreza Sezavar et.al.|[2411.03010](http://arxiv.org/abs/2411.03010)|null|
 |**2024-11-01**|**Autobiasing Event Cameras**|Mehdi Sefidgar Dilmaghani et.al.|[2411.00729](http://arxiv.org/abs/2411.00729)|null|
@@ -6503,6 +6518,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**Randomized Forward Mode Gradient for Spiking Neural Networks in Scientific Machine Learning**|Ruyin Wan et.al.|[2411.07057](http://arxiv.org/abs/2411.07057)|null|
+|**2024-11-11**|**Evolving Efficient Genetic Encoding for Deep Spiking Neural Networks**|Wenxuan Pan et.al.|[2411.06792](http://arxiv.org/abs/2411.06792)|null|
+|**2024-11-10**|**Are Neuromorphic Architectures Inherently Privacy-preserving? An Exploratory Study**|Ayana Moshruba et.al.|[2411.06613](http://arxiv.org/abs/2411.06613)|null|
+|**2024-11-10**|**Towards Voronoi Diagrams of Surface Patches**|Pengfei Wang et.al.|[2411.06471](http://arxiv.org/abs/2411.06471)|null|
+|**2024-11-09**|**Widespread neuronal chaos induced by slow oscillating currents**|James Scully et.al.|[2411.06304](http://arxiv.org/abs/2411.06304)|null|
 |**2024-11-08**|**Nowcasting distributions: a functional MIDAS model**|Massimiliano Marcellino et.al.|[2411.05629](http://arxiv.org/abs/2411.05629)|null|
 |**2024-11-08**|**Collective Pinning and Vortex Dynamics in type 2 superconducting thin films with Varying Magnetic Field**|Liangliang Guo et.al.|[2411.05551](http://arxiv.org/abs/2411.05551)|null|
 |**2024-11-08**|**Sparse Principal Component Analysis with Non-Oblivious Adversarial Perturbations**|Yuqing He et.al.|[2411.05332](http://arxiv.org/abs/2411.05332)|null|
