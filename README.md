@@ -1,10 +1,10 @@
-## <a id=top></a>Updated on 2024.11.23
+## <a id=top></a>Updated on 2024.11.24
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.23
+## Updated on 2024.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -6626,7 +6626,7 @@
 |**2024-11-21**|**Dynamical friction can flip the hierarchical three-body system**|Li Hu et.al.|[2411.14047](http://arxiv.org/abs/2411.14047)|null|
 |**2024-11-21**|**Hybrid-Neuromorphic Approach for Underwater Robotics Applications: A Conceptual Framework**|Vidya Sudevan et.al.|[2411.13962](http://arxiv.org/abs/2411.13962)|null|
 |**2024-11-21**|**Neuromorphic Attitude Estimation and Control**|Stein Stroobants et.al.|[2411.13945](http://arxiv.org/abs/2411.13945)|**[link](https://github.com/tudelft/neuromorphic_att_est_and_control)**|
-|**2024-11-21**|**SpikEmo: Enhancing Emotion Recognition With Spiking Temporal Dynamics in Conversations**|Xiaomin Yu et.al.|[2411.13917](http://arxiv.org/abs/2411.13917)|null|
+|**2024-11-21**|**SpikEmo: Enhancing Emotion Recognition With Spiking Temporal Dynamics in Conversations**|Xiaomin Yu et.al.|[2411.13917](http://arxiv.org/abs/2411.13917)|**[link](https://github.com/yu-xm/spikemo)**|
 |**2024-11-19**|**Rapid response to fast viral evolution using AlphaFold 3-assisted topological deep learning**|JunJie Wee et.al.|[2411.12370](http://arxiv.org/abs/2411.12370)|null|
 |**2024-11-19**|**SNN-Based Online Learning of Concepts and Action Laws in an Open World**|Christel Grimaud et.al.|[2411.12308](http://arxiv.org/abs/2411.12308)|null|
 |**2024-11-20**|**Darkness Visible: N-Body Simulations of Dark Matter Spikes in Hernquist Haloes**|Jasper Leonora P. D. Kamermans et.al.|[2411.12007](http://arxiv.org/abs/2411.12007)|**[link](https://github.com/JLKamermans/SWIFT-DAB)**|
