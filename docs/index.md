@@ -779,8 +779,8 @@ layout: default
 |**2024-11-29**|**A Visual-inertial Localization Algorithm using Opportunistic Visual Beacons and Dead-Reckoning for GNSS-Denied Large-scale Applications**|Liqiang Zhang Ye Tian Dongyan Wei et.al.|[2411.19845](http://arxiv.org/abs/2411.19845)|null|
 |**2024-11-27**|**Optimizing Image Retrieval with an Extended b-Metric Space**|Abdelkader Belhenniche et.al.|[2411.18800](http://arxiv.org/abs/2411.18800)|null|
 |**2024-11-26**|**Learning Visual Hierarchies with Hyperbolic Embeddings**|Ziwei Wang et.al.|[2411.17490](http://arxiv.org/abs/2411.17490)|null|
-|**2024-11-24**|**Imagine and Seek: Improving Composed Image Retrieval with an Imagined Proxy**|You Li et.al.|[2411.16752](http://arxiv.org/abs/2411.16752)|null|
-|**2024-11-24**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749](http://arxiv.org/abs/2411.16749)|null|
+|**2024-12-02**|**Imagine and Seek: Improving Composed Image Retrieval with an Imagined Proxy**|You Li et.al.|[2411.16752](http://arxiv.org/abs/2411.16752)|null|
+|**2024-12-02**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749](http://arxiv.org/abs/2411.16749)|null|
 |**2024-11-25**|**Image Generation Diversity Issues and How to Tame Them**|Mischa Dombrowski et.al.|[2411.16171](http://arxiv.org/abs/2411.16171)|**[link](https://github.com/mischad/beyondfid)**|
 |**2024-11-24**|**PG-SLAM: Photo-realistic and Geometry-aware RGB-D SLAM in Dynamic Environments**|Haoang Li et.al.|[2411.15800](http://arxiv.org/abs/2411.15800)|null|
 |**2024-11-22**|**Cross-Modal Pre-Aligned Method with Global and Local Information for Remote-Sensing Image and Text Retrieval**|Zengbao Sun et.al.|[2411.14704](http://arxiv.org/abs/2411.14704)|null|
@@ -3674,9 +3674,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-29**|**SDR-GNN: Spectral Domain Reconstruction Graph Neural Network for Incomplete Multimodal Learning in Conversational Emotion Recognition**|Fangze Fu et.al.|[2411.19822](http://arxiv.org/abs/2411.19822)|null|
 |**2024-11-29**|**PerLA: Perceptive 3D Language Assistant**|Guofeng Mei et.al.|[2411.19774](http://arxiv.org/abs/2411.19774)|null|
-|**2024-11-29**|**Graph Neural Networks for Heart Failure Prediction on an EHR-Based Patient Similarity Graph**|Heloisa Oss Boll et.al.|[2411.19742](http://arxiv.org/abs/2411.19742)|null|
+|**2024-11-29**|**Graph Neural Networks for Heart Failure Prediction on an EHR-Based Patient Similarity Graph**|Heloisa Oss Boll et.al.|[2411.19742](http://arxiv.org/abs/2411.19742)|**[link](https://github.com/hossboll/patient-gnn)**|
 |**2024-11-29**|**RL-MILP Solver: A Reinforcement Learning Approach for Solving Mixed-Integer Linear Programs with Graph Neural Networks**|Tae-Hoon Lee et.al.|[2411.19517](http://arxiv.org/abs/2411.19517)|null|
-|**2024-11-29**|**ContextGNN: Beyond Two-Tower Recommendation Systems**|Yiwen Yuan et.al.|[2411.19513](http://arxiv.org/abs/2411.19513)|null|
+|**2024-11-29**|**ContextGNN: Beyond Two-Tower Recommendation Systems**|Yiwen Yuan et.al.|[2411.19513](http://arxiv.org/abs/2411.19513)|**[link](https://github.com/kumo-ai/ContextGNN)**|
 |**2024-11-29**|**Graph-Enhanced EEG Foundation Model**|Limin Wang et.al.|[2411.19507](http://arxiv.org/abs/2411.19507)|null|
 |**2024-11-29**|**Gradient Inversion Attack on Graph Neural Networks**|Divya Anand Sinha et.al.|[2411.19440](http://arxiv.org/abs/2411.19440)|null|
 |**2024-11-28**|**Scale Invariance of Graph Neural Networks**|Qin Jiang et.al.|[2411.19392](http://arxiv.org/abs/2411.19392)|**[link](https://github.com/qin87/scalenet)**|
@@ -6667,7 +6667,7 @@ layout: default
 |**2024-11-29**|**The role of inhibitory neuronal variability in modulating phase diversity between coupled networks**|Katiele V. P. Brito et.al.|[2411.19664](http://arxiv.org/abs/2411.19664)|null|
 |**2024-11-29**|**Unsupervised Learning Approach to Anomaly Detection in Gravitational Wave Data**|Ammar Fayad et.al.|[2411.19450](http://arxiv.org/abs/2411.19450)|null|
 |**2024-11-29**|**Core Placement Optimization of Many-core Brain-Inspired Near-Storage Systems for Spiking Neural Network Training**|Xueke Zhu et.al.|[2411.19430](http://arxiv.org/abs/2411.19430)|null|
-|**2024-11-29**|**Wafer2Spike: Spiking Neural Network for Wafer Map Pattern Classification**|Abhishek Mishra et.al.|[2411.19422](http://arxiv.org/abs/2411.19422)|null|
+|**2024-11-29**|**Wafer2Spike: Spiking Neural Network for Wafer Map Pattern Classification**|Abhishek Mishra et.al.|[2411.19422](http://arxiv.org/abs/2411.19422)|**[link](https://github.com/abhishekkumarm98/Wafer2Spike)**|
 |**2024-11-28**|**Fused-MemBrain: a spiking processor combining CMOS and self-assembled memristive networks**|Davide Cipollini et.al.|[2411.19353](http://arxiv.org/abs/2411.19353)|null|
 |**2024-11-28**|**A spiking photonic neural network of 40.000 neurons, trained with rank-order coding for leveraging sparsity**|Ria Talukder et.al.|[2411.19209](http://arxiv.org/abs/2411.19209)|null|
 |**2024-11-27**|**Investigating Plausibility of Biologically Inspired Bayesian Learning in ANNs**|Ram Zaveri et.al.|[2411.18788](http://arxiv.org/abs/2411.18788)|null|
