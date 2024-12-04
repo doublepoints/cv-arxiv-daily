@@ -530,6 +530,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-02**|**SfM-Free 3D Gaussian Splatting via Hierarchical Training**|Bo Ji et.al.|[2412.01553](http://arxiv.org/abs/2412.01553)|**[link](https://github.com/jibo27/3dgs_hierarchical_training)**|
+|**2024-12-02**|**MVImgNet2.0: A Larger-scale Dataset of Multi-view Images**|Xiaoguang Han et.al.|[2412.01430](http://arxiv.org/abs/2412.01430)|null|
+|**2024-12-02**|**Look Ma, No Ground Truth! Ground-Truth-Free Tuning of Structure from Motion and Visual SLAM**|Alejandro Fontan et.al.|[2412.01116](http://arxiv.org/abs/2412.01116)|null|
 |**2024-11-27**|**RoMo: Robust Motion Segmentation Improves Structure from Motion**|Lily Goli et.al.|[2411.18650](http://arxiv.org/abs/2411.18650)|null|
 |**2024-11-24**|**ZeroGS: Training 3D Gaussian Splatting from Unposed Images**|Yu Chen et.al.|[2411.15779](http://arxiv.org/abs/2411.15779)|null|
 |**2024-11-20**|**DATAP-SfM: Dynamic-Aware Tracking Any Point for Robust Structure from Motion in the Wild**|Weicai Ye et.al.|[2411.13291](http://arxiv.org/abs/2411.13291)|null|
@@ -792,6 +795,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Active Learning via Classifier Impact and Greedy Selection for Interactive Image Retrieval**|Leah Bar et.al.|[2412.02310](http://arxiv.org/abs/2412.02310)|**[link](https://github.com/barleah/greedyal)**|
+|**2024-12-02**|**Mutli-View 3D Reconstruction using Knowledge Distillation**|Aditya Dutt et.al.|[2412.02039](http://arxiv.org/abs/2412.02039)|null|
+|**2024-12-02**|**Optimizing Domain-Specific Image Retrieval: A Benchmark of FAISS and Annoy with Fine-Tuned Features**|MD Shaikh Rahman et.al.|[2412.01555](http://arxiv.org/abs/2412.01555)|null|
+|**2024-12-02**|**Neuron Abandoning Attention Flow: Visual Explanation of Dynamics inside CNN Models**|Yi Liao et.al.|[2412.01202](http://arxiv.org/abs/2412.01202)|null|
+|**2024-12-01**|**EDTformer: An Efficient Decoder Transformer for Visual Place Recognition**|Tong Jin et.al.|[2412.00784](http://arxiv.org/abs/2412.00784)|null|
+|**2024-11-28**|**EFSA: Episodic Few-Shot Adaptation for Text-to-Image Retrieval**|Muhammad Huzaifa et.al.|[2412.00139](http://arxiv.org/abs/2412.00139)|null|
+|**2024-11-28**|**Unleashing the Power of Data Synthesis in Visual Localization**|Sihang Li et.al.|[2412.00138](http://arxiv.org/abs/2412.00138)|null|
+|**2024-11-28**|**Relation-Aware Meta-Learning for Zero-shot Sketch-Based Image Retrieval**|Yang Liu et.al.|[2412.00120](http://arxiv.org/abs/2412.00120)|null|
 |**2024-11-29**|**A Visual-inertial Localization Algorithm using Opportunistic Visual Beacons and Dead-Reckoning for GNSS-Denied Large-scale Applications**|Liqiang Zhang Ye Tian Dongyan Wei et.al.|[2411.19845](http://arxiv.org/abs/2411.19845)|null|
 |**2024-11-27**|**Optimizing Image Retrieval with an Extended b-Metric Space**|Abdelkader Belhenniche et.al.|[2411.18800](http://arxiv.org/abs/2411.18800)|null|
 |**2024-11-26**|**Learning Visual Hierarchies with Hyperbolic Embeddings**|Ziwei Wang et.al.|[2411.17490](http://arxiv.org/abs/2411.17490)|null|
@@ -1764,6 +1775,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-02**|**MamKPD: A Simple Mamba Baseline for Real-Time 2D Keypoint Detection**|Yonghao Dang et.al.|[2412.01422](http://arxiv.org/abs/2412.01422)|null|
 |**2024-11-23**|**OCDet: Object Center Detection via Bounding Box-Aware Heatmap Prediction on Edge Devices with NPUs**|Chen Xin et.al.|[2411.15653](http://arxiv.org/abs/2411.15653)|**[link](https://github.com/chen-xin-94/ocdet)**|
 |**2024-11-19**|**IoT-Based 3D Pose Estimation and Motion Optimization for Athletes: Application of C3D and OpenPose**|Fei Ren et.al.|[2411.12676](http://arxiv.org/abs/2411.12676)|null|
 |**2024-11-04**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang et.al.|[2411.01851](http://arxiv.org/abs/2411.01851)|null|
@@ -2308,6 +2320,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-01**|**SAGA: Surface-Aligned Gaussian Avatar**|Ronghan Chen et.al.|[2412.00845](http://arxiv.org/abs/2412.00845)|null|
+|**2024-12-01**|**CtrlNeRF: The Generative Neural Radiation Fields for the Controllable Synthesis of High-fidelity 3D-Aware Images**|Jian Liu et.al.|[2412.00754](http://arxiv.org/abs/2412.00754)|null|
+|**2024-11-30**|**Speedy-Splat: Fast 3D Gaussian Splatting with Sparse Pixels and Sparse Primitives**|Alex Hanson et.al.|[2412.00578](http://arxiv.org/abs/2412.00578)|null|
+|**2024-11-30**|**Instant3dit: Multiview Inpainting for Fast Editing of 3D Objects**|Amir Barda et.al.|[2412.00518](http://arxiv.org/abs/2412.00518)|null|
 |**2024-11-29**|**$C^{3}$ -NeRF: Modeling Multiple Scenes via Conditional-cum-Continual Neural Radiance Fields**|Prajwal Singh et.al.|[2411.19903](http://arxiv.org/abs/2411.19903)|null|
 |**2024-11-29**|**Gaussian Splashing: Direct Volumetric Rendering Underwater**|Nir Mualem et.al.|[2411.19588](http://arxiv.org/abs/2411.19588)|null|
 |**2024-11-29**|**ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration**|Chaojun Ni et.al.|[2411.19548](http://arxiv.org/abs/2411.19548)|null|
@@ -3696,6 +3712,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**MERGE: Multi-faceted Hierarchical Graph-based GNN for Gene Expression Prediction from Whole Slide Histopathology Images**|Aniruddha Ganguly et.al.|[2412.02601](http://arxiv.org/abs/2412.02601)|null|
+|**2024-12-03**|**Mobile Cell-Free Massive MIMO with Multi-Agent Reinforcement Learning: A Scalable Framework**|Ziheng Liu et.al.|[2412.02581](http://arxiv.org/abs/2412.02581)|null|
+|**2024-12-03**|**An Automated Data Mining Framework Using Autoencoders for Feature Extraction and Dimensionality Reduction**|Yaxin Liang et.al.|[2412.02211](http://arxiv.org/abs/2412.02211)|null|
+|**2024-12-03**|**Generalizing Weisfeiler-Lehman Kernels to Subgraphs**|Dongkwan Kim et.al.|[2412.02181](http://arxiv.org/abs/2412.02181)|**[link](https://github.com/dongkwan-kim/wlks)**|
+|**2024-12-03**|**GNN-based Auto-Encoder for Short Linear Block Codes: A DRL Approach**|Kou Tian et.al.|[2412.02053](http://arxiv.org/abs/2412.02053)|null|
+|**2024-12-02**|**From ChebNet to ChebGibbsNet**|Jie Zhang et.al.|[2412.01789](http://arxiv.org/abs/2412.01789)|**[link](https://github.com/hazdzz/ChebGibbsNet)**|
+|**2024-12-02**|**Structure-Guided Input Graph for GNNs facing Heterophily**|Victor M. Tenorio et.al.|[2412.01757](http://arxiv.org/abs/2412.01757)|null|
+|**2024-12-02**|**A Survey on Deep Neural Networks in Collaborative Filtering Recommendation Systems**|Pang Li et.al.|[2412.01378](http://arxiv.org/abs/2412.01378)|null|
+|**2024-12-02**|**The Deep Latent Position Block Model For The Block Clustering And Latent Representation Of Networks**|Rémi Boutin et.al.|[2412.01302](http://arxiv.org/abs/2412.01302)|null|
+|**2024-12-02**|**Morphological-Symmetry-Equivariant Heterogeneous Graph Neural Network for Robotic Dynamics Learning**|Fengze Xie et.al.|[2412.01297](http://arxiv.org/abs/2412.01297)|**[link](https://github.com/lunarlab-gatech/morphsym-hgnn)**|
 |**2024-11-29**|**SDR-GNN: Spectral Domain Reconstruction Graph Neural Network for Incomplete Multimodal Learning in Conversational Emotion Recognition**|Fangze Fu et.al.|[2411.19822](http://arxiv.org/abs/2411.19822)|null|
 |**2024-11-29**|**PerLA: Perceptive 3D Language Assistant**|Guofeng Mei et.al.|[2411.19774](http://arxiv.org/abs/2411.19774)|null|
 |**2024-11-29**|**Graph Neural Networks for Heart Failure Prediction on an EHR-Based Patient Similarity Graph**|Heloisa Oss Boll et.al.|[2411.19742](http://arxiv.org/abs/2411.19742)|**[link](https://github.com/hossboll/patient-gnn)**|
@@ -6400,6 +6426,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-02**|**Continuous-Time Human Motion Field from Events**|Ziyun Wang et.al.|[2412.01747](http://arxiv.org/abs/2412.01747)|null|
+|**2024-12-02**|**Event-Based Tracking Any Point with Motion-Augmented Temporal Consistency**|Han Han et.al.|[2412.01300](http://arxiv.org/abs/2412.01300)|null|
+|**2024-12-01**|**EventGPT: Event Stream Understanding with Multimodal Large Language Models**|Shaoyu Liu et.al.|[2412.00832](http://arxiv.org/abs/2412.00832)|null|
+|**2024-12-01**|**Motion-Aware Optical Camera Communication with Event Cameras**|Hang Su et.al.|[2412.00816](http://arxiv.org/abs/2412.00816)|null|
+|**2024-11-28**|**Event-based Tracking of Any Point with Motion-Robust Correlation Features**|Friedhelm Hamann et.al.|[2412.00133](http://arxiv.org/abs/2412.00133)|null|
 |**2024-11-27**|**Structured light with a million light planes per second**|Dhawal Sirikonda et.al.|[2411.18597](http://arxiv.org/abs/2411.18597)|null|
 |**2024-11-26**|**Event Ellipsometer: Event-based Mueller-Matrix Video Imaging**|Ryota Maeda et.al.|[2411.17313](http://arxiv.org/abs/2411.17313)|null|
 |**2024-11-25**|**AnonyNoise: Anonymizing Event Data with Smart Noise to Outsmart Re-Identification and Preserve Privacy**|Katharina Bendig et.al.|[2411.16440](http://arxiv.org/abs/2411.16440)|**[link](https://github.com/dfki-av/anonynoise)**|
@@ -6691,6 +6722,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Thermo-optical spiking and mixed-mode oscillations in injected Kerr microcavities**|Elias R. Koch et.al.|[2412.02510](http://arxiv.org/abs/2412.02510)|null|
+|**2024-12-03**|**FL-QDSNNs: Federated Learning with Quantum Dynamic Spiking Neural Networks**|Nouhaila Innan et.al.|[2412.02293](http://arxiv.org/abs/2412.02293)|null|
+|**2024-12-03**|**Implementing An Artificial Quantum Perceptron**|Ashutosh Hathidara et.al.|[2412.02083](http://arxiv.org/abs/2412.02083)|null|
+|**2024-12-02**|**Local and Regional Contributions to Tropospheric Ozone Concentrations**|Callum E. Flowerday et.al.|[2412.01659](http://arxiv.org/abs/2412.01659)|null|
+|**2024-12-02**|**Hardware architecture and routing-aware training for optimal memory usage: a case study**|Jimmy Weber et.al.|[2412.01575](http://arxiv.org/abs/2412.01575)|null|
+|**2024-12-02**|**Unifying AMP Algorithms for Rotationally-Invariant Models**|Songbin Liu et.al.|[2412.01574](http://arxiv.org/abs/2412.01574)|null|
+|**2024-12-02**|**Gated Parametric Neuron for Spike-based Audio Recognition**|Haoran Wang et.al.|[2412.01087](http://arxiv.org/abs/2412.01087)|null|
+|**2024-12-01**|**Distinguish the environmental effects and modified theory of gravity with multiple massive black-hole binaries**|Xulong Yuan et.al.|[2412.00915](http://arxiv.org/abs/2412.00915)|null|
+|**2024-12-01**|**Neutrino Diffusion within Dark Matter Spikes**|Motoko Fujiwara et.al.|[2412.00805](http://arxiv.org/abs/2412.00805)|null|
+|**2024-11-30**|**The Impact of Generative AI on Student Churn and the Future of Formal Education**|Stephen Elbourn et.al.|[2412.00605](http://arxiv.org/abs/2412.00605)|null|
 |**2024-11-29**|**Integrated Artificial Neurons from Metal Halide Perovskites**|Jeroen J. de Boer et.al.|[2411.19820](http://arxiv.org/abs/2411.19820)|null|
 |**2024-11-29**|**The role of inhibitory neuronal variability in modulating phase diversity between coupled networks**|Katiele V. P. Brito et.al.|[2411.19664](http://arxiv.org/abs/2411.19664)|null|
 |**2024-11-29**|**Unsupervised Learning Approach to Anomaly Detection in Gravitational Wave Data**|Ammar Fayad et.al.|[2411.19450](http://arxiv.org/abs/2411.19450)|null|
@@ -7890,6 +7931,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Reproduction of AdEx dynamics on neuromorphic hardware through data embedding and simulation-based inference**|Jakob Huhle et.al.|[2412.02437](http://arxiv.org/abs/2412.02437)|null|
 |**2024-11-26**|**Noise Adaptor: Enhancing Low-Latency Spiking Neural Networks through Noise-Injected Low-Bit ANN Conversion**|Chen Li et.al.|[2411.17431](http://arxiv.org/abs/2411.17431)|null|
 |**2024-11-12**|**Consistent model selection for estimating functional interactions among stochastic neurons with variable-length memory**|Ricardo F. Ferreira et.al.|[2411.08205](http://arxiv.org/abs/2411.08205)|null|
 |**2024-11-07**|**Zero-Shot Temporal Resolution Domain Adaptation for Spiking Neural Networks**|Sanja Karilanova et.al.|[2411.04760](http://arxiv.org/abs/2411.04760)|null|
