@@ -27,6 +27,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu et.al.|[2412.03146](http://arxiv.org/abs/2412.03146)|null|
+|**2024-12-04**|**An indoor DSO-based ceiling-vision odometry system for indoor industrial environments**|Abdelhak Bougouffa et.al.|[2412.02950](http://arxiv.org/abs/2412.02950)|null|
 |**2024-11-21**|**InCrowd-VI: A Realistic Visual-Inertial Dataset for Evaluating SLAM in Indoor Pedestrian-Rich Spaces for Human Navigation**|Marziyeh Bamdad et.al.|[2411.14358](http://arxiv.org/abs/2411.14358)|null|
 |**2024-11-20**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany et.al.|[2411.13438](http://arxiv.org/abs/2411.13438)|null|
 |**2024-11-15**|**BEV-ODOM: Reducing Scale Drift in Monocular Visual Odometry with BEV Representation**|Yufei Wei et.al.|[2411.10195](http://arxiv.org/abs/2411.10195)|null|
@@ -795,8 +797,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Distillation of Diffusion Features for Semantic Correspondence**|Frank Fundel et.al.|[2412.03512](http://arxiv.org/abs/2412.03512)|null|
+|**2024-12-04**|**Composed Image Retrieval for Training-Free Domain Conversion**|Nikos Efthymiadis et.al.|[2412.03297](http://arxiv.org/abs/2412.03297)|**[link](https://github.com/nikosefth/freedom)**|
+|**2024-12-03**|**A Minimalistic 3D Self-Organized UAV Flocking Approach for Desert Exploration**|Thulio Amorim et.al.|[2412.02881](http://arxiv.org/abs/2412.02881)|null|
 |**2024-12-03**|**Active Learning via Classifier Impact and Greedy Selection for Interactive Image Retrieval**|Leah Bar et.al.|[2412.02310](http://arxiv.org/abs/2412.02310)|**[link](https://github.com/barleah/greedyal)**|
-|**2024-12-02**|**Mutli-View 3D Reconstruction using Knowledge Distillation**|Aditya Dutt et.al.|[2412.02039](http://arxiv.org/abs/2412.02039)|null|
+|**2024-12-02**|**Mutli-View 3D Reconstruction using Knowledge Distillation**|Aditya Dutt et.al.|[2412.02039](http://arxiv.org/abs/2412.02039)|**[link](https://github.com/ishikaalunawat/231aproj)**|
 |**2024-12-02**|**Optimizing Domain-Specific Image Retrieval: A Benchmark of FAISS and Annoy with Fine-Tuned Features**|MD Shaikh Rahman et.al.|[2412.01555](http://arxiv.org/abs/2412.01555)|null|
 |**2024-12-02**|**Neuron Abandoning Attention Flow: Visual Explanation of Dynamics inside CNN Models**|Yi Liao et.al.|[2412.01202](http://arxiv.org/abs/2412.01202)|null|
 |**2024-12-01**|**EDTformer: An Efficient Decoder Transformer for Visual Place Recognition**|Tong Jin et.al.|[2412.00784](http://arxiv.org/abs/2412.00784)|null|
@@ -1775,6 +1780,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Measure Anything: Real-time, Multi-stage Vision-based Dimensional Measurement using Segment Anything**|Yongkyu Lee et.al.|[2412.03472](http://arxiv.org/abs/2412.03472)|null|
 |**2024-12-02**|**MamKPD: A Simple Mamba Baseline for Real-Time 2D Keypoint Detection**|Yonghao Dang et.al.|[2412.01422](http://arxiv.org/abs/2412.01422)|null|
 |**2024-11-23**|**OCDet: Object Center Detection via Bounding Box-Aware Heatmap Prediction on Edge Devices with NPUs**|Chen Xin et.al.|[2411.15653](http://arxiv.org/abs/2411.15653)|**[link](https://github.com/chen-xin-94/ocdet)**|
 |**2024-11-19**|**IoT-Based 3D Pose Estimation and Motion Optimization for Athletes: Application of C3D and OpenPose**|Fei Ren et.al.|[2411.12676](http://arxiv.org/abs/2411.12676)|null|
@@ -2039,6 +2045,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Appearance Matching Adapter for Exemplar-based Semantic Image Synthesis**|Siyoon Jin et.al.|[2412.03150](http://arxiv.org/abs/2412.03150)|null|
 |**2024-11-20**|**DT-LSD: Deformable Transformer-based Line Segment Detection**|Sebastian Janampa et.al.|[2411.13005](http://arxiv.org/abs/2411.13005)|**[link](https://github.com/SebastianJanampa/DT-LSD)**|
 |**2024-11-15**|**Image Matching Filtering and Refinement by Planes and Beyond**|Fabio Bellavia et.al.|[2411.09484](http://arxiv.org/abs/2411.09484)|**[link](https://github.com/fb82/miho)**|
 |**2024-11-11**|**XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration**|Ismail Can Yagmur et.al.|[2411.07430](http://arxiv.org/abs/2411.07430)|**[link](https://github.com/canyagmur/xpoint)**|
@@ -2320,6 +2327,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**NeRF and Gaussian Splatting SLAM in the Wild**|Fabian Schmidt et.al.|[2412.03263](http://arxiv.org/abs/2412.03263)|null|
 |**2024-12-01**|**SAGA: Surface-Aligned Gaussian Avatar**|Ronghan Chen et.al.|[2412.00845](http://arxiv.org/abs/2412.00845)|null|
 |**2024-12-01**|**CtrlNeRF: The Generative Neural Radiation Fields for the Controllable Synthesis of High-fidelity 3D-Aware Images**|Jian Liu et.al.|[2412.00754](http://arxiv.org/abs/2412.00754)|null|
 |**2024-11-30**|**Speedy-Splat: Fast 3D Gaussian Splatting with Sparse Pixels and Sparse Primitives**|Alex Hanson et.al.|[2412.00578](http://arxiv.org/abs/2412.00578)|null|
@@ -3712,6 +3720,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Dielectric tensor of perovskite oxides at finite temperature using equivariant graph neural network potentials**|Alex Kutana et.al.|[2412.03541](http://arxiv.org/abs/2412.03541)|null|
+|**2024-12-04**|**Contextual Data Integration for Bike-sharing Demand Prediction with Graph Neural Networks in Degraded Weather Conditions**|Romain Rochas et.al.|[2412.03307](http://arxiv.org/abs/2412.03307)|null|
+|**2024-12-04**|**Node Classification With Integrated Reject Option**|Uday Bhaskar et.al.|[2412.03190](http://arxiv.org/abs/2412.03190)|null|
+|**2024-12-04**|**Semi-decentralized Training of Spatio-Temporal Graph Neural Networks for Traffic Prediction**|Ivan Kralj et.al.|[2412.03188](http://arxiv.org/abs/2412.03188)|null|
+|**2024-12-04**|**Enhancing Recommendation Systems with GNNs and Addressing Over-Smoothing**|Wenyi Liu et.al.|[2412.03097](http://arxiv.org/abs/2412.03097)|null|
+|**2024-12-04**|**A Graph Neural Network Approach to Dispersed Systems**|Aref Hashemi et.al.|[2412.02967](http://arxiv.org/abs/2412.02967)|null|
+|**2024-12-03**|**CuXASNet: Rapid and Accurate Prediction of Copper L-edge X-Ray Absorption Spectra Using Machine Learning**|Samuel P. Gleason et.al.|[2412.02916](http://arxiv.org/abs/2412.02916)|null|
+|**2024-12-03**|**Geographical Information Alignment Boosts Traffic Analysis via Transpose Cross-attention**|Xiangyu Jiang et.al.|[2412.02839](http://arxiv.org/abs/2412.02839)|null|
 |**2024-12-03**|**MERGE: Multi-faceted Hierarchical Graph-based GNN for Gene Expression Prediction from Whole Slide Histopathology Images**|Aniruddha Ganguly et.al.|[2412.02601](http://arxiv.org/abs/2412.02601)|null|
 |**2024-12-03**|**Mobile Cell-Free Massive MIMO with Multi-Agent Reinforcement Learning: A Scalable Framework**|Ziheng Liu et.al.|[2412.02581](http://arxiv.org/abs/2412.02581)|null|
 |**2024-12-03**|**An Automated Data Mining Framework Using Autoencoders for Feature Extraction and Dimensionality Reduction**|Yaxin Liang et.al.|[2412.02211](http://arxiv.org/abs/2412.02211)|null|
@@ -6426,6 +6442,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Asynchronous Event-Inertial Odometry using a Unified Gaussian Process Regression Framework**|Xudong Li et.al.|[2412.03136](http://arxiv.org/abs/2412.03136)|null|
+|**2024-12-03**|**EvRT-DETR: The Surprising Effectiveness of DETR-based Detection for Event Cameras**|Dmitrii Torbunov et.al.|[2412.02890](http://arxiv.org/abs/2412.02890)|null|
 |**2024-12-02**|**Continuous-Time Human Motion Field from Events**|Ziyun Wang et.al.|[2412.01747](http://arxiv.org/abs/2412.01747)|null|
 |**2024-12-02**|**Event-Based Tracking Any Point with Motion-Augmented Temporal Consistency**|Han Han et.al.|[2412.01300](http://arxiv.org/abs/2412.01300)|null|
 |**2024-12-01**|**EventGPT: Event Stream Understanding with Multimodal Large Language Models**|Shaoyu Liu et.al.|[2412.00832](http://arxiv.org/abs/2412.00832)|null|
@@ -6722,9 +6740,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Short-reach Optical Communications: A Real-world Task for Neuromorphic Hardware**|Elias Arnold et.al.|[2412.03129](http://arxiv.org/abs/2412.03129)|null|
+|**2024-12-04**|**Integrating programmable plasticity in experiment descriptions for analog neuromorphic hardware**|Philipp Spilger et.al.|[2412.03128](http://arxiv.org/abs/2412.03128)|null|
+|**2024-12-04**|**Uncovering dynamics between SARS-CoV-2 wastewater concentrations and community infections via Bayesian spatial functional concurrent regression**|Thomas Y. Sun et.al.|[2412.02970](http://arxiv.org/abs/2412.02970)|null|
 |**2024-12-03**|**Thermo-optical spiking and mixed-mode oscillations in injected Kerr microcavities**|Elias R. Koch et.al.|[2412.02510](http://arxiv.org/abs/2412.02510)|null|
 |**2024-12-03**|**FL-QDSNNs: Federated Learning with Quantum Dynamic Spiking Neural Networks**|Nouhaila Innan et.al.|[2412.02293](http://arxiv.org/abs/2412.02293)|null|
-|**2024-12-03**|**Implementing An Artificial Quantum Perceptron**|Ashutosh Hathidara et.al.|[2412.02083](http://arxiv.org/abs/2412.02083)|null|
+|**2024-12-03**|**Implementing An Artificial Quantum Perceptron**|Ashutosh Hathidara et.al.|[2412.02083](http://arxiv.org/abs/2412.02083)|**[link](https://github.com/ashutosh1919/quantum-perceptron)**|
 |**2024-12-02**|**Local and Regional Contributions to Tropospheric Ozone Concentrations**|Callum E. Flowerday et.al.|[2412.01659](http://arxiv.org/abs/2412.01659)|null|
 |**2024-12-02**|**Hardware architecture and routing-aware training for optimal memory usage: a case study**|Jimmy Weber et.al.|[2412.01575](http://arxiv.org/abs/2412.01575)|null|
 |**2024-12-02**|**Unifying AMP Algorithms for Rotationally-Invariant Models**|Songbin Liu et.al.|[2412.01574](http://arxiv.org/abs/2412.01574)|null|
