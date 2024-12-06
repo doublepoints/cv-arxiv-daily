@@ -518,6 +518,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos**|Zhengqi Li et.al.|[2412.04463](http://arxiv.org/abs/2412.04463)|null|
 |**2024-12-02**|**SfM-Free 3D Gaussian Splatting via Hierarchical Training**|Bo Ji et.al.|[2412.01553](http://arxiv.org/abs/2412.01553)|**[link](https://github.com/jibo27/3dgs_hierarchical_training)**|
 |**2024-12-02**|**MVImgNet2.0: A Larger-scale Dataset of Multi-view Images**|Xiaoguang Han et.al.|[2412.01430](http://arxiv.org/abs/2412.01430)|null|
 |**2024-12-02**|**Look Ma, No Ground Truth! Ground-Truth-Free Tuning of Structure from Motion and Visual SLAM**|Alejandro Fontan et.al.|[2412.01116](http://arxiv.org/abs/2412.01116)|null|
@@ -3696,6 +3697,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**PDMD: Potential-free Data-driven Molecular Dynamics for Variable-sized Water Clusters**|Hongyu Yan et.al.|[2412.04442](http://arxiv.org/abs/2412.04442)|null|
+|**2024-12-05**|**Machine Theory of Mind for Autonomous Cyber-Defence**|Luke Swaby et.al.|[2412.04367](http://arxiv.org/abs/2412.04367)|null|
+|**2024-12-05**|**Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems**|Yuwei Cao et.al.|[2412.04276](http://arxiv.org/abs/2412.04276)|null|
+|**2024-12-05**|**Graph Neural Networks Need Cluster-Normalize-Activate Modules**|Arseny Skryagin et.al.|[2412.04064](http://arxiv.org/abs/2412.04064)|null|
+|**2024-12-05**|**Graph Disentangle Causal Model: Enhancing Causal Inference in Networked Observational Data**|Binbin Hu et.al.|[2412.03913](http://arxiv.org/abs/2412.03913)|null|
+|**2024-12-05**|**Training MLPs on Graphs without Supervision**|Zehong Wang et.al.|[2412.03864](http://arxiv.org/abs/2412.03864)|null|
+|**2024-12-05**|**Residual Hyperbolic Graph Convolution Networks**|Yangkai Xue et.al.|[2412.03825](http://arxiv.org/abs/2412.03825)|null|
+|**2024-12-05**|**Expressivity of Representation Learning on Continuous-Time Dynamic Graphs: An Information-Flow Centric Review**|Sofiane Ennadir et.al.|[2412.03783](http://arxiv.org/abs/2412.03783)|null|
+|**2024-12-04**|**Language Model Meets Prototypes: Towards Interpretable Text Classification Models through Prototypical Networks**|Ximing Wen et.al.|[2412.03761](http://arxiv.org/abs/2412.03761)|null|
+|**2024-12-04**|**Explainable Malware Detection through Integrated Graph Reduction and Learning Techniques**|Hesamodin Mohammadian et.al.|[2412.03634](http://arxiv.org/abs/2412.03634)|null|
 |**2024-12-04**|**Dielectric tensor of perovskite oxides at finite temperature using equivariant graph neural network potentials**|Alex Kutana et.al.|[2412.03541](http://arxiv.org/abs/2412.03541)|null|
 |**2024-12-04**|**Contextual Data Integration for Bike-sharing Demand Prediction with Graph Neural Networks in Degraded Weather Conditions**|Romain Rochas et.al.|[2412.03307](http://arxiv.org/abs/2412.03307)|null|
 |**2024-12-04**|**Node Classification With Integrated Reject Option**|Uday Bhaskar et.al.|[2412.03190](http://arxiv.org/abs/2412.03190)|null|
@@ -6416,6 +6427,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**Frequency-Adaptive Low-Latency Object Detection Using Events and Frames**|Haitian Zhang et.al.|[2412.04149](http://arxiv.org/abs/2412.04149)|null|
 |**2024-12-04**|**Asynchronous Event-Inertial Odometry using a Unified Gaussian Process Regression Framework**|Xudong Li et.al.|[2412.03136](http://arxiv.org/abs/2412.03136)|null|
 |**2024-12-03**|**EvRT-DETR: The Surprising Effectiveness of DETR-based Detection for Event Cameras**|Dmitrii Torbunov et.al.|[2412.02890](http://arxiv.org/abs/2412.02890)|null|
 |**2024-12-02**|**Continuous-Time Human Motion Field from Events**|Ziyun Wang et.al.|[2412.01747](http://arxiv.org/abs/2412.01747)|null|
@@ -6712,6 +6724,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**Energy Scalability Limits of Dissipative Solitons**|Vladimir L. Kalashnikov et.al.|[2412.04297](http://arxiv.org/abs/2412.04297)|null|
+|**2024-12-05**|**Deep-Unrolling Multidimensional Harmonic Retrieval Algorithms on Neuromorphic Hardware**|Vlad C. Andrei et.al.|[2412.04008](http://arxiv.org/abs/2412.04008)|null|
+|**2024-12-05**|**Subsystem Resetting of a Heterogeneous Network of Theta Neurons**|Na Zhao et.al.|[2412.03909](http://arxiv.org/abs/2412.03909)|null|
+|**2024-12-05**|**A mathematical language for linking fine-scale structure in spikes from hundreds to thousands of neurons with behaviour**|Alexandra N. Busch et.al.|[2412.03804](http://arxiv.org/abs/2412.03804)|null|
+|**2024-12-05**|**A Two-stage Approach for Variable Selection in Joint Modeling of Multiple Longitudinal Markers and Competing Risk Outcomes**|Taban Baghfalaki et.al.|[2412.03797](http://arxiv.org/abs/2412.03797)|null|
+|**2024-12-04**|**Resilience and Criticality: Brothers in Arms for 6G**|Robert-Jeron Reifert et.al.|[2412.03661](http://arxiv.org/abs/2412.03661)|null|
 |**2024-12-04**|**Short-reach Optical Communications: A Real-world Task for Neuromorphic Hardware**|Elias Arnold et.al.|[2412.03129](http://arxiv.org/abs/2412.03129)|null|
 |**2024-12-04**|**Integrating programmable plasticity in experiment descriptions for analog neuromorphic hardware**|Philipp Spilger et.al.|[2412.03128](http://arxiv.org/abs/2412.03128)|null|
 |**2024-12-04**|**Uncovering dynamics between SARS-CoV-2 wastewater concentrations and community infections via Bayesian spatial functional concurrent regression**|Thomas Y. Sun et.al.|[2412.02970](http://arxiv.org/abs/2412.02970)|null|
@@ -7922,6 +7940,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**Deep-Unrolling Multidimensional Harmonic Retrieval Algorithms on Neuromorphic Hardware**|Vlad C. Andrei et.al.|[2412.04008](http://arxiv.org/abs/2412.04008)|null|
 |**2024-12-03**|**Reproduction of AdEx dynamics on neuromorphic hardware through data embedding and simulation-based inference**|Jakob Huhle et.al.|[2412.02437](http://arxiv.org/abs/2412.02437)|null|
 |**2024-11-26**|**Noise Adaptor: Enhancing Low-Latency Spiking Neural Networks through Noise-Injected Low-Bit ANN Conversion**|Chen Li et.al.|[2411.17431](http://arxiv.org/abs/2411.17431)|null|
 |**2024-11-12**|**Consistent model selection for estimating functional interactions among stochastic neurons with variable-length memory**|Ricardo F. Ferreira et.al.|[2411.08205](http://arxiv.org/abs/2411.08205)|null|
