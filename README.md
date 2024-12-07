@@ -27,7 +27,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu et.al.|[2412.03146](http://arxiv.org/abs/2412.03146)|null|
+|**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu et.al.|[2412.03146](http://arxiv.org/abs/2412.03146)|**[link](https://github.com/junhaowang615/mcvo)**|
 |**2024-12-04**|**An indoor DSO-based ceiling-vision odometry system for indoor industrial environments**|Abdelhak Bougouffa et.al.|[2412.02950](http://arxiv.org/abs/2412.02950)|null|
 |**2024-11-21**|**InCrowd-VI: A Realistic Visual-Inertial Dataset for Evaluating SLAM in Indoor Pedestrian-Rich Spaces for Human Navigation**|Marziyeh Bamdad et.al.|[2411.14358](http://arxiv.org/abs/2411.14358)|null|
 |**2024-11-20**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany et.al.|[2411.13438](http://arxiv.org/abs/2411.13438)|null|
@@ -3723,10 +3723,10 @@
 |---|---|---|---|---|
 |**2024-12-05**|**PDMD: Potential-free Data-driven Molecular Dynamics for Variable-sized Water Clusters**|Hongyu Yan et.al.|[2412.04442](http://arxiv.org/abs/2412.04442)|null|
 |**2024-12-05**|**Machine Theory of Mind for Autonomous Cyber-Defence**|Luke Swaby et.al.|[2412.04367](http://arxiv.org/abs/2412.04367)|null|
-|**2024-12-05**|**Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems**|Yuwei Cao et.al.|[2412.04276](http://arxiv.org/abs/2412.04276)|null|
+|**2024-12-05**|**Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems**|Yuwei Cao et.al.|[2412.04276](http://arxiv.org/abs/2412.04276)|**[link](https://github.com/yuweicao-uic/gsau)**|
 |**2024-12-05**|**Graph Neural Networks Need Cluster-Normalize-Activate Modules**|Arseny Skryagin et.al.|[2412.04064](http://arxiv.org/abs/2412.04064)|null|
 |**2024-12-05**|**Graph Disentangle Causal Model: Enhancing Causal Inference in Networked Observational Data**|Binbin Hu et.al.|[2412.03913](http://arxiv.org/abs/2412.03913)|null|
-|**2024-12-05**|**Training MLPs on Graphs without Supervision**|Zehong Wang et.al.|[2412.03864](http://arxiv.org/abs/2412.03864)|null|
+|**2024-12-05**|**Training MLPs on Graphs without Supervision**|Zehong Wang et.al.|[2412.03864](http://arxiv.org/abs/2412.03864)|**[link](https://github.com/zehong-wang/simmlp)**|
 |**2024-12-05**|**Residual Hyperbolic Graph Convolution Networks**|Yangkai Xue et.al.|[2412.03825](http://arxiv.org/abs/2412.03825)|null|
 |**2024-12-05**|**Expressivity of Representation Learning on Continuous-Time Dynamic Graphs: An Information-Flow Centric Review**|Sofiane Ennadir et.al.|[2412.03783](http://arxiv.org/abs/2412.03783)|null|
 |**2024-12-04**|**Language Model Meets Prototypes: Towards Interpretable Text Classification Models through Prototypical Networks**|Ximing Wen et.al.|[2412.03761](http://arxiv.org/abs/2412.03761)|null|
@@ -6459,7 +6459,7 @@
 |**2024-12-02**|**Continuous-Time Human Motion Field from Events**|Ziyun Wang et.al.|[2412.01747](http://arxiv.org/abs/2412.01747)|null|
 |**2024-12-02**|**Event-Based Tracking Any Point with Motion-Augmented Temporal Consistency**|Han Han et.al.|[2412.01300](http://arxiv.org/abs/2412.01300)|null|
 |**2024-12-01**|**EventGPT: Event Stream Understanding with Multimodal Large Language Models**|Shaoyu Liu et.al.|[2412.00832](http://arxiv.org/abs/2412.00832)|null|
-|**2024-12-01**|**Motion-Aware Optical Camera Communication with Event Cameras**|Hang Su et.al.|[2412.00816](http://arxiv.org/abs/2412.00816)|null|
+|**2024-12-01**|**Motion-Aware Optical Camera Communication with Event Cameras**|Hang Su et.al.|[2412.00816](http://arxiv.org/abs/2412.00816)|**[link](https://github.com/suhang99/EventOCC)**|
 |**2024-11-28**|**Event-based Tracking of Any Point with Motion-Robust Correlation Features**|Friedhelm Hamann et.al.|[2412.00133](http://arxiv.org/abs/2412.00133)|null|
 |**2024-11-27**|**Structured light with a million light planes per second**|Dhawal Sirikonda et.al.|[2411.18597](http://arxiv.org/abs/2411.18597)|null|
 |**2024-11-26**|**Event Ellipsometer: Event-based Mueller-Matrix Video Imaging**|Ryota Maeda et.al.|[2411.17313](http://arxiv.org/abs/2411.17313)|null|
@@ -6756,9 +6756,9 @@
 |**2024-12-05**|**Deep-Unrolling Multidimensional Harmonic Retrieval Algorithms on Neuromorphic Hardware**|Vlad C. Andrei et.al.|[2412.04008](http://arxiv.org/abs/2412.04008)|null|
 |**2024-12-05**|**Subsystem Resetting of a Heterogeneous Network of Theta Neurons**|Na Zhao et.al.|[2412.03909](http://arxiv.org/abs/2412.03909)|null|
 |**2024-12-05**|**A mathematical language for linking fine-scale structure in spikes from hundreds to thousands of neurons with behaviour**|Alexandra N. Busch et.al.|[2412.03804](http://arxiv.org/abs/2412.03804)|null|
-|**2024-12-05**|**A Two-stage Approach for Variable Selection in Joint Modeling of Multiple Longitudinal Markers and Competing Risk Outcomes**|Taban Baghfalaki et.al.|[2412.03797](http://arxiv.org/abs/2412.03797)|null|
+|**2024-12-05**|**A Two-stage Approach for Variable Selection in Joint Modeling of Multiple Longitudinal Markers and Competing Risk Outcomes**|Taban Baghfalaki et.al.|[2412.03797](http://arxiv.org/abs/2412.03797)|**[link](https://github.com/tbaghfalaki/vsjm)**|
 |**2024-12-04**|**Resilience and Criticality: Brothers in Arms for 6G**|Robert-Jeron Reifert et.al.|[2412.03661](http://arxiv.org/abs/2412.03661)|null|
-|**2024-12-04**|**Short-reach Optical Communications: A Real-world Task for Neuromorphic Hardware**|Elias Arnold et.al.|[2412.03129](http://arxiv.org/abs/2412.03129)|null|
+|**2024-12-04**|**Short-reach Optical Communications: A Real-world Task for Neuromorphic Hardware**|Elias Arnold et.al.|[2412.03129](http://arxiv.org/abs/2412.03129)|**[link](https://github.com/imdd-task/imdd-task)**|
 |**2024-12-04**|**Integrating programmable plasticity in experiment descriptions for analog neuromorphic hardware**|Philipp Spilger et.al.|[2412.03128](http://arxiv.org/abs/2412.03128)|null|
 |**2024-12-04**|**Uncovering dynamics between SARS-CoV-2 wastewater concentrations and community infections via Bayesian spatial functional concurrent regression**|Thomas Y. Sun et.al.|[2412.02970](http://arxiv.org/abs/2412.02970)|null|
 |**2024-12-03**|**Thermo-optical spiking and mixed-mode oscillations in injected Kerr microcavities**|Elias R. Koch et.al.|[2412.02510](http://arxiv.org/abs/2412.02510)|null|
