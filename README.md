@@ -1,10 +1,10 @@
-## <a id=top></a>Updated on 2024.12.12
+## <a id=top></a>Updated on 2024.12.13
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.12
+## Updated on 2024.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -805,7 +805,7 @@
 |**2024-12-11**|**Intelligent Control of Robotic X-ray Devices using a Language-promptable Digital Twin**|Benjamin D. Killeen et.al.|[2412.08020](http://arxiv.org/abs/2412.08020)|null|
 |**2024-12-10**|**On Motion Blur and Deblurring in Visual Place Recognition**|Timur Ismagilov et.al.|[2412.07751](http://arxiv.org/abs/2412.07751)|null|
 |**2024-12-10**|**Image Retrieval with Intra-Sweep Representation Learning for Neck Ultrasound Scanning Guidance**|Wanwen Chen et.al.|[2412.07741](http://arxiv.org/abs/2412.07741)|null|
-|**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|null|
+|**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|**[link](https://github.com/sair-lab/SeqACE)**|
 |**2024-12-09**|**A Hyperdimensional One Place Signature to Represent Them All: Stackable Descriptors For Visual Place Recognition**|Connor Malone et.al.|[2412.06153](http://arxiv.org/abs/2412.06153)|null|
 |**2024-12-07**|**Compositional Image Retrieval via Instruction-Aware Contrastive Learning**|Wenliang Zhong et.al.|[2412.05756](http://arxiv.org/abs/2412.05756)|null|
 |**2024-12-06**|**DAug: Diffusion-based Channel Augmentation for Radiology Image Retrieval and Classification**|Ying Jin et.al.|[2412.04828](http://arxiv.org/abs/2412.04828)|null|
@@ -1792,7 +1792,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|null|
+|**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|**[link](https://github.com/sair-lab/SeqACE)**|
 |**2024-12-09**|**ZeroKey: Point-Level Reasoning and Zero-Shot 3D Keypoint Detection from Large Language Models**|Bingchen Gong et.al.|[2412.06292](http://arxiv.org/abs/2412.06292)|null|
 |**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487](http://arxiv.org/abs/2412.05487)|null|
 |**2024-12-04**|**Measure Anything: Real-time, Multi-stage Vision-based Dimensional Measurement using Segment Anything**|Yongkyu Lee et.al.|[2412.03472](http://arxiv.org/abs/2412.03472)|null|
@@ -2347,7 +2347,7 @@
 |**2024-12-10**|**EventSplat: 3D Gaussian Splatting from Moving Event Cameras for Real-time Rendering**|Toshiya Yura et.al.|[2412.07293](http://arxiv.org/abs/2412.07293)|null|
 |**2024-12-09**|**Diffusing Differentiable Representations**|Yash Savani et.al.|[2412.06981](http://arxiv.org/abs/2412.06981)|null|
 |**2024-12-09**|**Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view Event Cameras**|Viktor Rudnev et.al.|[2412.06770](http://arxiv.org/abs/2412.06770)|null|
-|**2024-12-09**|**Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video**|Renlong Wu et.al.|[2412.06424](http://arxiv.org/abs/2412.06424)|null|
+|**2024-12-09**|**Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video**|Renlong Wu et.al.|[2412.06424](http://arxiv.org/abs/2412.06424)|**[link](https://github.com/zcsrenlongz/deblur4dgs)**|
 |**2024-12-09**|**Splatter-360: Generalizable 360 $^{\circ}$ Gaussian Splatting for Wide-baseline Panoramic Images**|Zheng Chen et.al.|[2412.06250](http://arxiv.org/abs/2412.06250)|**[link](https://github.com/thucz/splatter360)**|
 |**2024-12-07**|**WATER-GS: Toward Copyright Protection for 3D Gaussian Splatting via Universal Watermarking**|Yuqi Tan et.al.|[2412.05695](http://arxiv.org/abs/2412.05695)|null|
 |**2024-12-06**|**Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories**|Susung Hong et.al.|[2412.05279](http://arxiv.org/abs/2412.05279)|null|
@@ -3749,10 +3749,10 @@
 |**2024-12-11**|**Robustness of Graph Classification: failure modes, causes, and noise-resistant loss in Graph Neural Networks**|Farooq Ahmad Wani et.al.|[2412.08419](http://arxiv.org/abs/2412.08419)|null|
 |**2024-12-11**|**Rumor Detection on Social Media with Temporal Propagation Structure Optimization**|Xingyu Peng et.al.|[2412.08316](http://arxiv.org/abs/2412.08316)|null|
 |**2024-12-11**|**GDSG: Graph Diffusion-based Solution Generation for Optimization Problems in MEC Networks**|Ruihuai Liang et.al.|[2412.08296](http://arxiv.org/abs/2412.08296)|**[link](https://github.com/qiyu3816/gdsg)**|
-|**2024-12-11**|**DistrictNet: Decision-aware learning for geographical districting**|Cheikh Ahmed et.al.|[2412.08287](http://arxiv.org/abs/2412.08287)|null|
+|**2024-12-11**|**DistrictNet: Decision-aware learning for geographical districting**|Cheikh Ahmed et.al.|[2412.08287](http://arxiv.org/abs/2412.08287)|**[link](https://github.com/cheikh025/DistrictNet)**|
 |**2024-12-11**|**Mixture of Experts Meets Decoupled Message Passing: Towards General and Adaptive Node Classification**|Xuanze Chen et.al.|[2412.08193](http://arxiv.org/abs/2412.08193)|null|
 |**2024-12-11**|**Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?**|Zihao Li et.al.|[2412.08174](http://arxiv.org/abs/2412.08174)|null|
-|**2024-12-11**|**DG-Mamba: Robust and Efficient Dynamic Graph Structure Learning with Selective State Space Models**|Haonan Yuan et.al.|[2412.08160](http://arxiv.org/abs/2412.08160)|null|
+|**2024-12-11**|**DG-Mamba: Robust and Efficient Dynamic Graph Structure Learning with Selective State Space Models**|Haonan Yuan et.al.|[2412.08160](http://arxiv.org/abs/2412.08160)|**[link](https://github.com/RingBDStack/DG-Mamba)**|
 |**2024-12-11**|**Rapid Bayesian Seismic Tomography using Graph Mixture Density Networks**|Xin Zhang et.al.|[2412.08080](http://arxiv.org/abs/2412.08080)|null|
 |**2024-12-11**|**Cluster-Enhanced Federated Graph Neural Network for Recommendation**|Haiyan Wang et.al.|[2412.08066](http://arxiv.org/abs/2412.08066)|null|
 |**2024-12-10**|**Fast Track to Winning Tickets: Repowering One-Shot Pruning for Graph Neural Networks**|Yanwei Yue et.al.|[2412.07605](http://arxiv.org/abs/2412.07605)|null|
@@ -6518,7 +6518,7 @@
 |**2024-12-10**|**EvRepSL: Event-Stream Representation via Self-Supervised Learning for Event-Based Vision**|Qiang Qu et.al.|[2412.07080](http://arxiv.org/abs/2412.07080)|**[link](https://github.com/vincentqqu/evrepsl)**|
 |**2024-12-09**|**Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view Event Cameras**|Viktor Rudnev et.al.|[2412.06770](http://arxiv.org/abs/2412.06770)|null|
 |**2024-12-09**|**FlexEvent: Event Camera Object Detection at Arbitrary Frequencies**|Dongyue Lu et.al.|[2412.06708](http://arxiv.org/abs/2412.06708)|null|
-|**2024-12-09**|**Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset**|Xiao Wang et.al.|[2412.06647](http://arxiv.org/abs/2412.06647)|null|
+|**2024-12-09**|**Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset**|Xiao Wang et.al.|[2412.06647](http://arxiv.org/abs/2412.06647)|**[link](https://github.com/event-ahu/openevdet)**|
 |**2024-12-09**|**On-Device Self-Supervised Learning of Low-Latency Monocular Depth from Only Events**|Jesse Hagenaars et.al.|[2412.06359](http://arxiv.org/abs/2412.06359)|null|
 |**2024-12-09**|**Event fields: Capturing light fields at high speed, resolution, and dynamic range**|Ziyuan Qu et.al.|[2412.06191](http://arxiv.org/abs/2412.06191)|null|
 |**2024-12-06**|**EvTTC: An Event Camera Dataset for Time-to-Collision Estimation**|Kaizhen Sun et.al.|[2412.05053](http://arxiv.org/abs/2412.05053)|null|
@@ -6827,7 +6827,7 @@
 |**2024-12-10**|**Efficient 3D Recognition with Event-driven Spike Sparse Convolution**|Xuerui Qiu et.al.|[2412.07360](http://arxiv.org/abs/2412.07360)|null|
 |**2024-12-10**|**EDiT: A Local-SGD-Based Efficient Distributed Training Method for Large Language Models**|Jialiang Cheng et.al.|[2412.07210](http://arxiv.org/abs/2412.07210)|null|
 |**2024-12-09**|**Real-Time Performance Optimization of Travel Reservation Systems Using AI and Microservices**|Biman Barua et.al.|[2412.06874](http://arxiv.org/abs/2412.06874)|null|
-|**2024-12-09**|**Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset**|Xiao Wang et.al.|[2412.06647](http://arxiv.org/abs/2412.06647)|null|
+|**2024-12-09**|**Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset**|Xiao Wang et.al.|[2412.06647](http://arxiv.org/abs/2412.06647)|**[link](https://github.com/event-ahu/openevdet)**|
 |**2024-12-09**|**Flexible and Scalable Deep Dendritic Spiking Neural Networks with Multiple Nonlinear Branching**|Yifan Huang et.al.|[2412.06355](http://arxiv.org/abs/2412.06355)|null|
 |**2024-12-09**|**Spiking Neural Networks for Radio Frequency Interference Detection in Radio Astronomy**|Nicholas J. Pritchard et.al.|[2412.06124](http://arxiv.org/abs/2412.06124)|null|
 |**2024-12-07**|**A generalized Bayesian approach for high-dimensional robust regression with serially correlated errors and predictors**|Saptarshi Chakraborty et.al.|[2412.05673](http://arxiv.org/abs/2412.05673)|null|
