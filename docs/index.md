@@ -1,4 +1,4 @@
-## <a id=top></a>Updated on 2024.12.14
+## <a id=top></a>Updated on 2024.12.15
 ---
 layout: default
 ---
@@ -8,14 +8,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.14
+## Updated on 2024.12.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## <a id=slam>SLAM</a>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|Jad Mansour et.al.|[2412.09209](http://arxiv.org/abs/2412.09209)|null|
+|**2024-12-12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|Jad Mansour et.al.|[2412.09209](http://arxiv.org/abs/2412.09209)|**[link](https://github.com/CIRS-Girona/ecarla-scenes)**|
 |**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu et.al.|[2412.03146](http://arxiv.org/abs/2412.03146)|**[link](https://github.com/junhaowang615/mcvo)**|
 |**2024-12-04**|**An indoor DSO-based ceiling-vision odometry system for indoor industrial environments**|Abdelhak Bougouffa et.al.|[2412.02950](http://arxiv.org/abs/2412.02950)|null|
 |**2024-11-21**|**InCrowd-VI: A Realistic Visual-Inertial Dataset for Evaluating SLAM in Indoor Pedestrian-Rich Spaces for Human Navigation**|Marziyeh Bamdad et.al.|[2411.14358](http://arxiv.org/abs/2411.14358)|null|
@@ -3727,8 +3727,8 @@ layout: default
 |**2024-12-12**|**Search Strategy Generation for Branch and Bound Using Genetic Programming**|Gwen Maudet et.al.|[2412.09444](http://arxiv.org/abs/2412.09444)|null|
 |**2024-12-12**|**Opinion de-polarization of social networks with GNNs**|Konstantinos Mylonas et.al.|[2412.09404](http://arxiv.org/abs/2412.09404)|null|
 |**2024-12-12**|**Hybrid variable spiking graph neural networks for energy-efficient scientific machine learning**|Isha Jain et.al.|[2412.09379](http://arxiv.org/abs/2412.09379)|null|
-|**2024-12-12**|**Multi-Scale Heterogeneous Text-Attributed Graph Datasets From Diverse Domains**|Yunhui Liu et.al.|[2412.08937](http://arxiv.org/abs/2412.08937)|null|
-|**2024-12-12**|**Grothendieck Graph Neural Networks Framework: An Algebraic Platform for Crafting Topology-Aware GNNs**|Amirreza Shiralinasab Langari et.al.|[2412.08835](http://arxiv.org/abs/2412.08835)|null|
+|**2024-12-12**|**Multi-Scale Heterogeneous Text-Attributed Graph Datasets From Diverse Domains**|Yunhui Liu et.al.|[2412.08937](http://arxiv.org/abs/2412.08937)|**[link](https://github.com/Cloudy1225/HTAG)**|
+|**2024-12-12**|**Grothendieck Graph Neural Networks Framework: An Algebraic Platform for Crafting Topology-Aware GNNs**|Amirreza Shiralinasab Langari et.al.|[2412.08835](http://arxiv.org/abs/2412.08835)|**[link](https://github.com/shiralinasab/Grothendieck-Graph-Neural-Networks-Framework)**|
 |**2024-12-11**|**Grimm: A Plug-and-Play Perturbation Rectifier for Graph Neural Networks Defending against Poisoning Attacks**|Ao Liu et.al.|[2412.08555](http://arxiv.org/abs/2412.08555)|null|
 |**2024-12-11**|**Robustness of Graph Classification: failure modes, causes, and noise-resistant loss in Graph Neural Networks**|Farooq Ahmad Wani et.al.|[2412.08419](http://arxiv.org/abs/2412.08419)|null|
 |**2024-12-12**|**Rumor Detection on Social Media with Temporal Propagation Structure Optimization**|Xingyu Peng et.al.|[2412.08316](http://arxiv.org/abs/2412.08316)|null|
@@ -6807,7 +6807,7 @@ layout: default
 |**2024-12-12**|**Hybrid variable spiking graph neural networks for energy-efficient scientific machine learning**|Isha Jain et.al.|[2412.09379](http://arxiv.org/abs/2412.09379)|null|
 |**2024-12-12**|**Distribution free uncertainty quantification in neuroscience-inspired deep operators**|Shailesh Garg et.al.|[2412.09369](http://arxiv.org/abs/2412.09369)|null|
 |**2024-12-12**|**High-Speed Time Series Prediction with a GHz-rate Photonic Spiking Neural Network built with a single VCSEL**|Dafydd Owen-Newns et.al.|[2412.09233](http://arxiv.org/abs/2412.09233)|null|
-|**2024-12-12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|Jad Mansour et.al.|[2412.09209](http://arxiv.org/abs/2412.09209)|null|
+|**2024-12-12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|Jad Mansour et.al.|[2412.09209](http://arxiv.org/abs/2412.09209)|**[link](https://github.com/CIRS-Girona/ecarla-scenes)**|
 |**2024-12-12**|**Training Physical Neural Networks for Analog In-Memory Computing**|Yusuke Sakemi et.al.|[2412.09010](http://arxiv.org/abs/2412.09010)|null|
 |**2024-12-12**|**LV-CadeNet: Long View Feature Convolution-Attention Fusion Encoder-Decoder Network for Clinical MEG Spike Detection**|Kuntao Xiao et.al.|[2412.08896](http://arxiv.org/abs/2412.08896)|null|
 |**2024-12-11**|**Maximizing Information in Neuron Populations for Neuromorphic Spike Encoding**|Ahmad El Ferdaoussi et.al.|[2412.08816](http://arxiv.org/abs/2412.08816)|null|
