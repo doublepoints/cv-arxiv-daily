@@ -19,7 +19,7 @@ layout: default
 |**2024-12-12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|Jad Mansour et.al.|[2412.09209](http://arxiv.org/abs/2412.09209)|**[link](https://github.com/CIRS-Girona/ecarla-scenes)**|
 |**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu et.al.|[2412.03146](http://arxiv.org/abs/2412.03146)|**[link](https://github.com/junhaowang615/mcvo)**|
 |**2024-12-04**|**An indoor DSO-based ceiling-vision odometry system for indoor industrial environments**|Abdelhak Bougouffa et.al.|[2412.02950](http://arxiv.org/abs/2412.02950)|null|
-|**2024-11-21**|**InCrowd-VI: A Realistic Visual-Inertial Dataset for Evaluating SLAM in Indoor Pedestrian-Rich Spaces for Human Navigation**|Marziyeh Bamdad et.al.|[2411.14358](http://arxiv.org/abs/2411.14358)|null|
+|**2024-12-17**|**InCrowd-VI: A Realistic Visual-Inertial Dataset for Evaluating SLAM in Indoor Pedestrian-Rich Spaces for Human Navigation**|Marziyeh Bamdad et.al.|[2411.14358](http://arxiv.org/abs/2411.14358)|null|
 |**2024-12-13**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany et.al.|[2411.13438](http://arxiv.org/abs/2411.13438)|null|
 |**2024-11-15**|**BEV-ODOM: Reducing Scale Drift in Monocular Visual Odometry with BEV Representation**|Yufei Wei et.al.|[2411.10195](http://arxiv.org/abs/2411.10195)|null|
 |**2024-11-24**|**Enhanced Monocular Visual Odometry with AR Poses and Integrated INS-GPS for Robust Localization in Urban Environments**|Ankit Shaw et.al.|[2411.08231](http://arxiv.org/abs/2411.08231)|null|
@@ -787,6 +787,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Three Things to Know about Deep Metric Learning**|Yash Patel et.al.|[2412.12432](http://arxiv.org/abs/2412.12432)|null|
 |**2024-12-15**|**Leveraging Large Vision-Language Model as User Intent-aware Encoder for Composed Image Retrieval**|Zelong Sun et.al.|[2412.11087](http://arxiv.org/abs/2412.11087)|null|
 |**2024-12-15**|**Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2412.11077](http://arxiv.org/abs/2412.11077)|null|
 |**2024-12-13**|**MVC-VPR: Mutual Learning of Viewpoint Classification and Visual Place Recognition**|Qiwen Gu et.al.|[2412.09199](http://arxiv.org/abs/2412.09199)|null|
@@ -2328,6 +2329,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**EOGS: Gaussian Splatting for Earth Observation**|Luca Savant Aira et.al.|[2412.13047](http://arxiv.org/abs/2412.13047)|null|
+|**2024-12-17**|**Optimize the Unseen -- Fast NeRF Cleanup with Free Space Prior**|Leo Segre et.al.|[2412.12772](http://arxiv.org/abs/2412.12772)|null|
+|**2024-12-17**|**Towards a Training Free Approach for 3D Scene Editing**|Vivek Madhavaram et.al.|[2412.12766](http://arxiv.org/abs/2412.12766)|null|
 |**2024-12-16**|**GS-ProCams: Gaussian Splatting-based Projector-Camera Systems**|Qingyue Deng et.al.|[2412.11762](http://arxiv.org/abs/2412.11762)|null|
 |**2024-12-16**|**Sequence Matters: Harnessing Video Models in Super-Resolution**|Hyun-kyu Ko et.al.|[2412.11525](http://arxiv.org/abs/2412.11525)|null|
 |**2024-12-16**|**VRVVC: Variable-Rate NeRF-Based Volumetric Video Compression**|Qiang Hu et.al.|[2412.11362](http://arxiv.org/abs/2412.11362)|null|
@@ -3735,6 +3739,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Cluster-guided Contrastive Class-imbalanced Graph Classification**|Wei Ju et.al.|[2412.12984](http://arxiv.org/abs/2412.12984)|null|
+|**2024-12-17**|**Learning Coarse-to-Fine Pruning of Graph Convolutional Networks for Skeleton-based Recognition**|Hichem Sahbi et.al.|[2412.12887](http://arxiv.org/abs/2412.12887)|null|
+|**2024-12-17**|**Towards Effective Graph Rationalization via Boosting Environment Diversity**|Yujie Wang et.al.|[2412.12880](http://arxiv.org/abs/2412.12880)|null|
+|**2024-12-17**|**A Multigrid Graph U-Net Framework for Simulating Multiphase Flow in Heterogeneous Porous Media**|Jiamin Jiang et.al.|[2412.12757](http://arxiv.org/abs/2412.12757)|null|
+|**2024-12-17**|**Shared Attention-based Autoencoder with Hierarchical Fusion-based Graph Convolution Network for sEEG SOZ Identification**|Huachao Yan et.al.|[2412.12651](http://arxiv.org/abs/2412.12651)|null|
+|**2024-12-17**|**AutoSGNN: Automatic Propagation Mechanism Discovery for Spectral Graph Neural Networks**|Shibing Mo et.al.|[2412.12483](http://arxiv.org/abs/2412.12483)|**[link](https://github.com/Explorermomo/AAAI2025-AutoSGNN)**|
+|**2024-12-17**|**Graph Learning in the Era of LLMs: A Survey from the Perspective of Data, Models, and Tasks**|Xunkai Li et.al.|[2412.12456](http://arxiv.org/abs/2412.12456)|null|
+|**2024-12-16**|**DeepSN: A Sheaf Neural Framework for Influence Maximization**|Asela Hevapathige et.al.|[2412.12416](http://arxiv.org/abs/2412.12416)|null|
+|**2024-12-16**|**Scam Detection for Ethereum Smart Contracts: Leveraging Graph Representation Learning for Secure Blockchain**|Yihong Jin et.al.|[2412.12370](http://arxiv.org/abs/2412.12370)|null|
+|**2024-12-16**|**Feasibility Study of Measuring $Λ^0\to nπ^{0}$ Using a High-Granularity Zero-Degree Calorimeter at the Future Electron-Ion Collider**|Sebouh J. Paul et.al.|[2412.12346](http://arxiv.org/abs/2412.12346)|null|
 |**2024-12-16**|**Thermodynamics-informed graph neural networks for real-time simulation of digital human twins**|Lucas Tesán et.al.|[2412.12034](http://arxiv.org/abs/2412.12034)|null|
 |**2024-12-16**|**Learning interactions between Rydberg atoms**|Olivier Simard et.al.|[2412.12019](http://arxiv.org/abs/2412.12019)|null|
 |**2024-12-16**|**Cost-Effective Label-free Node Classification with LLMs**|Taiyan Zhang et.al.|[2412.11983](http://arxiv.org/abs/2412.11983)|null|
@@ -6525,6 +6539,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Efficient Event-based Semantic Segmentation with Spike-driven Lightweight Transformer-based Networks**|Xiaxin Zhu et.al.|[2412.12843](http://arxiv.org/abs/2412.12843)|null|
 |**2024-12-16**|**Event-based Motion Deblurring via Multi-Temporal Granularity Fusion**|Xiaopeng Lin et.al.|[2412.11866](http://arxiv.org/abs/2412.11866)|null|
 |**2024-12-16**|**DriveGazen: Event-Based Driving Status Recognition using Conventional Camera**|Xiaoyin Yang et.al.|[2412.11753](http://arxiv.org/abs/2412.11753)|**[link](https://github.com/tooyoungalex/aaai25-drivegazen)**|
 |**2024-12-16**|**SweepEvGS: Event-Based 3D Gaussian Splatting for Macro and Micro Radiance Field Rendering from a Single Sweep**|Jingqian Wu et.al.|[2412.11579](http://arxiv.org/abs/2412.11579)|null|
@@ -6838,6 +6853,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Exact simulation of the first-passage time of SDEs to time-dependent thresholds**|Devika Khurana et.al.|[2412.13060](http://arxiv.org/abs/2412.13060)|null|
+|**2024-12-17**|**Model agnostic signal encoding by leaky integrate and fire, performance and uncertainty**|Diana Carbajal et.al.|[2412.12994](http://arxiv.org/abs/2412.12994)|null|
+|**2024-12-17**|**Efficient Speech Command Recognition Leveraging Spiking Neural Network and Curriculum Learning-based Knowledge Distillation**|Jiaqi Wang et.al.|[2412.12858](http://arxiv.org/abs/2412.12858)|null|
+|**2024-12-17**|**Efficient Event-based Semantic Segmentation with Spike-driven Lightweight Transformer-based Networks**|Xiaxin Zhu et.al.|[2412.12843](http://arxiv.org/abs/2412.12843)|null|
+|**2024-12-17**|**ALADE-SNN: Adaptive Logit Alignment in Dynamically Expandable Spiking Neural Networks for Class Incremental Learning**|Wenyao Ni et.al.|[2412.12696](http://arxiv.org/abs/2412.12696)|null|
+|**2024-12-17**|**Mean field game problem for the optimal control of neuronal spiking activity**|Lijun Bo et.al.|[2412.12682](http://arxiv.org/abs/2412.12682)|null|
+|**2024-12-17**|**CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics**|Ruixin Mao et.al.|[2412.12525](http://arxiv.org/abs/2412.12525)|**[link](https://github.com/shen-aoyu/CREST)**|
+|**2024-12-17**|**Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training**|Mingjia Shi et.al.|[2412.12496](http://arxiv.org/abs/2412.12496)|**[link](https://github.com/NUS-HPC-AI-Lab/R-MeeTo)**|
+|**2024-12-17**|**Design and Performance Analysis of an Ultra-Low Power Integrate-and-Fire Neuron Circuit Using Nanoscale Side-contacted Field Effect Diode Technology**|Seyedmohamadjavad Motaman et.al.|[2412.12443](http://arxiv.org/abs/2412.12443)|null|
 |**2024-12-16**|**Optimal Gradient Checkpointing for Sparse and Recurrent Architectures using Off-Chip Memory**|Wadjih Bencheikh et.al.|[2412.11810](http://arxiv.org/abs/2412.11810)|null|
 |**2024-12-16**|**DriveGazen: Event-Based Driving Status Recognition using Conventional Camera**|Xiaoyin Yang et.al.|[2412.11753](http://arxiv.org/abs/2412.11753)|**[link](https://github.com/tooyoungalex/aaai25-drivegazen)**|
 |**2024-12-16**|**High-speed and High-quality Vision Reconstruction of Spike Camera with Spike Stability Theorem**|Wei Zhang et.al.|[2412.11639](http://arxiv.org/abs/2412.11639)|null|
@@ -8084,6 +8108,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Design and Performance Analysis of an Ultra-Low Power Integrate-and-Fire Neuron Circuit Using Nanoscale Side-contacted Field Effect Diode Technology**|Seyedmohamadjavad Motaman et.al.|[2412.12443](http://arxiv.org/abs/2412.12443)|null|
 |**2024-12-11**|**Gradient Diffusion: Enhancing Multicompartmental Neuron Models for Gradient-Based Self-Tuning and Homeostatic Control**|Lennart P. L. Landsmeer et.al.|[2412.07327](http://arxiv.org/abs/2412.07327)|null|
 |**2024-12-09**|**Flexible and Scalable Deep Dendritic Spiking Neural Networks with Multiple Nonlinear Branching**|Yifan Huang et.al.|[2412.06355](http://arxiv.org/abs/2412.06355)|null|
 |**2024-12-05**|**Deep-Unrolling Multidimensional Harmonic Retrieval Algorithms on Neuromorphic Hardware**|Vlad C. Andrei et.al.|[2412.04008](http://arxiv.org/abs/2412.04008)|null|
