@@ -1,10 +1,10 @@
-## <a id=top></a>Updated on 2025.01.03
+## <a id=top></a>Updated on 2025.01.04
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.03
+## Updated on 2025.01.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -6991,7 +6991,7 @@
 |---|---|---|---|---|
 |**2024-12-30**|**Low coordinate degree algorithms II: Categorical signals and generalized stochastic block models**|Dmitriy Kunisky et.al.|[2412.21155](http://arxiv.org/abs/2412.21155)|null|
 |**2024-12-30**|**Sparse PCA: Phase Transitions in the Critical Sparsity Regime**|Michael J. Feldman et.al.|[2412.21038](http://arxiv.org/abs/2412.21038)|null|
-|**2024-12-30**|**Effective and Efficient Intracortical Brain Signal Decoding with Spiking Neural Networks**|Haotian Fu et.al.|[2412.20714](http://arxiv.org/abs/2412.20714)|null|
+|**2024-12-30**|**Effective and Efficient Intracortical Brain Signal Decoding with Spiking Neural Networks**|Haotian Fu et.al.|[2412.20714](http://arxiv.org/abs/2412.20714)|**[link](https://github.com/1439278026/lss-ca-snn)**|
 |**2024-12-28**|**Neuromorphic circuit for temporal odor encoding in turbulent environments**|Shavika Rastogi et.al.|[2412.20117](http://arxiv.org/abs/2412.20117)|null|
 |**2024-12-27**|**The impact of simultaneous infections on phage-host ecology**|Jaye Sudweeks et.al.|[2412.19717](http://arxiv.org/abs/2412.19717)|null|
 |**2024-12-27**|**DeepSeek-V3 Technical Report**|DeepSeek-AI et.al.|[2412.19437](http://arxiv.org/abs/2412.19437)|**[link](https://github.com/deepseek-ai/deepseek-v3)**|
