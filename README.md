@@ -2387,6 +2387,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**UV-Attack: Physical-World Adversarial Attacks for Person Detection via Dynamic-NeRF-based UV Mapping**|Yanjie Li et.al.|[2501.05783](http://arxiv.org/abs/2501.05783)|null|
 |**2025-01-09**|**Light Transport-aware Diffusion Posterior Sampling for Single-View Reconstruction of 3D Volumes**|Ludwic Leonard et.al.|[2501.05226](http://arxiv.org/abs/2501.05226)|null|
 |**2025-01-07**|**NeRFs are Mirror Detectors: Using Structural Similarity for Multi-View Mirror Scene Reconstruction with 3D Surface Primitives**|Leif Van Holland et.al.|[2501.04074](http://arxiv.org/abs/2501.04074)|null|
 |**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992](http://arxiv.org/abs/2501.03992)|null|
@@ -3821,6 +3822,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**Efficient Transition State Searches by Freezing String Method with Graph Neural Network Potentials**|Jonah Marks et.al.|[2501.06159](http://arxiv.org/abs/2501.06159)|null|
+|**2025-01-10**|**DeltaGNN: Graph Neural Network with Information Flow Control**|Kevin Mancini et.al.|[2501.06002](http://arxiv.org/abs/2501.06002)|**[link](https://github.com/basiralab/deltagnn)**|
+|**2025-01-10**|**Annealing Machine-assisted Learning of Graph Neural Network for Combinatorial Optimization**|Pablo Loyola et.al.|[2501.05845](http://arxiv.org/abs/2501.05845)|null|
+|**2025-01-10**|**Fine-tuning is Not Fine: Mitigating Backdoor Attacks in GNNs with Limited Clean Data**|Jiale Zhang et.al.|[2501.05835](http://arxiv.org/abs/2501.05835)|null|
+|**2025-01-10**|**TransPlace: Transferable Circuit Global Placement via Graph Neural Network**|Yunbo Hou et.al.|[2501.05667](http://arxiv.org/abs/2501.05667)|null|
+|**2025-01-10**|**Scaling Safe Multi-Agent Control for Signal Temporal Logic Specifications**|Joe Eappen et.al.|[2501.05639](http://arxiv.org/abs/2501.05639)|null|
+|**2025-01-09**|**Watermarking Graph Neural Networks via Explanations for Ownership Protection**|Jane Downer et.al.|[2501.05614](http://arxiv.org/abs/2501.05614)|null|
+|**2025-01-09**|**Quantum Simplicial Neural Networks**|Simone Piperno et.al.|[2501.05558](http://arxiv.org/abs/2501.05558)|null|
 |**2025-01-09**|**Discovery of Spin-Crossover Candidates with Equivariant Graph Neural Networks**|Angel Albavera-Mata et.al.|[2501.05341](http://arxiv.org/abs/2501.05341)|null|
 |**2025-01-09**|**Improving Skeleton-based Action Recognition with Interactive Object Information**|Hao Wen et.al.|[2501.05066](http://arxiv.org/abs/2501.05066)|**[link](https://github.com/moonlight52137/st-vgcn)**|
 |**2025-01-09**|**Vision Graph Non-Contrastive Learning for Audio Deepfake Detection with Limited Labels**|Falih Gozi Febrinanto et.al.|[2501.04942](http://arxiv.org/abs/2501.04942)|null|
@@ -6720,6 +6729,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**eKalibr: Dynamic Intrinsic Calibration for Event Cameras From First Principles of Events**|Shuolong Chen et.al.|[2501.05688](http://arxiv.org/abs/2501.05688)|null|
 |**2025-01-07**|**Neuromorphic Optical Tracking and Imaging of Randomly Moving Targets through Strongly Scattering Media**|Ning Zhang et.al.|[2501.03874](http://arxiv.org/abs/2501.03874)|null|
 |**2025-01-07**|**AE-NeRF: Augmenting Event-Based Neural Radiance Fields for Non-ideal Conditions and Larger Scene**|Chaoran Feng et.al.|[2501.02807](http://arxiv.org/abs/2501.02807)|null|
 |**2025-01-02**|**Event Masked Autoencoder: Point-wise Action Recognition with Event-Based Cameras**|Jingkai Sun et.al.|[2501.01040](http://arxiv.org/abs/2501.01040)|null|
@@ -7046,6 +7056,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**Binary Event-Driven Spiking Transformer**|Honglin Cao et.al.|[2501.05904](http://arxiv.org/abs/2501.05904)|null|
+|**2025-01-10**|**Biorealistic response in a technology-compatible graphene synaptic transistor**|Anastasia Chouprik et.al.|[2501.05877](http://arxiv.org/abs/2501.05877)|null|
+|**2025-01-07**|**HP-BERT: A framework for longitudinal study of Hinduphobia on social media via LLMs**|Ashutosh Singh et.al.|[2501.05482](http://arxiv.org/abs/2501.05482)|null|
 |**2025-01-09**|**Enhanced Quantile Regression with Spiking Neural Networks for Long-Term System Health Prognostics**|David J Poland et.al.|[2501.05087](http://arxiv.org/abs/2501.05087)|null|
 |**2025-01-08**|**Rethinking High-speed Image Reconstruction Framework with Spike Camera**|Kang Chen et.al.|[2501.04477](http://arxiv.org/abs/2501.04477)|**[link](https://github.com/chenkang455/spikeclip)**|
 |**2025-01-08**|**On weight and variance uncertainty in neural networks for regression tasks**|Moein Monemi et.al.|[2501.04272](http://arxiv.org/abs/2501.04272)|**[link](https://github.com/mortamini/vbnet)**|
@@ -8348,11 +8361,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**Nonlinear partial differential equations in neuroscience: from modelling to mathematical theory**|José A Carrillo et.al.|[2501.06015](http://arxiv.org/abs/2501.06015)|null|
 |**2025-01-06**|**The Algonauts Project 2025 Challenge: How the Human Brain Makes Sense of Multimodal Movies**|Alessandro T. Gifford et.al.|[2501.00504](http://arxiv.org/abs/2501.00504)|null|
 |**2024-12-23**|**Enhanced Temporal Processing in Spiking Neural Networks for Static Object Detection Using 3D Convolutions**|Huaxu He et.al.|[2412.17654](http://arxiv.org/abs/2412.17654)|null|
 |**2024-12-18**|**Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Network**|Ziqing Wang et.al.|[2412.16219](http://arxiv.org/abs/2412.16219)|**[link](https://github.com/bic-l/burst-ann2snn)**|
 |**2024-12-13**|**Asymmetric coupling of non-chaotic Rulkov neurons: fractal attractors, quasi-multistability, and final state sensitivity**|Brandon B. Le et.al.|[2412.16189](http://arxiv.org/abs/2412.16189)|null|
-|**2024-12-18**|**Threshold Neuron: A Brain-inspired Artificial Neuron for Efficient On-device Inference**|Zihao Zheng et.al.|[2412.13902](http://arxiv.org/abs/2412.13902)|null|
+|**2025-01-10**|**Threshold Neuron: A Brain-inspired Artificial Neuron for Efficient On-device Inference**|Zihao Zheng et.al.|[2412.13902](http://arxiv.org/abs/2412.13902)|null|
 |**2024-12-17**|**Design and Performance Analysis of an Ultra-Low Power Integrate-and-Fire Neuron Circuit Using Nanoscale Side-contacted Field Effect Diode Technology**|Seyedmohamadjavad Motaman et.al.|[2412.12443](http://arxiv.org/abs/2412.12443)|null|
 |**2024-12-11**|**Gradient Diffusion: Enhancing Multicompartmental Neuron Models for Gradient-Based Self-Tuning and Homeostatic Control**|Lennart P. L. Landsmeer et.al.|[2412.07327](http://arxiv.org/abs/2412.07327)|null|
 |**2024-12-09**|**Flexible and Scalable Deep Dendritic Spiking Neural Networks with Multiple Nonlinear Branching**|Yifan Huang et.al.|[2412.06355](http://arxiv.org/abs/2412.06355)|null|
