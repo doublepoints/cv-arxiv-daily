@@ -815,6 +815,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286](http://arxiv.org/abs/2501.08286)|null|
 |**2025-01-13**|**Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**|Saurabh Gupta et.al.|[2501.07399](http://arxiv.org/abs/2501.07399)|null|
 |**2025-01-12**|**Static Segmentation by Tracking: A Frustratingly Label-Efficient Approach to Fine-Grained Segmentation**|Zhenyang Feng et.al.|[2501.06749](http://arxiv.org/abs/2501.06749)|null|
 |**2025-01-06**|**Integrating Language-Image Prior into EEG Decoding for Cross-Task Zero-Calibration RSVP-BCI**|Xujin Li et.al.|[2501.02841](http://arxiv.org/abs/2501.02841)|null|
@@ -2396,6 +2397,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286](http://arxiv.org/abs/2501.08286)|null|
+|**2025-01-13**|**Evaluating Human Perception of Novel View Synthesis: Subjective Quality Assessment of Gaussian Splatting and NeRF in Dynamic Scenes**|Yuhang Zhang et.al.|[2501.08072](http://arxiv.org/abs/2501.08072)|null|
 |**2025-01-13**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
 |**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927](http://arxiv.org/abs/2501.06927)|null|
 |**2025-01-12**|**ActiveGAMER: Active GAussian Mapping through Efficient Rendering**|Liyan Chen et.al.|[2501.06897](http://arxiv.org/abs/2501.06897)|null|
@@ -3836,6 +3839,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**Benchmarking Graph Representations and Graph Neural Networks for Multivariate Time Series Classification**|Wennuo Yang et.al.|[2501.08305](http://arxiv.org/abs/2501.08305)|**[link](https://github.com/cvi-yangwn/benchmark-gnn-for-multivariate-time-series-classification)**|
+|**2025-01-14**|**Combining imaging and shape features for prediction tasks of Alzheimer's disease classification and brain age regression**|Nairouz Shehata et.al.|[2501.07994](http://arxiv.org/abs/2501.07994)|null|
+|**2025-01-14**|**QGHNN: A quantum graph Hamiltonian neural network**|Wenxuan Wang et.al.|[2501.07986](http://arxiv.org/abs/2501.07986)|null|
+|**2025-01-13**|**A Heterogeneous Multimodal Graph Learning Framework for Recognizing User Emotions in Social Networks**|Sree Bhattacharyya et.al.|[2501.07746](http://arxiv.org/abs/2501.07746)|null|
+|**2025-01-13**|**SafePowerGraph-LLM: Novel Power Grid Graph Embedding and Optimization with Large Language Models**|Fabien Bernier et.al.|[2501.07639](http://arxiv.org/abs/2501.07639)|null|
 |**2025-01-13**|**Advancing Higgsino Searches by Integrating ML for Boosted Object Tagging and Event Selection**|Rameswar Sahu et.al.|[2501.07491](http://arxiv.org/abs/2501.07491)|null|
 |**2025-01-13**|**Dynami-CAL GraphNet: A Physics-Informed Graph Neural Network Conserving Linear and Angular Momentum for Dynamical Systems**|Vinay Sharma et.al.|[2501.07373](http://arxiv.org/abs/2501.07373)|null|
 |**2025-01-13**|**Generalizable Graph Neural Networks for Robust Power Grid Topology Control**|Matthijs de Jong et.al.|[2501.07186](http://arxiv.org/abs/2501.07186)|null|
@@ -7080,6 +7088,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**Self-Attentive Spatio-Temporal Calibration for Precise Intermediate Layer Matching in ANN-to-SNN Distillation**|Di Hong et.al.|[2501.08049](http://arxiv.org/abs/2501.08049)|null|
+|**2025-01-14**|**Spiking Neural Network Accelerator Architecture for Differential-Time Representation using Learned Encoding**|Daniel Windhager et.al.|[2501.07952](http://arxiv.org/abs/2501.07952)|null|
+|**2025-01-14**|**Prediction Interval Construction Method for Electricity Prices**|Xin Lu et.al.|[2501.07827](http://arxiv.org/abs/2501.07827)|null|
+|**2025-01-14**|**An Efficient Sparse Hardware Accelerator for Spike-Driven Transformer**|Zhengke Li et.al.|[2501.07825](http://arxiv.org/abs/2501.07825)|null|
+|**2025-01-13**|**Inferring collective synchrony observing spiking of one or several neurons**|Arkady Pikovsky et.al.|[2501.07696](http://arxiv.org/abs/2501.07696)|null|
+|**2025-01-13**|**Energy-Efficient Cryogenic Neuromorphic Network with Superconducting Memristor**|Md Mazharul Islam et.al.|[2501.07683](http://arxiv.org/abs/2501.07683)|null|
 |**2025-01-13**|**Efficient Event-based Delay Learning in Spiking Neural Networks**|Balázs Mészáros et.al.|[2501.07331](http://arxiv.org/abs/2501.07331)|null|
 |**2025-01-13**|**LLM360 K2: Scaling Up 360-Open-Source Large Language Models**|Zhengzhong Liu et.al.|[2501.07124](http://arxiv.org/abs/2501.07124)|null|
 |**2025-01-13**|**A Beta Cauchy-Cauchy (BECCA) shrinkage prior for Bayesian variable selection**|Linduni M. Rodrigo et.al.|[2501.07061](http://arxiv.org/abs/2501.07061)|null|
