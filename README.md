@@ -2408,6 +2408,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Neural Radiance Fields for the Real World: A Survey**|Wenhui Xiao et.al.|[2501.13104](http://arxiv.org/abs/2501.13104)|null|
+|**2025-01-22**|**DWTNeRF: Boosting Few-shot Neural Radiance Fields via Discrete Wavelet Transform**|Hung Nguyen et.al.|[2501.12637](http://arxiv.org/abs/2501.12637)|null|
 |**2025-01-21**|**DNRSelect: Active Best View Selection for Deferred Neural Rendering**|Dongli Wu et.al.|[2501.12150](http://arxiv.org/abs/2501.12150)|null|
 |**2025-01-21**|**Fast Underwater Scene Reconstruction using Multi-View Stereo and Physical Imaging**|Shuyi Hu et.al.|[2501.11884](http://arxiv.org/abs/2501.11884)|null|
 |**2025-01-16**|**Poxel: Voxel Reconstruction for 3D Printing**|Ruixiang Cao et.al.|[2501.10474](http://arxiv.org/abs/2501.10474)|null|
@@ -3856,6 +3858,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Less is More: Simple yet Effective Heuristic Community Detection with Graph Convolution Network**|Hong Wang et.al.|[2501.12946](http://arxiv.org/abs/2501.12946)|null|
+|**2025-01-22**|**HierPromptLM: A Pure PLM-based Framework for Representation Learning on Heterogeneous Text-rich Networks**|Qiuyu Zhu et.al.|[2501.12857](http://arxiv.org/abs/2501.12857)|null|
+|**2025-01-22**|**GRAMA: Adaptive Graph Autoregressive Moving Average Models**|Moshe Eliasof et.al.|[2501.12732](http://arxiv.org/abs/2501.12732)|null|
+|**2025-01-22**|**A Unified Invariant Learning Framework for Graph Classification**|Yongduo Sui et.al.|[2501.12595](http://arxiv.org/abs/2501.12595)|**[link](https://github.com/yongduosui/uil)**|
+|**2025-01-22**|**FedGrAINS: Personalized SubGraph Federated Learning with Adaptive Neighbor Sampling**|Emir Ceyani et.al.|[2501.12592](http://arxiv.org/abs/2501.12592)|null|
+|**2025-01-21**|**SafePowerGraph-HIL: Real-Time HIL Validation of Heterogeneous GNNs for Bridging Sim-to-Real Gap in Power Grids**|Aoxiang Ma et.al.|[2501.12427](http://arxiv.org/abs/2501.12427)|null|
 |**2025-01-21**|**A Hybrid Supervised and Self-Supervised Graph Neural Network for Edge-Centric Applications**|Eugenio Borzone et.al.|[2501.12309](http://arxiv.org/abs/2501.12309)|null|
 |**2025-01-21**|**SVGS-DSGAT: An IoT-Enabled Innovation in Underwater Robotic Object Detection Technology**|Dongli Wu et.al.|[2501.12169](http://arxiv.org/abs/2501.12169)|null|
 |**2025-01-21**|**DSTSA-GCN: Advancing Skeleton-Based Gesture Recognition with Semantic-Aware Spatio-Temporal Topology Modeling**|Hu Cui et.al.|[2501.12086](http://arxiv.org/abs/2501.12086)|null|
@@ -7135,6 +7143,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Marketron games: Self-propelling stocks vs dumb money and metastable dynamics of the Good, Bad and Ugly markets**|I. Halperin et.al.|[2501.12676](http://arxiv.org/abs/2501.12676)|null|
+|**2025-01-21**|**TOFFE -- Temporally-binned Object Flow from Events for High-speed and Energy-Efficient Object Detection and Tracking**|Adarsh Kumar Kosta et.al.|[2501.12482](http://arxiv.org/abs/2501.12482)|null|
 |**2025-01-21**|**Black holes surrounded by dark matter spike: spacetime metrics and gravitational wave ringdown waveforms**|Dong Liu et.al.|[2501.12213](http://arxiv.org/abs/2501.12213)|null|
 |**2025-01-21**|**Orientation dependent transport in junctions formed by $d$-wave altermagnets and $d$ -wave superconductors**|Wenjun Zhao et.al.|[2501.12141](http://arxiv.org/abs/2501.12141)|null|
 |**2025-01-20**|**Event-based vision for egomotion estimation using precise event timing**|Hugh Greatorex et.al.|[2501.11554](http://arxiv.org/abs/2501.11554)|null|
@@ -8462,6 +8472,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Marketron games: Self-propelling stocks vs dumb money and metastable dynamics of the Good, Bad and Ugly markets**|I. Halperin et.al.|[2501.12676](http://arxiv.org/abs/2501.12676)|null|
 |**2025-01-20**|**A Truly Sparse and General Implementation of Gradient-Based Synaptic Plasticity**|Jamie Lohoff et.al.|[2501.11407](http://arxiv.org/abs/2501.11407)|null|
 |**2025-01-16**|**Definition and data-driven reconstruction of asymptotic phase and amplitudes of stochastic oscillators via Koopman operator theory**|Shohei Takata et.al.|[2501.09340](http://arxiv.org/abs/2501.09340)|null|
 |**2025-01-16**|**Causal Spike Timing Dependent Plasticity Prevents Assembly Fusion in Recurrent Networks**|Xinruo Yang et.al.|[2501.09296](http://arxiv.org/abs/2501.09296)|null|
