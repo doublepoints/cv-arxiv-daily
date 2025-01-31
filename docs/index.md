@@ -1834,6 +1834,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Transfer Learning for Keypoint Detection in Low-Resolution Thermal TUG Test Images**|Wei-Lun Chen et.al.|[2501.18453](http://arxiv.org/abs/2501.18453)|null|
+|**2025-01-30**|**Video-based Surgical Tool-tip and Keypoint Tracking using Multi-frame Context-driven Deep Learning Models**|Bhargav Ghanekar et.al.|[2501.18361](http://arxiv.org/abs/2501.18361)|null|
+|**2025-01-30**|**Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems**|Liudi Yang et.al.|[2501.18110](http://arxiv.org/abs/2501.18110)|null|
 |**2025-01-21**|**Keypoint Detection Empowered Near-Field User Localization and Channel Reconstruction**|Mengyuan Li et.al.|[2501.11844](http://arxiv.org/abs/2501.11844)|null|
 |**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
 |**2025-01-19**|**Refinement Module based on Parse Graph of Feature Map for Human Pose Estimation**|Shibang Liu et.al.|[2501.11069](http://arxiv.org/abs/2501.11069)|null|
@@ -2398,6 +2401,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**VoD-3DGS: View-opacity-Dependent 3D Gaussian Splatting**|Nowak Mateusz et.al.|[2501.17978](http://arxiv.org/abs/2501.17978)|null|
 |**2025-01-28**|**LinPrim: Linear Primitives for Differentiable Volumetric Rendering**|Nicolas von Lützow et.al.|[2501.16312](http://arxiv.org/abs/2501.16312)|null|
 |**2025-01-24**|**SyncAnimation: A Real-Time End-to-End Framework for Audio-Driven Human Pose and Talking Head Animation**|Yujian Liu et.al.|[2501.14646](http://arxiv.org/abs/2501.14646)|null|
 |**2025-01-22**|**GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**|Junzhe Jiang et.al.|[2501.13971](http://arxiv.org/abs/2501.13971)|**[link](https://github.com/fudan-zvg/gs-lidar)**|
@@ -3850,8 +3854,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Node Classification and Search on the Rubik's Cube Graph with GNNs**|Alessandro Barro et.al.|[2501.18580](http://arxiv.org/abs/2501.18580)|null|
+|**2025-01-30**|**MolGraph-xLSTM: A graph-based dual-level xLSTM framework with multi-head mixture-of-experts for enhanced molecular representation and interpretability**|Yan Sun et.al.|[2501.18439](http://arxiv.org/abs/2501.18439)|null|
+|**2025-01-30**|**A Cartesian Encoding Graph Neural Network for Crystal Structures Property Prediction: Application to Thermal Ellipsoid Estimation**|Àlex Solé et.al.|[2501.18369](http://arxiv.org/abs/2501.18369)|null|
+|**2025-01-30**|**Contrastive Learning Meets Pseudo-label-assisted Mixup Augmentation: A Comprehensive Graph Representation Framework from Local to Global**|Jinlu Wang et.al.|[2501.18357](http://arxiv.org/abs/2501.18357)|null|
+|**2025-01-30**|**Mixed-Precision Graph Neural Quantization for Low Bit Large Language Models**|Wanlong Liu et.al.|[2501.18154](http://arxiv.org/abs/2501.18154)|null|
+|**2025-01-30**|**ACTGNN: Assessment of Clustering Tendency with Synthetically-Trained Graph Neural Networks**|Yiran Luo et.al.|[2501.18112](http://arxiv.org/abs/2501.18112)|null|
 |**2025-01-29**|**STGCN-LSTM for Olympic Medal Prediction: Dynamic Power Modeling and Causal Policy Optimization**|Yiquan Wang et.al.|[2501.17711](http://arxiv.org/abs/2501.17711)|null|
-|**2025-01-29**|**Graph Neural Network Flavor Tagger and measurement of $\mathrm{sin}2β$ at Belle II**|Petros Stavroulakis et.al.|[2501.17631](http://arxiv.org/abs/2501.17631)|null|
+|**2025-01-30**|**Graph Neural Network Flavor Tagger and measurement of $\mathrm{sin}2β$ at Belle II**|Petros Stavroulakis et.al.|[2501.17631](http://arxiv.org/abs/2501.17631)|null|
 |**2025-01-29**|**RegionGCN: Spatial-Heterogeneity-Aware Graph Convolutional Networks**|Hao Guo et.al.|[2501.17599](http://arxiv.org/abs/2501.17599)|null|
 |**2025-01-29**|**Query-Aware Learnable Graph Pooling Tokens as Prompt for Large Language Models**|Wooyoung Kim et.al.|[2501.17549](http://arxiv.org/abs/2501.17549)|null|
 |**2025-01-29**|**Reqo: A Robust and Explainable Query Optimization Cost Model**|Baoming Chang et.al.|[2501.17414](http://arxiv.org/abs/2501.17414)|**[link](https://github.com/baomingchang/reqo-on-postgresql)**|
@@ -7170,6 +7180,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**Real Time Scheduling Framework for Multi Object Detection via Spiking Neural Networks**|Donghwa Kang et.al.|[2501.18412](http://arxiv.org/abs/2501.18412)|null|
+|**2025-01-30**|**Neural Network Modeling of Microstructure Complexity Using Digital Libraries**|Yingjie Zhao et.al.|[2501.18189](http://arxiv.org/abs/2501.18189)|null|
+|**2025-01-30**|**Nonlocal prior mixture-based Bayesian wavelet regression**|Nilotpal Sanyal et.al.|[2501.18134](http://arxiv.org/abs/2501.18134)|null|
+|**2025-01-30**|**ISAM-MTL: Cross-subject multi-task learning model with identifiable spikes and associative memory networks**|Junyan Li et.al.|[2501.18089](http://arxiv.org/abs/2501.18089)|null|
 |**2025-01-29**|**PulmoFusion: Advancing Pulmonary Health with Efficient Multi-Modal Fusion**|Ahmed Sharshar et.al.|[2501.17699](http://arxiv.org/abs/2501.17699)|**[link](https://github.com/ahmed-sharshar/respirodynamics)**|
 |**2025-01-29**|**A computational loudness model for electrical stimulation with cochlear implants**|Franklin Alvarez et.al.|[2501.17640](http://arxiv.org/abs/2501.17640)|null|
 |**2025-01-28**|**Study of SARS-CoV-2 Spike Protein by Surface Enhanced Raman Spectroscopy and Transmission Electron Microscopy**|Monika Ghalawat et.al.|[2501.17212](http://arxiv.org/abs/2501.17212)|null|
@@ -8518,6 +8532,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Neural Network Modeling of Microstructure Complexity Using Digital Libraries**|Yingjie Zhao et.al.|[2501.18189](http://arxiv.org/abs/2501.18189)|null|
 |**2025-01-29**|**Analysis of Neural Activation in Time-dependent Membrane Capacitance Models**|Matías Courdurier et.al.|[2501.17803](http://arxiv.org/abs/2501.17803)|null|
 |**2025-01-24**|**Channel-wise Parallelizable Spiking Neuron with Multiplication-free Dynamics and Large Temporal Receptive Fields**|Peng Xue et.al.|[2501.14490](http://arxiv.org/abs/2501.14490)|null|
 |**2025-01-24**|**$SpikePack$ : Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility**|Guobin Shen et.al.|[2501.14484](http://arxiv.org/abs/2501.14484)|null|
