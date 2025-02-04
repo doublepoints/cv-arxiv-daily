@@ -532,7 +532,7 @@ layout: default
 |**2025-01-24**|**Light3R-SfM: Towards Feed-forward Structure-from-Motion**|Sven Elflein et.al.|[2501.14914](http://arxiv.org/abs/2501.14914)|null|
 |**2025-01-24**|**Dense-SfM: Structure from Motion with Dense Consistent Matching**|JongMin Lee et.al.|[2501.14277](http://arxiv.org/abs/2501.14277)|null|
 |**2025-01-14**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
-|**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927](http://arxiv.org/abs/2501.06927)|null|
+|**2025-02-02**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927](http://arxiv.org/abs/2501.06927)|**[link](https://github.com/openinterx/culture3d)**|
 |**2025-01-11**|**Aug3D: Augmenting large scale outdoor datasets for Generalizable Novel View Synthesis**|Aditya Rauniyar et.al.|[2501.06431](http://arxiv.org/abs/2501.06431)|null|
 |**2025-01-06**|**Targetless Intrinsics and Extrinsic Calibration of Multiple LiDARs and Cameras with IMU using Continuous-Time Estimation**|Yuezhang Lv et.al.|[2501.02821](http://arxiv.org/abs/2501.02821)|null|
 |**2025-01-02**|**On Unifying Video Generation and Camera Pose Estimation**|Chun-Hao Paul Huang et.al.|[2501.01409](http://arxiv.org/abs/2501.01409)|null|
@@ -2408,7 +2408,7 @@ layout: default
 |**2025-01-22**|**GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**|Junzhe Jiang et.al.|[2501.13971](http://arxiv.org/abs/2501.13971)|**[link](https://github.com/fudan-zvg/gs-lidar)**|
 |**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402](http://arxiv.org/abs/2501.13402)|null|
 |**2025-01-22**|**Neural Radiance Fields for the Real World: A Survey**|Wenhui Xiao et.al.|[2501.13104](http://arxiv.org/abs/2501.13104)|null|
-|**2025-01-22**|**DWTNeRF: Boosting Few-shot Neural Radiance Fields via Discrete Wavelet Transform**|Hung Nguyen et.al.|[2501.12637](http://arxiv.org/abs/2501.12637)|null|
+|**2025-02-02**|**DWTNeRF: Boosting Few-shot Neural Radiance Fields via Discrete Wavelet Transform**|Hung Nguyen et.al.|[2501.12637](http://arxiv.org/abs/2501.12637)|null|
 |**2025-01-21**|**DNRSelect: Active Best View Selection for Deferred Neural Rendering**|Dongli Wu et.al.|[2501.12150](http://arxiv.org/abs/2501.12150)|null|
 |**2025-01-21**|**Fast Underwater Scene Reconstruction using Multi-View Stereo and Physical Imaging**|Shuyi Hu et.al.|[2501.11884](http://arxiv.org/abs/2501.11884)|null|
 |**2025-01-16**|**Poxel: Voxel Reconstruction for 3D Printing**|Ruixiang Cao et.al.|[2501.10474](http://arxiv.org/abs/2501.10474)|null|
@@ -3855,7 +3855,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-31**|**\underline{E2}Former: A Linear-time \underline{E}fficient and \underline{E}quivariant Trans\underline{former} for Scalable Molecular Modeling**|Yunyang Li et.al.|[2501.19216](http://arxiv.org/abs/2501.19216)|null|
+|**2025-02-03**|**E2Former: A Linear-time Efficient and Equivariant Transformer for Scalable Molecular Modeling**|Yunyang Li et.al.|[2501.19216](http://arxiv.org/abs/2501.19216)|null|
 |**2025-01-31**|**RIGNO: A Graph-based framework for robust and accurate operator learning for PDEs on arbitrary domains**|Sepehr Mousavi et.al.|[2501.19205](http://arxiv.org/abs/2501.19205)|**[link](https://github.com/camlab-ethz/rigno)**|
 |**2025-01-31**|**Learning Non-Local Molecular Interactions via Equivariant Local Representations and Charge Equilibration**|Paul Fuchs et.al.|[2501.19179](http://arxiv.org/abs/2501.19179)|null|
 |**2025-01-31**|**Learning the Hamiltonian Matrix of Large Atomic Systems**|Chen Hao Xia et.al.|[2501.19110](http://arxiv.org/abs/2501.19110)|null|
@@ -8552,7 +8552,7 @@ layout: default
 |**2025-01-30**|**Neural Network Modeling of Microstructure Complexity Using Digital Libraries**|Yingjie Zhao et.al.|[2501.18189](http://arxiv.org/abs/2501.18189)|null|
 |**2025-01-29**|**Analysis of Neural Activation in Time-dependent Membrane Capacitance Models**|Matías Courdurier et.al.|[2501.17803](http://arxiv.org/abs/2501.17803)|**[link](https://github.com/estebanpaduro/fhn_variable_capacitance)**|
 |**2025-01-24**|**Channel-wise Parallelizable Spiking Neuron with Multiplication-free Dynamics and Large Temporal Receptive Fields**|Peng Xue et.al.|[2501.14490](http://arxiv.org/abs/2501.14490)|null|
-|**2025-01-24**|**$SpikePack$ : Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility**|Guobin Shen et.al.|[2501.14484](http://arxiv.org/abs/2501.14484)|null|
+|**2025-02-02**|**$SpikePack$ : Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility**|Guobin Shen et.al.|[2501.14484](http://arxiv.org/abs/2501.14484)|null|
 |**2025-01-23**|**Marketron games: Self-propelling stocks vs dumb money and metastable dynamics of the Good, Bad and Ugly markets**|I. Halperin et.al.|[2501.12676](http://arxiv.org/abs/2501.12676)|null|
 |**2025-01-20**|**A Truly Sparse and General Implementation of Gradient-Based Synaptic Plasticity**|Jamie Lohoff et.al.|[2501.11407](http://arxiv.org/abs/2501.11407)|**[link](https://github.com/jamielohoff/synaptax)**|
 |**2025-01-16**|**Definition and data-driven reconstruction of asymptotic phase and amplitudes of stochastic oscillators via Koopman operator theory**|Shohei Takata et.al.|[2501.09340](http://arxiv.org/abs/2501.09340)|null|
