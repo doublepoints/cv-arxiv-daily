@@ -1,4 +1,4 @@
-## <a id=top></a>Updated on 2025.02.25
+## <a id=top></a>Updated on 2025.02.26
 ---
 layout: default
 ---
@@ -8,7 +8,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.25
+## Updated on 2025.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## <a id=slam>SLAM</a>
@@ -820,7 +820,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-24**|**MegaLoc: One Retrieval to Place Them All**|Gabriele Berton et.al.|[2502.17237](http://arxiv.org/abs/2502.17237)|null|
+|**2025-02-24**|**MegaLoc: One Retrieval to Place Them All**|Gabriele Berton et.al.|[2502.17237](http://arxiv.org/abs/2502.17237)|**[link](https://github.com/gmberton/megaloc)**|
 |**2025-02-23**|**Visual-RAG: Benchmarking Text-to-Image Retrieval Augmented Generation for Visual Knowledge Intensive Queries**|Yin Wu et.al.|[2502.16636](http://arxiv.org/abs/2502.16636)|null|
 |**2025-02-23**|**SelaVPR++: Towards Seamless Adaptation of Foundation Models for Efficient Place Recognition**|Feng Lu et.al.|[2502.16601](http://arxiv.org/abs/2502.16601)|null|
 |**2025-02-21**|**ELIP: Enhanced Visual-Language Foundation Models for Image Retrieval**|Guanqi Zhan et.al.|[2502.15682](http://arxiv.org/abs/2502.15682)|null|
@@ -828,7 +828,7 @@ layout: default
 |**2025-02-19**|**3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments**|Vincent Ress et.al.|[2502.13803](http://arxiv.org/abs/2502.13803)|null|
 |**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146](http://arxiv.org/abs/2502.13146)|**[link](https://github.com/taco-group/re-align)**|
 |**2025-02-19**|**IM360: Textured Mesh Reconstruction for Large-scale Indoor Mapping with 360 $^\circ$ Cameras**|Dongki Jung et.al.|[2502.12545](http://arxiv.org/abs/2502.12545)|null|
-|**2025-02-17**|**From Gaming to Research: GTA V for Synthetic Data Generation for Robotics and Navigations**|Matteo Scucchia et.al.|[2502.12303](http://arxiv.org/abs/2502.12303)|**[link](https://github.com/scumatteo/GTA-rn)**|
+|**2025-02-17**|**From Gaming to Research: GTA V for Synthetic Data Generation for Robotics and Navigations**|Matteo Scucchia et.al.|[2502.12303](http://arxiv.org/abs/2502.12303)|null|
 |**2025-02-17**|**Descriminative-Generative Custom Tokens for Vision-Language Models**|Pramuditha Perera et.al.|[2502.12095](http://arxiv.org/abs/2502.12095)|null|
 |**2025-02-17**|**ILIAS: Instance-Level Image retrieval At Scale**|Giorgos Kordopatis-Zilos et.al.|[2502.11748](http://arxiv.org/abs/2502.11748)|null|
 |**2025-02-17**|**Range and Bird's Eye View Fused Cross-Modal Visual Place Recognition**|Jianyi Peng et.al.|[2502.11742](http://arxiv.org/abs/2502.11742)|null|
@@ -2450,7 +2450,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-24**|**Semantic Neural Radiance Fields for Multi-Date Satellite Data**|Valentin Wagner et.al.|[2502.16992](http://arxiv.org/abs/2502.16992)|null|
+|**2025-02-24**|**Semantic Neural Radiance Fields for Multi-Date Satellite Data**|Valentin Wagner et.al.|[2502.16992](http://arxiv.org/abs/2502.16992)|**[link](https://github.com/wagnva/semantic-nerf-for-satellite-data)**|
 |**2025-02-22**|**AquaNeRF: Neural Radiance Fields in Underwater Media with Distractor Removal**|Luca Gough et.al.|[2502.16351](http://arxiv.org/abs/2502.16351)|null|
 |**2025-02-22**|**DualNeRF: Text-Driven 3D Scene Editing via Dual-Field Representation**|Yuxuan Xiong et.al.|[2502.16302](http://arxiv.org/abs/2502.16302)|null|
 |**2025-02-24**|**Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis**|Ziqian Ni et.al.|[2502.15635](http://arxiv.org/abs/2502.15635)|null|
@@ -7402,7 +7402,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-24**|**SpikACom: A Neuromorphic Computing Framework for Green Communications**|Yanzhen Liu et.al.|[2502.17168](http://arxiv.org/abs/2502.17168)|null|
-|**2025-02-24**|**Stable-SPAM: How to Train in 4-Bit More Stably than 16-Bit Adam**|Tianjin Huang et.al.|[2502.17055](http://arxiv.org/abs/2502.17055)|null|
+|**2025-02-24**|**Stable-SPAM: How to Train in 4-Bit More Stably than 16-Bit Adam**|Tianjin Huang et.al.|[2502.17055](http://arxiv.org/abs/2502.17055)|**[link](https://github.com/tianjinyellow/stablespam)**|
 |**2025-02-24**|**Convergence Guarantees for Unmixing PSFs over a Manifold with Non-Convex Optimization**|Santos Michelena et.al.|[2502.17048](http://arxiv.org/abs/2502.17048)|null|
 |**2025-02-22**|**A Hybrid Neural Network for High-Throughput Attosecond Resolution Single-shot X-ray Pulse Characterization**|Jack Hirschman et.al.|[2502.16141](http://arxiv.org/abs/2502.16141)|null|
 |**2025-02-21**|**Multi-messenger detection of black hole binaries in dark matter spikes**|Fani Dosopoulou et.al.|[2502.15468](http://arxiv.org/abs/2502.15468)|null|
