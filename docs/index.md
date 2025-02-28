@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**BEV-DWPVO: BEV-based Differentiable Weighted Procrustes for Low Scale-drift Monocular Visual Odometry on Ground**|Yufei Wei et.al.|[2502.20078](http://arxiv.org/abs/2502.20078)|null|
 |**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu et.al.|[2502.18932](http://arxiv.org/abs/2502.18932)|null|
 |**2025-02-19**|**Active Illumination for Visual Ego-Motion Estimation in the Dark**|Francesco Crocetti et.al.|[2502.13708](http://arxiv.org/abs/2502.13708)|null|
 |**2025-02-19**|**pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**|Luigi Freda et.al.|[2502.11955](http://arxiv.org/abs/2502.11955)|**[link](https://github.com/luigifreda/pyslam)**|
@@ -821,7 +822,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-26**|**On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation**|Ruben T. Lucassen et.al.|[2502.19285](http://arxiv.org/abs/2502.19285)|null|
+|**2025-02-27**|**A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization**|Yejun Zhang et.al.|[2502.20036](http://arxiv.org/abs/2502.20036)|null|
+|**2025-02-27**|**On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation**|Ruben T. Lucassen et.al.|[2502.19285](http://arxiv.org/abs/2502.19285)|null|
 |**2025-02-26**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242](http://arxiv.org/abs/2502.19242)|null|
 |**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu et.al.|[2502.18932](http://arxiv.org/abs/2502.18932)|null|
 |**2025-02-19**|**A Comprehensive Survey on Composed Image Retrieval**|Xuemeng Song et.al.|[2502.18495](http://arxiv.org/abs/2502.18495)|null|
@@ -1882,6 +1884,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**Automatic Temporal Segmentation for Post-Stroke Rehabilitation: A Keypoint Detection and Temporal Segmentation Approach for Small Datasets**|Jisoo Lee et.al.|[2502.19766](http://arxiv.org/abs/2502.19766)|null|
 |**2025-02-23**|**Rewards-based image analysis in microscopy**|Kamyar Barakati et.al.|[2502.18522](http://arxiv.org/abs/2502.18522)|null|
 |**2025-02-19**|**2.5D U-Net with Depth Reduction for 3D CryoET Object Identification**|Yusuke Uchida et.al.|[2502.13484](http://arxiv.org/abs/2502.13484)|**[link](https://github.com/tattaka/czii-cryo-et-object-identification-public)**|
 |**2025-01-30**|**Transfer Learning for Keypoint Detection in Low-Resolution Thermal TUG Test Images**|Wei-Lun Chen et.al.|[2501.18453](http://arxiv.org/abs/2501.18453)|null|
@@ -2162,6 +2165,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization**|Yejun Zhang et.al.|[2502.20036](http://arxiv.org/abs/2502.20036)|null|
+|**2025-02-27**|**RUBIK: A Structured Benchmark for Image Matching across Geometric Challenges**|Thibaut Loiseau et.al.|[2502.19955](http://arxiv.org/abs/2502.19955)|null|
 |**2025-02-26**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242](http://arxiv.org/abs/2502.19242)|null|
 |**2025-02-25**|**PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching**|Han Nie et.al.|[2502.18104](http://arxiv.org/abs/2502.18104)|**[link](https://github.com/hanniewhu/promptmid)**|
 |**2025-02-25**|**Improving Transformer Based Line Segment Detection with Matched Predicting and Re-ranking**|Xin Tong et.al.|[2502.17766](http://arxiv.org/abs/2502.17766)|null|
@@ -2459,6 +2464,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**Identity-preserving Distillation Sampling by Fixed-Point Iterator**|SeonHwa Kim et.al.|[2502.19930](http://arxiv.org/abs/2502.19930)|null|
+|**2025-02-27**|**NeRFCom: Feature Transform Coding Meets Neural Radiance Field for Free-View 3D Scene Semantic Transmission**|Weijie Yue et.al.|[2502.19873](http://arxiv.org/abs/2502.19873)|null|
+|**2025-02-26**|**Compression in 3D Gaussian Splatting: A Survey of Methods, Trends, and Future Directions**|Muhammad Salman Ali et.al.|[2502.19457](http://arxiv.org/abs/2502.19457)|null|
 |**2025-02-26**|**Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?**|Adam Celarek et.al.|[2502.19318](http://arxiv.org/abs/2502.19318)|null|
 |**2025-02-26**|**The NeRF Signature: Codebook-Aided Watermarking for Neural Radiance Fields**|Ziyuan Luo et.al.|[2502.19125](http://arxiv.org/abs/2502.19125)|null|
 |**2025-02-24**|**Semantic Neural Radiance Fields for Multi-Date Satellite Data**|Valentin Wagner et.al.|[2502.16992](http://arxiv.org/abs/2502.16992)|**[link](https://github.com/wagnva/semantic-nerf-for-satellite-data)**|
@@ -3937,6 +3945,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**Deep Reinforcement Learning based Autonomous Decision-Making for Cooperative UAVs: A Search and Rescue Real World Application**|Thomas Hickling et.al.|[2502.20326](http://arxiv.org/abs/2502.20326)|null|
+|**2025-02-27**|**A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization**|Yejun Zhang et.al.|[2502.20036](http://arxiv.org/abs/2502.20036)|null|
+|**2025-02-27**|**WaveGAS: Waveform Relaxation for Scaling Graph Neural Networks**|Jana Vatter et.al.|[2502.19986](http://arxiv.org/abs/2502.19986)|null|
+|**2025-02-27**|**Efficient and Universal Neural-Network Decoder for Stabilizer-Based Quantum Error Correction**|Gengyuan Hu et.al.|[2502.19971](http://arxiv.org/abs/2502.19971)|null|
+|**2025-02-27**|**GraphSparseNet: a Novel Method for Large Scale Trafffic Flow Prediction**|Weiyang Kong et.al.|[2502.19823](http://arxiv.org/abs/2502.19823)|null|
+|**2025-02-27**|**Accurate and Scalable Graph Neural Networks via Message Invariance**|Zhihao Shi et.al.|[2502.19693](http://arxiv.org/abs/2502.19693)|null|
+|**2025-02-27**|**Training Robust Graph Neural Networks by Modeling Noise Dependencies**|Yeonjun In et.al.|[2502.19670](http://arxiv.org/abs/2502.19670)|null|
+|**2025-02-27**|**Noise-Injected Spiking Graph Convolution for Energy-Efficient 3D Point Cloud Denoising**|Zikuan Li et.al.|[2502.19660](http://arxiv.org/abs/2502.19660)|null|
 |**2025-02-26**|**Preference-Based Gradient Estimation for ML-Based Approximate Combinatorial Optimization**|Arman Mielke et.al.|[2502.19377](http://arxiv.org/abs/2502.19377)|null|
 |**2025-02-26**|**Corporate Fraud Detection in Rich-yet-Noisy Financial Graph**|Shiqi Wang et.al.|[2502.19305](http://arxiv.org/abs/2502.19305)|null|
 |**2025-02-26**|**Global Graph Propagation with Hierarchical Information Transfer for Incomplete Contrastive Multi-view Clustering**|Guoqing Chao et.al.|[2502.19291](http://arxiv.org/abs/2502.19291)|null|
@@ -7089,6 +7105,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-26**|**Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras**|Hoonhee Cho et.al.|[2502.19630](http://arxiv.org/abs/2502.19630)|null|
 |**2025-02-17**|**Event-based Solutions for Human-centered Applications: A Comprehensive Review**|Mira Adra et.al.|[2502.18490](http://arxiv.org/abs/2502.18490)|null|
 |**2025-02-20**|**Ultra-High-Frequency Harmony: mmWave Radar and Event Camera Orchestrate Accurate Drone Landing**|Haoyang Wang et.al.|[2502.14992](http://arxiv.org/abs/2502.14992)|null|
 |**2025-02-19**|**Event-Based Video Frame Interpolation With Cross-Modal Asymmetric Bidirectional Motion Fields**|Taewoo Kim et.al.|[2502.13716](http://arxiv.org/abs/2502.13716)|**[link](https://github.com/intelpro/cbmnet)**|
@@ -7433,6 +7450,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**Waves and symbols in neuromorphic hardware: from analog signal processing to digital computing on the same computational substrate**|Dmitrii Zendrikov et.al.|[2502.20381](http://arxiv.org/abs/2502.20381)|null|
+|**2025-02-27**|**Selfish mining under general stochastic rewards**|Maryam Bahrani et.al.|[2502.20360](http://arxiv.org/abs/2502.20360)|null|
+|**2025-02-27**|**Noise-Injected Spiking Graph Convolution for Energy-Efficient 3D Point Cloud Denoising**|Zikuan Li et.al.|[2502.19660](http://arxiv.org/abs/2502.19660)|null|
+|**2025-02-26**|**Noise-induced Extreme Events in Hodgkin-Huxley Neural Networks**|Bruno R. R. Boaretto et.al.|[2502.19565](http://arxiv.org/abs/2502.19565)|null|
 |**2025-02-26**|**Enhanced Neuromorphic Semantic Segmentation Latency through Stream Event**|D. Hareb et.al.|[2502.18982](http://arxiv.org/abs/2502.18982)|null|
 |**2025-02-25**|**On the Privacy-Preserving Properties of Spiking Neural Networks with Unique Surrogate Gradients and Quantization Levels**|Ayana Moshruba et.al.|[2502.18623](http://arxiv.org/abs/2502.18623)|null|
 |**2025-02-25**|**Fractional order induced bifurcations in Caputo-type denatured Morris-Lecar neurons**|Indranil Ghosh et.al.|[2502.17798](http://arxiv.org/abs/2502.17798)|null|
