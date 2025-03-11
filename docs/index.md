@@ -538,6 +538,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347](http://arxiv.org/abs/2503.07347)|null|
+|**2025-03-10**|**Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**|Mona Sheikh Zeinoddin et.al.|[2503.07204](http://arxiv.org/abs/2503.07204)|null|
+|**2025-03-10**|**VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation**|Hanzhi Chen et.al.|[2503.07135](http://arxiv.org/abs/2503.07135)|null|
 |**2025-03-06**|**PLMP -- Point-Line Minimal Problems for Projective SfM**|Kim Kiehn et.al.|[2503.04351](http://arxiv.org/abs/2503.04351)|null|
 |**2025-03-03**|**ecg2o: A Seamless Extension of g2o for Equality-Constrained Factor Graph Optimization**|Anas Abdelkarim et.al.|[2503.01311](http://arxiv.org/abs/2503.01311)|**[link](https://github.com/snt-arg/ecg2o)**|
 |**2025-03-05**|**A Multi-Sensor Fusion Approach for Rapid Orthoimage Generation in Large-Scale UAV Mapping**|Jialei He et.al.|[2503.01202](http://arxiv.org/abs/2503.01202)|null|
@@ -835,6 +838,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**Find your Needle: Small Object Image Retrieval via Multi-Object Attention Optimization**|Mihcael Green et.al.|[2503.07038](http://arxiv.org/abs/2503.07038)|null|
+|**2025-03-10**|**Zero-Shot Hashing Based on Reconstruction With Part Alignment**|Yan Jiang et.al.|[2503.07037](http://arxiv.org/abs/2503.07037)|null|
+|**2025-03-10**|**Improving Visual Place Recognition with Sequence-Matching Receptiveness Prediction**|Somayeh Hussaini et.al.|[2503.06840](http://arxiv.org/abs/2503.06840)|null|
+|**2025-03-09**|**RoboDesign1M: A Large-scale Dataset for Robot Design Understanding**|Tri Le et.al.|[2503.06796](http://arxiv.org/abs/2503.06796)|null|
+|**2025-03-09**|**StructVPR++: Distill Structural and Semantic Knowledge with Weighting Samples for Visual Place Recognition**|Yanqing Shen et.al.|[2503.06601](http://arxiv.org/abs/2503.06601)|null|
+|**2025-03-09**|**TextInPlace: Indoor Visual Place Recognition in Repetitive Structures with Scene Text Spotting and Verification**|Huaqi Tao et.al.|[2503.06501](http://arxiv.org/abs/2503.06501)|null|
+|**2025-03-08**|**NeuraLoc: Visual Localization in Neural Implicit Map with Dual Complementary Features**|Hongjia Zhai et.al.|[2503.06117](http://arxiv.org/abs/2503.06117)|null|
 |**2025-03-07**|**Data-Efficient Generalization for Zero-shot Composed Image Retrieval**|Zining Chen et.al.|[2503.05204](http://arxiv.org/abs/2503.05204)|null|
 |**2025-03-06**|**RadIR: A Scalable Framework for Multi-Grained Medical Image Retrieval via Radiology Report Mining**|Tengfei Zhang et.al.|[2503.04653](http://arxiv.org/abs/2503.04653)|null|
 |**2025-03-06**|**ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images**|Yanqing Shen et.al.|[2503.04475](http://arxiv.org/abs/2503.04475)|null|
@@ -1913,6 +1923,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|**[link](https://github.com/MacavityT/REF-VLM)**|
+|**2025-03-10**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347](http://arxiv.org/abs/2503.07347)|null|
 |**2025-03-07**|**Automatic determination of quasicrystalline patterns from microscopy images**|Tano Kim Kender et.al.|[2503.05472](http://arxiv.org/abs/2503.05472)|null|
 |**2025-03-07**|**Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**|Benjamin Billot et.al.|[2503.04499](http://arxiv.org/abs/2503.04499)|null|
 |**2025-03-04**|**A Novel Streamline-based diffusion MRI Tractography Registration Method with Probabilistic Keypoint Detection**|Junyi Wang et.al.|[2503.02481](http://arxiv.org/abs/2503.02481)|null|
@@ -2502,6 +2514,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving**|Ziliang Xiong et.al.|[2503.07425](http://arxiv.org/abs/2503.07425)|null|
+|**2025-03-08**|**Feature-EndoGaussian: Feature Distilled Gaussian Splatting in Surgical Deformable Scene Reconstruction**|Kai Li et.al.|[2503.06161](http://arxiv.org/abs/2503.06161)|null|
+|**2025-03-08**|**SecureGS: Boosting the Security and Fidelity of 3D Gaussian Splatting Steganography**|Xuanyu Zhang et.al.|[2503.06118](http://arxiv.org/abs/2503.06118)|null|
+|**2025-03-08**|**NeuraLoc: Visual Localization in Neural Implicit Map with Dual Complementary Features**|Hongjia Zhai et.al.|[2503.06117](http://arxiv.org/abs/2503.06117)|null|
 |**2025-03-06**|**Surgical Gaussian Surfels: Highly Accurate Real-time Surgical Scene Rendering**|Idris O. Sunmola et.al.|[2503.04079](http://arxiv.org/abs/2503.04079)|null|
 |**2025-03-05**|**LensDFF: Language-enhanced Sparse Feature Distillation for Efficient Few-Shot Dexterous Manipulation**|Qian Feng et.al.|[2503.03890](http://arxiv.org/abs/2503.03890)|null|
 |**2025-03-04**|**Tracking-Aware Deformation Field Estimation for Non-rigid 3D Reconstruction in Robotic Surgeries**|Zeqing Wang et.al.|[2503.02558](http://arxiv.org/abs/2503.02558)|null|
@@ -3995,6 +4011,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**Beyond the Edge of Function: Unraveling the Patterns of Type Recovery in Binary Code**|Gangyang Li et.al.|[2503.07243](http://arxiv.org/abs/2503.07243)|null|
+|**2025-03-10**|**An Analytics-Driven Approach to Enhancing Supply Chain Visibility with Graph Neural Networks and Federated Learning**|Ge Zheng et.al.|[2503.07231](http://arxiv.org/abs/2503.07231)|null|
+|**2025-03-10**|**Explainable Android Malware Detection and Malicious Code Localization Using Graph Attention**|Merve Cigdem Ipek et.al.|[2503.07109](http://arxiv.org/abs/2503.07109)|null|
+|**2025-03-10**|**Graph Neural Network for Location- and Orientation-Assisted mmWave Beam Alignment**|Yuzhu Lei et.al.|[2503.06943](http://arxiv.org/abs/2503.06943)|null|
+|**2025-03-10**|**Modeling Human Skeleton Joint Dynamics for Fall Detection**|Sania Zahan et.al.|[2503.06938](http://arxiv.org/abs/2503.06938)|null|
+|**2025-03-09**|**Machine Learning for Single-Ended Event Reconstruction in PROSPECT Experiment**|M. Andriamirado et.al.|[2503.06727](http://arxiv.org/abs/2503.06727)|null|
+|**2025-03-09**|**Deep Cut-informed Graph Embedding and Clustering**|Zhiyuan Ning et.al.|[2503.06635](http://arxiv.org/abs/2503.06635)|null|
+|**2025-03-09**|**Hardware-Accelerated Event-Graph Neural Networks for Low-Latency Time-Series Classification on SoC FPGA**|Hiroshi Nakano et.al.|[2503.06629](http://arxiv.org/abs/2503.06629)|null|
+|**2025-03-09**|**Using Subgraph GNNs for Node Classification:an Overlooked Potential Approach**|Qian Zeng et.al.|[2503.06614](http://arxiv.org/abs/2503.06614)|null|
+|**2025-03-09**|**Quantum Graph Convolutional Networks Based on Spectral Methods**|Zi Ye et.al.|[2503.06447](http://arxiv.org/abs/2503.06447)|null|
 |**2025-03-06**|**Learning Wideband User Scheduling and Hybrid Precoding with Graph Neural Networks**|Shengjie Liu et.al.|[2503.04233](http://arxiv.org/abs/2503.04233)|null|
 |**2025-03-06**|**The JARVIS Infrastructure is All You Need for Materials Design**|Kamal Choudhary et.al.|[2503.04133](http://arxiv.org/abs/2503.04133)|null|
 |**2025-03-05**|**Trial by FIRE: Probing the dark matter density profile of dwarf galaxies with GraphNPE**|Tri Nguyen et.al.|[2503.03812](http://arxiv.org/abs/2503.03812)|null|
@@ -7184,6 +7210,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**Bridge Frame and Event: Common Spatiotemporal Fusion for High-Dynamic Scene Optical Flow**|Hanyu Zhou et.al.|[2503.06992](http://arxiv.org/abs/2503.06992)|null|
+|**2025-03-10**|**LLaFEA: Frame-Event Complementary Fusion for Fine-Grained Spatiotemporal Understanding in LMMs**|Hanyu Zhou et.al.|[2503.06934](http://arxiv.org/abs/2503.06934)|null|
+|**2025-03-09**|**Sign Language Translation using Frame and Event Stream: Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2503.06484](http://arxiv.org/abs/2503.06484)|null|
 |**2025-03-05**|**Combined Physics and Event Camera Simulator for Slip Detection**|Thilo Reinold et.al.|[2503.04838](http://arxiv.org/abs/2503.04838)|null|
 |**2025-03-05**|**Full-DoF Egomotion Estimation for Event Cameras Using Geometric Solvers**|Ji Zhao et.al.|[2503.03307](http://arxiv.org/abs/2503.03307)|**[link](https://github.com/jizhaox/relpose-event)**|
 |**2025-03-05**|**BAT: Learning Event-based Optical Flow with Bidirectional Adaptive Temporal Correlation**|Gangwei Xu et.al.|[2503.03256](http://arxiv.org/abs/2503.03256)|null|
@@ -7537,6 +7566,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**Global maximum principle for optimal control of stochastic Volterra equations with singular kernels: An infinite dimensional approach**|Yushi Hamaguchi et.al.|[2503.07514](http://arxiv.org/abs/2503.07514)|null|
+|**2025-03-10**|**Fluctuation-response relations and response-response relations for membrane voltage and spike train of stochastic integrate-and-fire neurons**|Kolja Klett et.al.|[2503.07434](http://arxiv.org/abs/2503.07434)|null|
+|**2025-03-10**|**JWST ASPIRE: How Did Galaxies Complete Reionization? Evidence for Excess IGM Transmission around ${\rm [O\,{\scriptstyle III}]}$ Emitters during Reionization**|Koki Kakiichi et.al.|[2503.07074](http://arxiv.org/abs/2503.07074)|null|
+|**2025-03-10**|**Quantization of nonlinear non-Hamiltonian systems**|Andy Chia et.al.|[2503.06939](http://arxiv.org/abs/2503.06939)|null|
+|**2025-03-09**|**Characterizing Learning in Spiking Neural Networks with Astrocyte-Like Units**|Christopher S. Yang et.al.|[2503.06798](http://arxiv.org/abs/2503.06798)|null|
+|**2025-03-09**|**Hardware-Accelerated Event-Graph Neural Networks for Low-Latency Time-Series Classification on SoC FPGA**|Hiroshi Nakano et.al.|[2503.06629](http://arxiv.org/abs/2503.06629)|null|
+|**2025-03-09**|**Bayesian Synthetic Control with a Soft Simplex Constraint**|Yihong Xu et.al.|[2503.06454](http://arxiv.org/abs/2503.06454)|null|
+|**2025-03-09**|**Pulse Processing -- Overview and Challenges**|Jonathan H. Manton et.al.|[2503.06408](http://arxiv.org/abs/2503.06408)|null|
+|**2025-03-09**|**A Good Start Matters: Enhancing Continual Learning with Data-Driven Weight Initialization**|Md Yousuf Harun et.al.|[2503.06385](http://arxiv.org/abs/2503.06385)|null|
 |**2025-03-07**|**THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks**|Chaoran Xiong et.al.|[2503.05112](http://arxiv.org/abs/2503.05112)|null|
 |**2025-03-07**|**TS-LIF: A Temporal Segment Spiking Neuron Network for Time Series Forecasting**|Shibo Feng et.al.|[2503.05108](http://arxiv.org/abs/2503.05108)|null|
 |**2025-03-06**|**AOLO: Analysis and Optimization For Low-Carbon Oriented Wireless Large Language Model Services**|Xiaoqi Wang et.al.|[2503.04418](http://arxiv.org/abs/2503.04418)|null|
@@ -8996,6 +9034,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**Fluctuation-response relations and response-response relations for membrane voltage and spike train of stochastic integrate-and-fire neurons**|Kolja Klett et.al.|[2503.07434](http://arxiv.org/abs/2503.07434)|null|
 |**2025-03-07**|**Disentangling Task Interference within Neurons: Model Merging in Alignment with Neuronal Mechanisms**|Zitao Fang et.al.|[2503.05320](http://arxiv.org/abs/2503.05320)|null|
 |**2025-03-07**|**TS-LIF: A Temporal Segment Spiking Neuron Network for Time Series Forecasting**|Shibo Feng et.al.|[2503.05108](http://arxiv.org/abs/2503.05108)|null|
 |**2025-03-02**|**Range and Angle Estimation with Spiking Neural Resonators for FMCW Radar**|Nico Reeb et.al.|[2503.00898](http://arxiv.org/abs/2503.00898)|null|
