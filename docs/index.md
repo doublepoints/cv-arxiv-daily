@@ -538,6 +538,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**From Monocular Vision to Autonomous Action: Guiding Tumor Resection via 3D Reconstruction**|Ayberk Acar et.al.|[2503.16263](http://arxiv.org/abs/2503.16263)|null|
 |**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982](http://arxiv.org/abs/2503.13982)|**[link](https://github.com/ais-lab/a-score)**|
 |**2025-03-17**|**Improving Geometric Consistency for 360-Degree Neural Radiance Fields in Indoor Scenarios**|Iryna Repinetska et.al.|[2503.13710](http://arxiv.org/abs/2503.13710)|null|
 |**2025-03-17**|**Gaussian On-the-Fly Splatting: A Progressive Framework for Robust Near Real-Time 3DGS Optimization**|Yiwei Xu et.al.|[2503.13086](http://arxiv.org/abs/2503.13086)|null|
@@ -842,6 +843,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**PromptHash: Affinity-Prompted Collaborative Cross-Modal Learning for Adaptive Hashing Retrieval**|Qiang Zou et.al.|[2503.16064](http://arxiv.org/abs/2503.16064)|**[link](https://github.com/ShiShuMo/PromptHash)**|
+|**2025-03-20**|**Automating 3D Dataset Generation with Neural Radiance Fields**|P. Schulz et.al.|[2503.15997](http://arxiv.org/abs/2503.15997)|null|
 |**2025-03-18**|**3D Densification for Multi-Map Monocular VSLAM in Endoscopy**|X. Anadón et.al.|[2503.14346](http://arxiv.org/abs/2503.14346)|null|
 |**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982](http://arxiv.org/abs/2503.13982)|**[link](https://github.com/ais-lab/a-score)**|
 |**2025-03-17**|**Scale Efficient Training for Large Datasets**|Qing Zhou et.al.|[2503.13385](http://arxiv.org/abs/2503.13385)|null|
@@ -2227,6 +2230,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors**|Tian Yi Lim et.al.|[2503.16275](http://arxiv.org/abs/2503.16275)|null|
+|**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185](http://arxiv.org/abs/2503.16185)|null|
 |**2025-03-19**|**PAPI-Reg: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image**|Yuanchao Yue et.al.|[2503.15285](http://arxiv.org/abs/2503.15285)|null|
 |**2025-03-17**|**Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**|Johan Edstedt et.al.|[2503.13433](http://arxiv.org/abs/2503.13433)|null|
 |**2025-03-17**|**SatDepth: A Novel Dataset for Satellite Image Matching**|Rahul Deshmukh et.al.|[2503.12706](http://arxiv.org/abs/2503.12706)|null|
@@ -2536,6 +2541,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Enhancing Close-up Novel View Synthesis via Pseudo-labeling**|Jiatong Xia et.al.|[2503.15908](http://arxiv.org/abs/2503.15908)|null|
+|**2025-03-19**|**SPNeRF: Open Vocabulary 3D Neural Scene Segmentation with Superpoints**|Weiwen Hu et.al.|[2503.15712](http://arxiv.org/abs/2503.15712)|null|
+|**2025-03-19**|**DiffPortrait360: Consistent Portrait Diffusion for 360 View Synthesis**|Yuming Gu et.al.|[2503.15667](http://arxiv.org/abs/2503.15667)|null|
 |**2025-03-19**|**GO-N3RDet: Geometry Optimized NeRF-enhanced 3D Object Detector**|Zechuan Li et.al.|[2503.15211](http://arxiv.org/abs/2503.15211)|null|
 |**2025-03-19**|**MultiBARF: Integrating Imagery of Different Wavelength Regions by Using Neural Radiance Fields**|Kana Kurata et.al.|[2503.15070](http://arxiv.org/abs/2503.15070)|null|
 |**2025-03-19**|**3D Engine-ready Photorealistic Avatars via Dynamic Textures**|Yifan Wang et.al.|[2503.14943](http://arxiv.org/abs/2503.14943)|null|
@@ -4052,10 +4060,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Beyond Local Selection: Global Cut Selection for Enhanced Mixed-Integer Programming**|Shuli Zeng et.al.|[2503.15847](http://arxiv.org/abs/2503.15847)|null|
+|**2025-03-20**|**GraPLUS: Graph-based Placement Using Semantics for Image Composition**|Mir Mohammad Khaleghi et.al.|[2503.15761](http://arxiv.org/abs/2503.15761)|null|
+|**2025-03-19**|**Survey on Generalization Theory for Graph Neural Networks**|Antonis Vasileiou et.al.|[2503.15650](http://arxiv.org/abs/2503.15650)|null|
+|**2025-03-19**|**PEnGUiN: Partially Equivariant Graph NeUral Networks for Sample Efficient MARL**|Joshua McClellan et.al.|[2503.15615](http://arxiv.org/abs/2503.15615)|null|
 |**2025-03-19**|**Modeling crystal defects using defect-informed neural networks**|Ziduo Yang et.al.|[2503.15391](http://arxiv.org/abs/2503.15391)|null|
 |**2025-03-19**|**Lyapunov-Based Graph Neural Networks for Adaptive Control of Multi-Agent Systems**|Brandon C. Fallin et.al.|[2503.15360](http://arxiv.org/abs/2503.15360)|null|
 |**2025-03-19**|**Learning to quantify graph nodes**|Alessio Micheli et.al.|[2503.15267](http://arxiv.org/abs/2503.15267)|null|
-|**2025-03-19**|**Classification of Electron and Muon Neutrino Events for the ESS $ν$ SB Near Water Cherenkov Detector using Graph Neural Networks**|J. Aguilar et.al.|[2503.15247](http://arxiv.org/abs/2503.15247)|null|
+|**2025-03-20**|**Classification of Electron and Muon Neutrino Events for the ESS $ν$ SB Near Water Cherenkov Detector using Graph Neural Networks**|J. Aguilar et.al.|[2503.15247](http://arxiv.org/abs/2503.15247)|null|
 |**2025-03-19**|**Learning Topology Actions for Power Grid Control: A Graph-Based Soft-Label Imitation Learning Approach**|Mohamed Hassouna et.al.|[2503.15190](http://arxiv.org/abs/2503.15190)|null|
 |**2025-03-19**|**Interpretability of Graph Neural Networks to Assert Effects of Global Change Drivers on Ecological Networks**|Emre Anakok et.al.|[2503.15107](http://arxiv.org/abs/2503.15107)|null|
 |**2025-03-19**|**Embedding spatial context in urban traffic forecasting with contrastive pre-training**|Matthew Low et.al.|[2503.14980](http://arxiv.org/abs/2503.14980)|null|
@@ -7666,6 +7678,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Allostatic Control of Persistent States in Spiking Neural Networks for perception and computation**|Aung Htet et.al.|[2503.16085](http://arxiv.org/abs/2503.16085)|null|
+|**2025-03-20**|**GazeSCRNN: Event-based Near-eye Gaze Tracking using a Spiking Neural Network**|Stijn Groenen et.al.|[2503.16012](http://arxiv.org/abs/2503.16012)|null|
+|**2025-03-20**|**SpiLiFormer: Enhancing Spiking Transformers with Lateral Inhibition**|Zeqi Zheng et.al.|[2503.15986](http://arxiv.org/abs/2503.15986)|null|
 |**2025-03-19**|**Towards efficient keyword spotting using spike-based time difference encoders**|Alejandro Pequeño-Zurro et.al.|[2503.15402](http://arxiv.org/abs/2503.15402)|null|
 |**2025-03-18**|**Recovering Parameters from Edge Fluctuations: Beta-Ensembles and Critically-Spiked Models**|Pierre Yves Gaudreau Lamarre et.al.|[2503.14414](http://arxiv.org/abs/2503.14414)|null|
 |**2025-03-18**|**Anisotropic Turbulent Flows Observed in Above the Loop-top Regions During Solar Flares**|Xiaoyan Xie et.al.|[2503.13827](http://arxiv.org/abs/2503.13827)|null|
