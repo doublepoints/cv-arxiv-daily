@@ -2971,7 +2971,7 @@
 |**2024-06-19**|**Freq-Mip-AA : Frequency Mip Representation for Anti-Aliasing Neural Radiance Fields**|Youngin Park et.al.|[2406.13251](http://arxiv.org/abs/2406.13251)|**[link](https://github.com/yi0109/freqmipaa)**|
 |**2024-06-18**|**Sampling 3D Gaussian Scenes in Seconds with Latent Diffusion Models**|Paul Henderson et.al.|[2406.13099](http://arxiv.org/abs/2406.13099)|null|
 |**2024-06-18**|**Head Pose Estimation and 3D Neural Surface Reconstruction via Monocular Camera in situ for Navigation and Safe Insertion into Natural Openings**|Ruijie Tang et.al.|[2406.13048](http://arxiv.org/abs/2406.13048)|null|
-|**2024-06-18**|**Fast Global Localization on Neural Radiance Field**|Mangyu Kong et.al.|[2406.12202](http://arxiv.org/abs/2406.12202)|null|
+|**2024-06-18**|**Fast Global Localization on Neural Radiance Field**|Mangyu Kong et.al.|[2406.12202](http://arxiv.org/abs/2406.12202)|**[link](https://github.com/kmk97/fast-loc-nerf)**|
 |**2024-06-20**|**TutteNet: Injective 3D Deformations by Composition of 2D Mesh Deformations**|Bo Sun et.al.|[2406.12121](http://arxiv.org/abs/2406.12121)|null|
 |**2024-06-17**|**DistillNeRF: Perceiving 3D Scenes from Single-Glance Images by Distilling Neural Fields and Foundation Model Features**|Letian Wang et.al.|[2406.12095](http://arxiv.org/abs/2406.12095)|null|
 |**2024-06-17**|**Uncertainty modeling for fine-tuned implicit functions**|Anna Susmelj et.al.|[2406.12082](http://arxiv.org/abs/2406.12082)|null|
@@ -3351,7 +3351,7 @@
 |**2023-12-23**|**INFAMOUS-NeRF: ImproviNg FAce MOdeling Using Semantically-Aligned Hypernetworks with Neural Radiance Fields**|Andrew Hou et.al.|[2312.16197](http://arxiv.org/abs/2312.16197)|null|
 |**2023-12-26**|**LangSplat: 3D Language Gaussian Splatting**|Minghan Qin et.al.|[2312.16084](http://arxiv.org/abs/2312.16084)|**[link](https://github.com/minghanqin/LangSplat)**|
 |**2023-12-26**|**2D-Guided 3D Gaussian Segmentation**|Kun Lan et.al.|[2312.16047](http://arxiv.org/abs/2312.16047)|null|
-|**2023-12-26**|**Pano-NeRF: Synthesizing High Dynamic Range Novel Views with Geometry from Sparse Low Dynamic Range Panoramic Images**|Zhan Lu et.al.|[2312.15942](http://arxiv.org/abs/2312.15942)|null|
+|**2023-12-26**|**Pano-NeRF: Synthesizing High Dynamic Range Novel Views with Geometry from Sparse Low Dynamic Range Panoramic Images**|Zhan Lu et.al.|[2312.15942](http://arxiv.org/abs/2312.15942)|**[link](https://github.com/lu-zhan/pano-nerf)**|
 |**2023-12-23**|**Human101: Training 100+FPS Human Gaussians in 100s from 1 View**|Mingwei Li et.al.|[2312.15258](http://arxiv.org/abs/2312.15258)|**[link](https://github.com/longxiang-ai/human101)**|
 |**2023-12-23**|**Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane**|Chen Yang et.al.|[2312.15253](http://arxiv.org/abs/2312.15253)|**[link](https://github.com/loping151/forplane)**|
 |**2023-12-23**|**CaLDiff: Camera Localization in NeRF via Pose Diffusion**|Rashik Shrestha et.al.|[2312.15242](http://arxiv.org/abs/2312.15242)|null|
@@ -4102,7 +4102,7 @@
 |**2025-03-18**|**Spatio-Temporal Graph Neural Networks for Infant Language Acquisition Prediction**|Andrew Roxburgh et.al.|[2503.14341](http://arxiv.org/abs/2503.14341)|null|
 |**2025-03-18**|**Higher-Order Graphon Neural Networks: Approximation and Cut Distance**|Daniel Herbst et.al.|[2503.14338](http://arxiv.org/abs/2503.14338)|null|
 |**2025-03-18**|**Application of Geometric Deep Learning for Tracking of Hyperons in a Straw Tube Detector**|Adeel Akram et.al.|[2503.14305](http://arxiv.org/abs/2503.14305)|null|
-|**2025-03-18**|**Persistent Homology-induced Graph Ensembles for Time Series Regressions**|Viet The Nguyen et.al.|[2503.14240](http://arxiv.org/abs/2503.14240)|null|
+|**2025-03-18**|**Persistent Homology-induced Graph Ensembles for Time Series Regressions**|Viet The Nguyen et.al.|[2503.14240](http://arxiv.org/abs/2503.14240)|**[link](https://github.com/vietngth/ph-ensemble-gnn)**|
 |**2025-03-18**|**Rolling Forward: Enhancing LightGCN with Causal Graph Convolution for Credit Bond Recommendation**|Ashraf Ghiye et.al.|[2503.14213](http://arxiv.org/abs/2503.14213)|null|
 |**2025-03-18**|**TGBFormer: Transformer-GraphFormer Blender Network for Video Object Detection**|Qiang Qi et.al.|[2503.13903](http://arxiv.org/abs/2503.13903)|null|
 |**2025-03-17**|**SMPR: A structure-enhanced multimodal drug-disease prediction model for drug repositioning and cold start**|Xin Dong et.al.|[2503.13322](http://arxiv.org/abs/2503.13322)|null|
@@ -4115,9 +4115,9 @@
 |**2025-03-16**|**GraphEval: A Lightweight Graph-Based LLM Framework for Idea Evaluation**|Tao Feng et.al.|[2503.12600](http://arxiv.org/abs/2503.12600)|null|
 |**2025-03-16**|**Diffusion on Graph: Augmentation of Graph Structure for Node Classification**|Yancheng Wang et.al.|[2503.12563](http://arxiv.org/abs/2503.12563)|null|
 |**2025-03-16**|**Learning Privacy from Visual Entities**|Alessio Xompero et.al.|[2503.12464](http://arxiv.org/abs/2503.12464)|null|
-|**2025-03-14**|**Enhanced Soups for Graph Neural Networks**|Joseph Zuber et.al.|[2503.11612](http://arxiv.org/abs/2503.11612)|null|
-|**2025-03-14**|**GNNs as Predictors of Agentic Workflow Performances**|Yuanshuo Zhang et.al.|[2503.11301](http://arxiv.org/abs/2503.11301)|null|
-|**2025-03-14**|**Spatio-Temporal Graph Structure Learning for Earthquake Detection**|Suchanun Piriyasatit et.al.|[2503.11215](http://arxiv.org/abs/2503.11215)|null|
+|**2025-03-14**|**Enhanced Soups for Graph Neural Networks**|Joseph Zuber et.al.|[2503.11612](http://arxiv.org/abs/2503.11612)|**[link](https://github.com/zubes01/enhanced-soups-for-graph-neural-networks)**|
+|**2025-03-14**|**GNNs as Predictors of Agentic Workflow Performances**|Yuanshuo Zhang et.al.|[2503.11301](http://arxiv.org/abs/2503.11301)|**[link](https://github.com/youngsoul0731/flora-bench)**|
+|**2025-03-14**|**Spatio-Temporal Graph Structure Learning for Earthquake Detection**|Suchanun Piriyasatit et.al.|[2503.11215](http://arxiv.org/abs/2503.11215)|**[link](https://github.com/suchanunp/eq_detector)**|
 |**2025-03-14**|**Power-Aware Scheduling for Multi-Center HPC Electricity Cost Optimization**|Abrar Hossain et.al.|[2503.11011](http://arxiv.org/abs/2503.11011)|null|
 |**2025-03-14**|**A Weighted Predict-and-Optimize Framework for Power System Operation Considering Varying Impacts of Uncertainty**|Yingrui Zhuang et.al.|[2503.11001](http://arxiv.org/abs/2503.11001)|null|
 |**2025-03-13**|**PolyRoof: Precision Roof Polygonization in Urban Residential Building with Graph Neural Networks**|Chaikal Amrullah et.al.|[2503.10913](http://arxiv.org/abs/2503.10913)|null|
@@ -7887,7 +7887,7 @@
 |**2025-01-15**|**Direct evidence for $r$ -process nucleosynthesis in delayed MeV emission from the SGR 1806-20 magnetar giant flare**|Anirudh Patel et.al.|[2501.09181](http://arxiv.org/abs/2501.09181)|null|
 |**2025-01-15**|**Learnable Sparsification of Die-to-Die Communication via Spike-Based Encoding**|Joshua Nardone et.al.|[2501.08645](http://arxiv.org/abs/2501.08645)|null|
 |**2025-01-14**|**Optical rotation of ferrofluid on a horizontal substrate by Marangoni and thermomagnetic forces**|Chengzhen Qin et.al.|[2501.08462](http://arxiv.org/abs/2501.08462)|null|
-|**2025-01-14**|**Self-Attentive Spatio-Temporal Calibration for Precise Intermediate Layer Matching in ANN-to-SNN Distillation**|Di Hong et.al.|[2501.08049](http://arxiv.org/abs/2501.08049)|null|
+|**2025-01-14**|**Self-Attentive Spatio-Temporal Calibration for Precise Intermediate Layer Matching in ANN-to-SNN Distillation**|Di Hong et.al.|[2501.08049](http://arxiv.org/abs/2501.08049)|**[link](https://github.com/ieveresthd/sastc)**|
 |**2025-01-14**|**Spiking Neural Network Accelerator Architecture for Differential-Time Representation using Learned Encoding**|Daniel Windhager et.al.|[2501.07952](http://arxiv.org/abs/2501.07952)|null|
 |**2025-01-14**|**Prediction Interval Construction Method for Electricity Prices**|Xin Lu et.al.|[2501.07827](http://arxiv.org/abs/2501.07827)|null|
 |**2025-01-14**|**An Efficient Sparse Hardware Accelerator for Spike-Driven Transformer**|Zhengke Li et.al.|[2501.07825](http://arxiv.org/abs/2501.07825)|null|
