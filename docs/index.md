@@ -2557,6 +2557,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**AccidentSim: Generating Physically Realistic Vehicle Collision Videos from Real-World Accident Reports**|Xiangwen Zhang et.al.|[2503.20654](http://arxiv.org/abs/2503.20654)|null|
+|**2025-03-26**|**EVolSplat: Efficient Volume-based Gaussian Splatting for Urban View Synthesis**|Sheng Miao et.al.|[2503.20168](http://arxiv.org/abs/2503.20168)|null|
+|**2025-03-25**|**Learning Scene-Level Signed Directional Distance Function with Ellipsoidal Priors and Neural Residuals**|Zhirui Dai et.al.|[2503.20066](http://arxiv.org/abs/2503.20066)|null|
 |**2025-03-25**|**MultimodalStudio: A Heterogeneous Sensor Dataset and Framework for Neural Rendering across Multiple Imaging Modalities**|Federico Lincetto et.al.|[2503.19673](http://arxiv.org/abs/2503.19673)|null|
 |**2025-03-24**|**NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**|Yulong Zheng et.al.|[2503.18794](http://arxiv.org/abs/2503.18794)|null|
 |**2025-03-25**|**LookCloser: Frequency-aware Radiance Field for Tiny-Detail Scene**|Xiaoyu Zhang et.al.|[2503.18513](http://arxiv.org/abs/2503.18513)|null|
@@ -4087,7 +4090,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-25**|**Towards Efficient Training of Graph Neural Networks: A Multiscale Approach**|Eshed Gal et.al.|[2503.19666](http://arxiv.org/abs/2503.19666)|null|
+|**2025-03-26**|**$β$ -GNN: A Robust Ensemble Approach Against Graph Structure Perturbation**|Haci Ismail Aslan et.al.|[2503.20630](http://arxiv.org/abs/2503.20630)|null|
+|**2025-03-26**|**Multi-dataset and Transfer Learning Using Gene Expression Knowledge Graphs**|Rita T. Sousa et.al.|[2503.20400](http://arxiv.org/abs/2503.20400)|null|
+|**2025-03-26**|**Emergent properties and the multiscale characterization challenge in condensed matter, from crystals to complex materials: a Review**|Elisabetta Nocerino et.al.|[2503.20266](http://arxiv.org/abs/2503.20266)|null|
+|**2025-03-26**|**BeLightRec: A lightweight recommender system enhanced with BERT**|Manh Mai Van et.al.|[2503.20206](http://arxiv.org/abs/2503.20206)|null|
+|**2025-03-25**|**Peer Disambiguation in Self-Reported Surveys using Graph Attention Networks**|Ajitesh Srivastava et.al.|[2503.20076](http://arxiv.org/abs/2503.20076)|null|
+|**2025-03-25**|**Developing a Complete AI-Accelerated Workflow for Superconductor Discovery**|Jason B. Gibson et.al.|[2503.20005](http://arxiv.org/abs/2503.20005)|null|
+|**2025-03-26**|**Towards Efficient Training of Graph Neural Networks: A Multiscale Approach**|Eshed Gal et.al.|[2503.19666](http://arxiv.org/abs/2503.19666)|null|
 |**2025-03-25**|**Extracting Interpretable Logic Rules from Graph Neural Networks**|Chuqin Geng et.al.|[2503.19476](http://arxiv.org/abs/2503.19476)|null|
 |**2025-03-25**|**LOCAL: A Graph-Based Active Learning Approach for Stability Analysis of DAC@NG Catalysts**|Yue Yin et.al.|[2503.19445](http://arxiv.org/abs/2503.19445)|null|
 |**2025-03-25**|**Oxidation States in Solids from Data-Driven Paradigms**|Yue Yin et.al.|[2503.19425](http://arxiv.org/abs/2503.19425)|null|
@@ -7366,8 +7375,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**EGVD: Event-Guided Video Diffusion Model for Physically Realistic Large-Motion Frame Interpolation**|Ziran Zhang et.al.|[2503.20268](http://arxiv.org/abs/2503.20268)|null|
 |**2025-03-25**|**EventFly: Event Camera Perception from Ground to the Sky**|Lingdong Kong et.al.|[2503.19916](http://arxiv.org/abs/2503.19916)|null|
-|**2025-03-25**|**A Survey on Event-driven 3D Reconstruction: Development under Different Categories**|Chuanzhi Xu et.al.|[2503.19753](http://arxiv.org/abs/2503.19753)|null|
+|**2025-03-26**|**A Survey on Event-driven 3D Reconstruction: Development under Different Categories**|Chuanzhi Xu et.al.|[2503.19753](http://arxiv.org/abs/2503.19753)|null|
 |**2025-03-24**|**Cooperative Control of Multi-Quadrotors for Transporting Cable-Suspended Payloads: Obstacle-Aware Planning and Event-Based Nonlinear Model Predictive Control**|Tohid Kargar Tasooji et.al.|[2503.19135](http://arxiv.org/abs/2503.19135)|null|
 |**2025-03-24**|**EvAnimate: Event-conditioned Image-to-Video Generation for Human Animation**|Qiang Qu et.al.|[2503.18552](http://arxiv.org/abs/2503.18552)|null|
 |**2025-03-24**|**PS-EIP: Robust Photometric Stereo Based on Event Interval Profile**|Kazuma Kitazawa et.al.|[2503.18341](http://arxiv.org/abs/2503.18341)|null|
@@ -7738,6 +7748,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**Mathematical Models for Self-Adaptive Response to Cancer Dynamics**|Christian Kuehn et.al.|[2503.20632](http://arxiv.org/abs/2503.20632)|null|
+|**2025-03-26**|**Underwater Image Enhancement by Convolutional Spiking Neural Networks**|Vidya Sudevan et.al.|[2503.20485](http://arxiv.org/abs/2503.20485)|null|
+|**2025-03-26**|**Including local feature interactions in deep non-negative matrix factorization networks improves performance**|Mahbod Nouri et.al.|[2503.20398](http://arxiv.org/abs/2503.20398)|null|
+|**2025-03-26**|**SpikeDerain: Unveiling Clear Videos from Rainy Sequences Using Color Spike Streams**|Hanwen Liang et.al.|[2503.20315](http://arxiv.org/abs/2503.20315)|null|
+|**2025-03-26**|**VESTA: A Versatile SNN-Based Transformer Accelerator with Unified PEs for Multiple Computational Layers**|Ching-Yao Chen et.al.|[2503.20246](http://arxiv.org/abs/2503.20246)|null|
 |**2025-03-25**|**Hardware Efficient Accelerator for Spiking Transformer With Reconfigurable Parallel Time Step Computing**|Bo-Yu Chen et.al.|[2503.19643](http://arxiv.org/abs/2503.19643)|null|
 |**2025-03-23**|**FS-SS: Few-Shot Learning for Fast and Accurate Spike Sorting of High-channel Count Probes**|Tao Fang et.al.|[2503.18040](http://arxiv.org/abs/2503.18040)|null|
 |**2025-03-21**|**Temporal-Guided Spiking Neural Networks for Event-Based Human Action Recognition**|Siyuan Yang et.al.|[2503.17132](http://arxiv.org/abs/2503.17132)|null|
