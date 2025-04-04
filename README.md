@@ -27,7 +27,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-02**|**ForestVO: Enhancing Visual Odometry in Forest Environments through ForestGlue**|Thomas Pritchard et.al.|[2504.01261](http://arxiv.org/abs/2504.01261)|null|
+|**2025-04-03**|**MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM**|Renwu Li et.al.|[2504.02437](http://arxiv.org/abs/2504.02437)|null|
+|**2025-04-02**|**ForestVO: Enhancing Visual Odometry in Forest Environments through ForestGlue**|Thomas Pritchard et.al.|[2504.01261](http://arxiv.org/abs/2504.01261)|**[link](https://github.com/aerialroboticsgroup/forest-vo)**|
 |**2025-03-29**|**Incorporating GNSS Information with LIDAR-Inertial Odometry for Accurate Land-Vehicle Localization**|Jintao Cheng et.al.|[2503.23199](http://arxiv.org/abs/2503.23199)|null|
 |**2025-03-29**|**Towards Mobile Sensing with Event Cameras on High-mobility Resource-constrained Devices: A Survey**|Haoyang Wang et.al.|[2503.22943](http://arxiv.org/abs/2503.22943)|null|
 |**2025-03-25**|**Scene-agnostic Pose Regression for Visual Localization**|Junwei Zheng et.al.|[2503.19543](http://arxiv.org/abs/2503.19543)|null|
@@ -868,6 +869,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**Re-thinking Temporal Search for Long-Form Video Understanding**|Jinhui Ye et.al.|[2504.02259](http://arxiv.org/abs/2504.02259)|null|
+|**2025-04-02**|**A Chefs KISS -- Utilizing semantic information in both ICP and SLAM framework**|Sven Ochs et.al.|[2504.02086](http://arxiv.org/abs/2504.02086)|null|
 |**2025-04-02**|**Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**|Yuji Nozawa et.al.|[2504.01348](http://arxiv.org/abs/2504.01348)|null|
 |**2025-04-01**|**IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval**|Bangwei Liu et.al.|[2504.00954](http://arxiv.org/abs/2504.00954)|null|
 |**2025-04-01**|**Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**|Yiqun Duan et.al.|[2504.00812](http://arxiv.org/abs/2504.00812)|null|
@@ -2601,6 +2604,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**MultiNeRF: Multiple Watermark Embedding for Neural Radiance Fields**|Yash Kulthe et.al.|[2504.02517](http://arxiv.org/abs/2504.02517)|null|
+|**2025-04-03**|**LPA3D: 3D Room-Level Scene Generation from In-the-Wild Images**|Ming-Jia Yang et.al.|[2504.02337](http://arxiv.org/abs/2504.02337)|null|
+|**2025-04-01**|**OccludeNeRF: Geometric-aware 3D Scene Inpainting with Collaborative Score Distillation in NeRF**|Jingyu Shi et.al.|[2504.02007](http://arxiv.org/abs/2504.02007)|null|
 |**2025-04-02**|**Diffusion-Guided Gaussian Splatting for Large-Scale Unconstrained 3D Reconstruction and Novel View Synthesis**|Niluthpol Chowdhury Mithun et.al.|[2504.01960](http://arxiv.org/abs/2504.01960)|null|
 |**2025-04-02**|**BOGausS: Better Optimized Gaussian Splatting**|Stéphane Pateux et.al.|[2504.01844](http://arxiv.org/abs/2504.01844)|null|
 |**2025-04-02**|**FIORD: A Fisheye Indoor-Outdoor Dataset with LIDAR Ground Truth for 3D Scene Reconstruction and Benchmarking**|Ulas Gunes et.al.|[2504.01732](http://arxiv.org/abs/2504.01732)|null|
@@ -4155,6 +4161,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**Multi-Head Adaptive Graph Convolution Network for Sparse Point Cloud-Based Human Activity Recognition**|Vincent Gbouna Zakka et.al.|[2504.02778](http://arxiv.org/abs/2504.02778)|**[link](https://github.com/Gbouna/MAK-GCN)**|
+|**2025-04-03**|**A Hybrid Similarity-Aware Graph Neural Network with Transformer for Node Classification**|Aman Singh et.al.|[2504.02615](http://arxiv.org/abs/2504.02615)|null|
+|**2025-04-03**|**Graphs are everywhere -- Psst! In Music Recommendation too**|Bharani Jayakumar et.al.|[2504.02598](http://arxiv.org/abs/2504.02598)|null|
+|**2025-04-03**|**Toward General and Robust LLM-enhanced Text-attributed Graph Learning**|Zihao Zhang et.al.|[2504.02343](http://arxiv.org/abs/2504.02343)|null|
+|**2025-04-03**|**Distributed Log-driven Anomaly Detection System based on Evolving Decision Making**|Zhuoran Tan et.al.|[2504.02322](http://arxiv.org/abs/2504.02322)|null|
+|**2025-04-03**|**Enhancing Customer Contact Efficiency with Graph Neural Networks in Credit Card Fraud Detection Workflow**|Menghao Huo et.al.|[2504.02275](http://arxiv.org/abs/2504.02275)|null|
+|**2025-04-03**|**LLM-Augmented Graph Neural Recommenders: Integrating User Reviews**|Hiroki Kanezashi et.al.|[2504.02195](http://arxiv.org/abs/2504.02195)|null|
+|**2025-04-02**|**OmniCellTOSG: The First Cell Text-Omic Signaling Graphs Dataset for Joint LLM and GNN Modeling**|Heming Zhang et.al.|[2504.02148](http://arxiv.org/abs/2504.02148)|null|
+|**2025-04-02**|**LL4G: Self-Supervised Dynamic Optimization for Graph-Based Personality Detection**|Lingzhi Shen et.al.|[2504.02146](http://arxiv.org/abs/2504.02146)|null|
+|**2025-04-02**|**From Text to Graph: Leveraging Graph Neural Networks for Enhanced Explainability in NLP**|Fabio Yáñez-Romero et.al.|[2504.02064](http://arxiv.org/abs/2504.02064)|null|
 |**2025-04-02**|**Graphically Speaking: Unmasking Abuse in Social Media with Conversation Insights**|Célia Nouri et.al.|[2504.01902](http://arxiv.org/abs/2504.01902)|null|
 |**2025-04-02**|**Identifying Obfuscated Code through Graph-Based Semantic Analysis of Binary Code**|Roxane Cohen et.al.|[2504.01481](http://arxiv.org/abs/2504.01481)|null|
 |**2025-04-02**|**Deep Graph Reinforcement Learning for UAV-Enabled Multi-User Secure Communications**|Xiao Tang et.al.|[2504.01446](http://arxiv.org/abs/2504.01446)|null|
@@ -7475,6 +7491,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**EvMic: Event-based Non-contact sound recovery from effective spatial-temporal modeling**|Hao Yin et.al.|[2504.02402](http://arxiv.org/abs/2504.02402)|null|
 |**2025-03-31**|**Exploring Temporal Dynamics in Event-based Eye Tracker**|Hongwei Ren et.al.|[2503.23725](http://arxiv.org/abs/2503.23725)|**[link](https://github.com/rhwxmx/tdtracker)**|
 |**2025-03-29**|**SuperEIO: Self-Supervised Event Feature Learning for Event Inertial Odometry**|Peiyu Chen et.al.|[2503.22963](http://arxiv.org/abs/2503.22963)|**[link](https://github.com/arclab-hku/supereio)**|
 |**2025-03-29**|**Towards Mobile Sensing with Event Cameras on High-mobility Resource-constrained Devices: A Survey**|Haoyang Wang et.al.|[2503.22943](http://arxiv.org/abs/2503.22943)|null|
@@ -7854,6 +7871,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**Learning dynamics on the picosecond timescale in a superconducting synapse structure**|Ken Segall et.al.|[2504.02754](http://arxiv.org/abs/2504.02754)|null|
+|**2025-04-03**|**State-Space Model Inspired Multiple-Input Multiple-Output Spiking Neurons**|Sanja Karilanova et.al.|[2504.02591](http://arxiv.org/abs/2504.02591)|null|
+|**2025-04-03**|**A 3D-1D-0D Multiscale Model of the Neuro-Glial-Vascular Unit for Synaptic and Vascular Dynamics in the Dorsal Vagal Complex**|Alexander Hermann et.al.|[2504.02540](http://arxiv.org/abs/2504.02540)|null|
+|**2025-04-03**|**ZClip: Adaptive Spike Mitigation for LLM Pre-Training**|Abhay Kumar et.al.|[2504.02507](http://arxiv.org/abs/2504.02507)|**[link](https://github.com/bluorion-com/ZClip)**|
+|**2025-04-03**|**SPACE: SPike-Aware Consistency Enhancement for Test-Time Adaptation in Spiking Neural Networks**|Xinyu Luo et.al.|[2504.02298](http://arxiv.org/abs/2504.02298)|null|
+|**2025-04-02**|**On the threshold of excitable systems: An energy-based perspective**|Rodolphe Sepulchre et.al.|[2504.02171](http://arxiv.org/abs/2504.02171)|null|
 |**2025-04-02**|**Tunable Thresholds and Frequency Encoding in a Spiking NOD Controller**|Ian Xul Belaustegui et.al.|[2504.01878](http://arxiv.org/abs/2504.01878)|null|
 |**2025-04-02**|**Bridge the Gap between SNN and ANN for Image Restoration**|Xin Su et.al.|[2504.01755](http://arxiv.org/abs/2504.01755)|null|
 |**2025-04-02**|**SpikeSift: A Computationally Efficient and Drift-Resilient Spike Sorting Algorithm**|Vasileios Georgiadis et.al.|[2504.01604](http://arxiv.org/abs/2504.01604)|null|
@@ -9385,6 +9408,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**Reservoir Computing: A New Paradigm for Neural Networks**|Felix Grezes et.al.|[2504.02639](http://arxiv.org/abs/2504.02639)|null|
+|**2025-04-03**|**State-Space Model Inspired Multiple-Input Multiple-Output Spiking Neurons**|Sanja Karilanova et.al.|[2504.02591](http://arxiv.org/abs/2504.02591)|null|
 |**2025-03-19**|**Towards efficient keyword spotting using spike-based time difference encoders**|Alejandro Pequeño-Zurro et.al.|[2503.15402](http://arxiv.org/abs/2503.15402)|null|
 |**2025-03-17**|**Subthreshold moment analysis of neuronal populations driven by synchronous synaptic inputs**|Logan A. Becker et.al.|[2503.13702](http://arxiv.org/abs/2503.13702)|null|
 |**2025-03-10**|**Fluctuation-response relations and response-response relations for membrane voltage and spike train of stochastic integrate-and-fire neurons**|Kolja Klett et.al.|[2503.07434](http://arxiv.org/abs/2503.07434)|null|
