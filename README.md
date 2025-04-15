@@ -557,6 +557,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-12**|**A Constrained Optimization Approach for Gaussian Splatting from Coarsely-posed Images and Noisy Lidar Point Clouds**|Jizong Peng et.al.|[2504.09129](http://arxiv.org/abs/2504.09129)|null|
 |**2025-04-11**|**Stereophotoclinometry Revisited**|Travis Driver et.al.|[2504.08252](http://arxiv.org/abs/2504.08252)|null|
 |**2025-04-08**|**Implementation of a Zed 2i Stereo Camera for High-Frequency Shoreline Change and Coastal Elevation Monitoring**|José A. Pilartes-Congo et.al.|[2504.06464](http://arxiv.org/abs/2504.06464)|null|
 |**2025-04-05**|**3R-GS: Best Practice in Optimizing Camera Poses Along with 3DGS**|Zhisheng Huang et.al.|[2504.04294](http://arxiv.org/abs/2504.04294)|null|
@@ -873,6 +874,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**Focus on Local: Finding Reliable Discriminative Regions for Visual Place Recognition**|Changwei Wang et.al.|[2504.09881](http://arxiv.org/abs/2504.09881)|null|
+|**2025-04-12**|**Evolved Hierarchical Masking for Self-Supervised Learning**|Zhanzhou Feng et.al.|[2504.09155](http://arxiv.org/abs/2504.09155)|null|
+|**2025-04-11**|**HAL-NeRF: High Accuracy Localization Leveraging Neural Radiance Fields**|Asterios Reppas et.al.|[2504.08901](http://arxiv.org/abs/2504.08901)|null|
 |**2025-04-11**|**Hypergraph Vision Transformers: Images are More than Nodes, More than Edges**|Joshua Fixelle et.al.|[2504.08710](http://arxiv.org/abs/2504.08710)|null|
 |**2025-04-11**|**FocalLens: Instruction Tuning Enables Zero-Shot Conditional Image Representations**|Cheng-Yu Hsieh et.al.|[2504.08368](http://arxiv.org/abs/2504.08368)|null|
 |**2025-04-11**|**PNE-SGAN: Probabilistic NDT-Enhanced Semantic Graph Attention Network for LiDAR Loop Closure Detection**|Xiong Li et.al.|[2504.08280](http://arxiv.org/abs/2504.08280)|null|
@@ -2009,7 +2013,7 @@
 |**2025-03-25**|**Multiscale Feature Importance-based Bit Allocation for End-to-End Feature Coding for Machines**|Junle Liu et.al.|[2503.19278](http://arxiv.org/abs/2503.19278)|null|
 |**2025-03-05**|**Periodontal Bone Loss Analysis via Keypoint Detection With Heuristic Post-Processing**|Ryan Banks et.al.|[2503.13477](http://arxiv.org/abs/2503.13477)|null|
 |**2025-03-16**|**Histogram Transporter: Learning Rotation-Equivariant Orientation Histograms for High-Precision Robotic Kitting**|Jiadong Zhou et.al.|[2503.12541](http://arxiv.org/abs/2503.12541)|null|
-|**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673](http://arxiv.org/abs/2503.08673)|null|
+|**2025-04-12**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673](http://arxiv.org/abs/2503.08673)|null|
 |**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|**[link](https://github.com/MacavityT/REF-VLM)**|
 |**2025-03-11**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347](http://arxiv.org/abs/2503.07347)|**[link](https://github.com/parskatt/dad)**|
 |**2025-03-07**|**Automatic determination of quasicrystalline patterns from microscopy images**|Tano Kim Kender et.al.|[2503.05472](http://arxiv.org/abs/2503.05472)|null|
@@ -2622,6 +2626,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331](http://arxiv.org/abs/2504.10331)|null|
+|**2025-04-14**|**MCBlock: Boosting Neural Radiance Field Training Speed by MCTS-based Dynamic-Resolution Ray Sampling**|Yunpeng Tan et.al.|[2504.09878](http://arxiv.org/abs/2504.09878)|null|
+|**2025-04-14**|**NeRF-Based Transparent Object Grasping Enhanced by Shape Priors**|Yi Han et.al.|[2504.09868](http://arxiv.org/abs/2504.09868)|null|
+|**2025-04-11**|**HAL-NeRF: High Accuracy Localization Leveraging Neural Radiance Fields**|Asterios Reppas et.al.|[2504.08901](http://arxiv.org/abs/2504.08901)|null|
 |**2025-04-09**|**Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting**|Daiwei Zhang et.al.|[2504.06978](http://arxiv.org/abs/2504.06978)|null|
 |**2025-04-09**|**S-EO: A Large-Scale Dataset for Geometry-Aware Shadow Detection in Remote Sensing Applications**|Masquil Elías et.al.|[2504.06920](http://arxiv.org/abs/2504.06920)|null|
 |**2025-04-09**|**SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering**|Hanxiao Sun et.al.|[2504.06815](http://arxiv.org/abs/2504.06815)|null|
@@ -4188,6 +4196,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning**|Yonghui Yang et.al.|[2504.10432](http://arxiv.org/abs/2504.10432)|null|
+|**2025-04-14**|**AI-Driven Code Refactoring: Using Graph Neural Networks to Enhance Software Maintainability**|Gopichand Bandarupalli et.al.|[2504.10412](http://arxiv.org/abs/2504.10412)|null|
+|**2025-04-14**|**GNN-ACLP: Graph Neural Networks based Analog Circuit Link Prediction**|Guanyuan Pan et.al.|[2504.10240](http://arxiv.org/abs/2504.10240)|null|
+|**2025-04-14**|**Learning to Beamform for Cooperative Localization and Communication: A Link Heterogeneous GNN-Based Approach**|Lixiang Lian et.al.|[2504.10060](http://arxiv.org/abs/2504.10060)|null|
+|**2025-04-14**|**COUNTER: Cluster GCN based Energy Efficient Resource Management for Sustainable Cloud Computing Environments**|Han Wang et.al.|[2504.09995](http://arxiv.org/abs/2504.09995)|null|
+|**2025-04-14**|**Towards Unbiased Federated Graph Learning: Label and Topology Perspectives**|Zhengyu Wu et.al.|[2504.09963](http://arxiv.org/abs/2504.09963)|null|
+|**2025-04-13**|**Predicting ulcer in H&E images of inflammatory bowel disease using domain-knowledge-driven graph neural network**|Ruiwen Ding et.al.|[2504.09430](http://arxiv.org/abs/2504.09430)|null|
+|**2025-04-13**|**Spatially Directional Dual-Attention GAT for Spatial Fluoride Health Risk Modeling**|Da Yuan et.al.|[2504.09416](http://arxiv.org/abs/2504.09416)|null|
+|**2025-04-12**|**FairACE: Achieving Degree Fairness in Graph Neural Networks via Contrastive and Adversarial Group-Balanced Training**|Jiaxin Liu et.al.|[2504.09210](http://arxiv.org/abs/2504.09210)|null|
+|**2025-04-12**|**Graph Learning-Driven Multi-Vessel Association: Fusing Multimodal Data for Maritime Intelligence**|Yuxu Lu et.al.|[2504.09197](http://arxiv.org/abs/2504.09197)|null|
 |**2025-04-11**|**Hypergraph Vision Transformers: Images are More than Nodes, More than Edges**|Joshua Fixelle et.al.|[2504.08710](http://arxiv.org/abs/2504.08710)|null|
 |**2025-04-11**|**LGRPool: Hierarchical Graph Pooling Via Local-Global Regularisation**|Farshad Noravesh et.al.|[2504.08530](http://arxiv.org/abs/2504.08530)|null|
 |**2025-04-11**|**STF-GCN: A Multi-Domain Graph Convolution Network Method for Automatic Modulation Recognition via Adaptive Correlation**|Mingyuan Shao et.al.|[2504.08504](http://arxiv.org/abs/2504.08504)|null|
@@ -7564,6 +7582,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**RGB-Event based Pedestrian Attribute Recognition: A Benchmark Dataset and An Asymmetric RWKV Fusion Framework**|Xiao Wang et.al.|[2504.10018](http://arxiv.org/abs/2504.10018)|null|
+|**2025-04-14**|**EBAD-Gaussian: Event-driven Bundle Adjusted Deblur Gaussian Splatting**|Yufei Deng et.al.|[2504.10012](http://arxiv.org/abs/2504.10012)|null|
+|**2025-04-13**|**Low-Light Image Enhancement using Event-Based Illumination Estimation**|Lei Sun et.al.|[2504.09379](http://arxiv.org/abs/2504.09379)|null|
 |**2025-04-11**|**Hardware, Algorithms, and Applications of the Neuromorphic Vision Sensor: a Review**|Claudio Cimarelli et.al.|[2504.08588](http://arxiv.org/abs/2504.08588)|null|
 |**2025-04-08**|**Human Activity Recognition using RGB-Event based Sensors: A Multi-modal Heat Conduction Model and A Benchmark Dataset**|Shiao Wang et.al.|[2504.05830](http://arxiv.org/abs/2504.05830)|**[link](https://github.com/event-ahu/hardvs)**|
 |**2025-04-08**|**Inter-event Interval Microscopy for Event Cameras**|Changqing Su et.al.|[2504.04924](http://arxiv.org/abs/2504.04924)|null|
@@ -7950,6 +7971,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**Proteinoid spikes: from protocognitive to universal approximating agents**|Saksham Sharma et.al.|[2504.10362](http://arxiv.org/abs/2504.10362)|null|
+|**2025-04-14**|**Synthetic Biology meets Neuromorphic Computing: Towards a bio-inspired Olfactory Perception System**|Kevin Max et.al.|[2504.10053](http://arxiv.org/abs/2504.10053)|null|
+|**2025-04-14**|**Advancing RFI-Detection in Radio Astronomy with Liquid State Machines**|Nicholas J Pritchard et.al.|[2504.09796](http://arxiv.org/abs/2504.09796)|null|
+|**2025-04-12**|**Spiking Neural Network for Intra-cortical Brain Signal Decoding**|Song Yang et.al.|[2504.09213](http://arxiv.org/abs/2504.09213)|null|
+|**2025-04-12**|**Gaussian process regression with additive periodic kernels for two-body interaction analysis in coupled phase oscillators**|Ryosuke Yoneda et.al.|[2504.09110](http://arxiv.org/abs/2504.09110)|null|
+|**2025-04-11**|**Toward Spiking Neural Network Local Learning Modules Resistant to Adversarial Attacks**|Jiaqi Lin et.al.|[2504.08897](http://arxiv.org/abs/2504.08897)|null|
 |**2025-04-11**|**Shapiro resonances in ac-self-modulated exciton-polariton Josephson junctions**|I. Carraro Haddad et.al.|[2504.08708](http://arxiv.org/abs/2504.08708)|null|
 |**2025-04-11**|**Pangu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs**|Yichun Yin et.al.|[2504.07866](http://arxiv.org/abs/2504.07866)|null|
 |**2025-04-10**|**From Token to Line: Enhancing Code Generation with a Long-Term Perspective**|Tingwei Lu et.al.|[2504.07433](http://arxiv.org/abs/2504.07433)|null|
