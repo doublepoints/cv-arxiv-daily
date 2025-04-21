@@ -544,6 +544,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**Volume Encoding Gaussians: Transfer Function-Agnostic 3D Gaussians for Volume Rendering**|Landon Dyken et.al.|[2504.13339](http://arxiv.org/abs/2504.13339)|null|
+|**2025-04-15**|**EDGS: Eliminating Densification for Efficient Convergence of 3DGS**|Dmytro Kotovenko et.al.|[2504.13204](http://arxiv.org/abs/2504.13204)|null|
 |**2025-04-12**|**A Constrained Optimization Approach for Gaussian Splatting from Coarsely-posed Images and Noisy Lidar Point Clouds**|Jizong Peng et.al.|[2504.09129](http://arxiv.org/abs/2504.09129)|null|
 |**2025-04-11**|**Stereophotoclinometry Revisited**|Travis Driver et.al.|[2504.08252](http://arxiv.org/abs/2504.08252)|null|
 |**2025-04-08**|**Implementation of a Zed 2i Stereo Camera for High-Frequency Shoreline Change and Coastal Elevation Monitoring**|José A. Pilartes-Congo et.al.|[2504.06464](http://arxiv.org/abs/2504.06464)|null|
@@ -2291,6 +2293,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Outlier-Robust Multi-Model Fitting on Quantum Annealers**|Saurabh Pandey et.al.|[2504.13836](http://arxiv.org/abs/2504.13836)|null|
 |**2025-04-11**|**Geometric Consistency Refinement for Single Image Novel View Synthesis via Test-Time Adaptation of Diffusion Models**|Josef Bengtson et.al.|[2504.08348](http://arxiv.org/abs/2504.08348)|null|
 |**2025-04-10**|**Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**|Jaehong Chung et.al.|[2504.06604](http://arxiv.org/abs/2504.06604)|**[link](https://github.com/jh-chung1/imgregister2dto3d)**|
 |**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|**[link](https://github.com/FarInHeight/To-Match-or-Not-to-Match)**|
@@ -2611,6 +2614,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713](http://arxiv.org/abs/2504.13713)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
+|**2025-04-16**|**BEV-GS: Feed-forward Gaussian Splatting in Bird's-Eye-View for Road Reconstruction**|Wenhua Wu et.al.|[2504.13207](http://arxiv.org/abs/2504.13207)|null|
 |**2025-04-17**|**GSAC: Leveraging Gaussian Splatting for Photorealistic Avatar Creation with Unity Integration**|Rendong Zhang et.al.|[2504.12999](http://arxiv.org/abs/2504.12999)|null|
 |**2025-04-16**|**R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**|Haoyang Wang et.al.|[2504.11946](http://arxiv.org/abs/2504.11946)|null|
 |**2025-04-15**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331](http://arxiv.org/abs/2504.10331)|null|
@@ -4181,6 +4186,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**On the Relationship Between Robustness and Expressivity of Graph Neural Networks**|Lorenz Kummer et.al.|[2504.13786](http://arxiv.org/abs/2504.13786)|null|
+|**2025-04-18**|**Bake Two Cakes with One Oven: RL for Defusing Popularity Bias and Cold-start in Third-Party Library Recommendations**|Minh Hoang Vuong et.al.|[2504.13772](http://arxiv.org/abs/2504.13772)|null|
+|**2025-04-18**|**Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems**|Vinay Sharma et.al.|[2504.13768](http://arxiv.org/abs/2504.13768)|null|
+|**2025-04-18**|**Adaptive Long-term Embedding with Denoising and Augmentation for Recommendation**|Zahra Akhlaghi et.al.|[2504.13614](http://arxiv.org/abs/2504.13614)|null|
+|**2025-04-18**|**ViG3D-UNet: Volumetric Vascular Connectivity-Aware Segmentation via 3D Vision Graph Representation**|Bowen Liu et.al.|[2504.13599](http://arxiv.org/abs/2504.13599)|null|
+|**2025-04-18**|**Bounded and Uniform Energy-based Out-of-distribution Detection for Graphs**|Shenzhi Yang et.al.|[2504.13429](http://arxiv.org/abs/2504.13429)|null|
+|**2025-04-18**|**Simplifying Graph Convolutional Networks with Redundancy-Free Neighbors**|Jielong LuZhihao Wu et.al.|[2504.13426](http://arxiv.org/abs/2504.13426)|null|
+|**2025-04-17**|**Graph Learning at Scale: Characterizing and Optimizing Pre-Propagation GNNs**|Zichao Yue et.al.|[2504.13266](http://arxiv.org/abs/2504.13266)|null|
 |**2025-04-17**|**Inference-friendly Graph Compression for Graph Neural Networks**|Yangxin Fan et.al.|[2504.13034](http://arxiv.org/abs/2504.13034)|null|
 |**2025-04-17**|**Explainable Scene Understanding with Qualitative Representations and Graph Neural Networks**|Nassim Belmecheri et.al.|[2504.12817](http://arxiv.org/abs/2504.12817)|null|
 |**2025-04-17**|**Uncertainty Quantification in Graph Neural Networks with Shallow Ensembles**|Tirtha Vinchurkar et.al.|[2504.12627](http://arxiv.org/abs/2504.12627)|null|
@@ -7587,6 +7600,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Zebrafish Counting Using Event Stream Data**|Qianghua Chen et.al.|[2504.13692](http://arxiv.org/abs/2504.13692)|null|
+|**2025-04-18**|**Neural Ganglion Sensors: Learning Task-specific Event Cameras Inspired by the Neural Circuit of the Human Retina**|Haley M. So et.al.|[2504.13457](http://arxiv.org/abs/2504.13457)|null|
 |**2025-04-17**|**CM3AE: A Unified RGB Frame and Event-Voxel/-Frame Pre-training Framework**|Wentao Wu et.al.|[2504.12576](http://arxiv.org/abs/2504.12576)|**[link](https://github.com/event-ahu/cm3ae)**|
 |**2025-04-16**|**Event Quality Score (EQS): Assessing the Realism of Simulated Event Camera Streams via Distances in Latent Space**|Kaustav Chanda et.al.|[2504.12515](http://arxiv.org/abs/2504.12515)|null|
 |**2025-04-15**|**Seeing like a Cephalopod: Colour Vision with a Monochrome Event Camera**|Sami Arja et.al.|[2504.10984](http://arxiv.org/abs/2504.10984)|null|
@@ -7978,6 +7993,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**SwitchMT: An Adaptive Context Switching Methodology for Scalable Multi-Task Learning in Intelligent Autonomous Agents**|Avaneesh Devkota et.al.|[2504.13541](http://arxiv.org/abs/2504.13541)|null|
+|**2025-04-18**|**Neural Ganglion Sensors: Learning Task-specific Event Cameras Inspired by the Neural Circuit of the Human Retina**|Haley M. So et.al.|[2504.13457](http://arxiv.org/abs/2504.13457)|null|
 |**2025-04-17**|**Hardware Implementation of Tunable Fractional-Order Capacitors by Morphogenesis of Conducting Polymer Dendrites**|Antoine Baron et.al.|[2504.12861](http://arxiv.org/abs/2504.12861)|null|
 |**2025-04-17**|**Revisiting the Haken Lighthouse Model**|S Coombes et.al.|[2504.12821](http://arxiv.org/abs/2504.12821)|null|
 |**2025-04-17**|**7-Methylquinolinium Iodobismuthate Memristor: Exploring Plasticity and Memristive Properties for Digit Classification in Physical Reservoir Computing**|Gisya Abdi et.al.|[2504.12705](http://arxiv.org/abs/2504.12705)|null|
