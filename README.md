@@ -877,6 +877,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-19**|**A Multimodal Recaptioning Framework to Account for Perceptual Diversity in Multilingual Vision-Language Modeling**|Kyle Buettner et.al.|[2504.14359](http://arxiv.org/abs/2504.14359)|null|
 |**2025-04-17**|**SemCORE: A Semantic-Enhanced Generative Cross-Modal Retrieval Framework with MLLMs**|Haoxuan Li et.al.|[2504.13172](http://arxiv.org/abs/2504.13172)|null|
 |**2025-04-16**|**Generalized Visual Relation Detection with Diffusion Models**|Kaifeng Gao et.al.|[2504.12100](http://arxiv.org/abs/2504.12100)|null|
 |**2025-04-15**|**Visual Re-Ranking with Non-Visual Side Information**|Gustav Hanning et.al.|[2504.11134](http://arxiv.org/abs/2504.11134)|**[link](https://github.com/ghanning/gcsa)**|
@@ -2636,11 +2637,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-18**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713](http://arxiv.org/abs/2504.13713)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
+|**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281](http://arxiv.org/abs/2504.15281)|null|
+|**2025-04-18**|**Scaling LLaNA: Advancing NeRF-Language Understanding Through Large-Scale Training**|Andrea Amaduzzi et.al.|[2504.13995](http://arxiv.org/abs/2504.13995)|null|
+|**2025-04-21**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713](http://arxiv.org/abs/2504.13713)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
 |**2025-04-16**|**BEV-GS: Feed-forward Gaussian Splatting in Bird's-Eye-View for Road Reconstruction**|Wenhua Wu et.al.|[2504.13207](http://arxiv.org/abs/2504.13207)|null|
 |**2025-04-17**|**GSAC: Leveraging Gaussian Splatting for Photorealistic Avatar Creation with Unity Integration**|Rendong Zhang et.al.|[2504.12999](http://arxiv.org/abs/2504.12999)|null|
 |**2025-04-16**|**R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**|Haoyang Wang et.al.|[2504.11946](http://arxiv.org/abs/2504.11946)|null|
-|**2025-04-15**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331](http://arxiv.org/abs/2504.10331)|null|
+|**2025-04-19**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331](http://arxiv.org/abs/2504.10331)|null|
 |**2025-04-14**|**MCBlock: Boosting Neural Radiance Field Training Speed by MCTS-based Dynamic-Resolution Ray Sampling**|Yunpeng Tan et.al.|[2504.09878](http://arxiv.org/abs/2504.09878)|null|
 |**2025-04-14**|**NeRF-Based Transparent Object Grasping Enhanced by Shape Priors**|Yi Han et.al.|[2504.09868](http://arxiv.org/abs/2504.09868)|null|
 |**2025-04-11**|**HAL-NeRF: High Accuracy Localization Leveraging Neural Radiance Fields**|Asterios Reppas et.al.|[2504.08901](http://arxiv.org/abs/2504.08901)|null|
@@ -4210,6 +4213,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**The Iterative Chainlet Partitioning Algorithm for the Traveling Salesman Problem with Drone and Neural Acceleration**|Jae Hyeok Lee et.al.|[2504.15147](http://arxiv.org/abs/2504.15147)|null|
+|**2025-04-21**|**Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-Attention**|Van Thuy Hoang et.al.|[2504.15075](http://arxiv.org/abs/2504.15075)|null|
+|**2025-04-21**|**Rhythm of Opinion: A Hawkes-Graph Framework for Dynamic Propagation Analysis**|Yulong Li et.al.|[2504.15072](http://arxiv.org/abs/2504.15072)|null|
+|**2025-04-21**|**Edge-boosted graph learning for functional brain connectivity analysis**|David Yang et.al.|[2504.14796](http://arxiv.org/abs/2504.14796)|null|
+|**2025-04-20**|**Uncovering Issues in the Radio Access Network by Looking at the Neighbors**|José Suárez-Varela et.al.|[2504.14686](http://arxiv.org/abs/2504.14686)|null|
+|**2025-04-20**|**LBM-GNN: Graph Neural Network Enhanced Lattice Boltzmann Method**|Yue Li et.al.|[2504.14494](http://arxiv.org/abs/2504.14494)|null|
+|**2025-04-20**|**Beamforming Design and Association Scheme for Multi-RIS Multi-User mmWave Systems Through Graph Neural Networks**|Mengbing Liu et.al.|[2504.14464](http://arxiv.org/abs/2504.14464)|null|
+|**2025-04-19**|**Integrating Single-Cell Foundation Models with Graph Neural Networks for Drug Response Prediction**|Till Rossner et.al.|[2504.14361](http://arxiv.org/abs/2504.14361)|null|
+|**2025-04-19**|**CHAINSFORMER: Numerical Reasoning on Knowledge Graphs from a Chain Perspective**|Ze Zhao et.al.|[2504.14282](http://arxiv.org/abs/2504.14282)|null|
+|**2025-04-19**|**Dual-channel Heterophilic Message Passing for Graph Fraud Detection**|Wenxin Zhang et.al.|[2504.14205](http://arxiv.org/abs/2504.14205)|null|
 |**2025-04-18**|**On the Relationship Between Robustness and Expressivity of Graph Neural Networks**|Lorenz Kummer et.al.|[2504.13786](http://arxiv.org/abs/2504.13786)|null|
 |**2025-04-18**|**Bake Two Cakes with One Oven: RL for Defusing Popularity Bias and Cold-start in Third-Party Library Recommendations**|Minh Hoang Vuong et.al.|[2504.13772](http://arxiv.org/abs/2504.13772)|null|
 |**2025-04-18**|**Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems**|Vinay Sharma et.al.|[2504.13768](http://arxiv.org/abs/2504.13768)|null|
@@ -7629,7 +7642,7 @@
 |**2025-04-18**|**Zebrafish Counting Using Event Stream Data**|Qianghua Chen et.al.|[2504.13692](http://arxiv.org/abs/2504.13692)|null|
 |**2025-04-18**|**Neural Ganglion Sensors: Learning Task-specific Event Cameras Inspired by the Neural Circuit of the Human Retina**|Haley M. So et.al.|[2504.13457](http://arxiv.org/abs/2504.13457)|null|
 |**2025-04-17**|**CM3AE: A Unified RGB Frame and Event-Voxel/-Frame Pre-training Framework**|Wentao Wu et.al.|[2504.12576](http://arxiv.org/abs/2504.12576)|**[link](https://github.com/event-ahu/cm3ae)**|
-|**2025-04-16**|**Event Quality Score (EQS): Assessing the Realism of Simulated Event Camera Streams via Distances in Latent Space**|Kaustav Chanda et.al.|[2504.12515](http://arxiv.org/abs/2504.12515)|null|
+|**2025-04-21**|**Event Quality Score (EQS): Assessing the Realism of Simulated Event Camera Streams via Distances in Latent Space**|Kaustav Chanda et.al.|[2504.12515](http://arxiv.org/abs/2504.12515)|null|
 |**2025-04-15**|**Seeing like a Cephalopod: Colour Vision with a Monochrome Event Camera**|Sami Arja et.al.|[2504.10984](http://arxiv.org/abs/2504.10984)|null|
 |**2025-04-14**|**Perturbed State Space Feature Encoders for Optical Flow with Event Cameras**|Gokul Raju Govinda Raju et.al.|[2504.10669](http://arxiv.org/abs/2504.10669)|null|
 |**2025-04-14**|**RGB-Event based Pedestrian Attribute Recognition: A Benchmark Dataset and An Asymmetric RWKV Fusion Framework**|Xiao Wang et.al.|[2504.10018](http://arxiv.org/abs/2504.10018)|**[link](https://github.com/event-ahu/openpar)**|
@@ -8021,6 +8034,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-19**|**Efficient Spiking Point Mamba for Point Cloud Analysis**|Peixi Wu et.al.|[2504.14371](http://arxiv.org/abs/2504.14371)|null|
+|**2025-04-19**|**A Real-time and Hardware Efficient Artfecat-free Spike Sorting Using Deep Spike Detection**|Xiaoyu Jiang et.al.|[2504.14279](http://arxiv.org/abs/2504.14279)|null|
+|**2025-04-18**|**Causal pieces: analysing and improving spiking neural networks piece by piece**|Dominik Dold et.al.|[2504.14015](http://arxiv.org/abs/2504.14015)|null|
 |**2025-04-18**|**SwitchMT: An Adaptive Context Switching Methodology for Scalable Multi-Task Learning in Intelligent Autonomous Agents**|Avaneesh Devkota et.al.|[2504.13541](http://arxiv.org/abs/2504.13541)|null|
 |**2025-04-18**|**Neural Ganglion Sensors: Learning Task-specific Event Cameras Inspired by the Neural Circuit of the Human Retina**|Haley M. So et.al.|[2504.13457](http://arxiv.org/abs/2504.13457)|null|
 |**2025-04-17**|**Hardware Implementation of Tunable Fractional-Order Capacitors by Morphogenesis of Conducting Polymer Dendrites**|Antoine Baron et.al.|[2504.12861](http://arxiv.org/abs/2504.12861)|null|
