@@ -867,6 +867,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**From Mapping to Composing: A Two-Stage Framework for Zero-shot Composed Image Retrieval**|Yabing Wang et.al.|[2504.17990](http://arxiv.org/abs/2504.17990)|null|
 |**2025-04-24**|**A Guide to Structureless Visual Localization**|Vojtech Panek et.al.|[2504.17636](http://arxiv.org/abs/2504.17636)|null|
 |**2025-04-23**|**Rethinking Vision Transformer for Large-Scale Fine-Grained Image Retrieval**|Xin Jiang et.al.|[2504.16691](http://arxiv.org/abs/2504.16691)|null|
 |**2025-04-22**|**Media Content Atlas: A Pipeline to Explore and Investigate Multidimensional Media Space using Multimodal LLMs**|Merve Cerit et.al.|[2504.16323](http://arxiv.org/abs/2504.16323)|**[link](https://github.com/mediacontentatlas/mediacontentatlas)**|
@@ -2626,6 +2627,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468](http://arxiv.org/abs/2504.18468)|null|
+|**2025-04-23**|**Visibility-Uncertainty-guided 3D Gaussian Inpainting via Scene Conceptional Learning**|Mingxuan Cui et.al.|[2504.17815](http://arxiv.org/abs/2504.17815)|null|
 |**2025-04-24**|**CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**|Shucheng Gong et.al.|[2504.17728](http://arxiv.org/abs/2504.17728)|null|
 |**2025-04-23**|**Dual-Camera All-in-Focus Neural Radiance Fields**|Xianrui Luo et.al.|[2504.16636](http://arxiv.org/abs/2504.16636)|null|
 |**2025-04-23**|**Beyond Anonymization: Object Scrubbing for Privacy-Preserving 2D and 3D Vision Tasks**|Murat Bilgehan Ertan et.al.|[2504.16557](http://arxiv.org/abs/2504.16557)|null|
@@ -4205,6 +4208,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Testing Individual Fairness in Graph Neural Networks**|Roya Nasiri et.al.|[2504.18353](http://arxiv.org/abs/2504.18353)|null|
+|**2025-04-25**|**Efficient Learning on Large Graphs using a Densifying Regularity Lemma**|Jonathan Kouchly et.al.|[2504.18273](http://arxiv.org/abs/2504.18273)|null|
+|**2025-04-25**|**Multi-Grained Compositional Visual Clue Learning for Image Intent Recognition**|Yin Tang et.al.|[2504.18201](http://arxiv.org/abs/2504.18201)|null|
+|**2025-04-25**|**Efficient GNN Training Through Structure-Aware Randomized Mini-Batching**|Vignesh Balaji et.al.|[2504.18082](http://arxiv.org/abs/2504.18082)|null|
+|**2025-04-25**|**POET: Prompt Offset Tuning for Continual Human Action Adaptation**|Prachi Garg et.al.|[2504.18059](http://arxiv.org/abs/2504.18059)|null|
+|**2025-04-25**|**TGDT: A Temporal Graph-based Digital Twin for Urban Traffic Corridors**|Nooshin Yousefzadeh et.al.|[2504.18008](http://arxiv.org/abs/2504.18008)|null|
 |**2025-04-24**|**MSGCN: Multiplex Spatial Graph Convolution Network for Interlayer Link Weight Prediction**|Steven E. Wilson et.al.|[2504.17749](http://arxiv.org/abs/2504.17749)|null|
 |**2025-04-24**|**Mitigating xApp conflicts for efficient network slicing in 6G O-RAN: a graph convolutional-based attention network approach**|Sihem Bakri et.al.|[2504.17590](http://arxiv.org/abs/2504.17590)|null|
 |**2025-04-24**|**RAGAT-Mind: A Multi-Granular Modeling Approach for Rumor Detection Based on MindSpore**|Zhenkai Qin et.al.|[2504.17574](http://arxiv.org/abs/2504.17574)|null|
@@ -7645,6 +7654,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**E-VLC: A Real-World Dataset for Event-based Visible Light Communication And Localization**|Shintaro Shiba et.al.|[2504.18521](http://arxiv.org/abs/2504.18521)|null|
+|**2025-04-25**|**Iterative Event-based Motion Segmentation by Variational Contrast Maximization**|Ryo Yamaki et.al.|[2504.18447](http://arxiv.org/abs/2504.18447)|null|
+|**2025-04-25**|**Event-Based Eye Tracking. 2025 Event-based Vision Workshop**|Qinyu Chen et.al.|[2504.18249](http://arxiv.org/abs/2504.18249)|null|
+|**2025-04-25**|**BiasBench: A reproducible benchmark for tuning the biases of event cameras**|Andreas Ziegler et.al.|[2504.18235](http://arxiv.org/abs/2504.18235)|null|
 |**2025-04-23**|**EHGCN: Hierarchical Euclidean-Hyperbolic Fusion via Motion-Aware GCN for Hybrid Event Stream Perception**|Haosheng Chen et.al.|[2504.16616](http://arxiv.org/abs/2504.16616)|null|
 |**2025-04-23**|**SaENeRF: Suppressing Artifacts in Event-based Neural Radiance Fields**|Yuanjian Wang et.al.|[2504.16389](http://arxiv.org/abs/2504.16389)|null|
 |**2025-04-22**|**DERD-Net: Learning Depth from Event-based Ray Densities**|Diego de Oliveira Hitzges et.al.|[2504.15863](http://arxiv.org/abs/2504.15863)|null|
@@ -8042,8 +8055,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Numerical Generalized Randomized Hamiltonian Monte Carlo for piecewise smooth target densities**|Jimmy Huy Tran et.al.|[2504.18210](http://arxiv.org/abs/2504.18210)|null|
+|**2025-04-25**|**Auto-Regressive Standard Precipitation Index: A Bayesian Approach for Drought Characterization**|Soham Ghosh et.al.|[2504.18197](http://arxiv.org/abs/2504.18197)|null|
+|**2025-04-23**|**A Deep Bayesian Convolutional Spiking Neural Network-based CAD system with Uncertainty Quantification for Medical Images Classification**|Mohaddeseh Chegini et.al.|[2504.17819](http://arxiv.org/abs/2504.17819)|null|
 |**2025-04-24**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|Enqi Zhang et.al.|[2504.17751](http://arxiv.org/abs/2504.17751)|null|
-|**2025-04-24**|**On the local stability of the elapsed-time model in terms of the transmission delay and interconnection strength**|María J. Cáceres et.al.|[2504.17358](http://arxiv.org/abs/2504.17358)|null|
+|**2025-04-25**|**On the local stability of the elapsed-time model in terms of the transmission delay and interconnection strength**|María J. Cáceres et.al.|[2504.17358](http://arxiv.org/abs/2504.17358)|null|
 |**2025-04-22**|**Microstructure and Manipulation: Quantifying Pump-and-Dump Dynamics in Cryptocurrency Markets**|Mahya Karbalaii et.al.|[2504.15790](http://arxiv.org/abs/2504.15790)|null|
 |**2025-04-19**|**Efficient Spiking Point Mamba for Point Cloud Analysis**|Peixi Wu et.al.|[2504.14371](http://arxiv.org/abs/2504.14371)|null|
 |**2025-04-19**|**A Real-time and Hardware Efficient Artfecat-free Spike Sorting Using Deep Spike Detection**|Xiaoyu Jiang et.al.|[2504.14279](http://arxiv.org/abs/2504.14279)|null|
