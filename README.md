@@ -563,6 +563,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**FastMap: Revisiting Dense and Scalable Structure from Motion**|Jiahao Li et.al.|[2505.04612](http://arxiv.org/abs/2505.04612)|null|
 |**2025-05-06**|**Estimating the Diameter at Breast Height of Trees in a Forest With a Single 360 Camera**|Siming He et.al.|[2505.03093](http://arxiv.org/abs/2505.03093)|null|
 |**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799](http://arxiv.org/abs/2505.01799)|null|
 |**2025-05-03**|**PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**|Bu Jin et.al.|[2505.01729](http://arxiv.org/abs/2505.01729)|null|
@@ -894,6 +895,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|**[link](https://github.com/cszhanglmu/obd-finder)**|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
 |**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
 |**2025-05-06**|**Seeing the Abstract: Translating the Abstract Language for Vision Language Models**|Davide Talon et.al.|[2505.03242](http://arxiv.org/abs/2505.03242)|**[link](https://github.com/davidetalon/fashionact)**|
@@ -2349,6 +2351,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|**[link](https://github.com/cszhanglmu/obd-finder)**|
 |**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
 |**2025-05-04**|**Focus What Matters: Matchability-Based Reweighting for Local Feature Matching**|Dongyue Li et.al.|[2505.02161](http://arxiv.org/abs/2505.02161)|null|
 |**2025-04-29**|**Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective**|Taoyu Su et.al.|[2504.19458](http://arxiv.org/abs/2504.19458)|null|
@@ -4273,6 +4276,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**Multi-Granular Attention based Heterogeneous Hypergraph Neural Network**|Hong Jin et.al.|[2505.04340](http://arxiv.org/abs/2505.04340)|null|
+|**2025-05-07**|**HDiffTG: A Lightweight Hybrid Diffusion-Transformer-GCN Architecture for 3D Human Pose Estimation**|Yajie Fu et.al.|[2505.04276](http://arxiv.org/abs/2505.04276)|**[link](https://github.com/circejie/hdifftg)**|
+|**2025-05-07**|**STRGCN: Capturing Asynchronous Spatio-Temporal Dependencies for Irregular Multivariate Time Series Forecasting**|Yulong Wang et.al.|[2505.04167](http://arxiv.org/abs/2505.04167)|null|
+|**2025-05-07**|**Plexus: Taming Billion-edge Graphs with 3D Parallel GNN Training**|Aditya K. Ranjan et.al.|[2505.04083](http://arxiv.org/abs/2505.04083)|null|
+|**2025-05-06**|**Modal Decomposition and Identification for a Population of Structures Using Physics-Informed Graph Neural Networks and Transformers**|Xudong Jian et.al.|[2505.04018](http://arxiv.org/abs/2505.04018)|null|
+|**2025-05-06**|**Decentralized Distributed Proximal Policy Optimization (DD-PPO) for High Performance Computing Scheduling on Multi-User Systems**|Matthew Sgambati et.al.|[2505.03946](http://arxiv.org/abs/2505.03946)|null|
+|**2025-05-06**|**GRAPE: Heterogeneous Graph Representation Learning for Genetic Perturbation with Coding and Non-Coding Biotype**|Changxi Chi et.al.|[2505.03853](http://arxiv.org/abs/2505.03853)|null|
 |**2025-05-06**|**Framework GNN-AID: Graph Neural Network Analysis Interpretation and Defense**|Kirill Lukyanov et.al.|[2505.03424](http://arxiv.org/abs/2505.03424)|**[link](https://github.com/ispras/gnn-aid)**|
 |**2025-05-06**|**GNN-enabled Precoding for Massive MIMO LEO Satellite Communications**|Huibin Zhou et.al.|[2505.03311](http://arxiv.org/abs/2505.03311)|null|
 |**2025-05-06**|**HMAE: Self-Supervised Few-Shot Learning for Quantum Spin Systems**|Ibne Farabi Shihab et.al.|[2505.03140](http://arxiv.org/abs/2505.03140)|null|
@@ -8184,6 +8194,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|Kairong Yu et.al.|[2505.04165](http://arxiv.org/abs/2505.04165)|null|
+|**2025-05-07**|**Scalable 49-Channel Neural Recorder with an Event-Driven Ramp ADC and PCA Compression in 28 nm CMOS**|William Lemaire et.al.|[2505.04128](http://arxiv.org/abs/2505.04128)|null|
+|**2025-05-07**|**Izhikevich-Inspired Temporal Dynamics for Enhancing Privacy, Efficiency, and Transferability in Spiking Neural Networks**|Ayana Moshruba et.al.|[2505.04034](http://arxiv.org/abs/2505.04034)|null|
+|**2025-05-06**|**Depolarization block induction via slow NaV1.1 inactivation in Dravet syndrome**|Louisiane Lemaire et.al.|[2505.03919](http://arxiv.org/abs/2505.03919)|null|
 |**2025-05-06**|**Nonparametric learning of covariate-based Markov jump processes using RKHS techniques**|Yuchen Han et.al.|[2505.03119](http://arxiv.org/abs/2505.03119)|null|
 |**2025-05-05**|**Hyperchaos and complex dynamical regimes in $N$ -dimensional neuron lattices**|Brandon B. Le et.al.|[2505.03051](http://arxiv.org/abs/2505.03051)|null|
 |**2025-05-04**|**Intermediate-mass black holes and contribution to extragalactic background light from Population III stars in Milky Way-like galaxies**|Artak Mkrtchyan et.al.|[2505.02245](http://arxiv.org/abs/2505.02245)|null|
