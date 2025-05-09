@@ -563,6 +563,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/abs/2505.05473)|null|
 |**2025-05-07**|**FastMap: Revisiting Dense and Scalable Structure from Motion**|Jiahao Li et.al.|[2505.04612](http://arxiv.org/abs/2505.04612)|null|
 |**2025-05-06**|**Estimating the Diameter at Breast Height of Trees in a Forest With a Single 360 Camera**|Siming He et.al.|[2505.03093](http://arxiv.org/abs/2505.03093)|null|
 |**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799](http://arxiv.org/abs/2505.01799)|null|
@@ -570,7 +571,7 @@
 |**2025-05-01**|**Are Minimal Radial Distortion Solvers Really Necessary for Relative Pose Estimation?**|Viktor Kocur et.al.|[2505.00866](http://arxiv.org/abs/2505.00866)|**[link](https://github.com/kocurvik/rdnet)**|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
 |**2025-04-29**|**Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**|Jiang Wu et.al.|[2504.20378](http://arxiv.org/abs/2504.20378)|null|
-|**2025-04-28**|**MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion**|Zador Pataki et.al.|[2504.20040](http://arxiv.org/abs/2504.20040)|null|
+|**2025-04-28**|**MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion**|Zador Pataki et.al.|[2504.20040](http://arxiv.org/abs/2504.20040)|**[link](https://github.com/cvg/mpsfm)**|
 |**2025-04-24**|**Dynamic Camera Poses and Where to Find Them**|Chris Rockwell et.al.|[2504.17788](http://arxiv.org/abs/2504.17788)|null|
 |**2025-04-24**|**EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy**|Haodi Yao et.al.|[2504.17280](http://arxiv.org/abs/2504.17280)|null|
 |**2025-04-23**|**A Low-Cost Photogrammetry System for 3D Plant Modeling and Phenotyping**|Joe Hrzich et.al.|[2504.16840](http://arxiv.org/abs/2504.16840)|null|
@@ -2680,6 +2681,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474](http://arxiv.org/abs/2505.05474)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
 |**2025-05-04**|**HandOcc: NeRF-based Hand Rendering with Occupancy Networks**|Maksym Ivashechkin et.al.|[2505.02079](http://arxiv.org/abs/2505.02079)|null|
 |**2025-05-04**|**Learning Heterogeneous Mixture of Scene Experts for Large-scale Neural Radiance Fields**|Zhenxing Mi et.al.|[2505.02005](http://arxiv.org/abs/2505.02005)|**[link](https://github.com/MiZhenxing/Switch-NeRF)**|
 |**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799](http://arxiv.org/abs/2505.01799)|null|
@@ -4276,6 +4278,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**Recent results of (semi)leptonic decays of charm hadrons at BESIII**|Xiang Pan et.al.|[2505.05123](http://arxiv.org/abs/2505.05123)|null|
+|**2025-05-08**|**Graph Neural Network Aided Deep Reinforcement Learning for Resource Allocation in Dynamic Terahertz UAV Networks**|Zhifeng Hu et.al.|[2505.04981](http://arxiv.org/abs/2505.04981)|null|
+|**2025-05-08**|**Physics-Assisted and Topology-Informed Deep Learning for Weather Prediction**|Jiaqi Zheng et.al.|[2505.04918](http://arxiv.org/abs/2505.04918)|**[link](https://github.com/yumenomae/passat_5p625)**|
+|**2025-05-08**|**GCN-Based Throughput-Oriented Handover Management in Dense 5G Vehicular Networks**|Nazanin Mehregan et.al.|[2505.04894](http://arxiv.org/abs/2505.04894)|null|
+|**2025-05-08**|**Network Digital Twin for Route Optimization in 5G/B5G Transport Slicing with What-If Analysis**|Rebecca Aben-Athar et.al.|[2505.04879](http://arxiv.org/abs/2505.04879)|null|
+|**2025-05-08**|**Accurate Prediction of Sequential Tensor Properties Using Equivariant Graph Neural Network**|Ting-Wei Hsu et.al.|[2505.04862](http://arxiv.org/abs/2505.04862)|null|
+|**2025-05-07**|**Piecewise Constant Spectral Graph Neural Network**|Vahan Martirosyan et.al.|[2505.04808](http://arxiv.org/abs/2505.04808)|null|
 |**2025-05-07**|**Multi-Granular Attention based Heterogeneous Hypergraph Neural Network**|Hong Jin et.al.|[2505.04340](http://arxiv.org/abs/2505.04340)|null|
 |**2025-05-07**|**HDiffTG: A Lightweight Hybrid Diffusion-Transformer-GCN Architecture for 3D Human Pose Estimation**|Yajie Fu et.al.|[2505.04276](http://arxiv.org/abs/2505.04276)|**[link](https://github.com/circejie/hdifftg)**|
 |**2025-05-07**|**STRGCN: Capturing Asynchronous Spatio-Temporal Dependencies for Irregular Multivariate Time Series Forecasting**|Yulong Wang et.al.|[2505.04167](http://arxiv.org/abs/2505.04167)|null|
@@ -7786,6 +7795,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**EDmamba: A Simple yet Effective Event Denoising Method with State Space Model**|Ciyu Ruan et.al.|[2505.05391](http://arxiv.org/abs/2505.05391)|null|
+|**2025-05-08**|**PRE-Mamba: A 4D State Space Model for Ultra-High-Frequent Event Camera Deraining**|Ciyu Ruan et.al.|[2505.05307](http://arxiv.org/abs/2505.05307)|null|
+|**2025-05-08**|**Nonlinear Motion-Guided and Spatio-Temporal Aware Network for Unsupervised Event-Based Optical Flow**|Zuntao Liu et.al.|[2505.05089](http://arxiv.org/abs/2505.05089)|null|
 |**2025-05-06**|**AquaticVision: Benchmarking Visual SLAM in Underwater Environment with Events and Frames**|Yifan Peng et.al.|[2505.03448](http://arxiv.org/abs/2505.03448)|null|
 |**2025-05-06**|**TimeTracker: Event-based Continuous Point Tracking for Video Frame Interpolation with Non-linear Motion**|Haoyue Liu et.al.|[2505.03116](http://arxiv.org/abs/2505.03116)|null|
 |**2025-05-05**|**DELTA: Dense Depth from Events and LiDAR using Transformer's Attention**|Vincent Brebion et.al.|[2505.02593](http://arxiv.org/abs/2505.02593)|null|
@@ -8194,12 +8206,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-07**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|Kairong Yu et.al.|[2505.04165](http://arxiv.org/abs/2505.04165)|null|
+|**2025-05-08**|**Variable Selection for Fixed and Random Effects in Multilevel Functional Mixed Effects Models**|Rahul Ghosal et.al.|[2505.05416](http://arxiv.org/abs/2505.05416)|null|
+|**2025-05-08**|**Threshold Modulation for Online Test-Time Adaptation of Spiking Neural Networks**|Kejie Zhao et.al.|[2505.05375](http://arxiv.org/abs/2505.05375)|**[link](https://github.com/nneurotransmitterr/tm-otta-snn)**|
+|**2025-05-08**|**Report on Neural-like Criticality in Ag-based Nanoparticle Networks**|Blessing Adejube et.al.|[2505.05164](http://arxiv.org/abs/2505.05164)|null|
+|**2025-05-07**|**Extreme mass ratio inspirals in rotating dark matter spikes**|Soumodeep Mitra et.al.|[2505.04697](http://arxiv.org/abs/2505.04697)|null|
+|**2025-05-08**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|Kairong Yu et.al.|[2505.04165](http://arxiv.org/abs/2505.04165)|null|
 |**2025-05-07**|**Scalable 49-Channel Neural Recorder with an Event-Driven Ramp ADC and PCA Compression in 28 nm CMOS**|William Lemaire et.al.|[2505.04128](http://arxiv.org/abs/2505.04128)|null|
 |**2025-05-07**|**Izhikevich-Inspired Temporal Dynamics for Enhancing Privacy, Efficiency, and Transferability in Spiking Neural Networks**|Ayana Moshruba et.al.|[2505.04034](http://arxiv.org/abs/2505.04034)|null|
 |**2025-05-06**|**Depolarization block induction via slow NaV1.1 inactivation in Dravet syndrome**|Louisiane Lemaire et.al.|[2505.03919](http://arxiv.org/abs/2505.03919)|null|
 |**2025-05-06**|**Nonparametric learning of covariate-based Markov jump processes using RKHS techniques**|Yuchen Han et.al.|[2505.03119](http://arxiv.org/abs/2505.03119)|null|
-|**2025-05-05**|**Hyperchaos and complex dynamical regimes in $N$ -dimensional neuron lattices**|Brandon B. Le et.al.|[2505.03051](http://arxiv.org/abs/2505.03051)|null|
+|**2025-05-05**|**Hyperchaos and complex dynamical regimes in $N$ -dimensional neuron lattices**|Brandon B. Le et.al.|[2505.03051](http://arxiv.org/abs/2505.03051)|**[link](https://github.com/brandon-bd-le/nd-lattices)**|
 |**2025-05-04**|**Intermediate-mass black holes and contribution to extragalactic background light from Population III stars in Milky Way-like galaxies**|Artak Mkrtchyan et.al.|[2505.02245](http://arxiv.org/abs/2505.02245)|null|
 |**2025-05-04**|**Cognition without neurons: modelling anticipation in a basal reservoir computer**|Polyphony Bruna et.al.|[2505.02114](http://arxiv.org/abs/2505.02114)|null|
 |**2025-05-03**|**Brain-Inspired Quantum Neural Architectures for Pattern Recognition: Integrating QSNN and QLSTM**|Eva Andrés et.al.|[2505.01735](http://arxiv.org/abs/2505.01735)|null|
