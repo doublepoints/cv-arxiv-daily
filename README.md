@@ -563,6 +563,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373](http://arxiv.org/abs/2505.07373)|null|
 |**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/abs/2505.05473)|null|
 |**2025-05-07**|**FastMap: Revisiting Dense and Scalable Structure from Motion**|Jiahao Li et.al.|[2505.04612](http://arxiv.org/abs/2505.04612)|null|
 |**2025-05-06**|**Estimating the Diameter at Breast Height of Trees in a Forest With a Single 360 Camera**|Siming He et.al.|[2505.03093](http://arxiv.org/abs/2505.03093)|null|
@@ -2045,6 +2046,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Enabling Privacy-Aware AI-Based Ergonomic Analysis**|Sander De Coninck et.al.|[2505.07306](http://arxiv.org/abs/2505.07306)|null|
+|**2025-05-09**|**My Emotion on your face: The use of Facial Keypoint Detection to preserve Emotions in Latent Space Editing**|Jingrui He et.al.|[2505.06436](http://arxiv.org/abs/2505.06436)|null|
 |**2025-05-05**|**Unsupervised training of keypoint-agnostic descriptors for flexible retinal image registration**|David Rivas-Villar et.al.|[2505.02787](http://arxiv.org/abs/2505.02787)|null|
 |**2025-05-05**|**Unsupervised Deep Learning-based Keypoint Localization Estimating Descriptor Matching Performance**|David Rivas-Villar et.al.|[2505.02779](http://arxiv.org/abs/2505.02779)|null|
 |**2025-05-04**|**Focus What Matters: Matchability-Based Reweighting for Local Feature Matching**|Dongyue Li et.al.|[2505.02161](http://arxiv.org/abs/2505.02161)|null|
@@ -2352,6 +2355,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection**|Yuqi Cheng et.al.|[2505.07375](http://arxiv.org/abs/2505.07375)|**[link](https://github.com/hustCYQ/GLFM-Multi-class-3DAD)**|
 |**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|**[link](https://github.com/cszhanglmu/obd-finder)**|
 |**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
 |**2025-05-04**|**Focus What Matters: Matchability-Based Reweighting for Local Feature Matching**|Dongyue Li et.al.|[2505.02161](http://arxiv.org/abs/2505.02161)|null|
@@ -2681,6 +2685,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396](http://arxiv.org/abs/2505.07396)|null|
+|**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373](http://arxiv.org/abs/2505.07373)|null|
+|**2025-05-11**|**NeuGen: Amplifying the 'Neural' in Neural Radiance Fields for Domain Generalization**|Ahmed Qazi et.al.|[2505.06894](http://arxiv.org/abs/2505.06894)|null|
+|**2025-05-10**|**3D Characterization of Smoke Plume Dispersion Using Multi-View Drone Swarm**|Nikil Krishnakumar et.al.|[2505.06638](http://arxiv.org/abs/2505.06638)|null|
+|**2025-05-10**|**FlexNeRFer: A Multi-Dataflow, Adaptive Sparsity-Aware Accelerator for On-Device NeRF Rendering**|Seock-Hwan Noh et.al.|[2505.06504](http://arxiv.org/abs/2505.06504)|null|
 |**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474](http://arxiv.org/abs/2505.05474)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
 |**2025-05-04**|**HandOcc: NeRF-based Hand Rendering with Occupancy Networks**|Maksym Ivashechkin et.al.|[2505.02079](http://arxiv.org/abs/2505.02079)|null|
 |**2025-05-04**|**Learning Heterogeneous Mixture of Scene Experts for Large-scale Neural Radiance Fields**|Zhenxing Mi et.al.|[2505.02005](http://arxiv.org/abs/2505.02005)|**[link](https://github.com/MiZhenxing/Switch-NeRF)**|
@@ -4278,6 +4287,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**A class of distributed automata that contains the modal mu-fragment**|Veeti Ahvonen et.al.|[2505.07816](http://arxiv.org/abs/2505.07816)|null|
+|**2025-05-12**|**Tagging fully hadronic exotic decays of the vectorlike $\mathbf{B}$ quark using a graph neural network**|Jai Bardhan et.al.|[2505.07769](http://arxiv.org/abs/2505.07769)|null|
+|**2025-05-12**|**Joint Graph Convolution and Sequential Modeling for Scalable Network Traffic Estimation**|Nan Jiang et.al.|[2505.07674](http://arxiv.org/abs/2505.07674)|null|
+|**2025-05-12**|**Generating Skyline Explanations for Graph Neural Networks**|Dazhuo Qiu et.al.|[2505.07635](http://arxiv.org/abs/2505.07635)|null|
+|**2025-05-12**|**Wireless Link Scheduling with State-Augmented Graph Neural Networks**|Romina Garcia Camargo et.al.|[2505.07598](http://arxiv.org/abs/2505.07598)|null|
+|**2025-05-12**|**Integrating Machine Learning with Triboelectric Nanogenerators: Optimizing Electrode Materials and Doping Strategies for Intelligent Energy Harves**|Guanping Xu et.al.|[2505.07414](http://arxiv.org/abs/2505.07414)|null|
+|**2025-05-12**|**HAMLET: Healthcare-focused Adaptive Multilingual Learning Embedding-based Topic Modeling**|Hajar Sakai et.al.|[2505.07157](http://arxiv.org/abs/2505.07157)|null|
+|**2025-05-11**|**COMRECGC: Global Graph Counterfactual Explainer through Common Recourse**|Gregoire Fournier et.al.|[2505.07081](http://arxiv.org/abs/2505.07081)|null|
+|**2025-05-11**|**NetSight: Graph Attention Based Traffic Forecasting in Computer Networks**|Jinming Xing et.al.|[2505.07034](http://arxiv.org/abs/2505.07034)|null|
+|**2025-05-11**|**QSeer: A Quantum-Inspired Graph Neural Network for Parameter Initialization in Quantum Approximate Optimization Algorithm Circuits**|Lei Jiang et.al.|[2505.06810](http://arxiv.org/abs/2505.06810)|null|
 |**2025-05-09**|**Rethinking Graph Out-Of-Distribution Generalization: A Learnable Random Walk Perspective**|Henan Sun et.al.|[2505.05785](http://arxiv.org/abs/2505.05785)|null|
 |**2025-05-08**|**Fast and Fourier Features for Transfer Learning of Interatomic Potentials**|Pietro Novelli et.al.|[2505.05652](http://arxiv.org/abs/2505.05652)|null|
 |**2025-05-08**|**Recent results of (semi)leptonic decays of charm hadrons at BESIII**|Xiang Pan et.al.|[2505.05123](http://arxiv.org/abs/2505.05123)|null|
@@ -7797,6 +7816,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Hybrid Spiking Vision Transformer for Object Detection with Event Cameras**|Qi Xu et.al.|[2505.07715](http://arxiv.org/abs/2505.07715)|null|
+|**2025-05-12**|**Hierarchical Sparse Attention Framework for Computationally Efficient Classification of Biological Cells**|Elad Yoshai et.al.|[2505.07661](http://arxiv.org/abs/2505.07661)|null|
+|**2025-05-12**|**Self-Supervised Event Representations: Towards Accurate, Real-Time Perception on SoC FPGAs**|Kamil Jeziorek et.al.|[2505.07556](http://arxiv.org/abs/2505.07556)|null|
+|**2025-05-12**|**Towards a physically realistic computationally efficient DVS pixel model**|Rui Graca et.al.|[2505.07386](http://arxiv.org/abs/2505.07386)|null|
 |**2025-04-30**|**From Events to Enhancement: A Survey on Event-Based Imaging Technologies**|Yunfan Lu et.al.|[2505.05488](http://arxiv.org/abs/2505.05488)|null|
 |**2025-05-08**|**EDmamba: A Simple yet Effective Event Denoising Method with State Space Model**|Ciyu Ruan et.al.|[2505.05391](http://arxiv.org/abs/2505.05391)|null|
 |**2025-05-08**|**PRE-Mamba: A 4D State Space Model for Ultra-High-Frequent Event Camera Deraining**|Ciyu Ruan et.al.|[2505.05307](http://arxiv.org/abs/2505.05307)|null|
@@ -8209,6 +8232,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Hybrid Spiking Vision Transformer for Object Detection with Event Cameras**|Qi Xu et.al.|[2505.07715](http://arxiv.org/abs/2505.07715)|null|
+|**2025-05-12**|**Approximate MLE of High-Dimensional STAP Covariance Matrices with Banded & Spiked Structure -- A Convex Relaxation Approach**|Shashwat Jain et.al.|[2505.07643](http://arxiv.org/abs/2505.07643)|null|
+|**2025-05-12**|**Self-Supervised Event Representations: Towards Accurate, Real-Time Perception on SoC FPGAs**|Kamil Jeziorek et.al.|[2505.07556](http://arxiv.org/abs/2505.07556)|null|
+|**2025-05-12**|**LA-IMR: Latency-Aware, Predictive In-Memory Routing and Proactive Autoscaling for Tail-Latency-Sensitive Cloud Robotics**|Eunil Seo et.al.|[2505.07417](http://arxiv.org/abs/2505.07417)|null|
+|**2025-05-12**|**SAEN-BGS: Energy-Efficient Spiking AutoEncoder Network for Background Subtraction**|Zhixuan Zhang et.al.|[2505.07336](http://arxiv.org/abs/2505.07336)|null|
+|**2025-05-10**|**Event-based Neural Spike Detection Using Spiking Neural Networks for Neuromorphic iBMI Systems**|Chanwook Hwang et.al.|[2505.06544](http://arxiv.org/abs/2505.06544)|null|
+|**2025-05-09**|**Sigma-Delta Neural Network Conversion on Loihi 2**|Matthew Brehove et.al.|[2505.06417](http://arxiv.org/abs/2505.06417)|null|
 |**2025-05-09**|**CogniSNN: A First Exploration to Random Graph Architecture based Spiking Neural Networks with Enhanced Expandability and Neuroplasticity**|Yongsheng Huang et.al.|[2505.05992](http://arxiv.org/abs/2505.05992)|null|
 |**2025-05-09**|**Architectural Exploration of Hybrid Neural Decoders for Neuromorphic Implantable BMI**|Vivek Mohan et.al.|[2505.05983](http://arxiv.org/abs/2505.05983)|null|
 |**2025-05-09**|**Stochastic birhythmicity outside the coexistence region in the Hindmarsh-Rose model**|Ignacio Ortega-Piwonka et.al.|[2505.05972](http://arxiv.org/abs/2505.05972)|null|
