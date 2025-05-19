@@ -549,6 +549,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis**|Francisco Raverta Capua et.al.|[2505.10751](http://arxiv.org/abs/2505.10751)|null|
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
 |**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373](http://arxiv.org/abs/2505.07373)|null|
 |**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/abs/2505.05473)|null|
@@ -882,6 +883,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Redundancy-Aware Pretraining of Vision-Language Foundation Models in Remote Sensing**|Mathis Jürgen Adler et.al.|[2505.11121](http://arxiv.org/abs/2505.11121)|null|
 |**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|**[link](https://github.com/cszhanglmu/obd-finder)**|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
 |**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
@@ -2029,6 +2031,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Deepfake Forensic Analysis: Source Dataset Attribution and Legal Implications of Synthetic Media Manipulation**|Massimiliano Cassia et.al.|[2505.11110](http://arxiv.org/abs/2505.11110)|null|
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
 |**2025-05-12**|**Enabling Privacy-Aware AI-Based Ergonomic Analysis**|Sander De Coninck et.al.|[2505.07306](http://arxiv.org/abs/2505.07306)|null|
 |**2025-05-09**|**My Emotion on your face: The use of Facial Keypoint Detection to preserve Emotions in Latent Space Editing**|Jingrui He et.al.|[2505.06436](http://arxiv.org/abs/2505.06436)|null|
@@ -2337,6 +2340,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Multi-view dense image matching with similarity learning and geometry priors**|Mohamed Ali Chebbi et.al.|[2505.11264](http://arxiv.org/abs/2505.11264)|null|
 |**2025-05-12**|**Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection**|Yuqi Cheng et.al.|[2505.07375](http://arxiv.org/abs/2505.07375)|**[link](https://github.com/hustCYQ/GLFM-Multi-class-3DAD)**|
 |**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|**[link](https://github.com/cszhanglmu/obd-finder)**|
 |**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
@@ -2665,6 +2669,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory**|Zifan Wang et.al.|[2505.11386](http://arxiv.org/abs/2505.11386)|null|
+|**2025-05-16**|**EA-3DGS: Efficient and Adaptive 3D Gaussians with Highly Enhanced Quality for outdoor scenes**|Jianlin Guo et.al.|[2505.10787](http://arxiv.org/abs/2505.10787)|null|
 |**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915](http://arxiv.org/abs/2505.09915)|null|
 |**2025-05-14**|**Sparse Point Cloud Patches Rendering via Splitting 2D Gaussians**|Ma Changfeng et.al.|[2505.09413](http://arxiv.org/abs/2505.09413)|**[link](https://github.com/murcherful/gaupcrender)**|
 |**2025-05-14**|**FreeDriveRF: Monocular RGB Dynamic NeRF without Poses for Autonomous Driving via Point-Level Dynamic-Static Decoupling**|Yue Wen et.al.|[2505.09406](http://arxiv.org/abs/2505.09406)|null|
@@ -4270,6 +4276,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Finding Counterfactual Evidences for Node Classification**|Dazhuo Qiu et.al.|[2505.11396](http://arxiv.org/abs/2505.11396)|null|
+|**2025-05-16**|**What Can We Learn From MIMO Graph Convolutions?**|Andreas Roth et.al.|[2505.11346](http://arxiv.org/abs/2505.11346)|null|
+|**2025-05-16**|**The Final Layer Holds the Key: A Unified and Efficient GNN Calibration Framework**|Jincheng Huang et.al.|[2505.11335](http://arxiv.org/abs/2505.11335)|null|
+|**2025-05-16**|**Graph Representational Learning: When Does More Expressivity Hurt Generalization?**|Sohir Maskey et.al.|[2505.11298](http://arxiv.org/abs/2505.11298)|null|
+|**2025-05-16**|**Unfolded Deep Graph Learning for Networked Over-the-Air Computation**|Xiao Tang et.al.|[2505.11248](http://arxiv.org/abs/2505.11248)|null|
+|**2025-05-16**|**Learning traffic flows: Graph Neural Networks for Metamodelling Traffic Assignment**|Oskar Bohn Lassen et.al.|[2505.11230](http://arxiv.org/abs/2505.11230)|null|
+|**2025-05-16**|**IssueCourier: Multi-Relational Heterogeneous Temporal Graph Neural Network for Open-Source Issue Assignment**|Chunying Zhou et.al.|[2505.11205](http://arxiv.org/abs/2505.11205)|null|
+|**2025-05-16**|**Covariance Density Neural Networks**|Om Roy et.al.|[2505.11139](http://arxiv.org/abs/2505.11139)|null|
+|**2025-05-16**|**Halting Recurrent GNNs and the Graded $μ$ -Calculus**|Jeroen Bollen et.al.|[2505.11050](http://arxiv.org/abs/2505.11050)|null|
+|**2025-05-16**|**Relational Graph Transformer**|Vijay Prakash Dwivedi et.al.|[2505.10960](http://arxiv.org/abs/2505.10960)|null|
 |**2025-05-15**|**Schreier-Coset Graph Propagation**|Aryan Mishra et.al.|[2505.10392](http://arxiv.org/abs/2505.10392)|null|
 |**2025-05-15**|**Context-aware collaborative pushing of heavy objects using skeleton-based intention prediction**|Gokhan Solak et.al.|[2505.10239](http://arxiv.org/abs/2505.10239)|null|
 |**2025-05-15**|**Advancing Community Detection with Graph Convolutional Neural Networks: Bridging Topological and Attributive Cohesion**|Anjali de Silva et.al.|[2505.10197](http://arxiv.org/abs/2505.10197)|**[link](https://github.com/desilanja/tas-com)**|
@@ -7817,6 +7833,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection**|Shrutarv Awasthi et.al.|[2505.11282](http://arxiv.org/abs/2505.11282)|null|
+|**2025-05-16**|**AW-GATCN: Adaptive Weighted Graph Attention Convolutional Network for Event Camera Data Joint Denoising and Object Recognition**|Haiyu Li et.al.|[2505.11232](http://arxiv.org/abs/2505.11232)|null|
+|**2025-05-16**|**Maximizing Asynchronicity in Event-based Neural Networks**|Haiqing Hao et.al.|[2505.11165](http://arxiv.org/abs/2505.11165)|null|
+|**2025-05-16**|**Planar Velocity Estimation for Fast-Moving Mobile Robots Using Event-Based Optical Flow**|Liam Boyle et.al.|[2505.11116](http://arxiv.org/abs/2505.11116)|null|
 |**2025-05-14**|**Contactless Cardiac Pulse Monitoring Using Event Cameras**|Mohamed Moustafa et.al.|[2505.09529](http://arxiv.org/abs/2505.09529)|**[link](https://github.com/c3imaging/contactless_cardiac_pulse_monitoring_using_event_cameras)**|
 |**2025-05-13**|**A Survey of 3D Reconstruction with Event Cameras: From Event-based Geometry to Neural 3D Rendering**|Chuanzhi Xu et.al.|[2505.08438](http://arxiv.org/abs/2505.08438)|null|
 |**2025-05-13**|**EventDiff: A Unified and Efficient Diffusion Model Framework for Event-based Video Frame Interpolation**|Hanle Zheng et.al.|[2505.08235](http://arxiv.org/abs/2505.08235)|null|
@@ -8235,6 +8255,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network**|Shang Xu et.al.|[2505.11455](http://arxiv.org/abs/2505.11455)|null|
+|**2025-05-16**|**Neuromorphic Imaging Flow Cytometry combined with Adaptive Recurrent Spiking Neural Networks**|Georgios Moustakas et.al.|[2505.11433](http://arxiv.org/abs/2505.11433)|null|
+|**2025-05-16**|**Energy efficiency analysis of Spiking Neural Networks for space applications**|Paolo Lunghi et.al.|[2505.11418](http://arxiv.org/abs/2505.11418)|null|
+|**2025-05-16**|**Lightweight LIF-only SNN accelerator using differential time encoding**|Daniel Windhager et.al.|[2505.11252](http://arxiv.org/abs/2505.11252)|null|
+|**2025-05-16**|**Unique global solution of an integral-differential equation of Footloose Entrepreneur model in new economic geography**|Kensuke Ohtake et.al.|[2505.11241](http://arxiv.org/abs/2505.11241)|null|
+|**2025-05-16**|**Bayesian Hierarchical Invariant Prediction**|Francisco Madaleno et.al.|[2505.11211](http://arxiv.org/abs/2505.11211)|null|
+|**2025-05-16**|**STEP: A Unified Spiking Transformer Evaluation Platform for Fair and Reproducible Benchmarking**|Sicheng Shen et.al.|[2505.11151](http://arxiv.org/abs/2505.11151)|null|
+|**2025-05-16**|**Towards Robust Spiking Neural Networks:Mitigating Heterogeneous Training Vulnerability via Dominant Eigencomponent Projection**|Desong Zhang et.al.|[2505.11134](http://arxiv.org/abs/2505.11134)|null|
+|**2025-05-16**|**Event disturbance rejection: a case study**|Alessandro Cecconi et.al.|[2505.11133](http://arxiv.org/abs/2505.11133)|null|
+|**2025-05-16**|**Dual-Balancing for Physics-Informed Neural Networks**|Chenhong Zhou et.al.|[2505.11117](http://arxiv.org/abs/2505.11117)|null|
 |**2025-05-15**|**Inferring entropy production in many-body systems using nonequilibrium MaxEnt**|Miguel Aguilera et.al.|[2505.10444](http://arxiv.org/abs/2505.10444)|**[link](https://github.com/miguelaguilera/entropy-production-maxent-inference)**|
 |**2025-05-15**|**ILIF: Temporal Inhibitory Leaky Integrate-and-Fire Neuron for Overactivation in Spiking Neural Networks**|Kai Sun et.al.|[2505.10371](http://arxiv.org/abs/2505.10371)|null|
 |**2025-05-15**|**SpikeVideoFormer: An Efficient Spike-Driven Video Transformer with Hamming Attention and $\mathcal{O}(T)$ Complexity**|Shihao Zou et.al.|[2505.10352](http://arxiv.org/abs/2505.10352)|null|
@@ -9871,6 +9901,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network**|Shang Xu et.al.|[2505.11455](http://arxiv.org/abs/2505.11455)|null|
 |**2025-05-15**|**ILIF: Temporal Inhibitory Leaky Integrate-and-Fire Neuron for Overactivation in Spiking Neural Networks**|Kai Sun et.al.|[2505.10371](http://arxiv.org/abs/2505.10371)|null|
 |**2025-05-04**|**Cognition without neurons: modelling anticipation in a basal reservoir computer**|Polyphony Bruna et.al.|[2505.02114](http://arxiv.org/abs/2505.02114)|null|
 |**2025-04-03**|**Reservoir Computing: A New Paradigm for Neural Networks**|Felix Grezes et.al.|[2504.02639](http://arxiv.org/abs/2504.02639)|null|
