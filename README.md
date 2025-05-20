@@ -27,6 +27,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309](http://arxiv.org/abs/2505.13309)|null|
+|**2025-05-18**|**Structureless VIO**|Junlin Song et.al.|[2505.12337](http://arxiv.org/abs/2505.12337)|null|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
 |**2025-05-13**|**SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2505.01956](http://arxiv.org/abs/2505.01956)|null|
 |**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb et.al.|[2504.21562](http://arxiv.org/abs/2504.21562)|null|
@@ -899,6 +901,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-18**|**MMS-VPR: Multimodal Street-Level Visual Place Recognition Dataset and Benchmark**|Yiwei Ou et.al.|[2505.12254](http://arxiv.org/abs/2505.12254)|null|
+|**2025-05-16**|**Improved Bag-of-Words Image Retrieval with Geometric Constraints for Ground Texture Localization**|Aaron Wilhelm et.al.|[2505.11620](http://arxiv.org/abs/2505.11620)|null|
 |**2025-05-16**|**Redundancy-Aware Pretraining of Vision-Language Foundation Models in Remote Sensing**|Mathis Jürgen Adler et.al.|[2505.11121](http://arxiv.org/abs/2505.11121)|null|
 |**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|**[link](https://github.com/cszhanglmu/obd-finder)**|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
@@ -2049,6 +2053,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-18**|**SEPT: Standard-Definition Map Enhanced Scene Perception and Topology Reasoning for Autonomous Driving**|Muleilan Pei et.al.|[2505.12246](http://arxiv.org/abs/2505.12246)|null|
+|**2025-05-17**|**Keypoints as Dynamic Centroids for Unified Human Pose and Segmentation**|Niaz Ahmad et.al.|[2505.12130](http://arxiv.org/abs/2505.12130)|null|
 |**2025-05-16**|**Deepfake Forensic Analysis: Source Dataset Attribution and Legal Implications of Synthetic Media Manipulation**|Massimiliano Cassia et.al.|[2505.11110](http://arxiv.org/abs/2505.11110)|null|
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
 |**2025-05-12**|**Enabling Privacy-Aware AI-Based Ergonomic Analysis**|Sander De Coninck et.al.|[2505.07306](http://arxiv.org/abs/2505.07306)|null|
@@ -2691,6 +2697,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**3D Gaussian Adaptive Reconstruction for Fourier Light-Field Microscopy**|Chenyu Xu et.al.|[2505.12875](http://arxiv.org/abs/2505.12875)|null|
+|**2025-05-18**|**Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**|Calvin Galagain et.al.|[2505.12384](http://arxiv.org/abs/2505.12384)|null|
 |**2025-05-16**|**MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory**|Zifan Wang et.al.|[2505.11386](http://arxiv.org/abs/2505.11386)|null|
 |**2025-05-16**|**EA-3DGS: Efficient and Adaptive 3D Gaussians with Highly Enhanced Quality for outdoor scenes**|Jianlin Guo et.al.|[2505.10787](http://arxiv.org/abs/2505.10787)|null|
 |**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915](http://arxiv.org/abs/2505.09915)|null|
@@ -4300,6 +4308,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Graph Alignment for Benchmarking Graph Neural Networks and Learning Positional Encodings**|Adrien Lagesse et.al.|[2505.13087](http://arxiv.org/abs/2505.13087)|null|
+|**2025-05-19**|**Power Allocation for Delay Optimization in Device-to-Device Networks: A Graph Reinforcement Learning Approach**|Hao Fang et.al.|[2505.12902](http://arxiv.org/abs/2505.12902)|null|
+|**2025-05-19**|**AdS-GNN -- a Conformally Equivariant Graph Neural Network**|Maksim Zhdanov et.al.|[2505.12880](http://arxiv.org/abs/2505.12880)|null|
+|**2025-05-19**|**Pave Your Own Path: Graph Gradual Domain Adaptation on Fused Gromov-Wasserstein Geodesics**|Zhichen Zeng et.al.|[2505.12709](http://arxiv.org/abs/2505.12709)|null|
+|**2025-05-19**|**scSiameseClu: A Siamese Clustering Framework for Interpreting single-cell RNA Sequencing Data**|Ping Xu et.al.|[2505.12626](http://arxiv.org/abs/2505.12626)|null|
+|**2025-05-19**|**Adaptive Graph Unlearning**|Pengfei Ding et.al.|[2505.12614](http://arxiv.org/abs/2505.12614)|null|
+|**2025-05-18**|**LM $^2$ otifs : An Explainable Framework for Machine-Generated Texts Detection**|Xu Zheng et.al.|[2505.12507](http://arxiv.org/abs/2505.12507)|null|
+|**2025-05-18**|**Addressing the Scarcity of Benchmarks for Graph XAI**|Michele Fontanesi et.al.|[2505.12437](http://arxiv.org/abs/2505.12437)|null|
+|**2025-05-18**|**It Takes a Graph to Know a Graph: Rewiring for Homophily with a Reference Graph**|Harel Mendelman et.al.|[2505.12411](http://arxiv.org/abs/2505.12411)|null|
+|**2025-05-18**|**LLM-CoT Enhanced Graph Neural Recommendation with Harmonized Group Policy Optimization**|Hailong Luo et.al.|[2505.12396](http://arxiv.org/abs/2505.12396)|null|
 |**2025-05-16**|**Finding Counterfactual Evidences for Node Classification**|Dazhuo Qiu et.al.|[2505.11396](http://arxiv.org/abs/2505.11396)|null|
 |**2025-05-16**|**What Can We Learn From MIMO Graph Convolutions?**|Andreas Roth et.al.|[2505.11346](http://arxiv.org/abs/2505.11346)|null|
 |**2025-05-16**|**The Final Layer Holds the Key: A Unified and Efficient GNN Calibration Framework**|Jincheng Huang et.al.|[2505.11335](http://arxiv.org/abs/2505.11335)|null|
@@ -7859,6 +7877,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Event-Driven Dynamic Scene Depth Completion**|Zhiqiang Yan et.al.|[2505.13279](http://arxiv.org/abs/2505.13279)|null|
+|**2025-05-19**|**Towards Low-Latency Event Stream-based Visual Object Tracking: A Slow-Fast Approach**|Shiao Wang et.al.|[2505.12903](http://arxiv.org/abs/2505.12903)|**[link](https://github.com/event-ahu/slowfast_event_track)**|
+|**2025-05-19**|**Event-based Star Tracking under Spacecraft Jitter: the e-STURT Dataset**|Samya Bagchi et.al.|[2505.12588](http://arxiv.org/abs/2505.12588)|null|
 |**2025-05-16**|**MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection**|Shrutarv Awasthi et.al.|[2505.11282](http://arxiv.org/abs/2505.11282)|null|
 |**2025-05-16**|**AW-GATCN: Adaptive Weighted Graph Attention Convolutional Network for Event Camera Data Joint Denoising and Object Recognition**|Haiyu Li et.al.|[2505.11232](http://arxiv.org/abs/2505.11232)|null|
 |**2025-05-16**|**Maximizing Asynchronicity in Event-based Neural Networks**|Haiqing Hao et.al.|[2505.11165](http://arxiv.org/abs/2505.11165)|null|
@@ -8283,6 +8304,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309](http://arxiv.org/abs/2505.13309)|null|
+|**2025-05-19**|**FireFly-T: High-Throughput Sparsity Exploitation for Spiking Transformer Acceleration with Dual-Engine Overlay Architecture**|Tenglong Li et.al.|[2505.12771](http://arxiv.org/abs/2505.12771)|null|
+|**2025-05-19**|**SPKLIP: Aligning Spike Video Streams with Natural Language**|Yongchang Gao et.al.|[2505.12656](http://arxiv.org/abs/2505.12656)|null|
+|**2025-05-19**|**Spiking Neural Network: a low power solution for physical layer authentication**|Jung Hoon Lee et.al.|[2505.12647](http://arxiv.org/abs/2505.12647)|null|
+|**2025-05-18**|**SpikeX: Exploring Accelerator Architecture and Network-Hardware Co-Optimization for Sparse Spiking Neural Networks**|Boxun Xu et.al.|[2505.12292](http://arxiv.org/abs/2505.12292)|null|
+|**2025-05-18**|**Bishop: Sparsified Bundling Spiking Transformers on Heterogeneous Cores with Error-Constrained Pruning**|Boxun Xu et.al.|[2505.12281](http://arxiv.org/abs/2505.12281)|null|
+|**2025-05-18**|**Bridging Quantized Artificial Neural Networks and Neuromorphic Hardware**|Zhenhui Chen et.al.|[2505.12221](http://arxiv.org/abs/2505.12221)|null|
+|**2025-05-17**|**A VCSEL based Photonic Neuromorphic Processor for Event-Based Imaging Flow Cytometry Applications**|M. Skontranis et.al.|[2505.12026](http://arxiv.org/abs/2505.12026)|null|
+|**2025-05-17**|**Arrow: Adaptive Scheduling Mechanisms for Disaggregated LLM Inference Architecture**|Yu Wu et.al.|[2505.11916](http://arxiv.org/abs/2505.11916)|null|
+|**2025-05-17**|**Adaptive Gradient Learning for Spiking Neural Networks by Exploiting Membrane Potential Dynamics**|Jiaqiang Jiang et.al.|[2505.11863](http://arxiv.org/abs/2505.11863)|null|
 |**2025-05-16**|**ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network**|Shang Xu et.al.|[2505.11455](http://arxiv.org/abs/2505.11455)|null|
 |**2025-05-16**|**Neuromorphic Imaging Flow Cytometry combined with Adaptive Recurrent Spiking Neural Networks**|Georgios Moustakas et.al.|[2505.11433](http://arxiv.org/abs/2505.11433)|null|
 |**2025-05-16**|**Energy efficiency analysis of Spiking Neural Networks for space applications**|Paolo Lunghi et.al.|[2505.11418](http://arxiv.org/abs/2505.11418)|null|
