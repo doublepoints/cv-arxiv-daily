@@ -569,7 +569,7 @@
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
 |**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373](http://arxiv.org/abs/2505.07373)|null|
 |**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/abs/2505.05473)|null|
-|**2025-05-07**|**FastMap: Revisiting Dense and Scalable Structure from Motion**|Jiahao Li et.al.|[2505.04612](http://arxiv.org/abs/2505.04612)|null|
+|**2025-05-20**|**FastMap: Revisiting Dense and Scalable Structure from Motion**|Jiahao Li et.al.|[2505.04612](http://arxiv.org/abs/2505.04612)|**[link](https://github.com/pals-ttic/fastmap)**|
 |**2025-05-15**|**Estimating the Diameter at Breast Height of Trees in a Forest With a Single 360 Camera**|Siming He et.al.|[2505.03093](http://arxiv.org/abs/2505.03093)|null|
 |**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799](http://arxiv.org/abs/2505.01799)|null|
 |**2025-05-03**|**PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**|Bu Jin et.al.|[2505.01729](http://arxiv.org/abs/2505.01729)|null|
@@ -901,6 +901,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models**|Kiarash Naghavi Khanghah et.al.|[2505.13828](http://arxiv.org/abs/2505.13828)|null|
 |**2025-05-18**|**MMS-VPR: Multimodal Street-Level Visual Place Recognition Dataset and Benchmark**|Yiwei Ou et.al.|[2505.12254](http://arxiv.org/abs/2505.12254)|null|
 |**2025-05-16**|**Improved Bag-of-Words Image Retrieval with Geometric Constraints for Ground Texture Localization**|Aaron Wilhelm et.al.|[2505.11620](http://arxiv.org/abs/2505.11620)|null|
 |**2025-05-16**|**Redundancy-Aware Pretraining of Vision-Language Foundation Models in Remote Sensing**|Mathis Jürgen Adler et.al.|[2505.11121](http://arxiv.org/abs/2505.11121)|null|
@@ -2697,6 +2698,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**IPENS:Interactive Unsupervised Framework for Rapid Plant Phenotyping Extraction via NeRF-SAM2 Fusion**|Wentao Song et.al.|[2505.13633](http://arxiv.org/abs/2505.13633)|null|
 |**2025-05-19**|**3D Gaussian Adaptive Reconstruction for Fourier Light-Field Microscopy**|Chenyu Xu et.al.|[2505.12875](http://arxiv.org/abs/2505.12875)|null|
 |**2025-05-18**|**Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**|Calvin Galagain et.al.|[2505.12384](http://arxiv.org/abs/2505.12384)|null|
 |**2025-05-16**|**MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory**|Zifan Wang et.al.|[2505.11386](http://arxiv.org/abs/2505.11386)|null|
@@ -4308,6 +4310,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Adverseness vs. Equilibrium: Exploring Graph Adversarial Resilience through Dynamic Equilibrium**|Xinxin Fan et.al.|[2505.14463](http://arxiv.org/abs/2505.14463)|null|
+|**2025-05-20**|**Robustness Evaluation of Graph-based News Detection Using Network Structural Information**|Xianghua Zeng et.al.|[2505.14453](http://arxiv.org/abs/2505.14453)|null|
+|**2025-05-20**|**Solving Unit Commitment Problems with Graph Neural Network based Initial Commitment Prediction and Large Neighborhood Search**|Linfeng Yang et.al.|[2505.14408](http://arxiv.org/abs/2505.14408)|null|
+|**2025-05-20**|**Nonparametric Teaching for Graph Property Learners**|Chen Zhang et.al.|[2505.14170](http://arxiv.org/abs/2505.14170)|**[link](https://github.com/chen2hang/GraNT_NonparametricTeaching)**|
+|**2025-05-20**|**Unsupervised Graph Clustering with Deep Structural Entropy**|Jingyun Zhang et.al.|[2505.14040](http://arxiv.org/abs/2505.14040)|null|
+|**2025-05-20**|**Partition-wise Graph Filtering: A Unified Perspective Through the Lens of Graph Coarsening**|Guoming Li et.al.|[2505.14033](http://arxiv.org/abs/2505.14033)|null|
+|**2025-05-20**|**Towards Comprehensive and Prerequisite-Free Explainer for Graph Neural Networks**|Han Zhang et.al.|[2505.14005](http://arxiv.org/abs/2505.14005)|null|
+|**2025-05-19**|**Finding Maximum Independent Sets in Dynamic Graphs using Unsupervised Learning**|Devendra Parkar et.al.|[2505.13754](http://arxiv.org/abs/2505.13754)|null|
 |**2025-05-19**|**Graph Alignment for Benchmarking Graph Neural Networks and Learning Positional Encodings**|Adrien Lagesse et.al.|[2505.13087](http://arxiv.org/abs/2505.13087)|null|
 |**2025-05-19**|**Power Allocation for Delay Optimization in Device-to-Device Networks: A Graph Reinforcement Learning Approach**|Hao Fang et.al.|[2505.12902](http://arxiv.org/abs/2505.12902)|null|
 |**2025-05-19**|**AdS-GNN -- a Conformally Equivariant Graph Neural Network**|Maksim Zhdanov et.al.|[2505.12880](http://arxiv.org/abs/2505.12880)|null|
@@ -7877,7 +7887,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-19**|**Event-Driven Dynamic Scene Depth Completion**|Zhiqiang Yan et.al.|[2505.13279](http://arxiv.org/abs/2505.13279)|null|
+|**2025-05-20**|**Event-Driven Dynamic Scene Depth Completion**|Zhiqiang Yan et.al.|[2505.13279](http://arxiv.org/abs/2505.13279)|null|
 |**2025-05-19**|**Towards Low-Latency Event Stream-based Visual Object Tracking: A Slow-Fast Approach**|Shiao Wang et.al.|[2505.12903](http://arxiv.org/abs/2505.12903)|**[link](https://github.com/event-ahu/slowfast_event_track)**|
 |**2025-05-19**|**Event-based Star Tracking under Spacecraft Jitter: the e-STURT Dataset**|Samya Bagchi et.al.|[2505.12588](http://arxiv.org/abs/2505.12588)|null|
 |**2025-05-16**|**MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection**|Shrutarv Awasthi et.al.|[2505.11282](http://arxiv.org/abs/2505.11282)|null|
@@ -8304,6 +8314,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Spiking Neural Networks with Temporal Attention-Guided Adaptive Fusion for imbalanced Multi-modal Learning**|Jiangrong Shen et.al.|[2505.14535](http://arxiv.org/abs/2505.14535)|null|
+|**2025-05-20**|**Energy-Efficient Deep Reinforcement Learning with Spiking Transformers**|Mohammad Irfan Uddin et.al.|[2505.14533](http://arxiv.org/abs/2505.14533)|null|
+|**2025-05-20**|**Design and Evaluation of a Microservices Cloud Framework for Online Travel Platforms**|Biman Barua et.al.|[2505.14508](http://arxiv.org/abs/2505.14508)|null|
+|**2025-05-20**|**Enhancing Interpretability of Sparse Latent Representations with Class Information**|Farshad Sangari Abiz et.al.|[2505.14476](http://arxiv.org/abs/2505.14476)|null|
+|**2025-05-20**|**Existence and local uniqueness of multi-spike solutions for Brézis-Nirenberg problem with prescribed mass**|Zongyan Lv et.al.|[2505.14168](http://arxiv.org/abs/2505.14168)|null|
+|**2025-05-19**|**ReBaCCA-ss: Relevance-Balanced Continuum Correlation Analysis with Smoothing and Surrogating for Quantifying Similarity Between Population Spiking Activities**|Xiang Zhang et.al.|[2505.13748](http://arxiv.org/abs/2505.13748)|null|
+|**2025-05-19**|**Frozen Backpropagation: Relaxing Weight Symmetry in Temporally-Coded Deep Spiking Neural Networks**|Gaspard Goupy et.al.|[2505.13741](http://arxiv.org/abs/2505.13741)|null|
+|**2025-05-19**|**IPENS:Interactive Unsupervised Framework for Rapid Plant Phenotyping Extraction via NeRF-SAM2 Fusion**|Wentao Song et.al.|[2505.13633](http://arxiv.org/abs/2505.13633)|null|
+|**2025-05-19**|**Spiking Neural Networks with Random Network Architecture**|Zihan Dai et.al.|[2505.13622](http://arxiv.org/abs/2505.13622)|null|
 |**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309](http://arxiv.org/abs/2505.13309)|null|
 |**2025-05-19**|**FireFly-T: High-Throughput Sparsity Exploitation for Spiking Transformer Acceleration with Dual-Engine Overlay Architecture**|Tenglong Li et.al.|[2505.12771](http://arxiv.org/abs/2505.12771)|null|
 |**2025-05-19**|**SPKLIP: Aligning Spike Video Streams with Natural Language**|Yongchang Gao et.al.|[2505.12656](http://arxiv.org/abs/2505.12656)|null|
