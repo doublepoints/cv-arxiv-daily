@@ -1,10 +1,10 @@
-## <a id=top></a>Updated on 2025.05.21
+## <a id=top></a>Updated on 2025.05.22
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -565,6 +565,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**A Taxonomy of Structure from Motion Methods**|Federica Arrigoni et.al.|[2505.15814](http://arxiv.org/abs/2505.15814)|null|
 |**2025-05-15**|**Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis**|Francisco Raverta Capua et.al.|[2505.10751](http://arxiv.org/abs/2505.10751)|null|
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
 |**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373](http://arxiv.org/abs/2505.07373)|null|
@@ -2702,7 +2703,7 @@
 |**2025-05-19**|**3D Gaussian Adaptive Reconstruction for Fourier Light-Field Microscopy**|Chenyu Xu et.al.|[2505.12875](http://arxiv.org/abs/2505.12875)|null|
 |**2025-05-18**|**Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**|Calvin Galagain et.al.|[2505.12384](http://arxiv.org/abs/2505.12384)|null|
 |**2025-05-16**|**MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory**|Zifan Wang et.al.|[2505.11386](http://arxiv.org/abs/2505.11386)|null|
-|**2025-05-16**|**EA-3DGS: Efficient and Adaptive 3D Gaussians with Highly Enhanced Quality for outdoor scenes**|Jianlin Guo et.al.|[2505.10787](http://arxiv.org/abs/2505.10787)|null|
+|**2025-05-16**|**EA-3DGS: Efficient and Adaptive 3D Gaussians with Highly Enhanced Quality for outdoor scenes**|Jianlin Guo et.al.|[2505.10787](http://arxiv.org/abs/2505.10787)|**[link](https://github.com/scut-bip-lab/ea-3dgs)**|
 |**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915](http://arxiv.org/abs/2505.09915)|null|
 |**2025-05-14**|**Sparse Point Cloud Patches Rendering via Splitting 2D Gaussians**|Ma Changfeng et.al.|[2505.09413](http://arxiv.org/abs/2505.09413)|**[link](https://github.com/murcherful/gaupcrender)**|
 |**2025-05-14**|**FreeDriveRF: Monocular RGB Dynamic NeRF without Poses for Autonomous Driving via Point-Level Dynamic-Static Decoupling**|Yue Wen et.al.|[2505.09406](http://arxiv.org/abs/2505.09406)|null|
@@ -4310,6 +4311,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**Higher-order Structure Boosts Link Prediction on Temporal Graphs**|Jingzhe Liu et.al.|[2505.15746](http://arxiv.org/abs/2505.15746)|null|
+|**2025-05-21**|**Graph Conditional Flow Matching for Relational Data Generation**|Davide Scassola et.al.|[2505.15668](http://arxiv.org/abs/2505.15668)|null|
+|**2025-05-21**|**Relationship Analysis of Image-Text Pair in SNS Posts**|Takuto Nabeoka et.al.|[2505.15629](http://arxiv.org/abs/2505.15629)|null|
+|**2025-05-21**|**HOPSE: Scalable Higher-Order Positional and Structural Encoder for Combinatorial Representations**|Martin Carrasco et.al.|[2505.15405](http://arxiv.org/abs/2505.15405)|null|
+|**2025-05-21**|**Piecewise-linear Ricci curvature flows on weighted graphs**|Jicheng Ma et.al.|[2505.15395](http://arxiv.org/abs/2505.15395)|null|
+|**2025-05-21**|**GCNT: Graph-Based Transformer Policies for Morphology-Agnostic Reinforcement Learning**|Yingbo Luo et.al.|[2505.15211](http://arxiv.org/abs/2505.15211)|null|
+|**2025-05-21**|**NeuBM: Mitigating Model Bias in Graph Neural Networks through Neutral Input Calibration**|Jiawei Gu et.al.|[2505.15180](http://arxiv.org/abs/2505.15180)|null|
+|**2025-05-21**|**SpectralGap: Graph-Level Out-of-Distribution Detection via Laplacian Eigenvalue Gaps**|Jiawei Gu et.al.|[2505.15177](http://arxiv.org/abs/2505.15177)|null|
+|**2025-05-21**|**EC-LDA : Label Distribution Inference Attack against Federated Graph Learning with Embedding Compression**|Tong Cheng et.al.|[2505.15140](http://arxiv.org/abs/2505.15140)|null|
+|**2025-05-21**|**Unified Cross-Modal Attention-Mixer Based Structural-Functional Connectomics Fusion for Neuropsychiatric Disorder Diagnosis**|Badhan Mazumder et.al.|[2505.15139](http://arxiv.org/abs/2505.15139)|null|
 |**2025-05-20**|**Adverseness vs. Equilibrium: Exploring Graph Adversarial Resilience through Dynamic Equilibrium**|Xinxin Fan et.al.|[2505.14463](http://arxiv.org/abs/2505.14463)|null|
 |**2025-05-20**|**Robustness Evaluation of Graph-based News Detection Using Network Structural Information**|Xianghua Zeng et.al.|[2505.14453](http://arxiv.org/abs/2505.14453)|null|
 |**2025-05-20**|**Solving Unit Commitment Problems with Graph Neural Network based Initial Commitment Prediction and Large Neighborhood Search**|Linfeng Yang et.al.|[2505.14408](http://arxiv.org/abs/2505.14408)|null|
@@ -7887,6 +7898,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**Evaluation of Mobile Environment for Vehicular Visible Light Communication Using Multiple LEDs and Event Cameras**|Ryota Soga et.al.|[2505.15412](http://arxiv.org/abs/2505.15412)|null|
 |**2025-05-20**|**Event-Driven Dynamic Scene Depth Completion**|Zhiqiang Yan et.al.|[2505.13279](http://arxiv.org/abs/2505.13279)|null|
 |**2025-05-19**|**Towards Low-Latency Event Stream-based Visual Object Tracking: A Slow-Fast Approach**|Shiao Wang et.al.|[2505.12903](http://arxiv.org/abs/2505.12903)|**[link](https://github.com/event-ahu/slowfast_event_track)**|
 |**2025-05-19**|**Event-based Star Tracking under Spacecraft Jitter: the e-STURT Dataset**|Samya Bagchi et.al.|[2505.12588](http://arxiv.org/abs/2505.12588)|null|
@@ -8314,6 +8326,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**Short-Range Dependency Effects on Transformer Instability and a Decomposed Attention Solution**|Suvadeep Hajra et.al.|[2505.15548](http://arxiv.org/abs/2505.15548)|null|
+|**2025-05-21**|**A Bayesian Approach for Inference on Mixed Graphical Models**|Mauro Florez et.al.|[2505.15464](http://arxiv.org/abs/2505.15464)|null|
+|**2025-05-21**|**A dynamical memory with only one spiking neuron**|Damien Depannemaecker et.al.|[2505.15453](http://arxiv.org/abs/2505.15453)|null|
+|**2025-05-21**|**Lawful but Awful: Evolving Legislative Responses to Address Online Misinformation, Disinformation, and Mal-Information in the Age of Generative AI**|Simon Chesterman et.al.|[2505.15067](http://arxiv.org/abs/2505.15067)|null|
+|**2025-05-20**|**Accretion of self-interacting dark matter onto supermassive black holes**|V. M. Sabarish et.al.|[2505.14779](http://arxiv.org/abs/2505.14779)|null|
 |**2025-05-20**|**Spiking Neural Networks with Temporal Attention-Guided Adaptive Fusion for imbalanced Multi-modal Learning**|Jiangrong Shen et.al.|[2505.14535](http://arxiv.org/abs/2505.14535)|null|
 |**2025-05-20**|**Energy-Efficient Deep Reinforcement Learning with Spiking Transformers**|Mohammad Irfan Uddin et.al.|[2505.14533](http://arxiv.org/abs/2505.14533)|null|
 |**2025-05-20**|**Design and Evaluation of a Microservices Cloud Framework for Online Travel Platforms**|Biman Barua et.al.|[2505.14508](http://arxiv.org/abs/2505.14508)|null|
@@ -9981,7 +9998,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-16**|**ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network**|Shang Xu et.al.|[2505.11455](http://arxiv.org/abs/2505.11455)|null|
+|**2025-05-16**|**ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network**|Shang Xu et.al.|[2505.11455](http://arxiv.org/abs/2505.11455)|**[link](https://github.com/dgxdn/asrc-snn)**|
 |**2025-05-15**|**ILIF: Temporal Inhibitory Leaky Integrate-and-Fire Neuron for Overactivation in Spiking Neural Networks**|Kai Sun et.al.|[2505.10371](http://arxiv.org/abs/2505.10371)|null|
 |**2025-05-04**|**Cognition without neurons: modelling anticipation in a basal reservoir computer**|Polyphony Bruna et.al.|[2505.02114](http://arxiv.org/abs/2505.02114)|null|
 |**2025-04-03**|**Reservoir Computing: A New Paradigm for Neural Networks**|Felix Grezes et.al.|[2504.02639](http://arxiv.org/abs/2504.02639)|null|
