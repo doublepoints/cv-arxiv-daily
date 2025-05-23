@@ -551,6 +551,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**Tracking the Flight: Exploring a Computational Framework for Analyzing Escape Responses in Plains Zebra (Equus quagga)**|Isla Duporge et.al.|[2505.16882](http://arxiv.org/abs/2505.16882)|null|
 |**2025-05-21**|**A Taxonomy of Structure from Motion Methods**|Federica Arrigoni et.al.|[2505.15814](http://arxiv.org/abs/2505.15814)|null|
 |**2025-05-15**|**Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis**|Francisco Raverta Capua et.al.|[2505.10751](http://arxiv.org/abs/2505.10751)|null|
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
@@ -886,6 +887,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**TAT-VPR: Ternary Adaptive Transformer for Dynamic and Efficient Visual Place Recognition**|Oliver Grainge et.al.|[2505.16447](http://arxiv.org/abs/2505.16447)|null|
+|**2025-05-21**|**Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval**|Siting Li et.al.|[2505.15877](http://arxiv.org/abs/2505.15877)|null|
+|**2025-05-21**|**SCENIR: Visual Semantic Clarity through Unsupervised Scene Graph Retrieval**|Nikolaos Chaidos et.al.|[2505.15867](http://arxiv.org/abs/2505.15867)|null|
 |**2025-05-20**|**Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models**|Kiarash Naghavi Khanghah et.al.|[2505.13828](http://arxiv.org/abs/2505.13828)|null|
 |**2025-05-18**|**MMS-VPR: Multimodal Street-Level Visual Place Recognition Dataset and Benchmark**|Yiwei Ou et.al.|[2505.12254](http://arxiv.org/abs/2505.12254)|null|
 |**2025-05-16**|**Improved Bag-of-Words Image Retrieval with Geometric Constraints for Ground Texture Localization**|Aaron Wilhelm et.al.|[2505.11620](http://arxiv.org/abs/2505.11620)|null|
@@ -2677,6 +2681,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**UAV See, UGV Do: Aerial Imagery and Virtual Teach Enabling Zero-Shot Ground Vehicle Repeat**|Desiree Fisker et.al.|[2505.16912](http://arxiv.org/abs/2505.16912)|null|
 |**2025-05-19**|**IPENS:Interactive Unsupervised Framework for Rapid Plant Phenotyping Extraction via NeRF-SAM2 Fusion**|Wentao Song et.al.|[2505.13633](http://arxiv.org/abs/2505.13633)|null|
 |**2025-05-19**|**3D Gaussian Adaptive Reconstruction for Fourier Light-Field Microscopy**|Chenyu Xu et.al.|[2505.12875](http://arxiv.org/abs/2505.12875)|null|
 |**2025-05-18**|**Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**|Calvin Galagain et.al.|[2505.12384](http://arxiv.org/abs/2505.12384)|null|
@@ -4287,6 +4292,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**A Comprehensive Evaluation of Contemporary ML-Based Solvers for Combinatorial Optimization**|Shengyu Feng et.al.|[2505.16952](http://arxiv.org/abs/2505.16952)|null|
+|**2025-05-22**|**Unsupervised Prompting for Graph Neural Networks**|Peyman Baghershahi et.al.|[2505.16903](http://arxiv.org/abs/2505.16903)|null|
+|**2025-05-22**|**Structure-Aligned Protein Language Model**|Can Chen et.al.|[2505.16896](http://arxiv.org/abs/2505.16896)|null|
+|**2025-05-22**|**Statistical Test for Saliency Maps of Graph Neural Networks via Selective Inference**|Shuichi Nishino et.al.|[2505.16893](http://arxiv.org/abs/2505.16893)|null|
+|**2025-05-22**|**Backward Oversmoothing: why is it hard to train deep Graph Neural Networks?**|Nicolas Keriven et.al.|[2505.16736](http://arxiv.org/abs/2505.16736)|null|
+|**2025-05-22**|**Joint Relational Database Generation via Graph-Conditional Diffusion Models**|Mohamed Amine Ketata et.al.|[2505.16527](http://arxiv.org/abs/2505.16527)|null|
+|**2025-05-22**|**Graph-Supported Dynamic Algorithm Configuration for Multi-Objective Combinatorial Optimization**|Robbert Reijnen et.al.|[2505.16471](http://arxiv.org/abs/2505.16471)|null|
+|**2025-05-22**|**Conf-GNNRec: Quantifying and Calibrating the Prediction Confidence for GNN-based Recommendation Methods**|Meng Yan et.al.|[2505.16466](http://arxiv.org/abs/2505.16466)|null|
+|**2025-05-22**|**Privacy-Aware Cyberterrorism Network Analysis using Graph Neural Networks and Federated Learning**|Anas Ali et.al.|[2505.16371](http://arxiv.org/abs/2505.16371)|null|
+|**2025-05-22**|**Manipulating Elasto-Plastic Objects With 3D Occupancy and Learning-Based Predictive Control**|Zhen Zhang et.al.|[2505.16249](http://arxiv.org/abs/2505.16249)|null|
 |**2025-05-21**|**Higher-order Structure Boosts Link Prediction on Temporal Graphs**|Jingzhe Liu et.al.|[2505.15746](http://arxiv.org/abs/2505.15746)|null|
 |**2025-05-21**|**Graph Conditional Flow Matching for Relational Data Generation**|Davide Scassola et.al.|[2505.15668](http://arxiv.org/abs/2505.15668)|null|
 |**2025-05-21**|**Relationship Analysis of Image-Text Pair in SNS Posts**|Takuto Nabeoka et.al.|[2505.15629](http://arxiv.org/abs/2505.15629)|null|
@@ -8298,6 +8313,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**Arbor-TVB: A Novel Multi-Scale Co-Simulation Framework with a Case Study on Neural-Level Seizure Generation and Whole-Brain Propagation**|Thorsten Hater et.al.|[2505.16861](http://arxiv.org/abs/2505.16861)|null|
+|**2025-05-22**|**Sharp Asymptotic Minimaxity for One-Group Priors in Sparse Normal Means Problem**|Sayantan Paul et.al.|[2505.16428](http://arxiv.org/abs/2505.16428)|null|
+|**2025-05-22**|**Neuromorphic-based metaheuristics: A new generation of low power, low latency and small footprint optimization algorithms**|El-ghazali Talbi et.al.|[2505.16362](http://arxiv.org/abs/2505.16362)|null|
 |**2025-05-21**|**Short-Range Dependency Effects on Transformer Instability and a Decomposed Attention Solution**|Suvadeep Hajra et.al.|[2505.15548](http://arxiv.org/abs/2505.15548)|null|
 |**2025-05-21**|**A Bayesian Approach for Inference on Mixed Graphical Models**|Mauro Florez et.al.|[2505.15464](http://arxiv.org/abs/2505.15464)|null|
 |**2025-05-21**|**A dynamical memory with only one spiking neuron**|Damien Depannemaecker et.al.|[2505.15453](http://arxiv.org/abs/2505.15453)|null|
