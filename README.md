@@ -565,6 +565,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
 |**2025-05-22**|**Tracking the Flight: Exploring a Computational Framework for Analyzing Escape Responses in Plains Zebra (Equus quagga)**|Isla Duporge et.al.|[2505.16882](http://arxiv.org/abs/2505.16882)|null|
 |**2025-05-21**|**A Taxonomy of Structure from Motion Methods**|Federica Arrigoni et.al.|[2505.15814](http://arxiv.org/abs/2505.15814)|null|
 |**2025-05-15**|**Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis**|Francisco Raverta Capua et.al.|[2505.10751](http://arxiv.org/abs/2505.10751)|null|
@@ -903,6 +904,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
+|**2025-05-23**|**DetailFusion: A Dual-branch Framework with Detail Enhancement for Composed Image Retrieval**|Yuxin Yang et.al.|[2505.17796](http://arxiv.org/abs/2505.17796)|null|
+|**2025-05-23**|**CU-Multi: A Dataset for Multi-Robot Data Association**|Doncey Albin et.al.|[2505.17576](http://arxiv.org/abs/2505.17576)|null|
 |**2025-05-22**|**TAT-VPR: Ternary Adaptive Transformer for Dynamic and Efficient Visual Place Recognition**|Oliver Grainge et.al.|[2505.16447](http://arxiv.org/abs/2505.16447)|null|
 |**2025-05-21**|**Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval**|Siting Li et.al.|[2505.15877](http://arxiv.org/abs/2505.15877)|null|
 |**2025-05-21**|**SCENIR: Visual Semantic Clarity through Unsupervised Scene Graph Retrieval**|Nikolaos Chaidos et.al.|[2505.15867](http://arxiv.org/abs/2505.15867)|null|
@@ -2372,6 +2376,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
 |**2025-05-16**|**Multi-view dense image matching with similarity learning and geometry priors**|Mohamed Ali Chebbi et.al.|[2505.11264](http://arxiv.org/abs/2505.11264)|null|
 |**2025-05-12**|**Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection**|Yuqi Cheng et.al.|[2505.07375](http://arxiv.org/abs/2505.07375)|**[link](https://github.com/hustCYQ/GLFM-Multi-class-3DAD)**|
 |**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|**[link](https://github.com/cszhanglmu/obd-finder)**|
@@ -4316,6 +4321,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**Early-Exit Graph Neural Networks**|Andrea Giuseppe Di Francesco et.al.|[2505.18088](http://arxiv.org/abs/2505.18088)|null|
+|**2025-05-23**|**ExoGait-MS: Learning Periodic Dynamics with Multi-Scale Graph Network for Exoskeleton Gait Recognition**|Lijiang Liu et.al.|[2505.18018](http://arxiv.org/abs/2505.18018)|null|
+|**2025-05-23**|**Directed Semi-Simplicial Learning with Applications to Brain Activity Decoding**|Manuel Lecha et.al.|[2505.17939](http://arxiv.org/abs/2505.17939)|null|
+|**2025-05-23**|**TopoPoint: Enhance Topology Reasoning via Endpoint Detection in Autonomous Driving**|Yanping Fu et.al.|[2505.17771](http://arxiv.org/abs/2505.17771)|null|
+|**2025-05-23**|**A Network Science Approach to Granular Time Series Segmentation**|Ivana Kesić et.al.|[2505.17640](http://arxiv.org/abs/2505.17640)|null|
+|**2025-05-23**|**Dynamic Text Bundling Supervision for Zero-Shot Inference on Text-Attributed Graphs**|Yusheng Zhao et.al.|[2505.17599](http://arxiv.org/abs/2505.17599)|null|
+|**2025-05-23**|**Graph Mamba for Efficient Whole Slide Image Understanding**|Jiaxuan Lu et.al.|[2505.17457](http://arxiv.org/abs/2505.17457)|null|
+|**2025-05-23**|**Are GNNs Worth the Effort for IoT Botnet Detection? A Comparative Study of VAE-GNN vs. ViT-MLP and VAE-MLP Approaches**|Hassan Wasswa et.al.|[2505.17363](http://arxiv.org/abs/2505.17363)|null|
+|**2025-05-23**|**Graph Attention Neural Network for Botnet Detection: Evaluating Autoencoder, VAE and PCA-Based Dimension Reduction**|Hassan Wasswa et.al.|[2505.17357](http://arxiv.org/abs/2505.17357)|null|
+|**2025-05-22**|**Model-Free Graph Data Selection under Distribution Shift**|Ting-Wei Li et.al.|[2505.17293](http://arxiv.org/abs/2505.17293)|null|
 |**2025-05-22**|**A Comprehensive Evaluation of Contemporary ML-Based Solvers for Combinatorial Optimization**|Shengyu Feng et.al.|[2505.16952](http://arxiv.org/abs/2505.16952)|null|
 |**2025-05-22**|**Unsupervised Prompting for Graph Neural Networks**|Peyman Baghershahi et.al.|[2505.16903](http://arxiv.org/abs/2505.16903)|null|
 |**2025-05-22**|**Structure-Aligned Protein Language Model**|Can Chen et.al.|[2505.16896](http://arxiv.org/abs/2505.16896)|null|
@@ -7913,6 +7928,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras**|Masataka Kobayashi et.al.|[2505.17582](http://arxiv.org/abs/2505.17582)|null|
 |**2025-05-21**|**Evaluation of Mobile Environment for Vehicular Visible Light Communication Using Multiple LEDs and Event Cameras**|Ryota Soga et.al.|[2505.15412](http://arxiv.org/abs/2505.15412)|null|
 |**2025-05-20**|**Event-Driven Dynamic Scene Depth Completion**|Zhiqiang Yan et.al.|[2505.13279](http://arxiv.org/abs/2505.13279)|null|
 |**2025-05-19**|**Towards Low-Latency Event Stream-based Visual Object Tracking: A Slow-Fast Approach**|Shiao Wang et.al.|[2505.12903](http://arxiv.org/abs/2505.12903)|**[link](https://github.com/event-ahu/slowfast_event_track)**|
@@ -8341,6 +8357,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**SpikeGen: Generative Framework for Visual Spike Stream Processing**|Gaole Dai et.al.|[2505.18049](http://arxiv.org/abs/2505.18049)|null|
+|**2025-05-23**|**Learning with Restricted Boltzmann Machines: Asymptotics of AMP and GD in High Dimensions**|Yizhou Xu et.al.|[2505.18046](http://arxiv.org/abs/2505.18046)|null|
+|**2025-05-23**|**Time to Spike? Understanding the Representational Power of Spiking Neural Networks in Discrete Time**|Duc Anh Nguyen et.al.|[2505.18023](http://arxiv.org/abs/2505.18023)|null|
+|**2025-05-23**|**A Principled Bayesian Framework for Training Binary and Spiking Neural Networks**|James A. Walker et.al.|[2505.17962](http://arxiv.org/abs/2505.17962)|null|
+|**2025-05-23**|**Dark Matter Density Profile Around a Newborn First Star**|Shingo Hirano et.al.|[2505.17828](http://arxiv.org/abs/2505.17828)|null|
+|**2025-05-23**|**Bruno: Backpropagation Running Undersampled for Novel device Optimization**|Luca Fehlings et.al.|[2505.17791](http://arxiv.org/abs/2505.17791)|null|
+|**2025-05-23**|**Object Classification Utilizing Neuromorphic Proprioceptive Signals in Active Exploration: Validated on a Soft Anthropomorphic Hand**|Fengyi Wang et.al.|[2505.17738](http://arxiv.org/abs/2505.17738)|null|
+|**2025-05-23**|**A Bio-mimetic Neuromorphic Model for Heat-evoked Nociceptive Withdrawal Reflex in Upper Limb**|Fengyi Wang et.al.|[2505.17724](http://arxiv.org/abs/2505.17724)|null|
+|**2025-05-23**|**SVL: Spike-based Vision-language Pretraining for Efficient 3D Open-world Understanding**|Xuerui Qiu et.al.|[2505.17674](http://arxiv.org/abs/2505.17674)|null|
 |**2025-05-22**|**Arbor-TVB: A Novel Multi-Scale Co-Simulation Framework with a Case Study on Neural-Level Seizure Generation and Whole-Brain Propagation**|Thorsten Hater et.al.|[2505.16861](http://arxiv.org/abs/2505.16861)|null|
 |**2025-05-22**|**Sharp Asymptotic Minimaxity for One-Group Priors in Sparse Normal Means Problem**|Sayantan Paul et.al.|[2505.16428](http://arxiv.org/abs/2505.16428)|null|
 |**2025-05-22**|**Neuromorphic-based metaheuristics: A new generation of low power, low latency and small footprint optimization algorithms**|El-ghazali Talbi et.al.|[2505.16362](http://arxiv.org/abs/2505.16362)|null|
