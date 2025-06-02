@@ -909,6 +909,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**SORCE: Small Object Retrieval in Complex Environments**|Chunxu Liu et.al.|[2505.24441](http://arxiv.org/abs/2505.24441)|null|
 |**2025-05-29**|**Sketch Down the FLOPs: Towards Efficient Networks for Human Sketch**|Aneeshan Sain et.al.|[2505.23763](http://arxiv.org/abs/2505.23763)|null|
 |**2025-05-28**|**4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians**|Hidenobu Matsuki et.al.|[2505.22859](http://arxiv.org/abs/2505.22859)|null|
 |**2025-05-28**|**UAVPairs: A Challenging Benchmark for Match Pair Retrieval of Large-scale UAV Images**|Junhuan Liu et.al.|[2505.22098](http://arxiv.org/abs/2505.22098)|null|
@@ -2398,6 +2399,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305](http://arxiv.org/abs/2505.24305)|null|
 |**2025-05-28**|**Universal Domain Adaptation for Semantic Segmentation**|Seun-An Choe et.al.|[2505.22458](http://arxiv.org/abs/2505.22458)|null|
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
 |**2025-05-16**|**Multi-view dense image matching with similarity learning and geometry priors**|Mohamed Ali Chebbi et.al.|[2505.11264](http://arxiv.org/abs/2505.11264)|null|
@@ -2738,7 +2740,7 @@
 |**2025-05-28**|**Hyperspectral Gaussian Splatting**|Sunil Kumar Narayanan et.al.|[2505.21890](http://arxiv.org/abs/2505.21890)|null|
 |**2025-05-27**|**Structure from Collision**|Takuhiro Kaneko et.al.|[2505.21335](http://arxiv.org/abs/2505.21335)|null|
 |**2025-05-26**|**OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**|Shintaro Ito et.al.|[2505.20126](http://arxiv.org/abs/2505.20126)|**[link](https://github.com/gsisaoki/omnidirectional_blender_3d_dataset)**|
-|**2025-05-26**|**ErpGS: Equirectangular Image Rendering enhanced with 3D Gaussian Regularization**|Shintaro Ito et.al.|[2505.19883](http://arxiv.org/abs/2505.19883)|null|
+|**2025-05-30**|**ErpGS: Equirectangular Image Rendering enhanced with 3D Gaussian Regularization**|Shintaro Ito et.al.|[2505.19883](http://arxiv.org/abs/2505.19883)|null|
 |**2025-05-26**|**GoLF-NRT: Integrating Global Context and Local Geometry for Few-Shot View Synthesis**|You Wang et.al.|[2505.19813](http://arxiv.org/abs/2505.19813)|**[link](https://github.com/klmav-cuc/golf-nrt)**|
 |**2025-05-26**|**Depth-Guided Bundle Sampling for Efficient Generalizable Neural Radiance Field Reconstruction**|Li Fang et.al.|[2505.19793](http://arxiv.org/abs/2505.19793)|**[link](https://github.com/klmav-cuc/gdb-nerf)**|
 |**2025-05-26**|**ADD-SLAM: Adaptive Dynamic Dense SLAM with Gaussian Splatting**|Wenhua Wu et.al.|[2505.19420](http://arxiv.org/abs/2505.19420)|null|
@@ -4356,6 +4358,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Weisfeiler and Leman Follow the Arrow of Time: Expressive Power of Message Passing in Temporal Event Graphs**|Franziska Heeg et.al.|[2505.24438](http://arxiv.org/abs/2505.24438)|null|
+|**2025-05-30**|**Deep Learning Weather Models for Subregional Ocean Forecasting: A Case Study on the Canary Current Upwelling System**|Giovanny C-Londoño et.al.|[2505.24429](http://arxiv.org/abs/2505.24429)|null|
+|**2025-05-30**|**Heterogeneous Graph Masked Contrastive Learning for Robust Recommendation**|Lei Sang et.al.|[2505.24172](http://arxiv.org/abs/2505.24172)|null|
+|**2025-05-30**|**Biological Pathway Guided Gene Selection Through Collaborative Reinforcement Learning**|Ehtesamul Azim et.al.|[2505.24155](http://arxiv.org/abs/2505.24155)|null|
+|**2025-05-30**|**Practical Bayes-Optimal Membership Inference Attacks**|Marcus Lassila et.al.|[2505.24089](http://arxiv.org/abs/2505.24089)|null|
+|**2025-05-29**|**Primal-Dual Neural Algorithmic Reasoning**|Yu He et.al.|[2505.24067](http://arxiv.org/abs/2505.24067)|null|
+|**2025-05-29**|**Bridging Source and Target Domains via Link Prediction for Unsupervised Domain Adaptation on Graphs**|Yilong Wang et.al.|[2505.24055](http://arxiv.org/abs/2505.24055)|null|
+|**2025-05-29**|**Cosmology with Topological Deep Learning**|Jun-Young Lee et.al.|[2505.23904](http://arxiv.org/abs/2505.23904)|null|
 |**2025-05-29**|**Dual-Task Graph Neural Network for Joint Seizure Onset Zone Localization and Outcome Prediction using Stereo EEG**|Syeda Abeera Amir et.al.|[2505.23669](http://arxiv.org/abs/2505.23669)|null|
 |**2025-05-29**|**AMBER: Adaptive Mesh Generation by Iterative Mesh Resolution Prediction**|Niklas Freymuth et.al.|[2505.23663](http://arxiv.org/abs/2505.23663)|**[link](https://github.com/NiklasFreymuth/AMBER)**|
 |**2025-05-29**|**On Transferring Transferability: Towards a Theory for Size Generalization**|Eitan Levin et.al.|[2505.23599](http://arxiv.org/abs/2505.23599)|**[link](https://github.com/yuxinma98/transferring_transferability)**|
@@ -8000,6 +8010,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**S3CE-Net: Spike-guided Spatiotemporal Semantic Coupling and Expansion Network for Long Sequence Event Re-Identification**|Xianheng Ma et.al.|[2505.24401](http://arxiv.org/abs/2505.24401)|null|
 |**2025-05-27**|**Making Every Event Count: Balancing Data Efficiency and Accuracy in Event Camera Subsampling**|Hesam Araghi et.al.|[2505.21187](http://arxiv.org/abs/2505.21187)|null|
 |**2025-05-28**|**EventEgoHands: Event-based Egocentric 3D Hand Mesh Reconstruction**|Ryosei Hara et.al.|[2505.19169](http://arxiv.org/abs/2505.19169)|null|
 |**2025-05-23**|**Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras**|Masataka Kobayashi et.al.|[2505.17582](http://arxiv.org/abs/2505.17582)|null|
@@ -8431,6 +8442,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Preserved reptile scales retain microscopic features, revealing a new instance of convergent evolution**|Calvin A. Riiska et.al.|[2505.24827](http://arxiv.org/abs/2505.24827)|null|
+|**2025-05-30**|**S3CE-Net: Spike-guided Spatiotemporal Semantic Coupling and Expansion Network for Long Sequence Event Re-Identification**|Xianheng Ma et.al.|[2505.24401](http://arxiv.org/abs/2505.24401)|null|
+|**2025-05-30**|**Proxy Target: Bridging the Gap Between Discrete Spiking Neural Networks and Continuous Control**|Zijie Xu et.al.|[2505.24161](http://arxiv.org/abs/2505.24161)|null|
+|**2025-05-30**|**Energy-Oriented Computing Architecture Simulator for SNN Training**|Yunhao Ma et.al.|[2505.24137](http://arxiv.org/abs/2505.24137)|null|
+|**2025-05-29**|**CNN-LSTM Hybrid Model for AI-Driven Prediction of COVID-19 Severity from Spike Sequences and Clinical Data**|Caio Cheohen et.al.|[2505.23879](http://arxiv.org/abs/2505.23879)|null|
 |**2025-05-29**|**DTBIA: An Immersive Visual Analytics System for Brain-Inspired Research**|Jun-Hsiang Yao et.al.|[2505.23730](http://arxiv.org/abs/2505.23730)|null|
 |**2025-05-29**|**MemAscend: System Memory Optimization for SSD-Offloaded LLM Fine-Tuning**|Yong-Cheng Liaw et.al.|[2505.23254](http://arxiv.org/abs/2505.23254)|null|
 |**2025-05-28**|**PdNeuRAM: Forming-Free, Multi-Bit Pd/HfO2 ReRAM for Energy-Efficient Computing**|Erbing Hua et.al.|[2505.22789](http://arxiv.org/abs/2505.22789)|null|
@@ -10131,6 +10147,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**A Novel Discrete Memristor-Coupled Heterogeneous Dual-Neuron Model and Its Application in Multi-Scenario Image Encryption**|Yi Zou et.al.|[2505.24294](http://arxiv.org/abs/2505.24294)|null|
 |**2025-05-28**|**Neuromorphic Sequential Arena: A Benchmark for Neuromorphic Temporal Processing**|Xinyi Chen et.al.|[2505.22035](http://arxiv.org/abs/2505.22035)|null|
 |**2025-05-16**|**ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network**|Shang Xu et.al.|[2505.11455](http://arxiv.org/abs/2505.11455)|**[link](https://github.com/dgxdn/asrc-snn)**|
 |**2025-05-15**|**ILIF: Temporal Inhibitory Leaky Integrate-and-Fire Neuron for Overactivation in Spiking Neural Networks**|Kai Sun et.al.|[2505.10371](http://arxiv.org/abs/2505.10371)|null|
