@@ -565,6 +565,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225](http://arxiv.org/abs/2506.04225)|null|
+|**2025-06-04**|**Accelerating SfM-based Pose Estimation with Dominating Set**|Joji Joseph et.al.|[2506.03667](http://arxiv.org/abs/2506.03667)|null|
 |**2025-06-02**|**Fast and Robust Rotation Averaging with Anisotropic Coordinate Descent**|Yaroslava Lochman et.al.|[2506.01940](http://arxiv.org/abs/2506.01940)|null|
 |**2025-05-29**|**Rooms from Motion: Un-posed Indoor 3D Object Detection as Localization and Mapping**|Justin Lazarow et.al.|[2505.23756](http://arxiv.org/abs/2505.23756)|null|
 |**2025-05-28**|**Fast Feature Matching of UAV Images via Matrix Band Reduction-based GPU Data Schedule**|San Jiang et.al.|[2505.22089](http://arxiv.org/abs/2505.22089)|null|
@@ -4362,6 +4364,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**chemtrain-deploy: A parallel and scalable framework for machine learning potentials in million-atom MD simulations**|Paul Fuchs et.al.|[2506.04055](http://arxiv.org/abs/2506.04055)|null|
+|**2025-06-04**|**Weisfeiler and Leman Go Gambling: Why Expressive Lottery Tickets Win**|Lorenz Kummer et.al.|[2506.03919](http://arxiv.org/abs/2506.03919)|null|
+|**2025-06-04**|**Learning from Noise: Enhancing DNNs for Event-Based Vision through Controlled Noise Injection**|Marcin Kowalczyk et.al.|[2506.03918](http://arxiv.org/abs/2506.03918)|null|
+|**2025-06-04**|**Graph Neural Networks for Resource Allocation in Multi-Channel Wireless Networks**|Lili Chen et.al.|[2506.03813](http://arxiv.org/abs/2506.03813)|null|
+|**2025-06-04**|**Spatiotemporal Prediction of Electric Vehicle Charging Load Based on Large Language Models**|Hang Fan et.al.|[2506.03728](http://arxiv.org/abs/2506.03728)|null|
+|**2025-06-04**|**DiagNet: Detecting Objects using Diagonal Constraints on Adjacency Matrix of Graph Neural Network**|Chong Hyun Lee et.al.|[2506.03571](http://arxiv.org/abs/2506.03571)|null|
+|**2025-06-04**|**Topology-Aware Graph Neural Network-based State Estimation for PMU-Unobservable Power Systems**|Shiva Moshtagh et.al.|[2506.03493](http://arxiv.org/abs/2506.03493)|null|
+|**2025-06-03**|**Geometric Visual Fusion Graph Neural Networks for Multi-Person Human-Object Interaction Recognition in Videos**|Tanqiu Qiao et.al.|[2506.03440](http://arxiv.org/abs/2506.03440)|null|
+|**2025-06-03**|**Physics and Computing Performance of the EggNet Tracking Pipeline**|Jay Chan et.al.|[2506.03415](http://arxiv.org/abs/2506.03415)|null|
 |**2025-06-03**|**How Explanations Leak the Decision Logic: Stealing Graph Neural Networks via Explanation Alignment**|Bin Ma et.al.|[2506.03087](http://arxiv.org/abs/2506.03087)|null|
 |**2025-06-03**|**Understanding Stability Mechanisms in Single-Atom Alloys with Theory-infused Deep Learning**|Yang Huang et.al.|[2506.03031](http://arxiv.org/abs/2506.03031)|null|
 |**2025-06-03**|**Sheaves Reloaded: A Directional Awakening**|Stefano Fiorini et.al.|[2506.02842](http://arxiv.org/abs/2506.02842)|null|
@@ -8024,6 +8035,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**EV-Flying: an Event-based Dataset for In-The-Wild Recognition of Flying Objects**|Gabriele Magrini et.al.|[2506.04048](http://arxiv.org/abs/2506.04048)|null|
 |**2025-06-03**|**Probabilistic Online Event Downsampling**|Andreu Girbau-Xalabarder et.al.|[2506.02547](http://arxiv.org/abs/2506.02547)|null|
 |**2025-05-30**|**S3CE-Net: Spike-guided Spatiotemporal Semantic Coupling and Expansion Network for Long Sequence Event Re-Identification**|Xianheng Ma et.al.|[2505.24401](http://arxiv.org/abs/2505.24401)|null|
 |**2025-05-27**|**Making Every Event Count: Balancing Data Efficiency and Accuracy in Event Camera Subsampling**|Hesam Araghi et.al.|[2505.21187](http://arxiv.org/abs/2505.21187)|null|
@@ -8457,6 +8469,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Optimal Spiking Brain Compression: Improving One-Shot Post-Training Pruning and Quantization for Spiking Neural Networks**|Lianfeng Shi et.al.|[2506.03996](http://arxiv.org/abs/2506.03996)|null|
+|**2025-06-04**|**From Spikes to Speech: NeuroVoc -- A Biologically Plausible Vocoder Framework for Auditory Perception and Cochlear Implant Simulation**|Jacob de Nobel et.al.|[2506.03959](http://arxiv.org/abs/2506.03959)|null|
+|**2025-06-04**|**Learning from Noise: Enhancing DNNs for Event-Based Vision through Controlled Noise Injection**|Marcin Kowalczyk et.al.|[2506.03918](http://arxiv.org/abs/2506.03918)|null|
+|**2025-06-03**|**SENMAP: Multi-objective data-flow mapping and synthesis for hybrid scalable neuromorphic systems**|Prithvish V Nembhani et.al.|[2506.03450](http://arxiv.org/abs/2506.03450)|null|
+|**2025-06-03**|**Optimizing Software Defined Battery Systems for Transformer Protection**|Sonia Martin et.al.|[2506.03439](http://arxiv.org/abs/2506.03439)|null|
+|**2025-06-03**|**A Bayesian hierarchical model for methane emission source apportionment**|William S. Daniels et.al.|[2506.03395](http://arxiv.org/abs/2506.03395)|null|
+|**2025-06-03**|**Improving Performance of Spike-based Deep Q-Learning using Ternary Neurons**|Aref Ghoreishee et.al.|[2506.03392](http://arxiv.org/abs/2506.03392)|null|
 |**2025-06-03**|**Probing Dark Matter Spike with Gravitational Waves from Early EMRIs in the Milky Way Center**|Chen Feng et.al.|[2506.02937](http://arxiv.org/abs/2506.02937)|null|
 |**2025-06-03**|**Computational Thresholds in Multi-Modal Learning via the Spiked Matrix-Tensor Model**|Hugo Tabanelli et.al.|[2506.02664](http://arxiv.org/abs/2506.02664)|null|
 |**2025-06-03**|**Distributedness based scheduling**|Paritosh Ranjan et.al.|[2506.02581](http://arxiv.org/abs/2506.02581)|null|
@@ -10170,6 +10189,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**Improving Performance of Spike-based Deep Q-Learning using Ternary Neurons**|Aref Ghoreishee et.al.|[2506.03392](http://arxiv.org/abs/2506.03392)|null|
 |**2025-05-30**|**A Novel Discrete Memristor-Coupled Heterogeneous Dual-Neuron Model and Its Application in Multi-Scenario Image Encryption**|Yi Zou et.al.|[2505.24294](http://arxiv.org/abs/2505.24294)|null|
 |**2025-05-28**|**Neuromorphic Sequential Arena: A Benchmark for Neuromorphic Temporal Processing**|Xinyi Chen et.al.|[2505.22035](http://arxiv.org/abs/2505.22035)|null|
 |**2025-05-16**|**ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network**|Shang Xu et.al.|[2505.11455](http://arxiv.org/abs/2505.11455)|**[link](https://github.com/dgxdn/asrc-snn)**|
