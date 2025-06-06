@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|null|
 |**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309](http://arxiv.org/abs/2505.13309)|null|
 |**2025-05-18**|**Structureless VIO**|Junlin Song et.al.|[2505.12337](http://arxiv.org/abs/2505.12337)|null|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
@@ -551,6 +552,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**SupeRANSAC: One RANSAC to Rule Them All**|Daniel Barath et.al.|[2506.04803](http://arxiv.org/abs/2506.04803)|null|
 |**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225](http://arxiv.org/abs/2506.04225)|null|
 |**2025-06-04**|**Accelerating SfM-based Pose Estimation with Dominating Set**|Joji Joseph et.al.|[2506.03667](http://arxiv.org/abs/2506.03667)|null|
 |**2025-06-02**|**Fast and Robust Rotation Averaging with Anisotropic Coordinate Descent**|Yaroslava Lochman et.al.|[2506.01940](http://arxiv.org/abs/2506.01940)|null|
@@ -896,6 +898,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition**|Suhan Woo et.al.|[2506.04764](http://arxiv.org/abs/2506.04764)|null|
+|**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|null|
 |**2025-06-02**|**Entity Image and Mixed-Modal Image Retrieval Datasets**|Cristian-Ioan Blaga et.al.|[2506.02291](http://arxiv.org/abs/2506.02291)|null|
 |**2025-06-01**|**Quantization-based Bounds on the Wasserstein Metric**|Jonathan Bobrutsky et.al.|[2506.00976](http://arxiv.org/abs/2506.00976)|null|
 |**2025-05-30**|**SORCE: Small Object Retrieval in Complex Environments**|Chunxu Liu et.al.|[2505.24441](http://arxiv.org/abs/2505.24441)|null|
@@ -2384,7 +2388,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-30**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305](http://arxiv.org/abs/2505.24305)|null|
+|**2025-06-05**|**Vanishing arcs for isolated plane curve singularities**|Hanwool Bae et.al.|[2506.04917](http://arxiv.org/abs/2506.04917)|null|
+|**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|null|
+|**2025-06-05**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305](http://arxiv.org/abs/2505.24305)|null|
 |**2025-05-28**|**Universal Domain Adaptation for Semantic Segmentation**|Seun-An Choe et.al.|[2505.22458](http://arxiv.org/abs/2505.22458)|null|
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
 |**2025-05-16**|**Multi-view dense image matching with similarity learning and geometry priors**|Mohamed Ali Chebbi et.al.|[2505.11264](http://arxiv.org/abs/2505.11264)|null|
@@ -2716,6 +2722,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation**|Daniel Rho et.al.|[2506.05317](http://arxiv.org/abs/2506.05317)|null|
+|**2025-06-05**|**Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**|Nan Wang et.al.|[2506.05280](http://arxiv.org/abs/2506.05280)|null|
+|**2025-06-05**|**Generating Synthetic Stereo Datasets using 3D Gaussian Splatting and Expert Knowledge Transfer**|Filip Slezak et.al.|[2506.04908](http://arxiv.org/abs/2506.04908)|null|
 |**2025-05-30**|**Hi-Dyna Graph: Hierarchical Dynamic Scene Graph for Robotic Autonomy in Human-Centric Environments**|Jiawei Hou et.al.|[2506.00083](http://arxiv.org/abs/2506.00083)|null|
 |**2025-05-29**|**PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**|Mohamed Rayan Barhdadi et.al.|[2505.23481](http://arxiv.org/abs/2505.23481)|**[link](https://github.com/anonymous-researcher-01/physicsnerf)**|
 |**2025-05-29**|**LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering**|Jonas Kulhanek et.al.|[2505.23158](http://arxiv.org/abs/2505.23158)|null|
@@ -4340,6 +4349,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Joint Beamforming and Integer User Association using a GNN with Gumbel-Softmax Reparameterizations**|Qing Lyu et.al.|[2506.05241](http://arxiv.org/abs/2506.05241)|null|
+|**2025-06-05**|**Mitigating Degree Bias Adaptively with Hard-to-Learn Nodes in Graph Contrastive Learning**|Jingyu Hu et.al.|[2506.05214](http://arxiv.org/abs/2506.05214)|null|
+|**2025-06-05**|**Learning Intrinsic Alignments from Local Galaxy Environments**|Matthew Craigie et.al.|[2506.05155](http://arxiv.org/abs/2506.05155)|null|
+|**2025-06-05**|**Influence Functions for Edge Edits in Non-Convex Graph Neural Networks**|Jaeseung Heo et.al.|[2506.04694](http://arxiv.org/abs/2506.04694)|null|
+|**2025-06-05**|**The Oversmoothing Fallacy: A Misguided Narrative in GNN Research**|MoonJeong Park et.al.|[2506.04653](http://arxiv.org/abs/2506.04653)|null|
+|**2025-06-05**|**Ignoring Directionality Leads to Compromised Graph Neural Network Explanations**|Changsheng Sun et.al.|[2506.04608](http://arxiv.org/abs/2506.04608)|null|
 |**2025-06-04**|**chemtrain-deploy: A parallel and scalable framework for machine learning potentials in million-atom MD simulations**|Paul Fuchs et.al.|[2506.04055](http://arxiv.org/abs/2506.04055)|null|
 |**2025-06-04**|**Weisfeiler and Leman Go Gambling: Why Expressive Lottery Tickets Win**|Lorenz Kummer et.al.|[2506.03919](http://arxiv.org/abs/2506.03919)|null|
 |**2025-06-04**|**Learning from Noise: Enhancing DNNs for Event-Based Vision through Controlled Noise Injection**|Marcin Kowalczyk et.al.|[2506.03918](http://arxiv.org/abs/2506.03918)|null|
@@ -8009,6 +8024,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**FRED: The Florence RGB-Event Drone Dataset**|Gabriele Magrini et.al.|[2506.05163](http://arxiv.org/abs/2506.05163)|null|
+|**2025-06-05**|**Spike-TBR: a Noise Resilient Neuromorphic Event Representation**|Gabriele Magrini. Federico Becattini et.al.|[2506.04817](http://arxiv.org/abs/2506.04817)|null|
 |**2025-06-04**|**EV-Flying: an Event-based Dataset for In-The-Wild Recognition of Flying Objects**|Gabriele Magrini et.al.|[2506.04048](http://arxiv.org/abs/2506.04048)|null|
 |**2025-06-03**|**Probabilistic Online Event Downsampling**|Andreu Girbau-Xalabarder et.al.|[2506.02547](http://arxiv.org/abs/2506.02547)|null|
 |**2025-05-30**|**S3CE-Net: Spike-guided Spatiotemporal Semantic Coupling and Expansion Network for Long Sequence Event Re-Identification**|Xianheng Ma et.al.|[2505.24401](http://arxiv.org/abs/2505.24401)|null|
@@ -8441,11 +8458,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Generalizable, real-time neural decoding with hybrid state-space models**|Avery Hee-Woon Ryoo et.al.|[2506.05320](http://arxiv.org/abs/2506.05320)|null|
+|**2025-06-05**|**Spike-TBR: a Noise Resilient Neuromorphic Event Representation**|Gabriele Magrini. Federico Becattini et.al.|[2506.04817](http://arxiv.org/abs/2506.04817)|null|
+|**2025-06-05**|**Adaptive Preconditioners Trigger Loss Spikes in Adam**|Zhiwei Bai et.al.|[2506.04805](http://arxiv.org/abs/2506.04805)|null|
+|**2025-06-05**|**EECD-Net: Energy-Efficient Crack Detection with Spiking Neural Networks and Gated Attention**|Shuo Zhang et.al.|[2506.04526](http://arxiv.org/abs/2506.04526)|null|
 |**2025-06-04**|**Optimal Spiking Brain Compression: Improving One-Shot Post-Training Pruning and Quantization for Spiking Neural Networks**|Lianfeng Shi et.al.|[2506.03996](http://arxiv.org/abs/2506.03996)|null|
 |**2025-06-04**|**From Spikes to Speech: NeuroVoc -- A Biologically Plausible Vocoder Framework for Auditory Perception and Cochlear Implant Simulation**|Jacob de Nobel et.al.|[2506.03959](http://arxiv.org/abs/2506.03959)|null|
 |**2025-06-04**|**Learning from Noise: Enhancing DNNs for Event-Based Vision through Controlled Noise Injection**|Marcin Kowalczyk et.al.|[2506.03918](http://arxiv.org/abs/2506.03918)|null|
 |**2025-06-03**|**SENMAP: Multi-objective data-flow mapping and synthesis for hybrid scalable neuromorphic systems**|Prithvish V Nembhani et.al.|[2506.03450](http://arxiv.org/abs/2506.03450)|null|
-|**2025-06-03**|**Optimizing Software Defined Battery Systems for Transformer Protection**|Sonia Martin et.al.|[2506.03439](http://arxiv.org/abs/2506.03439)|null|
+|**2025-06-05**|**Optimizing Software Defined Battery Systems for Transformer Protection**|Sonia Martin et.al.|[2506.03439](http://arxiv.org/abs/2506.03439)|null|
 |**2025-06-03**|**A Bayesian hierarchical model for methane emission source apportionment**|William S. Daniels et.al.|[2506.03395](http://arxiv.org/abs/2506.03395)|null|
 |**2025-06-03**|**Improving Performance of Spike-based Deep Q-Learning using Ternary Neurons**|Aref Ghoreishee et.al.|[2506.03392](http://arxiv.org/abs/2506.03392)|null|
 |**2025-06-03**|**Probing Dark Matter Spike with Gravitational Waves from Early EMRIs in the Milky Way Center**|Chen Feng et.al.|[2506.02937](http://arxiv.org/abs/2506.02937)|null|
@@ -10159,6 +10180,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**NOBLE -- Neural Operator with Biologically-informed Latent Embeddings to Capture Experimental Variability in Biological Neuron Models**|Luca Ghafourpour et.al.|[2506.04536](http://arxiv.org/abs/2506.04536)|null|
 |**2025-06-03**|**Improving Performance of Spike-based Deep Q-Learning using Ternary Neurons**|Aref Ghoreishee et.al.|[2506.03392](http://arxiv.org/abs/2506.03392)|null|
 |**2025-05-30**|**A Novel Discrete Memristor-Coupled Heterogeneous Dual-Neuron Model and Its Application in Multi-Scenario Image Encryption**|Yi Zou et.al.|[2505.24294](http://arxiv.org/abs/2505.24294)|null|
 |**2025-05-28**|**Neuromorphic Sequential Arena: A Benchmark for Neuromorphic Temporal Processing**|Xinyi Chen et.al.|[2505.22035](http://arxiv.org/abs/2505.22035)|null|
