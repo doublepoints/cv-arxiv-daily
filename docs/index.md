@@ -902,6 +902,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Robust Visual Localization via Semantic-Guided Multi-Scale Transformer**|Zhongtao Tian et.al.|[2506.08526](http://arxiv.org/abs/2506.08526)|null|
 |**2025-06-08**|**Interpretable and Reliable Detection of AI-Generated Images via Grounded Reasoning in MLLMs**|Yikun Ji et.al.|[2506.07045](http://arxiv.org/abs/2506.07045)|null|
 |**2025-06-07**|**Zero Shot Composed Image Retrieval**|Santhosh Kakarla et.al.|[2506.06602](http://arxiv.org/abs/2506.06602)|null|
 |**2025-06-06**|**GenIR: Generative Visual Feedback for Mental Image Retrieval**|Diji Yang et.al.|[2506.06220](http://arxiv.org/abs/2506.06220)|null|
@@ -2731,6 +2732,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**A Probability-guided Sampler for Neural Implicit Surface Rendering**|Gonçalo Dias Pais et.al.|[2506.08619](http://arxiv.org/abs/2506.08619)|null|
 |**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917](http://arxiv.org/abs/2506.07917)|null|
 |**2025-06-09**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497](http://arxiv.org/abs/2506.07497)|null|
 |**2025-06-07**|**SPC to 3D: Novel View Synthesis from Binary SPC via I2I translation**|Sumit Sharma et.al.|[2506.06890](http://arxiv.org/abs/2506.06890)|null|
@@ -4364,6 +4366,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Effective Data Pruning through Score Extrapolation**|Sebastian Schmidt et.al.|[2506.09010](http://arxiv.org/abs/2506.09010)|null|
+|**2025-06-10**|**Rapid cardiac activation prediction for cardiac resynchronization therapy planning using geometric deep learning**|Ehsan Naghavi et.al.|[2506.08987](http://arxiv.org/abs/2506.08987)|**[link](https://github.com/ehsanngh/DeepCardioSim)**|
+|**2025-06-10**|**Propositional Logic for Probing Generalization in Neural Networks**|Anna Langedijk et.al.|[2506.08978](http://arxiv.org/abs/2506.08978)|null|
+|**2025-06-10**|**Adapting to Heterophilic Graph Data with Structure-Guided Neighbor Discovery**|Victor M. Tenorio et.al.|[2506.08871](http://arxiv.org/abs/2506.08871)|null|
+|**2025-06-10**|**Bridging RDF Knowledge Graphs with Graph Neural Networks for Semantically-Rich Recommender Systems**|Michael Färber et.al.|[2506.08743](http://arxiv.org/abs/2506.08743)|null|
+|**2025-06-10**|**Urban Incident Prediction with Graph Neural Networks: Integrating Government Ratings and Crowdsourced Reports**|Sidhika Balachandar et.al.|[2506.08740](http://arxiv.org/abs/2506.08740)|null|
+|**2025-06-10**|**WGLE:Backdoor-free and Multi-bit Black-box Watermarking for Graph Neural Networks**|Tingzhi Li et.al.|[2506.08602](http://arxiv.org/abs/2506.08602)|null|
+|**2025-06-10**|**HGFormer: A Hierarchical Graph Transformer Framework for Two-Stage Colonel Blotto Games via Reinforcement Learning**|Yang Lv et.al.|[2506.08580](http://arxiv.org/abs/2506.08580)|null|
+|**2025-06-10**|**Rule-Assisted Attribute Embedding**|Sibo Zhao et.al.|[2506.08314](http://arxiv.org/abs/2506.08314)|null|
+|**2025-06-10**|**Learnable Spatial-Temporal Positional Encoding for Link Prediction**|Katherine Tieu et.al.|[2506.08309](http://arxiv.org/abs/2506.08309)|null|
 |**2025-06-09**|**Residual Reweighted Conformal Prediction for Graph Neural Networks**|Zheng Zhang et.al.|[2506.07854](http://arxiv.org/abs/2506.07854)|null|
 |**2025-06-09**|**Language Embedding Meets Dynamic Graph: A New Exploration for Neural Architecture Representation Learning**|Haizhao Jing et.al.|[2506.07735](http://arxiv.org/abs/2506.07735)|null|
 |**2025-06-09**|**HeTa: Relation-wise Heterogeneous Graph Foundation Attack Model**|Yuling Wang et.al.|[2506.07428](http://arxiv.org/abs/2506.07428)|null|
@@ -8059,6 +8071,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Locating Tennis Ball Impact on the Racket in Real Time Using an Event Camera**|Yuto Kase et.al.|[2506.08327](http://arxiv.org/abs/2506.08327)|null|
 |**2025-06-09**|**Spatio-Temporal State Space Model For Efficient Event-Based Optical Flow**|Muhammad Ahmed Humais et.al.|[2506.07878](http://arxiv.org/abs/2506.07878)|null|
 |**2025-06-09**|**Egocentric Event-Based Vision for Ping Pong Ball Trajectory Prediction**|Ivan Alberico et.al.|[2506.07860](http://arxiv.org/abs/2506.07860)|null|
 |**2025-06-07**|**Reading in the Dark with Foveated Event Vision**|Carl Brander et.al.|[2506.06918](http://arxiv.org/abs/2506.06918)|null|
@@ -8499,6 +8512,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**STI-SNN: A 0.14 GOPS/W/PE Single-Timestep Inference FPGA-based SNN Accelerator with Algorithm and Hardware Co-Design**|Kainan Wang et.al.|[2506.08842](http://arxiv.org/abs/2506.08842)|null|
+|**2025-06-09**|**A Practical Guide to Tuning Spiking Neuronal Dynamics**|William Gebhardt et.al.|[2506.08138](http://arxiv.org/abs/2506.08138)|null|
 |**2025-06-09**|**SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**|Xuemei Chen et.al.|[2506.07737](http://arxiv.org/abs/2506.07737)|null|
 |**2025-06-09**|**ReverB-SNN: Reversing Bit of the Weight and Activation for Spiking Neural Networks**|Yufei Guo et.al.|[2506.07720](http://arxiv.org/abs/2506.07720)|null|
 |**2025-06-09**|**Heating Mechanisms and Radio Response from the Solar Chromosphere to Corona**|Baolin Tan et.al.|[2506.07444](http://arxiv.org/abs/2506.07444)|null|
