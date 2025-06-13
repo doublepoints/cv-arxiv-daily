@@ -1,4 +1,4 @@
-## <a id=top></a>Updated on 2025.06.12
+## <a id=top></a>Updated on 2025.06.13
 ---
 layout: default
 ---
@@ -8,13 +8,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## <a id=slam>SLAM</a>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**UFM: A Simple Path towards Unified Dense Correspondence with Flow**|Yuchen Zhang et.al.|[2506.09278](http://arxiv.org/abs/2506.09278)|null|
 |**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005](http://arxiv.org/abs/2506.08005)|null|
 |**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao et.al.|[2506.07013](http://arxiv.org/abs/2506.07013)|null|
 |**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|null|
@@ -902,6 +903,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints**|Xiangkai Zhang et.al.|[2506.09748](http://arxiv.org/abs/2506.09748)|null|
 |**2025-06-10**|**Robust Visual Localization via Semantic-Guided Multi-Scale Transformer**|Zhongtao Tian et.al.|[2506.08526](http://arxiv.org/abs/2506.08526)|null|
 |**2025-06-08**|**Interpretable and Reliable Detection of AI-Generated Images via Grounded Reasoning in MLLMs**|Yikun Ji et.al.|[2506.07045](http://arxiv.org/abs/2506.07045)|null|
 |**2025-06-07**|**Zero Shot Composed Image Retrieval**|Santhosh Kakarla et.al.|[2506.06602](http://arxiv.org/abs/2506.06602)|null|
@@ -2397,6 +2399,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints**|Xiangkai Zhang et.al.|[2506.09748](http://arxiv.org/abs/2506.09748)|null|
+|**2025-06-11**|**ScaleLSD: Scalable Deep Line Segment Detection Streamlined**|Zeran Ke et.al.|[2506.09369](http://arxiv.org/abs/2506.09369)|null|
 |**2025-05-21**|**Anti-interrupted sampling repeater jamming via linear canonical Wigner distribution lightweight LFM detection**|Jia-Mian Li et.al.|[2506.06302](http://arxiv.org/abs/2506.06302)|null|
 |**2025-06-05**|**Vanishing arcs for isolated plane curve singularities**|Hanwool Bae et.al.|[2506.04917](http://arxiv.org/abs/2506.04917)|null|
 |**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|null|
@@ -2732,9 +2736,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**The Less You Depend, The More You Learn: Synthesizing Novel Views from Sparse, Unposed Images without Any 3D Knowledge**|Haoru Wang et.al.|[2506.09885](http://arxiv.org/abs/2506.09885)|null|
 |**2025-06-10**|**A Probability-guided Sampler for Neural Implicit Surface Rendering**|Gonçalo Dias Pais et.al.|[2506.08619](http://arxiv.org/abs/2506.08619)|null|
 |**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917](http://arxiv.org/abs/2506.07917)|null|
-|**2025-06-09**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497](http://arxiv.org/abs/2506.07497)|null|
+|**2025-06-11**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497](http://arxiv.org/abs/2506.07497)|null|
 |**2025-06-07**|**SPC to 3D: Novel View Synthesis from Binary SPC via I2I translation**|Sumit Sharma et.al.|[2506.06890](http://arxiv.org/abs/2506.06890)|null|
 |**2025-06-06**|**Splat and Replace: 3D Reconstruction with Repetitive Elements**|Nicolás Violante et.al.|[2506.06462](http://arxiv.org/abs/2506.06462)|null|
 |**2025-06-06**|**NeurNCD: Novel Class Discovery via Implicit Neural Representation**|Junming Wang et.al.|[2506.06412](http://arxiv.org/abs/2506.06412)|null|
@@ -4366,6 +4371,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Structural-Spectral Graph Convolution with Evidential Edge Learning for Hyperspectral Image Clustering**|Jianhan Qi et.al.|[2506.09920](http://arxiv.org/abs/2506.09920)|null|
+|**2025-06-11**|**Guided Graph Compression for Quantum Graph Neural Networks**|Mikel Casals et.al.|[2506.09862](http://arxiv.org/abs/2506.09862)|null|
+|**2025-06-11**|**Hierarchical Learning-Enhanced MPC for Safe Crowd Navigation with Heterogeneous Constraints**|Huajian Liu et.al.|[2506.09859](http://arxiv.org/abs/2506.09859)|null|
+|**2025-06-11**|**Error-Guided Pose Augmentation: Enhancing Rehabilitation Exercise Assessment through Targeted Data Generation**|Omar Sherif et.al.|[2506.09833](http://arxiv.org/abs/2506.09833)|null|
+|**2025-06-11**|**Devil's Hand: Data Poisoning Attacks to Locally Private Graph Learning Protocols**|Longzhu He et.al.|[2506.09803](http://arxiv.org/abs/2506.09803)|null|
+|**2025-06-11**|**Multi-Level Damage-Aware Graph Learning for Resilient UAV Swarm Networks**|Huan Lin et.al.|[2506.09703](http://arxiv.org/abs/2506.09703)|null|
+|**2025-06-11**|**Toward Scalable Quantum Compilation for Modular Architecture: Qubit Mapping and Reuse via Deep Reinforcement Learning**|Sokea Sang et.al.|[2506.09323](http://arxiv.org/abs/2506.09323)|null|
 |**2025-06-10**|**Effective Data Pruning through Score Extrapolation**|Sebastian Schmidt et.al.|[2506.09010](http://arxiv.org/abs/2506.09010)|null|
 |**2025-06-10**|**Rapid cardiac activation prediction for cardiac resynchronization therapy planning using geometric deep learning**|Ehsan Naghavi et.al.|[2506.08987](http://arxiv.org/abs/2506.08987)|**[link](https://github.com/ehsanngh/DeepCardioSim)**|
 |**2025-06-10**|**Propositional Logic for Probing Generalization in Neural Networks**|Anna Langedijk et.al.|[2506.08978](http://arxiv.org/abs/2506.08978)|null|
@@ -8071,6 +8083,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**WD-DETR: Wavelet Denoising-Enhanced Real-Time Object Detection Transformer for Robot Perception with Event Cameras**|Yangjie Cui et.al.|[2506.09098](http://arxiv.org/abs/2506.09098)|null|
 |**2025-06-10**|**Locating Tennis Ball Impact on the Racket in Real Time Using an Event Camera**|Yuto Kase et.al.|[2506.08327](http://arxiv.org/abs/2506.08327)|null|
 |**2025-06-09**|**Spatio-Temporal State Space Model For Efficient Event-Based Optical Flow**|Muhammad Ahmed Humais et.al.|[2506.07878](http://arxiv.org/abs/2506.07878)|null|
 |**2025-06-09**|**Egocentric Event-Based Vision for Ping Pong Ball Trajectory Prediction**|Ivan Alberico et.al.|[2506.07860](http://arxiv.org/abs/2506.07860)|null|
@@ -8512,9 +8525,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model**|Changwei Wu et.al.|[2506.09695](http://arxiv.org/abs/2506.09695)|null|
+|**2025-06-11**|**A new hierarchical distribution on arbitrary sparse precision matrices**|Gianluca Mastrantonio et.al.|[2506.09607](http://arxiv.org/abs/2506.09607)|null|
+|**2025-06-11**|**Energy Aware Development of Neuromorphic Implantables: From Metrics to Action**|Enrique Barba Roque et.al.|[2506.09599](http://arxiv.org/abs/2506.09599)|null|
+|**2025-06-10**|**Integration of Contrastive Predictive Coding and Spiking Neural Networks**|Emirhan Bilgiç et.al.|[2506.09194](http://arxiv.org/abs/2506.09194)|null|
+|**2025-06-10**|**Spiking Neural Models for Decision-Making Tasks with Learning**|Sophie Jaffard et.al.|[2506.09087](http://arxiv.org/abs/2506.09087)|null|
 |**2025-06-10**|**STI-SNN: A 0.14 GOPS/W/PE Single-Timestep Inference FPGA-based SNN Accelerator with Algorithm and Hardware Co-Design**|Kainan Wang et.al.|[2506.08842](http://arxiv.org/abs/2506.08842)|null|
 |**2025-06-09**|**A Practical Guide to Tuning Spiking Neuronal Dynamics**|William Gebhardt et.al.|[2506.08138](http://arxiv.org/abs/2506.08138)|null|
-|**2025-06-09**|**SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**|Xuemei Chen et.al.|[2506.07737](http://arxiv.org/abs/2506.07737)|null|
+|**2025-06-11**|**SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**|Xuemei Chen et.al.|[2506.07737](http://arxiv.org/abs/2506.07737)|null|
 |**2025-06-09**|**ReverB-SNN: Reversing Bit of the Weight and Activation for Spiking Neural Networks**|Yufei Guo et.al.|[2506.07720](http://arxiv.org/abs/2506.07720)|null|
 |**2025-06-09**|**Heating Mechanisms and Radio Response from the Solar Chromosphere to Corona**|Baolin Tan et.al.|[2506.07444](http://arxiv.org/abs/2506.07444)|null|
 |**2025-06-08**|**Transient Dynamics in Lattices of Differentiating Ring Oscillators**|Peter DelMastro et.al.|[2506.07253](http://arxiv.org/abs/2506.07253)|null|
