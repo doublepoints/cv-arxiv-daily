@@ -20,7 +20,7 @@ layout: default
 |**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao et.al.|[2506.07013](http://arxiv.org/abs/2506.07013)|null|
 |**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|null|
 |**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309](http://arxiv.org/abs/2505.13309)|null|
-|**2025-05-18**|**Structureless VIO**|Junlin Song et.al.|[2505.12337](http://arxiv.org/abs/2505.12337)|null|
+|**2025-06-16**|**Structureless VIO**|Junlin Song et.al.|[2505.12337](http://arxiv.org/abs/2505.12337)|null|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
 |**2025-05-13**|**SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2505.01956](http://arxiv.org/abs/2505.01956)|null|
 |**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb et.al.|[2504.21562](http://arxiv.org/abs/2504.21562)|null|
@@ -903,6 +903,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**A Semantically-Aware Relevance Measure for Content-Based Medical Image Retrieval Evaluation**|Xiaoyang Wei et.al.|[2506.13509](http://arxiv.org/abs/2506.13509)|null|
+|**2025-06-16**|**Hierarchical Multi-Positive Contrastive Learning for Patent Image Retrieval**|Kshitij Kavimandan et.al.|[2506.13496](http://arxiv.org/abs/2506.13496)|null|
+|**2025-06-16**|**EmbodiedPlace: Learning Mixture-of-Features with Embodied Constraints for Visual Place Recognition**|Bingxi Liu et.al.|[2506.13133](http://arxiv.org/abs/2506.13133)|null|
+|**2025-06-16**|**SuperPlace: The Renaissance of Classical Feature Aggregation for Visual Place Recognition in the Era of Foundation Models**|Bingxi Liu et.al.|[2506.13073](http://arxiv.org/abs/2506.13073)|null|
+|**2025-06-14**|**Feature Complementation Architecture for Visual Place Recognition**|Weiwei Wang et.al.|[2506.12401](http://arxiv.org/abs/2506.12401)|null|
 |**2025-06-11**|**Towards a general-purpose foundation model for fMRI analysis**|Cheng Wang et.al.|[2506.11167](http://arxiv.org/abs/2506.11167)|null|
 |**2025-06-11**|**Improving Personalized Search with Regularized Low-Rank Parameter Updates**|Fiona Ryan et.al.|[2506.10182](http://arxiv.org/abs/2506.10182)|**[link](https://github.com/adobe-research/polar-vl)**|
 |**2025-06-10**|**Safeguarding Multimodal Knowledge Copyright in the RAG-as-a-Service Environment**|Tianyu Chen et.al.|[2506.10030](http://arxiv.org/abs/2506.10030)|null|
@@ -2402,6 +2407,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**EmbodiedPlace: Learning Mixture-of-Features with Embodied Constraints for Visual Place Recognition**|Bingxi Liu et.al.|[2506.13133](http://arxiv.org/abs/2506.13133)|null|
 |**2025-06-12**|**RealKeyMorph: Keypoints in Real-world Coordinates for Resolution-agnostic Image Registration**|Mina C. Moghadam et.al.|[2506.10344](http://arxiv.org/abs/2506.10344)|null|
 |**2025-06-11**|**Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints**|Xiangkai Zhang et.al.|[2506.09748](http://arxiv.org/abs/2506.09748)|null|
 |**2025-06-11**|**ScaleLSD: Scalable Deep Line Segment Detection Streamlined**|Zeran Ke et.al.|[2506.09369](http://arxiv.org/abs/2506.09369)|**[link](https://github.com/ant-research/scalelsd)**|
@@ -2740,11 +2746,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-15**|**Rasterizing Wireless Radiance Field via Deformable 2D Gaussian Splatting**|Mufan Liu et.al.|[2506.12787](http://arxiv.org/abs/2506.12787)|null|
+|**2025-06-15**|**Efficient multi-view training for 3D Gaussian Splatting**|Minhyuk Choi et.al.|[2506.12727](http://arxiv.org/abs/2506.12727)|null|
 |**2025-06-12**|**PointGS: Point Attention-Aware Sparse View Synthesis with Gaussian Splatting**|Lintao Xiang et.al.|[2506.10335](http://arxiv.org/abs/2506.10335)|null|
 |**2025-06-11**|**The Less You Depend, The More You Learn: Synthesizing Novel Views from Sparse, Unposed Images without Any 3D Knowledge**|Haoru Wang et.al.|[2506.09885](http://arxiv.org/abs/2506.09885)|null|
 |**2025-06-10**|**A Probability-guided Sampler for Neural Implicit Surface Rendering**|Gonçalo Dias Pais et.al.|[2506.08619](http://arxiv.org/abs/2506.08619)|null|
 |**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917](http://arxiv.org/abs/2506.07917)|**[link](https://github.com/tuallen/speede3dgs)**|
-|**2025-06-11**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497](http://arxiv.org/abs/2506.07497)|null|
+|**2025-06-16**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497](http://arxiv.org/abs/2506.07497)|null|
 |**2025-06-07**|**SPC to 3D: Novel View Synthesis from Binary SPC via I2I translation**|Sumit Sharma et.al.|[2506.06890](http://arxiv.org/abs/2506.06890)|null|
 |**2025-06-06**|**Splat and Replace: 3D Reconstruction with Repetitive Elements**|Nicolás Violante et.al.|[2506.06462](http://arxiv.org/abs/2506.06462)|null|
 |**2025-06-06**|**NeurNCD: Novel Class Discovery via Implicit Neural Representation**|Junming Wang et.al.|[2506.06412](http://arxiv.org/abs/2506.06412)|null|
@@ -4376,6 +4384,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**A Gravity-informed Spatiotemporal Transformer for Human Activity Intensity Prediction**|Yi Wang et.al.|[2506.13678](http://arxiv.org/abs/2506.13678)|null|
+|**2025-06-16**|**TwiUSD: A Benchmark Dataset and Structure-Aware LLM Framework for User Stance Detection**|Fuaing Niu et.al.|[2506.13343](http://arxiv.org/abs/2506.13343)|null|
+|**2025-06-16**|**Navigating the Black Box: Leveraging LLMs for Effective Text-Level Graph Injection Attacks**|Yuefei Lyu et.al.|[2506.13276](http://arxiv.org/abs/2506.13276)|null|
+|**2025-06-16**|**PhenoKG: Knowledge Graph-Driven Gene Discovery and Patient Insights from Phenotypes Alone**|Kamilia Zaripova et.al.|[2506.13119](http://arxiv.org/abs/2506.13119)|null|
+|**2025-06-16**|**Crime Hotspot Prediction Using Deep Graph Convolutional Networks**|Tehreem Zubair et.al.|[2506.13116](http://arxiv.org/abs/2506.13116)|null|
+|**2025-06-16**|**Dynamic Graph Condensation**|Dong Chen et.al.|[2506.13099](http://arxiv.org/abs/2506.13099)|null|
+|**2025-06-16**|**Uncertainty-Aware Graph Neural Networks: A Multi-Hop Evidence Fusion Approach**|Qingfeng Chen et.al.|[2506.13083](http://arxiv.org/abs/2506.13083)|null|
+|**2025-06-15**|**KCLNet: Physics-Informed Power Flow Prediction via Constraints Projections**|Pantelis Dogoulis et.al.|[2506.12902](http://arxiv.org/abs/2506.12902)|null|
+|**2025-06-15**|**Large Scalable Cross-Domain Graph Neural Networks for Personalized Notification at LinkedIn**|Shihai He et.al.|[2506.12700](http://arxiv.org/abs/2506.12700)|null|
+|**2025-06-14**|**RAW-Explainer: Post-hoc Explanations of Graph Neural Networks on Knowledge Graphs**|Ryoji Kubo et.al.|[2506.12558](http://arxiv.org/abs/2506.12558)|null|
 |**2025-06-13**|**How do Probabilistic Graphical Models and Graph Neural Networks Look at Network Data?**|Michela Lapenna et.al.|[2506.11869](http://arxiv.org/abs/2506.11869)|null|
 |**2025-06-13**|**Taxonomy of reduction matrices for Graph Coarsening**|Antonin Joly et.al.|[2506.11743](http://arxiv.org/abs/2506.11743)|null|
 |**2025-06-13**|**Relational GNNs Cannot Learn $C_2$ Features for Planning**|Dillon Z. Chen et.al.|[2506.11721](http://arxiv.org/abs/2506.11721)|null|
@@ -8104,6 +8122,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**How Real is CARLAs Dynamic Vision Sensor? A Study on the Sim-to-Real Gap in Traffic Object Detection**|Kaiyuan Tan et.al.|[2506.13722](http://arxiv.org/abs/2506.13722)|null|
+|**2025-06-16**|**Sparse Convolutional Recurrent Learning for Efficient Event-based Neuromorphic Object Detection**|Shenqi Wang et.al.|[2506.13440](http://arxiv.org/abs/2506.13440)|null|
 |**2025-06-12**|**Human-Robot Navigation using Event-based Cameras and Reinforcement Learning**|Ignacio Bugueno-Cordova et.al.|[2506.10790](http://arxiv.org/abs/2506.10790)|null|
 |**2025-06-10**|**WD-DETR: Wavelet Denoising-Enhanced Real-Time Object Detection Transformer for Robot Perception with Event Cameras**|Yangjie Cui et.al.|[2506.09098](http://arxiv.org/abs/2506.09098)|null|
 |**2025-06-10**|**Locating Tennis Ball Impact on the Racket in Real Time Using an Event Camera**|Yuto Kase et.al.|[2506.08327](http://arxiv.org/abs/2506.08327)|null|
@@ -8547,6 +8567,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Effective Stimulus Propagation in Neural Circuits: Driver Node Selection**|Bulat Batuev et.al.|[2506.13615](http://arxiv.org/abs/2506.13615)|null|
+|**2025-06-16**|**Spiking Neural Networks for Low-Power Vibration-Based Predictive Maintenance**|Alexandru Vasilache et.al.|[2506.13416](http://arxiv.org/abs/2506.13416)|null|
+|**2025-06-16**|**Training Neural Networks by Optimizing Neuron Positions**|Laura Erb et.al.|[2506.13410](http://arxiv.org/abs/2506.13410)|null|
+|**2025-06-16**|**Realtime-Capable Hybrid Spiking Neural Networks for Neural Decoding of Cortical Activity**|Jann Krausse et.al.|[2506.13400](http://arxiv.org/abs/2506.13400)|null|
+|**2025-06-16**|**Probabilistic Modeling of Spiking Neural Networks with Contract-Based Verification**|Zhen Yao et.al.|[2506.13340](http://arxiv.org/abs/2506.13340)|null|
+|**2025-06-16**|**Energy-Efficient Digital Design: A Comparative Study of Event-Driven and Clock-Driven Spiking Neurons**|Filippo Marostica et.al.|[2506.13268](http://arxiv.org/abs/2506.13268)|null|
+|**2025-06-16**|**Dynamic Graph Condensation**|Dong Chen et.al.|[2506.13099](http://arxiv.org/abs/2506.13099)|null|
+|**2025-06-16**|**High-dimensional regression with outcomes of mixed-type using the multivariate spike-and-slab LASSO**|Soham Ghosh et.al.|[2506.13007](http://arxiv.org/abs/2506.13007)|null|
+|**2025-06-15**|**Morse index, topological degree and local uniqueness of multi-spikes solutions to the Lane-Emden problem in dimension two**|Isabella Ianni et.al.|[2506.12905](http://arxiv.org/abs/2506.12905)|null|
+|**2025-06-15**|**Ion Track Formation via Electric-Field-Enhanced Energy Deposition**|Zikang Ge et.al.|[2506.12884](http://arxiv.org/abs/2506.12884)|null|
 |**2025-06-13**|**FeNN: A RISC-V vector processor for Spiking Neural Network acceleration**|Zainab Aizaz et.al.|[2506.11760](http://arxiv.org/abs/2506.11760)|null|
 |**2025-06-12**|**Convolutional method for data assimilation An improved method on neuronal electrophysiological data**|Dawei Li et.al.|[2506.11365](http://arxiv.org/abs/2506.11365)|null|
 |**2025-06-12**|**Mapping and Scheduling Spiking Neural Networks On Segmented Ladder Bus Architectures**|Phu Khanh Huynh et.al.|[2506.11286](http://arxiv.org/abs/2506.11286)|null|
@@ -10295,6 +10325,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Energy-Efficient Digital Design: A Comparative Study of Event-Driven and Clock-Driven Spiking Neurons**|Filippo Marostica et.al.|[2506.13268](http://arxiv.org/abs/2506.13268)|null|
 |**2025-06-13**|**Stable Synchronous Propagation in Feedforward Networks for Biped Locomotion**|Ian Stewart et.al.|[2506.11780](http://arxiv.org/abs/2506.11780)|null|
 |**2025-06-13**|**Synchronous Propagation of Periodic Signals in Feedforward Networks of Standard Model Neurons**|Ian Stewart et.al.|[2506.11776](http://arxiv.org/abs/2506.11776)|null|
 |**2025-06-08**|**RBA-FE: A Robust Brain-Inspired Audio Feature Extractor for Depression Diagnosis**|Yu-Xuan Wu et.al.|[2506.07118](http://arxiv.org/abs/2506.07118)|null|
