@@ -919,6 +919,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search**|Qian Xu et.al.|[2506.14707](http://arxiv.org/abs/2506.14707)|null|
+|**2025-06-17**|**TACS-Graphs: Traversability-Aware Consistent Scene Graphs for Ground Robot Indoor Localization and Mapping**|Jeewon Kim et.al.|[2506.14178](http://arxiv.org/abs/2506.14178)|null|
 |**2025-06-16**|**A Semantically-Aware Relevance Measure for Content-Based Medical Image Retrieval Evaluation**|Xiaoyang Wei et.al.|[2506.13509](http://arxiv.org/abs/2506.13509)|null|
 |**2025-06-16**|**Hierarchical Multi-Positive Contrastive Learning for Patent Image Retrieval**|Kshitij Kavimandan et.al.|[2506.13496](http://arxiv.org/abs/2506.13496)|null|
 |**2025-06-16**|**EmbodiedPlace: Learning Mixture-of-Features with Embodied Constraints for Visual Place Recognition**|Bingxi Liu et.al.|[2506.13133](http://arxiv.org/abs/2506.13133)|null|
@@ -4408,6 +4410,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**Refining music sample identification with a self-supervised graph neural network**|Aditya Bhattacharjee et.al.|[2506.14684](http://arxiv.org/abs/2506.14684)|null|
+|**2025-06-17**|**Automated Decision-Making on Networks with LLMs through Knowledge-Guided Evolution**|Xiaohan Zheng et.al.|[2506.14529](http://arxiv.org/abs/2506.14529)|null|
+|**2025-06-17**|**AST-Enhanced or AST-Overloaded? The Surprising Impact of Hybrid Graph Representations on Code Clone Detection**|Zixian Zhang et.al.|[2506.14470](http://arxiv.org/abs/2506.14470)|null|
+|**2025-06-17**|**Can Large Language Models Improve Spectral Graph Neural Networks?**|Kangkang Lu et.al.|[2506.14220](http://arxiv.org/abs/2506.14220)|null|
+|**2025-06-17**|**NeuroCoreX: An Open-Source FPGA-Based Spiking Neural Network Emulator with On-Chip Learning**|Ashish Gautam et.al.|[2506.14138](http://arxiv.org/abs/2506.14138)|null|
+|**2025-06-17**|**CLGNN: A Contrastive Learning-based GNN Model for Betweenness Centrality Prediction on Temporal Graphs**|Tianming Zhang et.al.|[2506.14122](http://arxiv.org/abs/2506.14122)|null|
+|**2025-06-17**|**Evaluating Loss Functions for Graph Neural Networks: Towards Pretraining and Generalization**|Khushnood Abbas et.al.|[2506.14114](http://arxiv.org/abs/2506.14114)|null|
+|**2025-06-16**|**Quantum-Informed Contrastive Learning with Dynamic Mixup Augmentation for Class-Imbalanced Expert Systems**|Md Abrar Jahin et.al.|[2506.13987](http://arxiv.org/abs/2506.13987)|null|
+|**2025-06-16**|**Density-aware Walks for Coordinated Campaign Detection**|Atul Anand Gopalakrishnan et.al.|[2506.13912](http://arxiv.org/abs/2506.13912)|null|
+|**2025-06-16**|**Logical Expressiveness of Graph Neural Networks with Hierarchical Node Individualization**|Arie Soeteman et.al.|[2506.13911](http://arxiv.org/abs/2506.13911)|null|
 |**2025-06-16**|**A Gravity-informed Spatiotemporal Transformer for Human Activity Intensity Prediction**|Yi Wang et.al.|[2506.13678](http://arxiv.org/abs/2506.13678)|null|
 |**2025-06-16**|**TwiUSD: A Benchmark Dataset and Structure-Aware LLM Framework for User Stance Detection**|Fuaing Niu et.al.|[2506.13343](http://arxiv.org/abs/2506.13343)|null|
 |**2025-06-16**|**Navigating the Black Box: Leveraging LLMs for Effective Text-Level Graph Injection Attacks**|Yuefei Lyu et.al.|[2506.13276](http://arxiv.org/abs/2506.13276)|null|
@@ -8595,7 +8607,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-16**|**Effective Stimulus Propagation in Neural Circuits: Driver Node Selection**|Bulat Batuev et.al.|[2506.13615](http://arxiv.org/abs/2506.13615)|null|
+|**2025-06-17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|Maximilian Baronig et.al.|[2506.14464](http://arxiv.org/abs/2506.14464)|null|
+|**2025-06-17**|**GHz spiking neuromorphic photonic chip with in-situ training**|Jinlong Xiang et.al.|[2506.14272](http://arxiv.org/abs/2506.14272)|null|
+|**2025-06-17**|**NeuroCoreX: An Open-Source FPGA-Based Spiking Neural Network Emulator with On-Chip Learning**|Ashish Gautam et.al.|[2506.14138](http://arxiv.org/abs/2506.14138)|null|
+|**2025-06-16**|**Dynamically Tunable Helical Antenna**|Ethan Chien et.al.|[2506.14065](http://arxiv.org/abs/2506.14065)|null|
+|**2025-06-17**|**Effective Stimulus Propagation in Neural Circuits: Driver Node Selection**|Bulat Batuev et.al.|[2506.13615](http://arxiv.org/abs/2506.13615)|null|
 |**2025-06-16**|**Spiking Neural Networks for Low-Power Vibration-Based Predictive Maintenance**|Alexandru Vasilache et.al.|[2506.13416](http://arxiv.org/abs/2506.13416)|null|
 |**2025-06-16**|**Training Neural Networks by Optimizing Neuron Positions**|Laura Erb et.al.|[2506.13410](http://arxiv.org/abs/2506.13410)|null|
 |**2025-06-16**|**Realtime-Capable Hybrid Spiking Neural Networks for Neural Decoding of Cortical Activity**|Jann Krausse et.al.|[2506.13400](http://arxiv.org/abs/2506.13400)|null|
@@ -10355,6 +10371,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|Maximilian Baronig et.al.|[2506.14464](http://arxiv.org/abs/2506.14464)|null|
+|**2025-06-17**|**NeuroCoreX: An Open-Source FPGA-Based Spiking Neural Network Emulator with On-Chip Learning**|Ashish Gautam et.al.|[2506.14138](http://arxiv.org/abs/2506.14138)|null|
+|**2025-06-16**|**The phenomenological renormalization group in neuronal models near criticality**|Kaio F. R. Nascimento et.al.|[2506.14053](http://arxiv.org/abs/2506.14053)|null|
 |**2025-06-16**|**Energy-Efficient Digital Design: A Comparative Study of Event-Driven and Clock-Driven Spiking Neurons**|Filippo Marostica et.al.|[2506.13268](http://arxiv.org/abs/2506.13268)|null|
 |**2025-06-13**|**Stable Synchronous Propagation in Feedforward Networks for Biped Locomotion**|Ian Stewart et.al.|[2506.11780](http://arxiv.org/abs/2506.11780)|null|
 |**2025-06-13**|**Synchronous Propagation of Periodic Signals in Feedforward Networks of Standard Model Neurons**|Ian Stewart et.al.|[2506.11776](http://arxiv.org/abs/2506.11776)|null|
