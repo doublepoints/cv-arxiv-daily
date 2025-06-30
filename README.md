@@ -1046,7 +1046,7 @@
 |**2025-03-10**|**Improving Visual Place Recognition with Sequence-Matching Receptiveness Prediction**|Somayeh Hussaini et.al.|[2503.06840](http://arxiv.org/abs/2503.06840)|null|
 |**2025-03-09**|**RoboDesign1M: A Large-scale Dataset for Robot Design Understanding**|Tri Le et.al.|[2503.06796](http://arxiv.org/abs/2503.06796)|null|
 |**2025-03-09**|**StructVPR++: Distill Structural and Semantic Knowledge with Weighting Samples for Visual Place Recognition**|Yanqing Shen et.al.|[2503.06601](http://arxiv.org/abs/2503.06601)|**[link](https://github.com/syqlyx/StructVPR)**|
-|**2025-03-09**|**TextInPlace: Indoor Visual Place Recognition in Repetitive Structures with Scene Text Spotting and Verification**|Huaqi Tao et.al.|[2503.06501](http://arxiv.org/abs/2503.06501)|null|
+|**2025-03-09**|**TextInPlace: Indoor Visual Place Recognition in Repetitive Structures with Scene Text Spotting and Verification**|Huaqi Tao et.al.|[2503.06501](http://arxiv.org/abs/2503.06501)|**[link](https://github.com/hqitao/textinplace)**|
 |**2025-03-08**|**NeuraLoc: Visual Localization in Neural Implicit Map with Dual Complementary Features**|Hongjia Zhai et.al.|[2503.06117](http://arxiv.org/abs/2503.06117)|null|
 |**2025-03-07**|**Data-Efficient Generalization for Zero-shot Composed Image Retrieval**|Zining Chen et.al.|[2503.05204](http://arxiv.org/abs/2503.05204)|null|
 |**2025-03-06**|**RadIR: A Scalable Framework for Multi-Grained Medical Image Retrieval via Radiology Report Mining**|Tengfei Zhang et.al.|[2503.04653](http://arxiv.org/abs/2503.04653)|null|
@@ -4467,10 +4467,10 @@
 |**2025-06-22**|**Call Me Maybe: Enhancing JavaScript Call Graph Construction using Graph Neural Networks**|Masudul Hasan Masud Bhuiyan et.al.|[2506.18191](http://arxiv.org/abs/2506.18191)|null|
 |**2025-06-22**|**SliceGX: Layer-wise GNN Explanation with Model-slicing**|Tingting Zhu et.al.|[2506.17977](http://arxiv.org/abs/2506.17977)|null|
 |**2025-06-22**|**TROJAN-GUARD: Hardware Trojans Detection Using GNN in RTL Designs**|Kiran Thorat et.al.|[2506.17894](http://arxiv.org/abs/2506.17894)|null|
-|**2025-06-20**|**Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings**|Aditya Sengar et.al.|[2506.17064](http://arxiv.org/abs/2506.17064)|null|
+|**2025-06-20**|**Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings**|Aditya Sengar et.al.|[2506.17064](http://arxiv.org/abs/2506.17064)|**[link](https://github.com/adityasengar/ld-fpg)**|
 |**2025-06-20**|**Exploring and Improving Initialization for Deep Graph Neural Networks: A Signal Propagation Perspective**|Senmiao Wang et.al.|[2506.16790](http://arxiv.org/abs/2506.16790)|null|
 |**2025-06-19**|**SlepNet: Spectral Subgraph Representation Learning for Neural Dynamics**|Siddharth Viswanath et.al.|[2506.16602](http://arxiv.org/abs/2506.16602)|null|
-|**2025-06-19**|**Geometric Learning in Black-Box Optimization: A GNN Framework for Algorithm Performance Prediction**|Ana Kostovska et.al.|[2506.16144](http://arxiv.org/abs/2506.16144)|null|
+|**2025-06-19**|**Geometric Learning in Black-Box Optimization: A GNN Framework for Algorithm Performance Prediction**|Ana Kostovska et.al.|[2506.16144](http://arxiv.org/abs/2506.16144)|**[link](https://github.com/kostovskaana/gnn4performanceprediction)**|
 |**2025-06-19**|**Mitigating Over-Squashing in Graph Neural Networks by Spectrum-Preserving Sparsification**|Langzhang Liang et.al.|[2506.16110](http://arxiv.org/abs/2506.16110)|null|
 |**2025-06-19**|**Unveiling defect motifs in amorphous GeSe using machine learning interatomic potentials**|Minseok Moon et.al.|[2506.15934](http://arxiv.org/abs/2506.15934)|null|
 |**2025-06-18**|**KG-FGNN: Knowledge-guided GNN Foundation Model for Fertilisation-oriented Soil GHG Flux Prediction**|Yu Zhang et.al.|[2506.15896](http://arxiv.org/abs/2506.15896)|null|
@@ -4495,7 +4495,7 @@
 |**2025-06-16**|**Crime Hotspot Prediction Using Deep Graph Convolutional Networks**|Tehreem Zubair et.al.|[2506.13116](http://arxiv.org/abs/2506.13116)|null|
 |**2025-06-16**|**Dynamic Graph Condensation**|Dong Chen et.al.|[2506.13099](http://arxiv.org/abs/2506.13099)|null|
 |**2025-06-16**|**Uncertainty-Aware Graph Neural Networks: A Multi-Hop Evidence Fusion Approach**|Qingfeng Chen et.al.|[2506.13083](http://arxiv.org/abs/2506.13083)|null|
-|**2025-06-15**|**KCLNet: Physics-Informed Power Flow Prediction via Constraints Projections**|Pantelis Dogoulis et.al.|[2506.12902](http://arxiv.org/abs/2506.12902)|null|
+|**2025-06-15**|**KCLNet: Physics-Informed Power Flow Prediction via Constraints Projections**|Pantelis Dogoulis et.al.|[2506.12902](http://arxiv.org/abs/2506.12902)|**[link](https://github.com/dogoulis/ecml-pf-pred)**|
 |**2025-06-15**|**Large Scalable Cross-Domain Graph Neural Networks for Personalized Notification at LinkedIn**|Shihai He et.al.|[2506.12700](http://arxiv.org/abs/2506.12700)|null|
 |**2025-06-14**|**RAW-Explainer: Post-hoc Explanations of Graph Neural Networks on Knowledge Graphs**|Ryoji Kubo et.al.|[2506.12558](http://arxiv.org/abs/2506.12558)|null|
 |**2025-06-13**|**How do Probabilistic Graphical Models and Graph Neural Networks Look at Network Data?**|Michela Lapenna et.al.|[2506.11869](http://arxiv.org/abs/2506.11869)|null|
@@ -4504,7 +4504,7 @@
 |**2025-06-13**|**Generalised Rate Control Approach For Stream Processing Applications**|Ziren Xiao et.al.|[2506.11710](http://arxiv.org/abs/2506.11710)|null|
 |**2025-06-13**|**Geometry-Aware Edge Pooling for Graph Neural Networks**|Katharina Limbeck et.al.|[2506.11700](http://arxiv.org/abs/2506.11700)|null|
 |**2025-06-13**|**KCES: Training-Free Defense for Robust Graph Neural Networks via Kernel Complexity**|Yaning Jia et.al.|[2506.11611](http://arxiv.org/abs/2506.11611)|null|
-|**2025-06-13**|**SemanticST: Spatially Informed Semantic Graph Learning for1 Clustering, Integration, and Scalable Analysis of Spatial2 Transcriptomics**|Roxana Zahedi et.al.|[2506.11491](http://arxiv.org/abs/2506.11491)|null|
+|**2025-06-13**|**SemanticST: Spatially Informed Semantic Graph Learning for1 Clustering, Integration, and Scalable Analysis of Spatial2 Transcriptomics**|Roxana Zahedi et.al.|[2506.11491](http://arxiv.org/abs/2506.11491)|**[link](https://github.com/roxana9/SemanticST)**|
 |**2025-06-13**|**Structure-Aware Automatic Channel Pruning by Searching with Graph Embedding**|Zifan Liu et.al.|[2506.11469](http://arxiv.org/abs/2506.11469)|null|
 |**2025-06-13**|**FIGNN: Feature-Specific Interpretability for Graph Neural Network Surrogate Models**|Riddhiman Raut et.al.|[2506.11398](http://arxiv.org/abs/2506.11398)|null|
 |**2025-06-13**|**EDN: A Novel Edge-Dependent Noise Model for Graph Data**|Pintu Kumar et.al.|[2506.11368](http://arxiv.org/abs/2506.11368)|null|
@@ -4670,7 +4670,7 @@
 |**2025-05-18**|**It Takes a Graph to Know a Graph: Rewiring for Homophily with a Reference Graph**|Harel Mendelman et.al.|[2505.12411](http://arxiv.org/abs/2505.12411)|**[link](https://github.com/harel147/REFine)**|
 |**2025-05-18**|**LLM-CoT Enhanced Graph Neural Recommendation with Harmonized Group Policy Optimization**|Hailong Luo et.al.|[2505.12396](http://arxiv.org/abs/2505.12396)|null|
 |**2025-05-16**|**Finding Counterfactual Evidences for Node Classification**|Dazhuo Qiu et.al.|[2505.11396](http://arxiv.org/abs/2505.11396)|**[link](https://github.com/dazhuoq/counterfactual_evidence)**|
-|**2025-05-16**|**What Can We Learn From MIMO Graph Convolutions?**|Andreas Roth et.al.|[2505.11346](http://arxiv.org/abs/2505.11346)|null|
+|**2025-05-16**|**What Can We Learn From MIMO Graph Convolutions?**|Andreas Roth et.al.|[2505.11346](http://arxiv.org/abs/2505.11346)|**[link](https://github.com/roth-andreas/mimo-graph-convolutions)**|
 |**2025-05-16**|**The Final Layer Holds the Key: A Unified and Efficient GNN Calibration Framework**|Jincheng Huang et.al.|[2505.11335](http://arxiv.org/abs/2505.11335)|null|
 |**2025-05-16**|**Graph Representational Learning: When Does More Expressivity Hurt Generalization?**|Sohir Maskey et.al.|[2505.11298](http://arxiv.org/abs/2505.11298)|**[link](https://github.com/rpaolino/genvsexp)**|
 |**2025-05-16**|**Unfolded Deep Graph Learning for Networked Over-the-Air Computation**|Xiao Tang et.al.|[2505.11248](http://arxiv.org/abs/2505.11248)|null|
@@ -8699,7 +8699,7 @@
 |**2025-06-19**|**NetSenseML: Network-Adaptive Compression for Efficient Distributed Machine Learning**|Yisu Wang et.al.|[2506.16235](http://arxiv.org/abs/2506.16235)|null|
 |**2025-06-18**|**Dark Count Rate Stability of JUNO 20-inch PMTs in Mass Testing**|Min Li et.al.|[2506.15164](http://arxiv.org/abs/2506.15164)|null|
 |**2025-06-17**|**Extending Spike-Timing Dependent Plasticity to Learning Synaptic Delays**|Marissa Dominijanni et.al.|[2506.14984](http://arxiv.org/abs/2506.14984)|**[link](https://github.com/mdominijanni/dsstdp-results)**|
-|**2025-06-17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|Maximilian Baronig et.al.|[2506.14464](http://arxiv.org/abs/2506.14464)|null|
+|**2025-06-17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|Maximilian Baronig et.al.|[2506.14464](http://arxiv.org/abs/2506.14464)|**[link](https://github.com/imltugraz/hypr)**|
 |**2025-06-17**|**GHz spiking neuromorphic photonic chip with in-situ training**|Jinlong Xiang et.al.|[2506.14272](http://arxiv.org/abs/2506.14272)|null|
 |**2025-06-17**|**NeuroCoreX: An Open-Source FPGA-Based Spiking Neural Network Emulator with On-Chip Learning**|Ashish Gautam et.al.|[2506.14138](http://arxiv.org/abs/2506.14138)|null|
 |**2025-06-16**|**Dynamically Tunable Helical Antenna**|Ethan Chien et.al.|[2506.14065](http://arxiv.org/abs/2506.14065)|null|
@@ -8710,7 +8710,7 @@
 |**2025-06-16**|**Probabilistic Modeling of Spiking Neural Networks with Contract-Based Verification**|Zhen Yao et.al.|[2506.13340](http://arxiv.org/abs/2506.13340)|null|
 |**2025-06-16**|**Energy-Efficient Digital Design: A Comparative Study of Event-Driven and Clock-Driven Spiking Neurons**|Filippo Marostica et.al.|[2506.13268](http://arxiv.org/abs/2506.13268)|null|
 |**2025-06-16**|**Dynamic Graph Condensation**|Dong Chen et.al.|[2506.13099](http://arxiv.org/abs/2506.13099)|null|
-|**2025-06-16**|**High-dimensional regression with outcomes of mixed-type using the multivariate spike-and-slab LASSO**|Soham Ghosh et.al.|[2506.13007](http://arxiv.org/abs/2506.13007)|null|
+|**2025-06-16**|**High-dimensional regression with outcomes of mixed-type using the multivariate spike-and-slab LASSO**|Soham Ghosh et.al.|[2506.13007](http://arxiv.org/abs/2506.13007)|**[link](https://github.com/ghoshstats/mixed-mssl)**|
 |**2025-06-15**|**Morse index, topological degree and local uniqueness of multi-spikes solutions to the Lane-Emden problem in dimension two**|Isabella Ianni et.al.|[2506.12905](http://arxiv.org/abs/2506.12905)|null|
 |**2025-06-15**|**Ion Track Formation via Electric-Field-Enhanced Energy Deposition**|Zikang Ge et.al.|[2506.12884](http://arxiv.org/abs/2506.12884)|null|
 |**2025-06-13**|**FeNN: A RISC-V vector processor for Spiking Neural Network acceleration**|Zainab Aizaz et.al.|[2506.11760](http://arxiv.org/abs/2506.11760)|**[link](https://github.com/neworderofjamie/riscv_ise)**|
