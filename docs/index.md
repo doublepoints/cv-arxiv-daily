@@ -557,6 +557,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-04**|**MGSfM: Multi-Camera Geometry Driven Global Structure-from-Motion**|Peilin Tao et.al.|[2507.03306](http://arxiv.org/abs/2507.03306)|null|
 |**2025-06-30**|**AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention**|Ziao Liu et.al.|[2506.23611](http://arxiv.org/abs/2506.23611)|null|
 |**2025-06-27**|**Single-Scanline Relative Pose Estimation for Rolling Shutter Cameras**|Petr Hruby et.al.|[2506.22069](http://arxiv.org/abs/2506.22069)|null|
 |**2025-06-24**|**ICP-3DGS: SfM-free 3D Gaussian Splatting for Large-scale Unbounded Scenes**|Chenhao Zhang et.al.|[2506.21629](http://arxiv.org/abs/2506.21629)|null|
@@ -911,6 +912,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**An analysis of vision-language models for fabric retrieval**|Francesco Giuliari et.al.|[2507.04735](http://arxiv.org/abs/2507.04735)|null|
+|**2025-07-07**|**What's Making That Sound Right Now? Video-centric Audio-Visual Localization**|Hahyeon Choi et.al.|[2507.04667](http://arxiv.org/abs/2507.04667)|null|
+|**2025-07-07**|**Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR**|Tao Du et.al.|[2507.04662](http://arxiv.org/abs/2507.04662)|null|
+|**2025-07-06**|**U-ViLAR: Uncertainty-Aware Visual Localization for Autonomous Driving via Differentiable Association and Registration**|Xiaofan Li et.al.|[2507.04503](http://arxiv.org/abs/2507.04503)|null|
+|**2025-07-04**|**Query-Based Adaptive Aggregation for Multi-Dataset Joint Training Toward Universal Visual Place Recognition**|Jiuhong Xiao et.al.|[2507.03831](http://arxiv.org/abs/2507.03831)|null|
 |**2025-07-01**|**LoD-Loc v2: Aerial Visual Localization over Low Level-of-Detail City Models using Explicit Silhouette Alignment**|Juelin Zhu et.al.|[2507.00659](http://arxiv.org/abs/2507.00659)|null|
 |**2025-06-28**|**Utilizing a Novel Deep Learning Method for Scene Categorization in Remote Sensing Data**|Ghufran A. Omran et.al.|[2506.22939](http://arxiv.org/abs/2506.22939)|null|
 |**2025-06-28**|**Mask-aware Text-to-Image Retrieval: Referring Expression Segmentation Meets Cross-modal Retrieval**|Li-Cheng Shen et.al.|[2506.22864](http://arxiv.org/abs/2506.22864)|null|
@@ -2434,11 +2440,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-05**|**From Query to Explanation: Uni-RAG for Multi-Modal Retrieval-Augmented Learning in STEM**|Xinyi Wu et.al.|[2507.03868](http://arxiv.org/abs/2507.03868)|null|
 |**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667](http://arxiv.org/abs/2507.01667)|null|
 |**2025-06-30**|**Efficient and Accurate Image Provenance Analysis: A Scalable Pipeline for Large-scale Images**|Jiewei Lai et.al.|[2506.23707](http://arxiv.org/abs/2506.23707)|null|
 |**2025-06-29**|**Dynamic Contrastive Learning for Hierarchical Retrieval: A Case Study of Distance-Aware Cross-View Geo-Localization**|Suofei Zhang et.al.|[2506.23077](http://arxiv.org/abs/2506.23077)|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336](http://arxiv.org/abs/2506.22336)|null|
-|**2025-06-27**|**Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**|Shaojie Zhang et.al.|[2506.22139](http://arxiv.org/abs/2506.22139)|null|
+|**2025-07-07**|**Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**|Shaojie Zhang et.al.|[2506.22139](http://arxiv.org/abs/2506.22139)|null|
 |**2025-06-27**|**ZeroReg3D: A Zero-shot Registration Pipeline for 3D Consecutive Histopathology Image Reconstruction**|Juming Xiong et.al.|[2506.21923](http://arxiv.org/abs/2506.21923)|null|
 |**2025-06-25**|**Fast entropy-regularized SDP relaxations for permutation synchronization**|Michael Lindsey et.al.|[2506.20191](http://arxiv.org/abs/2506.20191)|null|
 |**2025-06-18**|**ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**|Ziling Huang et.al.|[2506.15180](http://arxiv.org/abs/2506.15180)|null|
@@ -2781,6 +2788,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-06**|**A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields**|Aoxiang Fan et.al.|[2507.04408](http://arxiv.org/abs/2507.04408)|null|
 |**2025-07-02**|**Tile and Slide : A New Framework for Scaling NeRF from Local to Global 3D Earth Observation**|Camille Billouard et.al.|[2507.01631](http://arxiv.org/abs/2507.01631)|null|
 |**2025-07-01**|**Surgical Neural Radiance Fields from One Image**|Alberto Neri et.al.|[2507.00969](http://arxiv.org/abs/2507.00969)|null|
 |**2025-07-01**|**PlantSegNeRF: A few-shot, cross-dataset method for plant 3D instance point cloud reconstruction via joint-channel NeRF with multi-view image instance matching**|Xin Yang et.al.|[2507.00371](http://arxiv.org/abs/2507.00371)|null|
@@ -4438,6 +4446,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Exploring Semantic Clustering and Similarity Search for Heterogeneous Traffic Scenario Graph**|Ferdinand Mütsch et.al.|[2507.05086](http://arxiv.org/abs/2507.05086)|null|
+|**2025-07-07**|**Replacing detector simulation with heterogeneous GNNs in flavour physics analyses**|Guillermo Hijano et.al.|[2507.05069](http://arxiv.org/abs/2507.05069)|null|
+|**2025-07-07**|**Hierarchical Intent-guided Optimization with Pluggable LLM-Driven Semantics for Session-based Recommendation**|Jinpeng Chen et.al.|[2507.04623](http://arxiv.org/abs/2507.04623)|null|
+|**2025-07-06**|**Computed Tomography Visual Question Answering with Cross-modal Feature Graphing**|Yuanhe Tian et.al.|[2507.04333](http://arxiv.org/abs/2507.04333)|null|
+|**2025-07-05**|**Graph Neural Networks as a Substitute for Transformers in Single-Cell Transcriptomics**|Jiaxin Qi et.al.|[2507.04125](http://arxiv.org/abs/2507.04125)|null|
+|**2025-07-05**|**Commute Networks as a Signature of Urban Socioeconomic Performance: Evaluating Mobility Structures with Deep Learning Models**|Devashish Khulbe et.al.|[2507.04027](http://arxiv.org/abs/2507.04027)|null|
+|**2025-07-05**|**Graph Collaborative Attention Network for Link Prediction in Knowledge Graphs**|Thanh Hoang-Minh et.al.|[2507.03947](http://arxiv.org/abs/2507.03947)|null|
+|**2025-07-05**|**Combining Graph Neural Networks and Mixed Integer Linear Programming for Molecular Inference under the Two-Layered Model**|Jianshen Zhu et.al.|[2507.03920](http://arxiv.org/abs/2507.03920)|null|
+|**2025-07-05**|**Transformer with Koopman-Enhanced Graph Convolutional Network for Spatiotemporal Dynamics Forecasting**|Zekai Wang et.al.|[2507.03855](http://arxiv.org/abs/2507.03855)|null|
+|**2025-07-05**|**OrbitAll: A Unified Quantum Mechanical Representation Deep Learning Framework for All Molecular Systems**|Beom Seok Kang et.al.|[2507.03853](http://arxiv.org/abs/2507.03853)|null|
 |**2025-07-03**|**RLHGNN: Reinforcement Learning-driven Heterogeneous Graph Neural Network for Next Activity Prediction in Business Processes**|Jiaxing Wang et.al.|[2507.02690](http://arxiv.org/abs/2507.02690)|null|
 |**2025-07-03**|**When Attention is Beneficial for Learning Wireless Resource Allocation Efficiently?**|Jia Guo et.al.|[2507.02427](http://arxiv.org/abs/2507.02427)|null|
 |**2025-07-03**|**S2FGL: Spatial Spectral Federated Graph Learning**|Zihan Tan et.al.|[2507.02409](http://arxiv.org/abs/2507.02409)|null|
@@ -8259,6 +8277,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-06**|**Hardware-Free Event Cameras Temporal Synchronization Based on Event Density Alignment**|Wenxuan Li et.al.|[2507.04314](http://arxiv.org/abs/2507.04314)|null|
+|**2025-07-04**|**Efficient Event-Based Semantic Segmentation via Exploiting Frame-Event Fusion: A Hybrid Neural Network Approach**|Hebei Li et.al.|[2507.03765](http://arxiv.org/abs/2507.03765)|null|
+|**2025-07-01**|**EvRWKV: A RWKV Framework for Effective Event-guided Low-Light Image Enhancement**|WenJie Cai et.al.|[2507.03184](http://arxiv.org/abs/2507.03184)|null|
 |**2025-07-02**|**Interpolation-Based Event Visual Data Filtering Algorithms**|Marcin Kowlaczyk et.al.|[2507.01557](http://arxiv.org/abs/2507.01557)|null|
 |**2025-06-30**|**Mamba-FETrack V2: Revisiting State Space Model for Frame-Event based Visual Object Tracking**|Shiao Wang et.al.|[2506.23783](http://arxiv.org/abs/2506.23783)|null|
 |**2025-06-30**|**Event-based Tiny Object Detection: A Benchmark Dataset and Baseline**|Nuo Chen et.al.|[2506.23575](http://arxiv.org/abs/2506.23575)|null|
@@ -8714,6 +8735,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Self-consistent moment dynamics for networks of spiking neurons**|Gianni Valerio Vinci et.al.|[2507.05117](http://arxiv.org/abs/2507.05117)|null|
+|**2025-07-07**|**Supported Abstract Argumentation for Case-Based Reasoning**|Adam Gould et.al.|[2507.04994](http://arxiv.org/abs/2507.04994)|null|
+|**2025-07-07**|**The EoR 21-cm Bispectrum at $z=8.2$ from MWA data I: Foregrounds and preliminary upper limits**|Sukhdeep Singh Gill et.al.|[2507.04964](http://arxiv.org/abs/2507.04964)|null|
+|**2025-07-04**|**Efficient Event-Based Semantic Segmentation via Exploiting Frame-Event Fusion: A Hybrid Neural Network Approach**|Hebei Li et.al.|[2507.03765](http://arxiv.org/abs/2507.03765)|null|
+|**2025-07-04**|**Disentangling Doubt in Deep Causal AI**|Cooper Doyle et.al.|[2507.03622](http://arxiv.org/abs/2507.03622)|null|
+|**2025-07-04**|**Benchmarking Spiking Neurons for Linear Quadratic Regulator Control of Multi-linked Pole on a Cart: from Single Neuron to Ensemble**|Shreyan Banerjee et.al.|[2507.03621](http://arxiv.org/abs/2507.03621)|null|
+|**2025-07-03**|**The role of gain neuromodulation in layer-5 pyramidal neurons**|Alejandro Rodriguez-Garcia et.al.|[2507.03222](http://arxiv.org/abs/2507.03222)|null|
+|**2025-07-03**|**The Effect of Spike Geometry on the Linear and Nonlinear Plasmonic Properties of Gold Nanourchins**|Domantas Peckus et.al.|[2507.03161](http://arxiv.org/abs/2507.03161)|null|
 |**2025-07-03**|**Network structural change point detection and reconstruction for balanced neuronal networks**|Kai Chen et.al.|[2507.02450](http://arxiv.org/abs/2507.02450)|null|
 |**2025-07-03**|**Transformer-based EEG Decoding: A Survey**|Haodong Zhang et.al.|[2507.02320](http://arxiv.org/abs/2507.02320)|null|
 |**2025-07-02**|**Surface Waves at Switchback Boundaries in the Young Solar Wind from Parker Solar Probe Observations**|Kyung-Eun Choi et.al.|[2507.01252](http://arxiv.org/abs/2507.01252)|null|
