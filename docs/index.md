@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Hardware-Aware Feature Extraction Quantisation for Real-Time Visual Odometry on FPGA Platforms**|Mateusz Wasala et.al.|[2507.07903](http://arxiv.org/abs/2507.07903)|null|
 |**2025-06-30**|**VOCAL: Visual Odometry via ContrAstive Learning**|Chi-Yao Huang et.al.|[2507.00243](http://arxiv.org/abs/2507.00243)|null|
 |**2025-06-29**|**Event-based Stereo Visual-Inertial Odometry with Voxel Map**|Zhaoxing Zhang et.al.|[2506.23078](http://arxiv.org/abs/2506.23078)|null|
 |**2025-06-10**|**UFM: A Simple Path towards Unified Dense Correspondence with Flow**|Yuchen Zhang et.al.|[2506.09278](http://arxiv.org/abs/2506.09278)|null|
@@ -912,6 +913,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**SCREP: Scene Coordinate Regression and Evidential Learning-based Perception-Aware Trajectory Generation**|Juyeop Han et.al.|[2507.07467](http://arxiv.org/abs/2507.07467)|null|
+|**2025-07-10**|**VP-SelDoA: Visual-prompted Selective DoA Estimation of Target Sound via Semantic-Spatial Matching**|Yu Chen et.al.|[2507.07384](http://arxiv.org/abs/2507.07384)|null|
+|**2025-07-08**|**FACap: A Large-scale Fashion Dataset for Fine-grained Composed Image Retrieval**|François Gardères et.al.|[2507.07135](http://arxiv.org/abs/2507.07135)|null|
 |**2025-07-09**|**Evaluating Attribute Confusion in Fashion Text-to-Image Generation**|Ziyue Liu et.al.|[2507.07079](http://arxiv.org/abs/2507.07079)|null|
 |**2025-07-09**|**MS-DPPs: Multi-Source Determinantal Point Processes for Contextual Diversity Refinement of Composite Attributes in Text to Image Retrieval**|Naoya Sogi et.al.|[2507.06654](http://arxiv.org/abs/2507.06654)|null|
 |**2025-07-08**|**Automatic Synthesis of High-Quality Triplet Data for Composed Image Retrieval**|Haiwen Li et.al.|[2507.05970](http://arxiv.org/abs/2507.05970)|null|
@@ -2130,6 +2134,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Doodle Your Keypoints: Sketch-Based Few-Shot Keypoint Detection**|Subhajit Maity et.al.|[2507.07994](http://arxiv.org/abs/2507.07994)|null|
 |**2025-07-09**|**Reading a Ruler in the Wild**|Yimu Pan et.al.|[2507.07077](http://arxiv.org/abs/2507.07077)|null|
 |**2025-07-09**|**MK-Pose: Category-Level Object Pose Estimation via Multimodal-Based Keypoint Learning**|Yifan Yang et.al.|[2507.06662](http://arxiv.org/abs/2507.06662)|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336](http://arxiv.org/abs/2506.22336)|null|
@@ -2796,6 +2801,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation**|Bangning Wei et.al.|[2507.07519](http://arxiv.org/abs/2507.07519)|null|
 |**2025-07-08**|**A Probabilistic Approach to Uncertainty Quantification Leveraging 3D Geometry**|Rushil Desai et.al.|[2507.06269](http://arxiv.org/abs/2507.06269)|null|
 |**2025-07-08**|**Reflections Unlock: Geometry-Aware Reflection Disentanglement in 3D Gaussian Splatting for Photorealistic Scenes Rendering**|Jiayi Song et.al.|[2507.06103](http://arxiv.org/abs/2507.06103)|null|
 |**2025-07-08**|**DreamArt: Generating Interactable Articulated Objects from a Single Image**|Ruijie Lu et.al.|[2507.05763](http://arxiv.org/abs/2507.05763)|null|
@@ -4457,6 +4463,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Credit Risk Analysis for SMEs Using Graph Neural Networks in Supply Chain**|Zizhou Zhang et.al.|[2507.07854](http://arxiv.org/abs/2507.07854)|null|
+|**2025-07-10**|**Machine Learning Tools for the IceCube-Gen2 Optical Array**|Francisco Javier Vara Carbonell et.al.|[2507.07844](http://arxiv.org/abs/2507.07844)|null|
+|**2025-07-10**|**Context Pooling: Query-specific Graph Pooling for Generic Inductive Link Prediction in Knowledge Graphs**|Zhixiang Su et.al.|[2507.07595](http://arxiv.org/abs/2507.07595)|null|
+|**2025-07-10**|**Reconstruction of cosmic-ray properties with GNN in GRAND**|Arsène Ferrière et.al.|[2507.07541](http://arxiv.org/abs/2507.07541)|null|
+|**2025-07-10**|**NLGCL: Naturally Existing Neighbor Layers Graph Contrastive Learning for Recommendation**|Jinfeng Xu et.al.|[2507.07522](http://arxiv.org/abs/2507.07522)|null|
+|**2025-07-10**|**GNN-CNN: An Efficient Hybrid Model of Convolutional and Graph Neural Networks for Text Representation**|Fardin Rastakhiz et.al.|[2507.07414](http://arxiv.org/abs/2507.07414)|null|
+|**2025-07-10**|**HGMP:Heterogeneous Graph Multi-Task Prompt Learning**|Pengfei Jiao et.al.|[2507.07405](http://arxiv.org/abs/2507.07405)|null|
+|**2025-07-10**|**ST-GRIT: Spatio-Temporal Graph Transformer For Internal Ice Layer Thickness Prediction**|Zesheng Liu et.al.|[2507.07389](http://arxiv.org/abs/2507.07389)|null|
+|**2025-07-10**|**GRIT: Graph Transformer For Internal Ice Layer Thickness Prediction**|Zesheng Liu et.al.|[2507.07388](http://arxiv.org/abs/2507.07388)|null|
+|**2025-07-10**|**Atherosclerosis through Hierarchical Explainable Neural Network Analysis**|Irsyad Adam et.al.|[2507.07373](http://arxiv.org/abs/2507.07373)|null|
 |**2025-07-09**|**An AI Approach for Learning the Spectrum of the Laplace-Beltrami Operator**|Yulin An et.al.|[2507.07073](http://arxiv.org/abs/2507.07073)|null|
 |**2025-07-09**|**GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning**|S M Taslim Uddin Raju et.al.|[2507.07006](http://arxiv.org/abs/2507.07006)|null|
 |**2025-07-09**|**Heterogeneous Graph Neural Networks for Short-term State Forecasting in Power Systems across Domains and Time Scales: A Hydroelectric Power Plant Case Study**|Raffael Theiler et.al.|[2507.06694](http://arxiv.org/abs/2507.06694)|null|
@@ -8762,6 +8778,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Homeostatic Adaptation of Optimal Population Codes under Metabolic Stress**|Yi-Chun Hung et.al.|[2507.07874](http://arxiv.org/abs/2507.07874)|null|
+|**2025-07-10**|**EEvAct: Early Event-Based Action Recognition with High-Rate Two-Stream Spiking Neural Networks**|Michael Neumeier et.al.|[2507.07734](http://arxiv.org/abs/2507.07734)|null|
+|**2025-07-10**|**IML-Spikeformer: Input-aware Multi-Level Spiking Transformer for Speech Processing**|Zeyang Song et.al.|[2507.07396](http://arxiv.org/abs/2507.07396)|null|
+|**2025-07-09**|**KMT-2024-BLG-0404L: A triple microlensing system consisting of a star, a brown dwarf, and a planet**|Cheongho Han et.al.|[2507.07326](http://arxiv.org/abs/2507.07326)|null|
+|**2025-07-09**|**A Robust, Open-Source Framework for Spiking Neural Networks on Low-End FPGAs**|Andrew Fan et.al.|[2507.07284](http://arxiv.org/abs/2507.07284)|null|
 |**2025-07-09**|**Quantum Spectral Clustering: Comparing Parameterized and Neuromorphic Quantum Kernels**|Donovan Slabbert et.al.|[2507.07018](http://arxiv.org/abs/2507.07018)|null|
 |**2025-07-09**|**Post-adiabatic waveforms from extreme mass ratio inspirals in the presence of dark matter**|Mostafizur Rahman et.al.|[2507.06923](http://arxiv.org/abs/2507.06923)|null|
 |**2025-07-09**|**Bayesian Generalized Nonlinear Models Offer Basis Free SINDy With Model Uncertainty**|Aliaksandr Hubin et.al.|[2507.06776](http://arxiv.org/abs/2507.06776)|null|
