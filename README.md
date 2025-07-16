@@ -930,6 +930,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**Orchestrator-Agent Trust: A Modular Agentic AI Visual Classification System with Trust-Aware Orchestration and RAG-Based Reasoning**|Konstantinos I. Roumeliotis et.al.|[2507.10571](http://arxiv.org/abs/2507.10571)|null|
 |**2025-07-14**|**GT-Loc: Unifying When and Where in Images Through a Joint Embedding Space**|David G. Shatwell et.al.|[2507.10473](http://arxiv.org/abs/2507.10473)|null|
 |**2025-07-14**|**Text-to-Remote-Sensing-Image Retrieval beyond RGB Sources**|Daniele Rege Cambrin et.al.|[2507.10403](http://arxiv.org/abs/2507.10403)|null|
 |**2025-07-14**|**Kaleidoscopic Background Attack: Disrupting Pose Estimation with Multi-Fold Radial Symmetry Textures**|Xinlong Ding et.al.|[2507.10265](http://arxiv.org/abs/2507.10265)|null|
@@ -2160,6 +2161,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**KptLLM++: Towards Generic Keypoint Comprehension with Large Language Model**|Jie Yang et.al.|[2507.11102](http://arxiv.org/abs/2507.11102)|null|
+|**2025-07-15**|**GKNet: Graph-based Keypoints Network for Monocular Pose Estimation of Non-cooperative Spacecraft**|Weizhao Ma et.al.|[2507.11077](http://arxiv.org/abs/2507.11077)|null|
+|**2025-07-14**|**FPC-Net: Revisiting SuperPoint with Descriptor-Free Keypoint Detection via Feature Pyramids and Consistency-Based Implicit Matching**|Ionuţ Grigore et.al.|[2507.10770](http://arxiv.org/abs/2507.10770)|null|
 |**2025-07-11**|**Doodle Your Keypoints: Sketch-Based Few-Shot Keypoint Detection**|Subhajit Maity et.al.|[2507.07994](http://arxiv.org/abs/2507.07994)|null|
 |**2025-07-09**|**Reading a Ruler in the Wild**|Yimu Pan et.al.|[2507.07077](http://arxiv.org/abs/2507.07077)|null|
 |**2025-07-09**|**MK-Pose: Category-Level Object Pose Estimation via Multimodal-Based Keypoint Learning**|Yifan Yang et.al.|[2507.06662](http://arxiv.org/abs/2507.06662)|null|
@@ -4498,6 +4502,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Modeling Code: Is Text All You Need?**|Daniel Nichols et.al.|[2507.11467](http://arxiv.org/abs/2507.11467)|null|
+|**2025-07-15**|**Urban delineation through the lens of commute networks: Leveraging graph embeddings to distinguish socioeconomic groups in cities**|Devashish Khulbe et.al.|[2507.11057](http://arxiv.org/abs/2507.11057)|null|
+|**2025-07-15**|**GATE: Graph Attention Neural Networks with Real-Time Edge Construction for Robust Indoor Localization using Mobile Embedded Devices**|Danish Gufran et.al.|[2507.11053](http://arxiv.org/abs/2507.11053)|null|
+|**2025-07-15**|**Graph-based Fingerprint Update Using Unlabelled WiFi Signals**|Ka Ho Chiu et.al.|[2507.11038](http://arxiv.org/abs/2507.11038)|null|
+|**2025-07-15**|**GALDS: A Graph-Autoencoder-based Latent Dynamics Surrogate model to predict neurite material transport**|Tsung Yeh Hsieh et.al.|[2507.10871](http://arxiv.org/abs/2507.10871)|null|
+|**2025-07-14**|**HEIMDALL: a grapH-based sEIsMic Detector And Locator for microseismicity**|Matteo Bagagli et.al.|[2507.10850](http://arxiv.org/abs/2507.10850)|null|
+|**2025-07-14**|**REAL-IoT: Characterizing GNN Intrusion Detection Robustness under Practical Adversarial Attack**|Zhonghao Zhan et.al.|[2507.10836](http://arxiv.org/abs/2507.10836)|null|
+|**2025-07-14**|**From Small to Large: A Graph Convolutional Network Approach for Solving Assortment Optimization Problems**|Guokai Li et.al.|[2507.10834](http://arxiv.org/abs/2507.10834)|null|
+|**2025-07-14**|**Learning to Quantize and Precode in Massive MIMO Systems for Energy Reduction: a Graph Neural Network Approach**|Thomas Feys et.al.|[2507.10634](http://arxiv.org/abs/2507.10634)|null|
 |**2025-07-14**|**Beyond-mean-field fluctuations for the solution of constraint satisfaction problems**|Niklas Foos et.al.|[2507.10360](http://arxiv.org/abs/2507.10360)|null|
 |**2025-07-14**|**T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs**|Alireza Dizaji et.al.|[2507.10183](http://arxiv.org/abs/2507.10183)|null|
 |**2025-07-14**|**Forecasting Coccidioidomycosis (Valley Fever) in Arizona: A Graph Neural Network Approach**|Ali Sarabi et.al.|[2507.10014](http://arxiv.org/abs/2507.10014)|null|
@@ -8371,6 +8384,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**All Eyes, no IMU: Learning Flight Attitude from Vision Alone**|Jesse J. Hagenaars et.al.|[2507.11302](http://arxiv.org/abs/2507.11302)|null|
 |**2025-07-15**|**mmE-Loc: Facilitating Accurate Drone Landing with Ultra-High-Frequency Localization**|Haoyang Wang et.al.|[2507.09469](http://arxiv.org/abs/2507.09469)|null|
 |**2025-07-09**|**EA: An Event Autoencoder for High-Speed Vision Sensing**|Riadul Islam et.al.|[2507.06459](http://arxiv.org/abs/2507.06459)|null|
 |**2025-07-06**|**Hardware-Free Event Cameras Temporal Synchronization Based on Event Density Alignment**|Wenxuan Li et.al.|[2507.04314](http://arxiv.org/abs/2507.04314)|null|
@@ -8833,6 +8847,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Langevin Flows for Modeling Neural Latent Dynamics**|Yue Song et.al.|[2507.11531](http://arxiv.org/abs/2507.11531)|null|
+|**2025-07-15**|**Robust Bayesian high-dimensional variable selection and inference with the horseshoe family of priors**|Kun Fan et.al.|[2507.10975](http://arxiv.org/abs/2507.10975)|null|
+|**2025-07-14**|**LASANA: Large-scale Surrogate Modeling for Analog Neuromorphic Architecture Exploration**|Jason Ho et.al.|[2507.10748](http://arxiv.org/abs/2507.10748)|null|
+|**2025-07-14**|**Bridging Brains and Machines: A Unified Frontier in Neuroscience, Artificial Intelligence, and Neuromorphic Systems**|Sohan Shankar et.al.|[2507.10722](http://arxiv.org/abs/2507.10722)|null|
 |**2025-07-13**|**Edgeworth corrections for the spiked eigenvalues of non-Gaussian sample covariance matrices with applications**|Yashi Wei et.al.|[2507.09584](http://arxiv.org/abs/2507.09584)|null|
 |**2025-07-13**|**Learning to Control Dynamical Agents via Spiking Neural Networks and Metropolis-Hastings Sampling**|Ali Safa et.al.|[2507.09540](http://arxiv.org/abs/2507.09540)|null|
 |**2025-07-13**|**On the Importance of Neural Membrane Potential Leakage for LIDAR-based Robot Obstacle Avoidance using Spiking Neural Networks**|Zainab Ali et.al.|[2507.09538](http://arxiv.org/abs/2507.09538)|null|
@@ -10661,6 +10679,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-04**|**SFATTI: Spiking FPGA Accelerator for Temporal Task-driven Inference -- A Case Study on MNIST**|Alessio Caviglia et.al.|[2507.10561](http://arxiv.org/abs/2507.10561)|null|
 |**2025-07-03**|**Network structural change point detection and reconstruction for balanced neuronal networks**|Kai Chen et.al.|[2507.02450](http://arxiv.org/abs/2507.02450)|null|
 |**2025-06-30**|**Unsupervised Sparse Coding-based Spiking Neural Network for Real-time Spike Sorting**|Alexis Melot et.al.|[2506.24041](http://arxiv.org/abs/2506.24041)|null|
 |**2025-06-27**|**Susceptibility for extremely low external fluctuations and critical behaviour of Greenberg-Hastings neuronal model**|Joaquin Almeira et.al.|[2506.22629](http://arxiv.org/abs/2506.22629)|null|
