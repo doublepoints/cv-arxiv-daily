@@ -15,6 +15,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**DiffPF: Differentiable Particle Filtering with Generative Sampling via Conditional Diffusion Models**|Ziyu Wan et.al.|[2507.15716](http://arxiv.org/abs/2507.15716)|null|
+|**2025-07-21**|**Dense-depth map guided deep Lidar-Visual Odometry with Sparse Point Clouds and Images**|JunYing Huang et.al.|[2507.15496](http://arxiv.org/abs/2507.15496)|null|
 |**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari et.al.|[2507.13145](http://arxiv.org/abs/2507.13145)|null|
 |**2025-07-10**|**Hardware-Aware Feature Extraction Quantisation for Real-Time Visual Odometry on FPGA Platforms**|Mateusz Wasala et.al.|[2507.07903](http://arxiv.org/abs/2507.07903)|null|
 |**2025-06-30**|**VOCAL: Visual Odometry via ContrAstive Learning**|Chi-Yao Huang et.al.|[2507.00243](http://arxiv.org/abs/2507.00243)|null|
@@ -559,6 +561,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Hi^2-GSLoc: Dual-Hierarchical Gaussian-Specific Visual Relocalization for Remote Sensing**|Boni Hu et.al.|[2507.15683](http://arxiv.org/abs/2507.15683)|null|
 |**2025-07-17**|**Uncertainty Quantification Framework for Aerial and UAV Photogrammetry through Error Propagation**|Debao Huang et.al.|[2507.13486](http://arxiv.org/abs/2507.13486)|null|
 |**2025-07-16**|**BRUM: Robust 3D Vehicle Reconstruction from 360 Sparse Images**|Davide Di Nucci et.al.|[2507.12095](http://arxiv.org/abs/2507.12095)|null|
 |**2025-07-11**|**Review of Feed-forward 3D Reconstruction: From DUSt3R to VGGT**|Wei Zhang et.al.|[2507.08448](http://arxiv.org/abs/2507.08448)|null|
@@ -917,6 +920,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-20**|**LoopNet: A Multitasking Few-Shot Learning Approach for Loop Closure in Large Scale SLAM**|Mohammad-Maher Nakshbandi et.al.|[2507.15109](http://arxiv.org/abs/2507.15109)|null|
+|**2025-07-20**|**Visual Place Recognition for Large-Scale UAV Applications**|Ioannis Tsampikos Papapetros et.al.|[2507.15089](http://arxiv.org/abs/2507.15089)|null|
+|**2025-07-20**|**U-MARVEL: Unveiling Key Factors for Universal Multimodal Retrieval via Embedding Learning with MLLMs**|Xiaojie Li et.al.|[2507.14902](http://arxiv.org/abs/2507.14902)|null|
+|**2025-07-19**|**OptiCorNet: Optimizing Sequence-Based Context Correlation for Visual Place Recognition**|Zhenyu Li et.al.|[2507.14477](http://arxiv.org/abs/2507.14477)|null|
+|**2025-07-16**|**Developing an AI-Guided Assistant Device for the Deaf and Hearing Impaired**|Jiayu et.al.|[2507.14215](http://arxiv.org/abs/2507.14215)|null|
 |**2025-07-17**|**FAR-Net: Multi-Stage Fusion Network with Enhanced Semantic Alignment and Adaptive Reconciliation for Composed Image Retrieval**|Jeong-Woo Park et.al.|[2507.12823](http://arxiv.org/abs/2507.12823)|null|
 |**2025-07-17**|**MCoT-RE: Multi-Faceted Chain-of-Thought and Re-Ranking for Training-Free Zero-Shot Composed Image Retrieval**|Jeong-Woo Park et.al.|[2507.12819](http://arxiv.org/abs/2507.12819)|null|
 |**2025-07-16**|**QuRe: Query-Relevant Retrieval through Hard Negative Sampling in Composed Image Retrieval**|Jaehyun Kwak et.al.|[2507.12416](http://arxiv.org/abs/2507.12416)|null|
@@ -2821,6 +2829,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-19**|**DiSCO-3D : Discovering and segmenting Sub-Concepts from Open-vocabulary queries in NeRF**|Doriand Petit et.al.|[2507.14596](http://arxiv.org/abs/2507.14596)|null|
+|**2025-07-19**|**Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey**|Jiahui Zhang et.al.|[2507.14501](http://arxiv.org/abs/2507.14501)|null|
 |**2025-07-18**|**TimeNeRF: Building Generalizable Neural Radiance Fields across Time from Few-Shot Input Views**|Hsiang-Hui Hung et.al.|[2507.13929](http://arxiv.org/abs/2507.13929)|null|
 |**2025-07-18**|**EPSilon: Efficient Point Sampling for Lightening of Hybrid-based 3D Avatar Generation**|Seungjun Moon et.al.|[2507.13648](http://arxiv.org/abs/2507.13648)|null|
 |**2025-07-16**|**DoRF: Doppler Radiance Fields for Robust Human Activity Recognition Using Wi-Fi**|Navid Hasanzadeh et.al.|[2507.12132](http://arxiv.org/abs/2507.12132)|null|
@@ -4490,6 +4500,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Graph Attention Specialized Expert Fusion Model for Node Classification: Based on Cora and Pubmed Datasets**|Zihang Ma et.al.|[2507.15784](http://arxiv.org/abs/2507.15784)|null|
+|**2025-07-21**|**Hypergraph modelling of wave scattering to speed-up material design**|Kunwoo Park et.al.|[2507.15329](http://arxiv.org/abs/2507.15329)|null|
+|**2025-07-21**|**Spatio-Temporal Demand Prediction for Food Delivery Using Attention-Driven Graph Neural Networks**|Rabia Latief Bhat et.al.|[2507.15246](http://arxiv.org/abs/2507.15246)|null|
+|**2025-07-21**|**Long-Short Distance Graph Neural Networks and Improved Curriculum Learning for Emotion Recognition in Conversation**|Xinran Li et.al.|[2507.15205](http://arxiv.org/abs/2507.15205)|null|
+|**2025-07-21**|**Feature Construction Using Network Control Theory and Rank Encoding for Graph Machine Learning**|Anwar Said et.al.|[2507.15195](http://arxiv.org/abs/2507.15195)|null|
+|**2025-07-20**|**Can We Move Freely in NEOM's The Line? An Agent-Based Simulation of Human Mobility in a Futuristic Smart City**|Abderaouf Bahi et.al.|[2507.15143](http://arxiv.org/abs/2507.15143)|null|
+|**2025-07-20**|**Graph Attention Networks for Detecting Epilepsy from EEG Signals Using Accessible Hardware in Low-Resource Settings**|Szymon Mazurek et.al.|[2507.15118](http://arxiv.org/abs/2507.15118)|null|
+|**2025-07-20**|**Semantic-Aware Representation Learning for Multi-label Image Classification**|Ren-Dong Xie et.al.|[2507.14918](http://arxiv.org/abs/2507.14918)|null|
+|**2025-07-19**|**Exp-Graph: How Connections Learn Facial Attributes in Graph-based Expression Recognition**|Nandani Sharma et.al.|[2507.14608](http://arxiv.org/abs/2507.14608)|null|
+|**2025-07-19**|**LPS-GNN : Deploying Graph Neural Networks on Graphs with 100-Billion Edges**|Xu Cheng et.al.|[2507.14570](http://arxiv.org/abs/2507.14570)|null|
 |**2025-07-18**|**Toward Practical Fluid Antenna Systems: Co-Optimizing Hardware and Software for Port Selection and Beamforming**|Sai Xu et.al.|[2507.14035](http://arxiv.org/abs/2507.14035)|null|
 |**2025-07-18**|**Structural Connectome Harmonization Using Deep Learning: The Strength of Graph Neural Networks**|Jagruti Patel et.al.|[2507.13992](http://arxiv.org/abs/2507.13992)|null|
 |**2025-07-18**|**Robust Anomaly Detection with Graph Neural Networks using Controllability**|Yifan Wei et.al.|[2507.13954](http://arxiv.org/abs/2507.13954)|null|
@@ -8856,9 +8876,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**TONUS: Neuromorphic human pose estimation for artistic sound co-creation**|Jules Lecomte et.al.|[2507.15734](http://arxiv.org/abs/2507.15734)|null|
+|**2025-07-21**|**When Pipelined In-Memory Accelerators Meet Spiking Direct Feedback Alignment: A Co-Design for Neuromorphic Edge Computing**|Haoxiong Ren et.al.|[2507.15603](http://arxiv.org/abs/2507.15603)|null|
+|**2025-07-21**|**The Role of Excitatory Parvalbumin-positive Neurons in the Tectofugal Pathway of Pigeon (Columba livia) Hierarchical Visual Processing**|Shan Lu et.al.|[2507.15486](http://arxiv.org/abs/2507.15486)|null|
+|**2025-07-21**|**Breaking the picomolar barrier in lateral flow assays using Bright-Dtech___ 614 -- Europium nanoparticles for enhanced sensitivity**|Juliette Lajoux et.al.|[2507.15388](http://arxiv.org/abs/2507.15388)|null|
+|**2025-07-21**|**A New Ultrafast Printer for Large-Scale Assembly of Piezoelectric Biomaterials**|Nan An et.al.|[2507.15167](http://arxiv.org/abs/2507.15167)|null|
+|**2025-07-20**|**Quantum sensing of Lanthandie binding tags with relaxometer of NV center in diamond**|Zibo Gao et.al.|[2507.14886](http://arxiv.org/abs/2507.14886)|null|
+|**2025-07-19**|**Analyzing Internal Activity and Robustness of SNNs Across Neuron Parameter Space**|Szymon Mazurek et.al.|[2507.14757](http://arxiv.org/abs/2507.14757)|null|
+|**2025-07-19**|**Characterizations of certain matroids by maximizing valuative invariants**|Joseph E. Bonin et.al.|[2507.14720](http://arxiv.org/abs/2507.14720)|null|
 |**2025-07-18**|**Edge Intelligence with Spiking Neural Networks**|Shuiguang Deng et.al.|[2507.14069](http://arxiv.org/abs/2507.14069)|null|
 |**2025-07-16**|**Characterizing the Dynamics of Conspiracy Related German Telegram Conversations during COVID-19**|Elisabeth Höldrich et.al.|[2507.13398](http://arxiv.org/abs/2507.13398)|null|
-|**2025-07-16**|**Boosted dark matter versus dark matter-induced neutrinos from single and stacked blazars**|Andrea Giovanni De Marchi et.al.|[2507.12278](http://arxiv.org/abs/2507.12278)|null|
+|**2025-07-21**|**Boosted dark matter versus dark matter-induced neutrinos from single and stacked blazars**|Andrea Giovanni De Marchi et.al.|[2507.12278](http://arxiv.org/abs/2507.12278)|null|
 |**2025-07-16**|**Forecasting Climate Policy Uncertainty: Evidence from the United States**|Donia Besher et.al.|[2507.12276](http://arxiv.org/abs/2507.12276)|null|
 |**2025-07-16**|**EEG-fused Digital Twin Brain for Autonomous Driving in Virtual Scenarios**|Yubo Hou et.al.|[2507.12263](http://arxiv.org/abs/2507.12263)|null|
 |**2025-07-15**|**Simulated Language Acquisition in a Biologically Realistic Model of the Brain**|Daniel Mitropolsky et.al.|[2507.11788](http://arxiv.org/abs/2507.11788)|null|
@@ -10692,6 +10720,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Ubiquity of Uncertainty in Neuron Systems**|Brandon B. Le et.al.|[2507.15702](http://arxiv.org/abs/2507.15702)|null|
+|**2025-07-19**|**Analyzing Internal Activity and Robustness of SNNs Across Neuron Parameter Space**|Szymon Mazurek et.al.|[2507.14757](http://arxiv.org/abs/2507.14757)|null|
 |**2025-07-18**|**Edge Intelligence with Spiking Neural Networks**|Shuiguang Deng et.al.|[2507.14069](http://arxiv.org/abs/2507.14069)|null|
 |**2025-07-17**|**Time series analysis of coupled slow-fast neuron models: From Hurst exponent to Granger causality**|Indranil Ghosh et.al.|[2507.13570](http://arxiv.org/abs/2507.13570)|null|
 |**2025-07-04**|**SFATTI: Spiking FPGA Accelerator for Temporal Task-driven Inference -- A Case Study on MNIST**|Alessio Caviglia et.al.|[2507.10561](http://arxiv.org/abs/2507.10561)|null|
