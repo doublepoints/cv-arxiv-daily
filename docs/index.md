@@ -561,6 +561,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Sparse-View 3D Reconstruction: Recent Advances and Open Challenges**|Tanveer Younis et.al.|[2507.16406](http://arxiv.org/abs/2507.16406)|null|
 |**2025-07-21**|**Hi^2-GSLoc: Dual-Hierarchical Gaussian-Specific Visual Relocalization for Remote Sensing**|Boni Hu et.al.|[2507.15683](http://arxiv.org/abs/2507.15683)|null|
 |**2025-07-17**|**Uncertainty Quantification Framework for Aerial and UAV Photogrammetry through Error Propagation**|Debao Huang et.al.|[2507.13486](http://arxiv.org/abs/2507.13486)|null|
 |**2025-07-16**|**BRUM: Robust 3D Vehicle Reconstruction from 360 Sparse Images**|Davide Di Nucci et.al.|[2507.12095](http://arxiv.org/abs/2507.12095)|null|
@@ -2480,13 +2481,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**A Single-step Accurate Fingerprint Registration Method Based on Local Feature Matching**|Yuwei Jia et.al.|[2507.16201](http://arxiv.org/abs/2507.16201)|null|
 |**2025-07-09**|**Dual-Granularity Cross-Modal Identity Association for Weakly-Supervised Text-to-Person Image Matching**|Yafei Zhang et.al.|[2507.06744](http://arxiv.org/abs/2507.06744)|null|
 |**2025-07-05**|**From Query to Explanation: Uni-RAG for Multi-Modal Retrieval-Augmented Learning in STEM**|Xinyi Wu et.al.|[2507.03868](http://arxiv.org/abs/2507.03868)|null|
 |**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667](http://arxiv.org/abs/2507.01667)|null|
 |**2025-06-30**|**Efficient and Accurate Image Provenance Analysis: A Scalable Pipeline for Large-scale Images**|Jiewei Lai et.al.|[2506.23707](http://arxiv.org/abs/2506.23707)|null|
 |**2025-06-29**|**Dynamic Contrastive Learning for Hierarchical Retrieval: A Case Study of Distance-Aware Cross-View Geo-Localization**|Suofei Zhang et.al.|[2506.23077](http://arxiv.org/abs/2506.23077)|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336](http://arxiv.org/abs/2506.22336)|null|
-|**2025-07-07**|**Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**|Shaojie Zhang et.al.|[2506.22139](http://arxiv.org/abs/2506.22139)|null|
+|**2025-07-22**|**Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**|Shaojie Zhang et.al.|[2506.22139](http://arxiv.org/abs/2506.22139)|null|
 |**2025-06-27**|**ZeroReg3D: A Zero-shot Registration Pipeline for 3D Consecutive Histopathology Image Reconstruction**|Juming Xiong et.al.|[2506.21923](http://arxiv.org/abs/2506.21923)|null|
 |**2025-06-25**|**Fast entropy-regularized SDP relaxations for permutation synchronization**|Michael Lindsey et.al.|[2506.20191](http://arxiv.org/abs/2506.20191)|null|
 |**2025-06-18**|**ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**|Ziling Huang et.al.|[2506.15180](http://arxiv.org/abs/2506.15180)|null|
@@ -2829,6 +2831,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Sparse-View 3D Reconstruction: Recent Advances and Open Challenges**|Tanveer Younis et.al.|[2507.16406](http://arxiv.org/abs/2507.16406)|null|
 |**2025-07-19**|**DiSCO-3D : Discovering and segmenting Sub-Concepts from Open-vocabulary queries in NeRF**|Doriand Petit et.al.|[2507.14596](http://arxiv.org/abs/2507.14596)|null|
 |**2025-07-19**|**Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey**|Jiahui Zhang et.al.|[2507.14501](http://arxiv.org/abs/2507.14501)|null|
 |**2025-07-18**|**TimeNeRF: Building Generalizable Neural Radiance Fields across Time from Few-Shot Input Views**|Hsiang-Hui Hung et.al.|[2507.13929](http://arxiv.org/abs/2507.13929)|null|
@@ -4500,6 +4503,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Deep Unfolding Network for Nonlinear Multi-Frequency Electrical Impedance Tomography**|Giovanni S. Alberti et.al.|[2507.16678](http://arxiv.org/abs/2507.16678)|null|
+|**2025-07-22**|**Knowledge-aware Diffusion-Enhanced Multimedia Recommendation**|Xian Mo et.al.|[2507.16396](http://arxiv.org/abs/2507.16396)|null|
+|**2025-07-22**|**ApproxGNN: A Pretrained GNN for Parameter Prediction in Design Space Exploration for Approximate Computing**|Ondrej Vlcek et.al.|[2507.16379](http://arxiv.org/abs/2507.16379)|null|
+|**2025-07-22**|**Leveraging Personalized PageRank and Higher-Order Topological Structures for Heterophily Mitigation in Graph Neural Networks**|Yumeng Wang et.al.|[2507.16347](http://arxiv.org/abs/2507.16347)|null|
+|**2025-07-22**|**LLM-Enhanced Reranking for Complementary Product Recommendation**|Zekun Xu et.al.|[2507.16237](http://arxiv.org/abs/2507.16237)|null|
+|**2025-07-21**|**Fast Task Planning with Neuro-Symbolic Relaxation**|Qiwei Du et.al.|[2507.15975](http://arxiv.org/abs/2507.15975)|null|
+|**2025-07-21**|**MSGM: A Multi-Scale Spatiotemporal Graph Mamba for EEG Emotion Recognition**|Hanwen Liu et.al.|[2507.15914](http://arxiv.org/abs/2507.15914)|null|
 |**2025-07-21**|**Graph Attention Specialized Expert Fusion Model for Node Classification: Based on Cora and Pubmed Datasets**|Zihang Ma et.al.|[2507.15784](http://arxiv.org/abs/2507.15784)|null|
 |**2025-07-21**|**Hypergraph modelling of wave scattering to speed-up material design**|Kunwoo Park et.al.|[2507.15329](http://arxiv.org/abs/2507.15329)|null|
 |**2025-07-21**|**Spatio-Temporal Demand Prediction for Food Delivery Using Attention-Driven Graph Neural Networks**|Rabia Latief Bhat et.al.|[2507.15246](http://arxiv.org/abs/2507.15246)|null|
@@ -8413,6 +8423,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**SPACT18: Spiking Human Action Recognition Benchmark Dataset with Complementary RGB and Thermal Modalities**|Yasser Ashraf et.al.|[2507.16151](http://arxiv.org/abs/2507.16151)|null|
 |**2025-07-18**|**When Person Re-Identification Meets Event Camera: A Benchmark Dataset and An Attribute-guided Re-Identification Framework**|Xiao Wang et.al.|[2507.13659](http://arxiv.org/abs/2507.13659)|null|
 |**2025-07-16**|**Dark-EvGS: Event Camera as an Eye for Radiance Field in the Dark**|Jingqian Wu et.al.|[2507.11931](http://arxiv.org/abs/2507.11931)|null|
 |**2025-07-15**|**All Eyes, no IMU: Learning Flight Attitude from Vision Alone**|Jesse J. Hagenaars et.al.|[2507.11302](http://arxiv.org/abs/2507.11302)|null|
@@ -8876,6 +8887,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Structural Effect and Spectral Enhancement of High-Dimensional Regularized Linear Discriminant Analysis**|Yonghan Zhang et.al.|[2507.16682](http://arxiv.org/abs/2507.16682)|null|
+|**2025-07-22**|**Reconfigurable qubit states and quantum trajectories in a synthetic artificial neuron network with a process to direct information generation from co-integrated burst-mode spiking under non-Markovianity**|Osama M. Nayfeh et.al.|[2507.16669](http://arxiv.org/abs/2507.16669)|null|
+|**2025-07-22**|**Dark matter explanations for the neutrino emission from the Seyfert galaxy NGC 1068**|Kensuke Akita et.al.|[2507.16539](http://arxiv.org/abs/2507.16539)|null|
+|**2025-07-22**|**Spiking neurons as predictive controllers of linear systems**|Paolo Agliati et.al.|[2507.16495](http://arxiv.org/abs/2507.16495)|null|
+|**2025-07-22**|**SPACT18: Spiking Human Action Recognition Benchmark Dataset with Complementary RGB and Thermal Modalities**|Yasser Ashraf et.al.|[2507.16151](http://arxiv.org/abs/2507.16151)|null|
+|**2025-07-21**|**Beyond Rate Coding: Surrogate Gradients Enable Spike Timing Learning in Spiking Neural Networks**|Ziqiao Yu et.al.|[2507.16043](http://arxiv.org/abs/2507.16043)|null|
+|**2025-07-21**|**Quantization-Aware Neuromorphic Architecture for Efficient Skin Disease Classification on Resource-Constrained Devices**|Haitian Wang et.al.|[2507.15958](http://arxiv.org/abs/2507.15958)|null|
+|**2025-07-21**|**GRB 241105A: A test case for GRB classification and rapid r-process nucleosynthesis channels**|Dimple et.al.|[2507.15940](http://arxiv.org/abs/2507.15940)|null|
 |**2025-07-21**|**TONUS: Neuromorphic human pose estimation for artistic sound co-creation**|Jules Lecomte et.al.|[2507.15734](http://arxiv.org/abs/2507.15734)|null|
 |**2025-07-21**|**When Pipelined In-Memory Accelerators Meet Spiking Direct Feedback Alignment: A Co-Design for Neuromorphic Edge Computing**|Haoxiong Ren et.al.|[2507.15603](http://arxiv.org/abs/2507.15603)|null|
 |**2025-07-21**|**The Role of Excitatory Parvalbumin-positive Neurons in the Tectofugal Pathway of Pigeon (Columba livia) Hierarchical Visual Processing**|Shan Lu et.al.|[2507.15486](http://arxiv.org/abs/2507.15486)|null|
