@@ -245,10 +245,9 @@ def update_json_file(filename,data_dict,config_keywords):
     
 def json_to_md(filename,md_filename,
                task = '',
-               to_web = False, 
-               use_title = True, 
+               to_web = False,
+               use_title = True,
                use_tc = True,
-               show_badge = True,
                use_b2t = True):
     """
     @param filename: str
@@ -294,13 +293,7 @@ def json_to_md(filename,md_filename,
 
         if (use_title == True) and (to_web == True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
-        
-        if show_badge == True:
-            f.write(f"[![Contributors][contributors-shield]][contributors-url]\n")
-            f.write(f"[![Forks][forks-shield]][forks-url]\n")
-            f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
-            f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
-                
+
         if use_title == True:
             #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
             #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
@@ -372,7 +365,6 @@ def demo(**config):
     publish_readme = config['publish_readme']
     publish_gitpage = config['publish_gitpage']
     publish_wechat = config['publish_wechat']
-    show_badge = config['show_badge']
 
     b_update = config['update_paper_links']
     logging.info(f'Update Paper Link = {b_update}')
@@ -399,8 +391,7 @@ def demo(**config):
             current_keywords = list(config['keywords'].keys())
             update_json_file(json_file, data_collector, current_keywords)
         # json data to markdown
-        json_to_md(json_file,md_file, task ='Update Readme', \
-            show_badge = show_badge)
+        json_to_md(json_file, md_file, task='Update Readme')
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
@@ -412,9 +403,8 @@ def demo(**config):
         else:
             current_keywords = list(config['keywords'].keys())
             update_json_file(json_file, data_collector, current_keywords)
-        json_to_md(json_file, md_file, task ='Update GitPage', \
-            to_web = True, show_badge = show_badge, \
-            use_tc=False, use_b2t=False)
+        json_to_md(json_file, md_file, task='Update GitPage',
+            to_web=True, use_tc=False, use_b2t=False)
 
     # 3. Update docs/wechat.md file
     if publish_wechat:
@@ -426,8 +416,8 @@ def demo(**config):
         else:
             current_keywords = list(config['keywords'].keys())
             update_json_file(json_file, data_collector_web, current_keywords)
-        json_to_md(json_file, md_file, task ='Update Wechat', \
-            to_web=False, use_title= False, show_badge = show_badge)
+        json_to_md(json_file, md_file, task='Update Wechat',
+            to_web=False, use_title=False)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

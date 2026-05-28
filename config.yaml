@@ -4,7 +4,6 @@ user_name: "doublepoints"
 repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
-show_badge: True
 max_results: 10
 
 publish_readme: True
