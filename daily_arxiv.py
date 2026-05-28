@@ -248,7 +248,8 @@ def json_to_md(filename,md_filename,
                to_web = False,
                use_title = True,
                use_tc = True,
-               use_b2t = True):
+               use_b2t = True,
+               max_per_category = None):
     """
     @param filename: str
     @param md_filename: str
@@ -336,10 +337,11 @@ def json_to_md(filename,md_filename,
                     f.write("| Publish Date | Title | Authors | PDF | Code |\n")
                     f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
 
-            # sort papers by date
+            # sort papers by date (newest first) and cap per-category for rendering
             day_content = sort_papers(day_content)
-        
-            for _,v in day_content.items():
+            items = list(day_content.items())[:max_per_category]
+
+            for _,v in items:
                 if v is not None:
                     f.write(pretty_math(v)) # make latex pretty
 
@@ -365,6 +367,7 @@ def demo(**config):
     publish_readme = config['publish_readme']
     publish_gitpage = config['publish_gitpage']
     publish_wechat = config['publish_wechat']
+    max_per_category = config.get('max_per_category')
 
     b_update = config['update_paper_links']
     logging.info(f'Update Paper Link = {b_update}')
@@ -391,7 +394,8 @@ def demo(**config):
             current_keywords = list(config['keywords'].keys())
             update_json_file(json_file, data_collector, current_keywords)
         # json data to markdown
-        json_to_md(json_file, md_file, task='Update Readme')
+        json_to_md(json_file, md_file, task='Update Readme',
+            max_per_category=max_per_category)
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
@@ -404,7 +408,8 @@ def demo(**config):
             current_keywords = list(config['keywords'].keys())
             update_json_file(json_file, data_collector, current_keywords)
         json_to_md(json_file, md_file, task='Update GitPage',
-            to_web=True, use_tc=False, use_b2t=False)
+            to_web=True, use_tc=False, use_b2t=False,
+            max_per_category=max_per_category)
 
     # 3. Update docs/wechat.md file
     if publish_wechat:
@@ -417,7 +422,8 @@ def demo(**config):
             current_keywords = list(config['keywords'].keys())
             update_json_file(json_file, data_collector_web, current_keywords)
         json_to_md(json_file, md_file, task='Update Wechat',
-            to_web=False, use_title=False)
+            to_web=False, use_title=False,
+            max_per_category=max_per_category)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
