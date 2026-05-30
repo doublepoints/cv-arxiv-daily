@@ -1,9 +1,9 @@
-## <a id=top></a>Updated on 2026.05.28
+## <a id=top></a>Updated on 2026.05.30
 ---
 layout: default
 ---
 
-## Updated on 2026.05.28
+## Updated on 2026.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## <a id=slam>SLAM</a>
@@ -175,6 +175,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**Mesh-Aware Epipolar Matching for Multi-View Multi-Person 3D Pose Estimation in Basketball**|Li Yin et.al.|[2605.29953](http://arxiv.org/abs/2605.29953)|null|
 |**2026-05-16**|**Markerless Motion Capture for Biomechanical Whole-Body Kinematic Estimation in Infants**|Divya Joshi et.al.|[2605.17120](http://arxiv.org/abs/2605.17120)|null|
 |**2026-05-12**|**Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates**|Zeyu Wang et.al.|[2605.11610](http://arxiv.org/abs/2605.11610)|null|
 |**2026-04-29**|**Featurising Pixels from Dynamic 3D Scenes with Linear In-Context Learners**|Nikita Araslanov et.al.|[2604.26488](http://arxiv.org/abs/2604.26488)|null|
@@ -224,7 +225,6 @@ layout: default
 |**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|**[link](https://github.com/MacavityT/REF-VLM)**|
 |**2025-03-11**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347](http://arxiv.org/abs/2503.07347)|**[link](https://github.com/parskatt/dad)**|
 |**2025-03-07**|**Automatic determination of quasicrystalline patterns from microscopy images**|Tano Kim Kender et.al.|[2503.05472](http://arxiv.org/abs/2503.05472)|**[link](https://github.com/QuantumMaterialsModelling/AiSurf-Automated-Identification-of-Surface-images)**|
-|**2025-03-07**|**Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**|Benjamin Billot et.al.|[2503.04499](http://arxiv.org/abs/2503.04499)|**[link](https://github.com/benbillot/spatial_regularisation)**|
 
 ## <a id=image-matching>Image Matching</a>
 
@@ -285,6 +285,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**City-Mesh3R: Simulation-Ready City-Scale 3D Mesh Reconstruction from Multi-View Images**|Sayan Paul et.al.|[2605.30310](http://arxiv.org/abs/2605.30310)|null|
+|**2026-05-27**|**Eulerian Gaussian Splatting using Hashed Probability Pyramids**|Mia Gaia Polansky et.al.|[2605.29136](http://arxiv.org/abs/2605.29136)|null|
 |**2026-05-27**|**CLEAR-NeRF: Collinearity and Local-region Enhanced Accurate 3D Reconstruction in Unbounded Scenes**|Vladislav Polianskii et.al.|[2605.28125](http://arxiv.org/abs/2605.28125)|null|
 |**2026-05-25**|**Depth Peeling for High-Fidelity Gaussian-Enhanced Surfel Rendering**|Keyang Ye et.al.|[2605.25345](http://arxiv.org/abs/2605.25345)|null|
 |**2026-05-23**|**ArtSplat: Feed-Forward Articulated 3D Gaussian Splatting from Sparse Multi-State Uncalibrated Views**|Inseo Lee et.al.|[2605.24304](http://arxiv.org/abs/2605.24304)|null|
@@ -333,13 +335,19 @@ layout: default
 |**2025-06-18**|**Rasterizing Wireless Radiance Field via Deformable 2D Gaussian Splatting**|Mufan Liu et.al.|[2506.12787](http://arxiv.org/abs/2506.12787)|null|
 |**2025-06-17**|**Efficient multi-view training for 3D Gaussian Splatting**|Minhyuk Choi et.al.|[2506.12727](http://arxiv.org/abs/2506.12727)|null|
 |**2025-06-12**|**PointGS: Point Attention-Aware Sparse View Synthesis with Gaussian Splatting**|Lintao Xiang et.al.|[2506.10335](http://arxiv.org/abs/2506.10335)|null|
-|**2025-06-11**|**The Less You Depend, The More You Learn: Synthesizing Novel Views from Sparse, Unposed Images without Any 3D Knowledge**|Haoru Wang et.al.|[2506.09885](http://arxiv.org/abs/2506.09885)|null|
-|**2025-06-10**|**A Probability-guided Sampler for Neural Implicit Surface Rendering**|Gonçalo Dias Pais et.al.|[2506.08619](http://arxiv.org/abs/2506.08619)|null|
 
 ## <a id=gnn,gcn>GNN,GCN</a>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**What drives performance in molecular MPNNs? An operator-level factorial benchmark**|Panyu Jiao et.al.|[2605.30195](http://arxiv.org/abs/2605.30195)|null|
+|**2026-05-28**|**Charting the thermodynamic stability of hybrid perovskite alloys with machine learning**|Jarno Laakso et.al.|[2605.30012](http://arxiv.org/abs/2605.30012)|null|
+|**2026-05-28**|**Prototype-Guided Latent Alignment for Data-Efficient Fine-Tuning of Molecular Foundation Models**|Rushikesh Pawar et.al.|[2605.29969](http://arxiv.org/abs/2605.29969)|null|
+|**2026-05-28**|**From Short Histories to Long Futures: Horizon-Aware Graph Neural Networks for Long Horizon Forecasting**|Zesheng Liu et.al.|[2605.29952](http://arxiv.org/abs/2605.29952)|null|
+|**2026-05-28**|**Understanding and Reducing Metadata-Driven Host Overheads in Sampling-Based GNN Training**|Yidong Gong et.al.|[2605.29346](http://arxiv.org/abs/2605.29346)|null|
+|**2026-05-28**|**Graph Neural Networks for Generalized Mundlak Estimator under Network Confounding**|Lianyan Fu et.al.|[2605.29238](http://arxiv.org/abs/2605.29238)|null|
+|**2026-05-27**|**Neural Posterior Estimation for Spatial Individual-Level Epidemic Models**|Yicheng Mao et.al.|[2605.29180](http://arxiv.org/abs/2605.29180)|null|
+|**2026-05-27**|**Designing Active Tether-Net Systems for Space Debris Capture with Graph-Learning-Aided Mixed-Combinatorial Optimization**|Feng Liu et.al.|[2605.29021](http://arxiv.org/abs/2605.29021)|null|
 |**2026-05-27**|**Applications of temporal graph learning for predicting the dynamics of biological systems**|Manuel Dileo et.al.|[2605.28659](http://arxiv.org/abs/2605.28659)|null|
 |**2026-05-27**|**A Generalized Tikhonov Layer for Interpretable-by-design Graph Neural Networks**|Nicolas Tremblay et.al.|[2605.28578](http://arxiv.org/abs/2605.28578)|null|
 |**2026-05-27**|**Let Relations Speak: An End-to-End LLM-GNN Soft Prompt Framework for Fraud Detection**|Zhixing Zuo et.al.|[2605.28524](http://arxiv.org/abs/2605.28524)|null|
@@ -382,14 +390,6 @@ layout: default
 |**2025-07-18**|**Learning Deformable Body Interactions With Adaptive Spatial Tokenization**|Hao Wang et.al.|[2507.13707](http://arxiv.org/abs/2507.13707)|null|
 |**2025-07-18**|**Binarizing Physics-Inspired GNNs for Combinatorial Optimization**|Martin Krutský et.al.|[2507.13703](http://arxiv.org/abs/2507.13703)|null|
 |**2025-07-18**|**Tri-Learn Graph Fusion Network for Attributed Graph Clustering**|Binxiong Li et.al.|[2507.13620](http://arxiv.org/abs/2507.13620)|null|
-|**2025-07-17**|**Graph Neural Network Surrogates for Contacting Deformable Bodies with Necessary and Sufficient Contact Detection**|Vijay K. Dubey et.al.|[2507.13459](http://arxiv.org/abs/2507.13459)|null|
-|**2025-07-17**|**A Spectral Interpretation of Redundancy in a Graph Reservoir**|Anna Bison et.al.|[2507.12963](http://arxiv.org/abs/2507.12963)|null|
-|**2025-07-17**|**Multi-Channel Graph Neural Network for Financial Risk Prediction of NEEQ Enterprises**|Jianyu Zhu et.al.|[2507.12787](http://arxiv.org/abs/2507.12787)|null|
-|**2025-07-16**|**MS-DGCNN++: A Multi-Scale Fusion Dynamic Graph Neural Network with Biological Knowledge Integration for LiDAR Tree Species Classification**|Said Ohamouddou et.al.|[2507.12602](http://arxiv.org/abs/2507.12602)|null|
-|**2025-07-16**|**Rel-HNN: Split Parallel Hypergraph Neural Network for Learning on Relational Databases**|Md. Tanvir Alam et.al.|[2507.12562](http://arxiv.org/abs/2507.12562)|null|
-|**2025-07-16**|**Traffic-Aware Pedestrian Intention Prediction**|Fahimeh Orvati Nia et.al.|[2507.12433](http://arxiv.org/abs/2507.12433)|null|
-|**2025-07-16**|**Heat Kernel Goes Topological**|Maximilian Krahn et.al.|[2507.12380](http://arxiv.org/abs/2507.12380)|null|
-|**2025-07-17**|**Catching Bid-rigging Cartels with Graph Attention Neural Networks**|David Imhof et.al.|[2507.12369](http://arxiv.org/abs/2507.12369)|null|
 
 ## <a id=event-camera>Event-Camera</a>
 
@@ -450,6 +450,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**Statistical Tapers for Correlation-Based Localization in Ensemble Data Assimilation**|Alexandre A. Emerick et.al.|[2605.29922](http://arxiv.org/abs/2605.29922)|null|
+|**2026-05-28**|**Eigen-Spike Emergence and Quadratic Equivalents for Conjugate Kernels on Nonlinearly Separable Data**|Collin Cranston et.al.|[2605.29669](http://arxiv.org/abs/2605.29669)|null|
 |**2026-05-27**|**AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation**|Shanghua Gao et.al.|[2605.28655](http://arxiv.org/abs/2605.28655)|null|
 |**2026-05-27**|**CLANE: Continual Learning of Actions on Neuromorphic Hardware from Event Cameras**|Elvin Hajizada et.al.|[2605.28387](http://arxiv.org/abs/2605.28387)|null|
 |**2026-05-27**|**Adaptive Bandit Algorithms for Contextual Matching Markets**|Shiyun Lin et.al.|[2605.28290](http://arxiv.org/abs/2605.28290)|null|
@@ -498,8 +500,6 @@ layout: default
 |**2025-07-12**|**A Randomized Algorithm for Sparse PCA based on the Basic SDP Relaxation**|Alberto Del Pia et.al.|[2507.09148](http://arxiv.org/abs/2507.09148)|null|
 |**2025-07-11**|**Onboard Neuromorphic Split Computing via Optical Links for LEO Remote Sensing**|Zihang Song et.al.|[2507.08490](http://arxiv.org/abs/2507.08490)|null|
 |**2025-07-11**|**NeurOptimisation: The Spiking Way to Evolve**|Jorge Mario Cruz-Duarte et.al.|[2507.08320](http://arxiv.org/abs/2507.08320)|null|
-|**2025-07-11**|**Ambiguity Function Analysis of AFDM Signals for Integrated Sensing and Communications**|Haoran Yin et.al.|[2507.08293](http://arxiv.org/abs/2507.08293)|null|
-|**2025-07-10**|**Homeostatic Adaptation of Optimal Population Codes under Metabolic Stress**|Yi-Chun Hung et.al.|[2507.07874](http://arxiv.org/abs/2507.07874)|null|
 
 ## <a id=neuronss>neuronss</a>
 
