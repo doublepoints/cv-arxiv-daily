@@ -136,6 +136,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-05**|**Never Seen Before: Benchmarking Genuine Zero-Shot Composed Image Retrieval with Consistent Video-Sourced Datasets**|Zhenyu Yang et.al.|[2606.07032](http://arxiv.org/abs/2606.07032)|null|
+|**2026-06-04**|**Atomic-scale phase-field modeling for 2D ferroelectrics including non-Gaussian fluctuations**|Kairi Masuda et.al.|[2606.06771](http://arxiv.org/abs/2606.06771)|null|
 |**2026-06-04**|**Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation**|Yohann Benchetrit et.al.|[2606.06345](http://arxiv.org/abs/2606.06345)|null|
 |**2026-06-03**|**CIPER: A Unified Framework for Cross-view Image-retrieval and Pose-estimation**|Yurim Jeon et.al.|[2606.05011](http://arxiv.org/abs/2606.05011)|null|
 |**2026-06-03**|**Z-FLoc: Zero-Shot Floorplan Localization via Geometric Primitives**|Ayumi Umemura et.al.|[2606.04788](http://arxiv.org/abs/2606.04788)|null|
@@ -184,8 +186,6 @@
 |**2025-07-10**|**VP-SelDoA: Visual-prompted Selective DoA Estimation of Target Sound via Semantic-Spatial Matching**|Yu Chen et.al.|[2507.07384](http://arxiv.org/abs/2507.07384)|null|
 |**2025-07-08**|**FACap: A Large-scale Fashion Dataset for Fine-grained Composed Image Retrieval**|François Gardères et.al.|[2507.07135](http://arxiv.org/abs/2507.07135)|null|
 |**2025-07-09**|**Evaluating Attribute Confusion in Fashion Text-to-Image Generation**|Ziyue Liu et.al.|[2507.07079](http://arxiv.org/abs/2507.07079)|null|
-|**2025-07-09**|**MS-DPPs: Multi-Source Determinantal Point Processes for Contextual Diversity Refinement of Composite Attributes in Text to Image Retrieval**|Naoya Sogi et.al.|[2507.06654](http://arxiv.org/abs/2507.06654)|null|
-|**2025-07-08**|**Automatic Synthesis of High-Quality Triplet Data for Composed Image Retrieval**|Haiwen Li et.al.|[2507.05970](http://arxiv.org/abs/2507.05970)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -364,9 +364,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-05**|**Graph Neural Network leveraging Higher-order Class Label Connectivity for Heterophilous Graphs**|Takuto Takahashi et.al.|[2606.07475](http://arxiv.org/abs/2606.07475)|null|
+|**2026-06-04**|**Spatiotemporal Imputation with Graph-Informed Flow Matching**|Zepeng Zhang et.al.|[2606.06682](http://arxiv.org/abs/2606.06682)|null|
 |**2026-06-04**|**PolyGraphPy: A unified Python framework for atomistic simulation and machine learning-driven polymer design**|João G. C. S. Duarte et.al.|[2606.06415](http://arxiv.org/abs/2606.06415)|null|
 |**2026-06-04**|**Bridging CAD and Data-Driven Design: Attributed Feature Graphs for Engineering Design**|Abhishek Indupally et.al.|[2606.06405](http://arxiv.org/abs/2606.06405)|null|
-|**2026-06-04**|**The Post-GCN Decade Revisited: Curvature-Stratified Evaluation of Relational Learning**|Shuo Wang et.al.|[2606.06397](http://arxiv.org/abs/2606.06397)|null|
+|**2026-06-05**|**The Post-GCN Decade Revisited: Curvature-Stratified Evaluation of Relational Learning**|Shuo Wang et.al.|[2606.06397](http://arxiv.org/abs/2606.06397)|null|
 |**2026-06-04**|**End-to-End Subgraph Detection with GraphDETR**|Dexiong Chen et.al.|[2606.06364](http://arxiv.org/abs/2606.06364)|null|
 |**2026-06-04**|**PAC-Bayesian Adversarially Robust Generalization for Message Passing Graph Neural Networks: A Sensitivity Analysis**|Ziling Liang et.al.|[2606.06293](http://arxiv.org/abs/2606.06293)|null|
 |**2026-06-04**|**AttackPathGNN: Cross-function vulnerability detection in smart contracts using state interference graphs and conjunction pooling**|Gabriela Dobrita et.al.|[2606.05986](http://arxiv.org/abs/2606.05986)|null|
@@ -412,8 +414,6 @@
 |**2026-05-26**|**Learning to reoptimize: a GNN-aided fix-and-optimize approach and an application to the Lot Sizing problem**|Mathieu Lerouge et.al.|[2605.27339](http://arxiv.org/abs/2605.27339)|null|
 |**2026-05-26**|**Is an Image Also Worth 16x16=256 Superpixels? A Framework for Attentional Image Classification**|Pedro Henrique da Costa Avelar et.al.|[2605.27144](http://arxiv.org/abs/2605.27144)|null|
 |**2026-05-26**|**TED: Related Party Transaction guided Tax Evasion Detection on Heterogeneous Graph**|Yiming Xu et.al.|[2605.26984](http://arxiv.org/abs/2605.26984)|null|
-|**2025-07-23**|**From Atoms to Dynamics: Learning the Committor Without Collective Variables**|Sergio Contreras Arredondo et.al.|[2507.17700](http://arxiv.org/abs/2507.17700)|null|
-|**2025-07-23**|**Towards Effective Open-set Graph Class-incremental Learning**|Jiazhen Chen et.al.|[2507.17687](http://arxiv.org/abs/2507.17687)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -478,6 +478,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-05**|**Deriving the Variance-Minimizing Design for Standard Addition via c-Optimality**|Gerhard Gössler et.al.|[2606.07406](http://arxiv.org/abs/2606.07406)|null|
+|**2026-06-05**|**The connected binary matroids with a pair of elements in no non-spanning circuits**|Wayne Ge et.al.|[2606.06852](http://arxiv.org/abs/2606.06852)|null|
+|**2026-06-04**|**RigPAPR: Rig-Based Animation of Static Neural Point Clouds from a Fixed-Viewpoint Video**|Shichong Peng et.al.|[2606.06685](http://arxiv.org/abs/2606.06685)|null|
 |**2026-06-04**|**Plasma wakefield dynamics of self-generated electron bunch trains**|Salome Benracassa et.al.|[2606.06232](http://arxiv.org/abs/2606.06232)|null|
 |**2026-06-04**|**ITP-STDP: An Intrinsic-Timing Power-of-Two Learning Engine for On-Chip SNN Training**|Haihang Xia et.al.|[2606.06159](http://arxiv.org/abs/2606.06159)|null|
 |**2026-06-04**|**L-SDPPO: Policy Optimization of Spiking Diffusion Policy for Intra-vehicular Robotic Manipulation**|Liwen Zhang et.al.|[2606.06049](http://arxiv.org/abs/2606.06049)|null|
@@ -525,9 +528,6 @@
 |**2025-07-22**|**Reconfigurable qubit states and quantum trajectories in a synthetic artificial neuron network with a process to direct information generation from co-integrated burst-mode spiking under non-Markovianity**|Osama M. Nayfeh et.al.|[2507.16669](http://arxiv.org/abs/2507.16669)|null|
 |**2025-07-22**|**Dark matter explanations for the neutrino emission from the Seyfert galaxy NGC 1068**|Kensuke Akita et.al.|[2507.16539](http://arxiv.org/abs/2507.16539)|null|
 |**2025-07-22**|**Spiking neurons as predictive controllers of linear systems**|Paolo Agliati et.al.|[2507.16495](http://arxiv.org/abs/2507.16495)|null|
-|**2025-07-22**|**SPACT18: Spiking Human Action Recognition Benchmark Dataset with Complementary RGB and Thermal Modalities**|Yasser Ashraf et.al.|[2507.16151](http://arxiv.org/abs/2507.16151)|null|
-|**2025-07-21**|**Beyond Rate Coding: Surrogate Gradients Enable Spike Timing Learning in Spiking Neural Networks**|Ziqiao Yu et.al.|[2507.16043](http://arxiv.org/abs/2507.16043)|null|
-|**2025-07-21**|**Quantization-Aware Neuromorphic Architecture for Efficient Skin Disease Classification on Resource-Constrained Devices**|Haitian Wang et.al.|[2507.15958](http://arxiv.org/abs/2507.15958)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
