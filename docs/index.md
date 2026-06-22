@@ -348,7 +348,7 @@ layout: default
 |**2026-06-18**|**Enhancing Graph Neural Networks Using Proximity Graphs for Dust Source Emission Forecasting**|Maryam Sanisales et.al.|[2606.19825](http://arxiv.org/abs/2606.19825)|null|
 |**2026-06-17**|**SEAGAN: domain-Specific and Edge-Aware Graph Attention Network for Dynamic Plant Processes**|Antriksh Srivastava et.al.|[2606.19623](http://arxiv.org/abs/2606.19623)|null|
 |**2026-06-17**|**GDGU: A Gradient Difference-based Graph Unlearning Method for Cyberattack Localization in Electric Vehicle Charging Networks**|Nanhong Liu et.al.|[2606.19566](http://arxiv.org/abs/2606.19566)|null|
-|**2026-06-17**|**P-K-GCN: Physics-augmented Koopman-enhanced Graph Convolutional Network for Deep Spatiotemporal Super-resolution**|Xizhuo et.al.|[2606.19303](http://arxiv.org/abs/2606.19303)|null|
+|**2026-06-17**|**P-K-GCN: Physics-augmented Koopman-enhanced Graph Convolutional Network for Deep Spatiotemporal Super-resolution**| Xizhuo et.al.|[2606.19303](http://arxiv.org/abs/2606.19303)|null|
 |**2026-06-17**|**Acceleration of an algebraic multigrid pressure solver using graph neural networks**|Eric Chillón et.al.|[2606.19251](http://arxiv.org/abs/2606.19251)|null|
 |**2026-06-17**|**AGDN: Learning to Solve Traveling Salesman Problem with Anisotropic Graph Diffusion Network**|Bolin Shen et.al.|[2606.19185](http://arxiv.org/abs/2606.19185)|null|
 |**2026-06-17**|**Equivariant Graph Neural Networks Improve Optical Spectra Prediction for Materials Screening**|Kasper Helverskov Petersen et.al.|[2606.19133](http://arxiv.org/abs/2606.19133)|null|
