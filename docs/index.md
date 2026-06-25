@@ -1,9 +1,9 @@
-## <a id=top></a>Updated on 2026.06.23
+## <a id=top></a>Updated on 2026.06.25
 ---
 layout: default
 ---
 
-## Updated on 2026.06.23
+## Updated on 2026.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## <a id=slam>SLAM</a>
@@ -120,6 +120,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**From Open Waters to Enclosed Cabins: ProteusVPR for Cross-Scene Visual Place Recognition in Maritime Perception and Cabin Inspection**|Zexi Chena et.al.|[2606.24234](http://arxiv.org/abs/2606.24234)|null|
 |**2026-06-20**|**Lexical Consensus: Grounded Word Learning and Shared Meaning in Artificial Agents**|Patricio M. Vera et.al.|[2606.22207](http://arxiv.org/abs/2606.22207)|null|
 |**2026-06-18**|**Multimodal Concept Bottleneck Models**|Tongqing Shi et.al.|[2606.19882](http://arxiv.org/abs/2606.19882)|null|
 |**2026-06-18**|**Exploring Multi-Modal Large Language Models and Two-Stage Fine-Tuning for Fashion Image Retrieval**|Nguyen Cao Hoang et.al.|[2606.19684](http://arxiv.org/abs/2606.19684)|null|
@@ -169,7 +170,6 @@ layout: default
 |**2025-07-20**|**LoopNet: A Multitasking Few-Shot Learning Approach for Loop Closure in Large Scale SLAM**|Mohammad-Maher Nakshbandi et.al.|[2507.15109](http://arxiv.org/abs/2507.15109)|null|
 |**2025-07-20**|**Visual Place Recognition for Large-Scale UAV Applications**|Ioannis Tsampikos Papapetros et.al.|[2507.15089](http://arxiv.org/abs/2507.15089)|null|
 |**2025-07-20**|**U-MARVEL: Unveiling Key Factors for Universal Multimodal Retrieval via Embedding Learning with MLLMs**|Xiaojie Li et.al.|[2507.14902](http://arxiv.org/abs/2507.14902)|null|
-|**2025-07-19**|**OptiCorNet: Optimizing Sequence-Based Context Correlation for Visual Place Recognition**|Zhenyu Li et.al.|[2507.14477](http://arxiv.org/abs/2507.14477)|null|
 
 ## <a id=keypoint-detection>Keypoint Detection</a>
 
@@ -340,6 +340,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**Application of Deep Learning to Jet Charge Discrimination**|Meisam Ghasemi Bostanabad et.al.|[2606.24637](http://arxiv.org/abs/2606.24637)|null|
+|**2026-06-23**|**Degeneracy-Aware Resilient Resource Allocation in Cell-Free Cache-Aided MU-MIMO Networks**|Sayanti Ghosh et.al.|[2606.24611](http://arxiv.org/abs/2606.24611)|null|
+|**2026-06-23**|**A Fair Evaluation of Graph Foundation Models for Node Property Prediction**|Oleg Platonov et.al.|[2606.24509](http://arxiv.org/abs/2606.24509)|null|
+|**2026-06-22**|**Efficient implementation of graph autoencoders for model-order reduction of systems with sharp gradients**|Liam K Magargal et.al.|[2606.23834](http://arxiv.org/abs/2606.23834)|null|
+|**2026-06-22**|**Reconstructing GRACE Terrestrial Water Storage with Spatio-Temporal Graph Neural Networks: An Application to South America**|Lukas Arzoumanidis et.al.|[2606.23833](http://arxiv.org/abs/2606.23833)|null|
 |**2026-06-22**|**SuperCond-GNN: Scalable Graph Neural Network Surrogate for Superconducting Circuit Simulations**|Nandana Menon et.al.|[2606.23548](http://arxiv.org/abs/2606.23548)|null|
 |**2026-06-22**|**Rethinking Molecular Graph Backdoors under Chemistry-aware Admission**|Thinh T. H. Nguyen et.al.|[2606.23361](http://arxiv.org/abs/2606.23361)|null|
 |**2026-06-22**|**When Distortion Helps: Secure GNN Precoding with Nonlinear Power Amplifiers**|Reza Ghasemi Alavicheh et.al.|[2606.23141](http://arxiv.org/abs/2606.23141)|null|
@@ -385,16 +390,13 @@ layout: default
 |**2026-06-12**|**Can Deep Neural Networks Improve Compression of Very Large Scientific Data?**|Muhannad Alhumaidi et.al.|[2606.14353](http://arxiv.org/abs/2606.14353)|null|
 |**2026-06-12**|**Curvature-Informed Potential Energy Surface for Protein-Ligand Binding Affinity Prediction**|Peng-Fei Sun et.al.|[2606.14217](http://arxiv.org/abs/2606.14217)|null|
 |**2026-06-12**|**Generalized Linear Graph Representation: A Compact Operator Space for Graph Signal Processing and Graph Neural Networks**|Feiyue Zhao et.al.|[2606.14107](http://arxiv.org/abs/2606.14107)|null|
-|**2026-06-11**|**Temporally Consistent Graph Q-Networks for Intelligent Network Control**|Zacharias Veiksaar et.al.|[2606.13848](http://arxiv.org/abs/2606.13848)|null|
-|**2026-06-11**|**Understanding Truncated Positional Encodings for Graph Neural Networks**|James Flora et.al.|[2606.13671](http://arxiv.org/abs/2606.13671)|null|
-|**2026-06-11**|**Clustering Node Attributed Networks with Graph Neural Networks and Self Learning**|Rodrigo de Sapienza Luna et.al.|[2606.13444](http://arxiv.org/abs/2606.13444)|null|
-|**2026-06-11**|**OR-Action: Multi-Role Video Understanding with Fine-Grained Actions**|Felix Tristram et.al.|[2606.13332](http://arxiv.org/abs/2606.13332)|null|
-|**2026-06-12**|**MP3: Multi-Period Pattern Pre-training for Spatio-Temporal Forecasting**|Lilan Peng et.al.|[2606.13119](http://arxiv.org/abs/2606.13119)|null|
 
 ## <a id=event-camera>Event-Camera</a>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**GeoIMO: Geometry-Driven Independent Motion Classification for Event Cameras**|Anil Bayram Gogebakan et.al.|[2606.24499](http://arxiv.org/abs/2606.24499)|null|
+|**2026-06-23**|**UniRED: Unified RGB-D Video Frame Interpolation with Event Guidance**|Yinuo Zhang et.al.|[2606.24282](http://arxiv.org/abs/2606.24282)|null|
 |**2026-06-22**|**A Systematic Survey on Event Camera Representation Learning**|Hongwei Ren et.al.|[2606.23078](http://arxiv.org/abs/2606.23078)|null|
 |**2026-06-21**|**Following the Flow: Advection-Consistent Modeling for Event-based Small Object Detection**|Wen Guo et.al.|[2606.22378](http://arxiv.org/abs/2606.22378)|null|
 |**2026-06-18**|**Neural Events: Discrete Asynchronous Autoencoders for Event-Based Vision**|Roberto Pellerito et.al.|[2606.19835](http://arxiv.org/abs/2606.19835)|null|
@@ -443,13 +445,16 @@ layout: default
 |**2025-06-20**|**When Every Millisecond Counts: Real-Time Anomaly Detection via the Multimodal Asynchronous Hybrid Network**|Dong Xiao et.al.|[2506.17457](http://arxiv.org/abs/2506.17457)|null|
 |**2025-06-19**|**An efficient neuromorphic approach for collision avoidance combining Stack-CNN with event cameras**|Antonio Giulio Coretti et.al.|[2506.16436](http://arxiv.org/abs/2506.16436)|null|
 |**2025-06-16**|**How Real is CARLAs Dynamic Vision Sensor? A Study on the Sim-to-Real Gap in Traffic Object Detection**|Kaiyuan Tan et.al.|[2506.13722](http://arxiv.org/abs/2506.13722)|null|
-|**2025-06-16**|**Sparse Convolutional Recurrent Learning for Efficient Event-based Neuromorphic Object Detection**|Shenqi Wang et.al.|[2506.13440](http://arxiv.org/abs/2506.13440)|null|
-|**2025-06-12**|**Human-Robot Navigation using Event-based Cameras and Reinforcement Learning**|Ignacio Bugueno-Cordova et.al.|[2506.10790](http://arxiv.org/abs/2506.10790)|null|
 
 ## <a id=snns>SNNs</a>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**Bayesian Estimation of the Eigenstructure in High-Dimensional Approximate Factor Models**|Seongmin Kim et.al.|[2606.24652](http://arxiv.org/abs/2606.24652)|null|
+|**2026-06-23**|**Bayesian Variable Selection in Generalized Linear Models**|Lucia Filippozzi et.al.|[2606.24357](http://arxiv.org/abs/2606.24357)|null|
+|**2026-06-23**|**End-to-End Radar and Communication Modulation Recognition with Neuromorphic Computing**|Xiaohu Li et.al.|[2606.24075](http://arxiv.org/abs/2606.24075)|null|
+|**2026-06-22**|**FAST Pulsar Database IV. Spike subpulses and quasi-periodic subpulses of 25 pulsars observed by FAST**|Tao Wang et.al.|[2606.23970](http://arxiv.org/abs/2606.23970)|null|
+|**2026-06-22**|**Neuromorphic Speech Enhancement with Dual-Branch Spiking Neural Networks**|Taiyu Meng et.al.|[2606.23761](http://arxiv.org/abs/2606.23761)|null|
 |**2026-06-22**|**Log-concavity and tunneling: adiabatic quantum optimization for convex functions (with a spike)**|Arthur Braida et.al.|[2606.23614](http://arxiv.org/abs/2606.23614)|null|
 |**2026-06-22**|**An Open-Source LFSR-Based Stochastic Leaky Integrate-and-Fire Neuron in SkyWater 130 nm: Design, Stochastic Characterisation, and Rate Coding**|Poornima Kumaresan et.al.|[2606.23532](http://arxiv.org/abs/2606.23532)|null|
 |**2026-06-22**|**Emergence of Common Noise: Quantitative Conditional Propagation of Chaos**|Vlad Bally et.al.|[2606.23433](http://arxiv.org/abs/2606.23433)|null|
@@ -495,11 +500,6 @@ layout: default
 |**2026-06-11**|**A Quantitative Experimental Repeated Measures Study of Training Dynamics in a Small Llama Style Language Model Under a Compute-Aware Token Budget**|Joe Dwyer et.al.|[2606.13370](http://arxiv.org/abs/2606.13370)|null|
 |**2026-06-11**|**SupraSNN: Exploiting Synapse-Level Parallelism in Spiking Neural Network Accelerators through Co-Optimized Mapping and Scheduling**|Seyed Sadra Ghavami et.al.|[2606.13354](http://arxiv.org/abs/2606.13354)|null|
 |**2026-06-11**|**Otters++: A Time-to-first-spike Based Energy Efficient Optical Spiking Transformer**|Zhanglu Yan et.al.|[2606.13016](http://arxiv.org/abs/2606.13016)|null|
-|**2026-06-11**|**LongSpike: Fractional Order Spiking State Space Models for Efficient Long Sequence Learning**|Xinrui He et.al.|[2606.12895](http://arxiv.org/abs/2606.12895)|null|
-|**2026-06-10**|**SpikeDecoder: Realizing the GPT Architecture with Spiking Neural Networks**|Claas Beger et.al.|[2606.12287](http://arxiv.org/abs/2606.12287)|null|
-|**2026-06-10**|**Bayesian Effect Selection for Additive Quantile Regression with an Application to Air Pollution Thresholds**|Nadja Klein et.al.|[2606.12164](http://arxiv.org/abs/2606.12164)|null|
-|**2026-06-10**|**SpikeTAD: Spiking Neural Networks for End-to-End Temporal Action Detection**|Min Yang et.al.|[2606.12033](http://arxiv.org/abs/2606.12033)|null|
-|**2026-06-10**|**Hierarchical excitatory processes for modelling event-time data in the presence of exogenous stimuli**|Francesco Sanna Passino et.al.|[2606.11768](http://arxiv.org/abs/2606.11768)|null|
 
 ## <a id=neuronss>neuronss</a>
 
