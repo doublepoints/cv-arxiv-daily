@@ -340,6 +340,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-26**|**Beyond Sparse Supervision: Diffusion-Guided Learning for Few-Shot Graph Fraud Detection**|Liming Liu et.al.|[2606.28134](http://arxiv.org/abs/2606.28134)|null|
+|**2026-06-26**|**CoTAR: Topology and Atomic State Reconstruction in Condensed Phases**|Hodaka Mori et.al.|[2606.27636](http://arxiv.org/abs/2606.27636)|null|
 |**2026-06-25**|**Graph Neural Networks Applications Across Domains: All Insights You Need**|Abderaouf Bahi et.al.|[2606.27202](http://arxiv.org/abs/2606.27202)|null|
 |**2026-06-25**|**Explaining Temporal Graph Neural Networks via Feature-induced Information Flow**|Ping Xiong et.al.|[2606.27201](http://arxiv.org/abs/2606.27201)|null|
 |**2026-06-25**|**Kolmogorov Arnold networks (KAN) for aerodynamic prediction: a comparison with MLPs and GNNs**|Miguel Jaraiz et.al.|[2606.27126](http://arxiv.org/abs/2606.27126)|null|
@@ -347,7 +349,7 @@ layout: default
 |**2026-06-25**|**Scalable Message-Passing Quantum Graph Neural Networks in the Weisfeiler-Leman Hierarchy**|Snehal Raj et.al.|[2606.26873](http://arxiv.org/abs/2606.26873)|null|
 |**2026-06-25**|**Zero-Shot Size Transfer for Neural ODEs on Sparse Random Graphs: Graphon Limits and Adjoint Convergence**|Mingsong Yan et.al.|[2606.26662](http://arxiv.org/abs/2606.26662)|null|
 |**2026-06-24**|**A General Framework for Learning Algebraic Properties from Cayley Graphs using Graph Neural Networks**|Tal Weissblat et.al.|[2606.26212](http://arxiv.org/abs/2606.26212)|null|
-|**2026-06-24**|**Pulmonary Embolism Risk Stratification from CTPA and Medical Records: Vascular Graphs Are Not All You Need**|Nathan Painchaud et.al.|[2606.25956](http://arxiv.org/abs/2606.25956)|null|
+|**2026-06-26**|**Pulmonary Embolism Risk Stratification from CTPA and Medical Records: Vascular Graphs Are Not All You Need**|Nathan Painchaud et.al.|[2606.25956](http://arxiv.org/abs/2606.25956)|null|
 |**2026-06-24**|**Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks**|Rupesh Raj Karn et.al.|[2606.25589](http://arxiv.org/abs/2606.25589)|null|
 |**2026-06-24**|**Latency-Aware Service Placement using Neural Combinatorial Optimisers for Edge--Cloud Systems**|Kimia Abedpour et.al.|[2606.25553](http://arxiv.org/abs/2606.25553)|null|
 |**2026-06-24**|**RQ-SAFE: Coupled Request-Resource Scheduling for Online Edge SFC-DAGs**|Shengdong Gu et.al.|[2606.25467](http://arxiv.org/abs/2606.25467)|null|
@@ -388,8 +390,6 @@ layout: default
 |**2026-06-16**|**Geometrical fairness in graph neural networks**|Arturo Pérez-Peralta et.al.|[2606.17684](http://arxiv.org/abs/2606.17684)|null|
 |**2026-06-16**|**From GPU to Microcontroller: Online Ridge Regression for Edge-Deployable Traffic Prediction**|Suresh Purini et.al.|[2606.17613](http://arxiv.org/abs/2606.17613)|null|
 |**2026-06-16**|**LLM Features Can Hurt GNNs: Concatenation Interference on Homophilous Graph Benchmarks**|Zhongyuan Wang et.al.|[2606.17579](http://arxiv.org/abs/2606.17579)|null|
-|**2026-06-16**|**Graph Neural Networks for Semi-Supervised Image Classification with Multi-Feature Aggregation**|Marina Chagas Bulach Gapski et.al.|[2606.17406](http://arxiv.org/abs/2606.17406)|null|
-|**2026-06-15**|**Finsler Geometry, Graph Neural Networks, and You**|T. Mitchell Roddenberry et.al.|[2606.17185](http://arxiv.org/abs/2606.17185)|null|
 
 ## <a id=event-camera>Event-Camera</a>
 
@@ -450,6 +450,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-26**|**UV artefacts in ultra-slow-roll models of inflation**|Gerald Barnert et.al.|[2606.28005](http://arxiv.org/abs/2606.28005)|null|
+|**2026-06-26**|**SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks**|Ruiqi Song et.al.|[2606.27807](http://arxiv.org/abs/2606.27807)|null|
+|**2026-06-26**|**CANNs: A Toolkit for Research on Continuous Attractor Neural Networks**|Sichao He et.al.|[2606.27783](http://arxiv.org/abs/2606.27783)|null|
+|**2026-06-25**|**Reduction of Multiple Orthogonal Polynomials to Standard Orthogonal Polynomials**|Roozbeh Gharakhloo et.al.|[2606.27594](http://arxiv.org/abs/2606.27594)|null|
 |**2026-06-25**|**Climate-Driven Mortality Forecasting Using Deep Learning**|Kenrick So et.al.|[2606.26980](http://arxiv.org/abs/2606.26980)|null|
 |**2026-06-25**|**SpikeTimer: Exploring Active Copyright Protection in Spiking Neural Networks via Temporal Backdoor Regularization**|Xiao Yang et.al.|[2606.26841](http://arxiv.org/abs/2606.26841)|null|
 |**2026-06-24**|**Laser-intensity-spike-dominated hot electron generation from two-plasmon decay instability driven by moderate-bandwidth pulses**|C. Yao et.al.|[2606.26054](http://arxiv.org/abs/2606.26054)|null|
@@ -496,15 +500,12 @@ layout: default
 |**2026-06-14**|**AQ4SViT: An Automated Quantization Framework with Search Gating Policy for Compressing Spiking Vision Transformers**|Rachmad Vidya Wicaksana Putra et.al.|[2606.15523](http://arxiv.org/abs/2606.15523)|null|
 |**2026-06-13**|**EMRI Dephasing from a Torsion-Inspired Near-Zone Kerr Deformation: Motivated by Spin-Polarized Dark Matter**|Jingxu Wu et.al.|[2606.15381](http://arxiv.org/abs/2606.15381)|null|
 |**2026-06-13**|**Spiking Neural Dedispersion: A Neuromorphic Fast Radio Burst Detection Pipeline**|Alessio Magro et.al.|[2606.15361](http://arxiv.org/abs/2606.15361)|null|
-|**2026-06-13**|**MimicIK: Real-Time Generative Inverse Kinematics from Teleoperation with FK Consistency**|Jiahao Yang et.al.|[2606.15148](http://arxiv.org/abs/2606.15148)|null|
-|**2026-06-13**|**Short Spike, Long Story: Episode-Dependent Shifts of Long-Duration Type-I GRBs on $E_{\rm p,z}$--$E_{\rm iso}$ Plane**|Ya-Hui Jiang et.al.|[2606.15098](http://arxiv.org/abs/2606.15098)|null|
-|**2026-06-12**|**Test-Time Adaptation of Spiking Neural Networks for Intracortical Neural Decoding using Membrane Potential Alignment**|Guangzhi Tang et.al.|[2606.14866](http://arxiv.org/abs/2606.14866)|null|
-|**2026-06-12**|**Lehner's operator norm formulas, semidefinite programming, and spiked matrix models**|Dmitriy Kunisky et.al.|[2606.14687](http://arxiv.org/abs/2606.14687)|null|
 
 ## <a id=neuronss>neuronss</a>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-26**|**Ergodic approximation for the invariant distribution: An abstract framework for law-dependent dynamics**|Aurélien Alfonsi et.al.|[2606.28067](http://arxiv.org/abs/2606.28067)|null|
 |**2026-06-19**|**Delay coordinates synchronization and induces abrupt transition in excitable networks**|Bruno R. R. Boaretto et.al.|[2606.21703](http://arxiv.org/abs/2606.21703)|null|
 |**2026-06-19**|**Soliton-like Waves in a Two-Dimensional Recurrent Spiking Neural Network with Weighted Spike-Timing-Dependent Plasticity**|Ch. Meessen et.al.|[2606.21432](http://arxiv.org/abs/2606.21432)|null|
 |**2026-06-16**|**An Optimization Framework for Automated Assessment of Biological Plausibility of Spiking Neurons**|Sven Nitzsche et.al.|[2606.17853](http://arxiv.org/abs/2606.17853)|null|
@@ -554,5 +555,4 @@ layout: default
 |**2025-05-16**|**ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network**|Shang Xu et.al.|[2505.11455](http://arxiv.org/abs/2505.11455)|**[link](https://github.com/dgxdn/asrc-snn)**|
 |**2025-05-15**|**ILIF: Temporal Inhibitory Leaky Integrate-and-Fire Neuron for Overactivation in Spiking Neural Networks**|Kai Sun et.al.|[2505.10371](http://arxiv.org/abs/2505.10371)|null|
 |**2025-05-04**|**Cognition without neurons: modelling anticipation in a basal reservoir computer**|Polyphony Bruna et.al.|[2505.02114](http://arxiv.org/abs/2505.02114)|null|
-|**2025-04-03**|**Reservoir Computing: A New Paradigm for Neural Networks**|Felix Grezes et.al.|[2504.02639](http://arxiv.org/abs/2504.02639)|null|
 
