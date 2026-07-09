@@ -120,6 +120,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models**|Hyunjae Kim et.al.|[2607.07673](http://arxiv.org/abs/2607.07673)|null|
 |**2026-07-07**|**RFHNet: Relational and Frequency-Aware Hashing Network for Large-Scale Fine-Grained Food Image Retrieval**|Junsong Wang et.al.|[2607.06148](http://arxiv.org/abs/2607.06148)|null|
 |**2026-07-07**|**Visualizing Local Maxima of the Ohio overdose epidemic with Vineyards**|Nicholas Bermingham et.al.|[2607.05710](http://arxiv.org/abs/2607.05710)|null|
 |**2026-07-06**|**SLAM: Structured and Localized Analytic Manifold Adaptation for Lifelong VPR**|Kenta Tsukahara et.al.|[2607.04764](http://arxiv.org/abs/2607.04764)|null|
@@ -169,7 +170,6 @@ layout: default
 |**2026-06-02**|**ImageAuditor: Membership Inference Attack against Image-based Retrieval-Augmented Generation**|Jinghuai Zhang et.al.|[2606.03354](http://arxiv.org/abs/2606.03354)|null|
 |**2026-06-01**|**Predicting the risk of colorectal anastomotic leak based on preoperative mapping of the blood supply of the bowel**|Zahra Tabatabaei et.al.|[2606.02156](http://arxiv.org/abs/2606.02156)|null|
 |**2026-06-01**|**Adversarial Attacks on Robot Localization Systems via Deep Feature Perturbation**|Zhenyu Li et.al.|[2606.01892](http://arxiv.org/abs/2606.01892)|null|
-|**2026-06-01**|**Construction of Historical Knowledge Graphs Based on BERT and Graph Neural Networks**|Ping Li et.al.|[2606.01747](http://arxiv.org/abs/2606.01747)|null|
 
 ## <a id=keypoint-detection>Keypoint Detection</a>
 
@@ -230,6 +230,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-07**|**MiLSD: A Micro Line-Segment Detector for Resource-Constrained Devices**|Parsa Hassani Shariat Panahi et.al.|[2607.06600](http://arxiv.org/abs/2607.06600)|null|
 |**2026-07-06**|**Hybrid Deep Learning for Traceability and Classification of Industrial Slate Tiles**|Soren Antebi et.al.|[2607.04811](http://arxiv.org/abs/2607.04811)|null|
 |**2026-07-03**|**A Vision Based System for Guided and Collaborative Reconstruction of Fragmented Documents**|Oliver Krumpek et.al.|[2607.03621](http://arxiv.org/abs/2607.03621)|null|
 |**2026-07-01**|**AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images**|Meng Yang et.al.|[2606.31077](http://arxiv.org/abs/2606.31077)|null|
@@ -279,7 +280,6 @@ layout: default
 |**2025-05-04**|**Focus What Matters: Matchability-Based Reweighting for Local Feature Matching**|Dongyue Li et.al.|[2505.02161](http://arxiv.org/abs/2505.02161)|null|
 |**2025-05-15**|**Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective**|Taoyu Su et.al.|[2504.19458](http://arxiv.org/abs/2504.19458)|**[link](https://github.com/sutaoyu/CDMEA)**|
 |**2025-04-28**|**Dynamic Arthroscopic Navigation System for Anterior Cruciate Ligament Reconstruction Based on Multi-level Memory Architecture**|Shuo Wang et.al.|[2504.19398](http://arxiv.org/abs/2504.19398)|null|
-|**2025-04-23**|**Road Similarity-Based BEV-Satellite Image Matching for UGV Localization**|Zhenping Sun et.al.|[2504.16346](http://arxiv.org/abs/2504.16346)|null|
 
 ## <a id=nerf>NeRF</a>
 
@@ -340,6 +340,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**Any-Dimensional Learning by Sampling**|Eitan Levin et.al.|[2607.07680](http://arxiv.org/abs/2607.07680)|null|
+|**2026-07-08**|**Asymmetric Focal Loss Improves Graph Neural Network Prediction of Drug-Drug Interactions**|Faranak Hatami et.al.|[2607.07611](http://arxiv.org/abs/2607.07611)|null|
+|**2026-07-08**|**Stability of Flow Models for Graph Signals**|Martin Schmidt et.al.|[2607.07510](http://arxiv.org/abs/2607.07510)|null|
+|**2026-07-08**|**A Multi-Scale Machine Learning Framework for Coupled Chemical, Spin, and Structural Disorder in Alloys**|Zhenyao Fang et.al.|[2607.07456](http://arxiv.org/abs/2607.07456)|null|
+|**2026-07-08**|**Machine Learning Materials Properties by Encoding Orbital-Projected Density of States**|Paulo Pires et.al.|[2607.07339](http://arxiv.org/abs/2607.07339)|null|
+|**2026-07-08**|**Toward Deployable Satellite Anomaly Detection: A Benchmark Study on Large-Scale ESA-ADB Telemetry**|Andrea Nguyen et.al.|[2607.07335](http://arxiv.org/abs/2607.07335)|null|
+|**2026-07-08**|**The Deep Learning Cosmic Ray Energy Reconstruction Pipeline for the GRAPES-3 Experiment**|Sambit Sarkar et.al.|[2607.07265](http://arxiv.org/abs/2607.07265)|null|
+|**2026-07-08**|**Machine learning pipeline for identifying tracks of muons and hadrons at GRAPES-3 muon telescope**|Mansi Talwar et.al.|[2607.07263](http://arxiv.org/abs/2607.07263)|null|
+|**2026-07-08**|**Structural Adversarial Attacks on Relational Deep Learning under Integrity Constraints**|Alan Gany et.al.|[2607.07089](http://arxiv.org/abs/2607.07089)|null|
+|**2026-07-07**|**Generative Diffusion Models of Stochastic Graph Signals**|Yiğit Berkay Uslu et.al.|[2607.06833](http://arxiv.org/abs/2607.06833)|null|
 |**2026-07-07**|**CAIRN: Cross-Room 3D Scene Understanding with Topology-Aware Large Multimodal Models**|He Liang et.al.|[2607.06534](http://arxiv.org/abs/2607.06534)|null|
 |**2026-07-07**|**Visual graphs for image classification: does the structure affect performance?**|Alessandra Ibba et.al.|[2607.06295](http://arxiv.org/abs/2607.06295)|null|
 |**2026-07-07**|**Multimodal Molecular Representation Learning with Graph Neural Networks, Deep & Cross Networks, and SMILES Embeddings**|Qiwei Han et.al.|[2607.05736](http://arxiv.org/abs/2607.05736)|null|
@@ -380,21 +390,12 @@ layout: default
 |**2026-06-27**|**Towards Improved Anomaly Detection for Cloud Cybersecurity via Graph Neural Networks**|Manu Nandan et.al.|[2606.28923](http://arxiv.org/abs/2606.28923)|null|
 |**2026-06-26**|**mCGCNN: A Dual-Stream Crystal Graph Convolutional Neural Network for the Efficient Prediction of Magnetic Properties of Crystalline Materials**|Sourav Mal et.al.|[2606.28458](http://arxiv.org/abs/2606.28458)|null|
 |**2026-06-26**|**Beyond Sparse Supervision: Diffusion-Guided Learning for Few-Shot Graph Fraud Detection**|Liming Liu et.al.|[2606.28134](http://arxiv.org/abs/2606.28134)|null|
-|**2026-06-26**|**CoTAR: Topology and Atomic State Reconstruction in Condensed Phases**|Hodaka Mori et.al.|[2606.27636](http://arxiv.org/abs/2606.27636)|null|
-|**2026-06-25**|**Graph Neural Networks Applications Across Domains: All Insights You Need**|Abderaouf Bahi et.al.|[2606.27202](http://arxiv.org/abs/2606.27202)|null|
-|**2026-06-25**|**Explaining Temporal Graph Neural Networks via Feature-induced Information Flow**|Ping Xiong et.al.|[2606.27201](http://arxiv.org/abs/2606.27201)|null|
-|**2026-06-25**|**Kolmogorov Arnold networks (KAN) for aerodynamic prediction: a comparison with MLPs and GNNs**|Miguel Jaraiz et.al.|[2606.27126](http://arxiv.org/abs/2606.27126)|null|
-|**2026-06-25**|**The Sharp Edges of Calabi-Yau Manifolds: Designing Symmetric Models for Ricci-flat Metrics**|Viktor Mirjanić et.al.|[2606.26892](http://arxiv.org/abs/2606.26892)|null|
-|**2026-06-25**|**Scalable Message-Passing Quantum Graph Neural Networks in the Weisfeiler-Leman Hierarchy**|Snehal Raj et.al.|[2606.26873](http://arxiv.org/abs/2606.26873)|null|
-|**2026-06-25**|**Zero-Shot Size Transfer for Neural ODEs on Sparse Random Graphs: Graphon Limits and Adjoint Convergence**|Mingsong Yan et.al.|[2606.26662](http://arxiv.org/abs/2606.26662)|null|
-|**2026-06-24**|**A General Framework for Learning Algebraic Properties from Cayley Graphs using Graph Neural Networks**|Tal Weissblat et.al.|[2606.26212](http://arxiv.org/abs/2606.26212)|null|
-|**2026-06-26**|**Pulmonary Embolism Risk Stratification from CTPA and Medical Records: Vascular Graphs Are Not All You Need**|Nathan Painchaud et.al.|[2606.25956](http://arxiv.org/abs/2606.25956)|null|
-|**2026-06-24**|**Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks**|Rupesh Raj Karn et.al.|[2606.25589](http://arxiv.org/abs/2606.25589)|null|
 
 ## <a id=event-camera>Event-Camera</a>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**PLED-VINS: A Point-Line Event-Based Visual Inertial SLAM for Dynamic Environments**|Seunghun Lee et.al.|[2607.07374](http://arxiv.org/abs/2607.07374)|null|
 |**2026-07-06**|**An event-driven framework for fly-inspired visual motion detection**|Qinbing Fu et.al.|[2607.05205](http://arxiv.org/abs/2607.05205)|null|
 |**2026-07-06**|**Characterization of Event-Based Vision Sensors for High-Speed Optical Instrumentation**|Tomás Lopes et.al.|[2607.04741](http://arxiv.org/abs/2607.04741)|null|
 |**2026-07-03**|**E-TraMamba: A New Paradigm for Efficient Long-Term 3D Feature Tracking with Event Cameras**|Juwei Shen et.al.|[2607.02866](http://arxiv.org/abs/2607.02866)|null|
@@ -444,12 +445,18 @@ layout: default
 |**2025-07-06**|**Hardware-Free Event Cameras Temporal Synchronization Based on Event Density Alignment**|Wenxuan Li et.al.|[2507.04314](http://arxiv.org/abs/2507.04314)|null|
 |**2025-07-04**|**Efficient Event-Based Semantic Segmentation via Exploiting Frame-Event Fusion: A Hybrid Neural Network Approach**|Hebei Li et.al.|[2507.03765](http://arxiv.org/abs/2507.03765)|null|
 |**2025-07-01**|**EvRWKV: A RWKV Framework for Effective Event-guided Low-Light Image Enhancement**|WenJie Cai et.al.|[2507.03184](http://arxiv.org/abs/2507.03184)|null|
-|**2025-07-02**|**Interpolation-Based Event Visual Data Filtering Algorithms**|Marcin Kowlaczyk et.al.|[2507.01557](http://arxiv.org/abs/2507.01557)|null|
 
 ## <a id=snns>SNNs</a>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**Single-Entity Spiking Neuron Models: Survey**|Leon Parepko et.al.|[2607.07429](http://arxiv.org/abs/2607.07429)|null|
+|**2026-07-08**|**Dynamic neural manifolds for flexible closed-loop control on neuromorphic hardware**|Oskar von Seeler et.al.|[2607.07373](http://arxiv.org/abs/2607.07373)|null|
+|**2026-07-08**|**Observation of Self-Similarity in the Magnetic Fields Generated by the Ablative Nonlinear Rayleigh-Taylor Instability**|L. Gao et.al.|[2607.07356](http://arxiv.org/abs/2607.07356)|null|
+|**2026-07-08**|**Entropy Pacing Policy Optimization for Multi-Task Agentic Reinforcement Learning**|Zetian Hu et.al.|[2607.07178](http://arxiv.org/abs/2607.07178)|null|
+|**2026-07-08**|**Recovering Latent Structures after Variational Bayesian Variable Selection: Fit Assessment and Factor-Number Selection in Partially Exploratory Factor Analysis**|Jinsong Chen et.al.|[2607.07159](http://arxiv.org/abs/2607.07159)|null|
+|**2026-07-08**|**Multimodal Spatiotemporal-Frequency Fusion with Peak Enhancement for Cellular Traffic Forecasting**|Qingzhong Li et.al.|[2607.07016](http://arxiv.org/abs/2607.07016)|null|
+|**2026-07-08**|**Transfer Learning for Linear Discriminant Analysis with a Shared Classification Signal**|Yonghan Zhang et.al.|[2607.06936](http://arxiv.org/abs/2607.06936)|null|
 |**2026-07-07**|**A Hardware-Aware Open-Source Framework for Design Space Exploration of Mixed-Signal Spiking Neural Networks**|Sayma Nowshin Chowdhury et.al.|[2607.06456](http://arxiv.org/abs/2607.06456)|null|
 |**2026-07-07**|**Error Propagation in Spectral Functionals of Shrinkage Covariance Estimators: Perturbation Bounds and Calibrated Inference**|Ahmad Koman et.al.|[2607.06373](http://arxiv.org/abs/2607.06373)|null|
 |**2026-07-06**|**The Pathwise Approach to Metastability and its Applications to Galves--Löcherbach Models**|Morgan André et.al.|[2607.05652](http://arxiv.org/abs/2607.05652)|null|
@@ -493,18 +500,12 @@ layout: default
 |**2026-06-26**|**Neuromorphic Energy-Aware Learning for Adaptive Deep Brain Stimulation**|Binh Nguyen et.al.|[2606.28600](http://arxiv.org/abs/2606.28600)|null|
 |**2026-06-26**|**UV artefacts in ultra-slow-roll models of inflation**|Gerald Barnert et.al.|[2606.28005](http://arxiv.org/abs/2606.28005)|null|
 |**2026-06-26**|**SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks**|Ruiqi Song et.al.|[2606.27807](http://arxiv.org/abs/2606.27807)|null|
-|**2026-06-26**|**CANNs: A Toolkit for Research on Continuous Attractor Neural Networks**|Sichao He et.al.|[2606.27783](http://arxiv.org/abs/2606.27783)|null|
-|**2026-06-25**|**Reduction of Multiple Orthogonal Polynomials to Standard Orthogonal Polynomials**|Roozbeh Gharakhloo et.al.|[2606.27594](http://arxiv.org/abs/2606.27594)|null|
-|**2026-06-25**|**Climate-Driven Mortality Forecasting Using Deep Learning**|Kenrick So et.al.|[2606.26980](http://arxiv.org/abs/2606.26980)|null|
-|**2026-06-25**|**SpikeTimer: Exploring Active Copyright Protection in Spiking Neural Networks via Temporal Backdoor Regularization**|Xiao Yang et.al.|[2606.26841](http://arxiv.org/abs/2606.26841)|null|
-|**2026-06-24**|**Laser-intensity-spike-dominated hot electron generation from two-plasmon decay instability driven by moderate-bandwidth pulses**|C. Yao et.al.|[2606.26054](http://arxiv.org/abs/2606.26054)|null|
-|**2026-06-24**|**Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It**|Yupu Hao et.al.|[2606.26027](http://arxiv.org/abs/2606.26027)|null|
-|**2026-06-24**|**Topology-Dependent Emergence of Polychronous Neuronal Groups: A Recurrence-Plot Characterization**|Lucas A. T. X. Carneiro et.al.|[2606.25874](http://arxiv.org/abs/2606.25874)|null|
 
 ## <a id=neuronss>neuronss</a>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**Single-Entity Spiking Neuron Models: Survey**|Leon Parepko et.al.|[2607.07429](http://arxiv.org/abs/2607.07429)|null|
 |**2026-07-07**|**A Hardware-Aware Open-Source Framework for Design Space Exploration of Mixed-Signal Spiking Neural Networks**|Sayma Nowshin Chowdhury et.al.|[2607.06456](http://arxiv.org/abs/2607.06456)|null|
 |**2026-07-04**|**Diffusion learning reveals viable parameter manifolds and compensation geometry in biological dynamical systems**|Ruilin Zhang et.al.|[2607.03671](http://arxiv.org/abs/2607.03671)|null|
 |**2026-07-03**|**AIGOR: A Modular, Event-Driven Neuromorphic Architecture for Configurable SNN Inference**|Pierpaolo Perticaroli et.al.|[2607.03191](http://arxiv.org/abs/2607.03191)|null|
@@ -554,5 +555,4 @@ layout: default
 |**2025-06-12**|**NOBLE -- Neural Operator with Biologically-informed Latent Embeddings to Capture Experimental Variability in Biological Neuron Models**|Luca Ghafourpour et.al.|[2506.04536](http://arxiv.org/abs/2506.04536)|null|
 |**2025-06-03**|**Improving Performance of Spike-based Deep Q-Learning using Ternary Neurons**|Aref Ghoreishee et.al.|[2506.03392](http://arxiv.org/abs/2506.03392)|null|
 |**2025-05-30**|**A Novel Discrete Memristor-Coupled Heterogeneous Dual-Neuron Model and Its Application in Multi-Scenario Image Encryption**|Yi Zou et.al.|[2505.24294](http://arxiv.org/abs/2505.24294)|null|
-|**2025-05-28**|**Neuromorphic Sequential Arena: A Benchmark for Neuromorphic Temporal Processing**|Xinyi Chen et.al.|[2505.22035](http://arxiv.org/abs/2505.22035)|null|
 
