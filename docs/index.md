@@ -120,6 +120,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-07**|**SASGeo: Stability-Aware Semantic Map Localization for GNSS-Denied UAVs -- A Framework and Synthetic Proof of Concept**|Natalia Trukhina et.al.|[2607.07737](http://arxiv.org/abs/2607.07737)|null|
 |**2026-07-08**|**MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models**|Hyunjae Kim et.al.|[2607.07673](http://arxiv.org/abs/2607.07673)|null|
 |**2026-07-07**|**RFHNet: Relational and Frequency-Aware Hashing Network for Large-Scale Fine-Grained Food Image Retrieval**|Junsong Wang et.al.|[2607.06148](http://arxiv.org/abs/2607.06148)|null|
 |**2026-07-07**|**Visualizing Local Maxima of the Ohio overdose epidemic with Vineyards**|Nicholas Bermingham et.al.|[2607.05710](http://arxiv.org/abs/2607.05710)|null|
@@ -169,7 +170,6 @@ layout: default
 |**2026-06-02**|**SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching**|Xu Pan et.al.|[2606.03406](http://arxiv.org/abs/2606.03406)|null|
 |**2026-06-02**|**ImageAuditor: Membership Inference Attack against Image-based Retrieval-Augmented Generation**|Jinghuai Zhang et.al.|[2606.03354](http://arxiv.org/abs/2606.03354)|null|
 |**2026-06-01**|**Predicting the risk of colorectal anastomotic leak based on preoperative mapping of the blood supply of the bowel**|Zahra Tabatabaei et.al.|[2606.02156](http://arxiv.org/abs/2606.02156)|null|
-|**2026-06-01**|**Adversarial Attacks on Robot Localization Systems via Deep Feature Perturbation**|Zhenyu Li et.al.|[2606.01892](http://arxiv.org/abs/2606.01892)|null|
 
 ## <a id=keypoint-detection>Keypoint Detection</a>
 
@@ -340,6 +340,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**EdgeRefine: Privacy-Utility Balance for Graphs via Jaccard Sampling under Edge Differential Privacy**|Wenxiu Ding et.al.|[2607.08659](http://arxiv.org/abs/2607.08659)|null|
+|**2026-07-09**|**Spatio-Temporal Scheduling Prediction Under Backhaul Delay for Resilient Coordinated Beamforming**|Prashant Kumar Singh et.al.|[2607.08454](http://arxiv.org/abs/2607.08454)|null|
+|**2026-07-09**|**Optimization and Deep Learning based Resource Allocation for UAV-Aided Wireless Communication with Rotatable Antenna Array**|Fengcheng Pei et.al.|[2607.08420](http://arxiv.org/abs/2607.08420)|null|
+|**2026-07-08**|**path_boost: A Python Package for Interpretable Graph-Level Prediction using Path-Based Gradient Boosting**|Claudio Meggio et.al.|[2607.07935](http://arxiv.org/abs/2607.07935)|null|
+|**2026-07-08**|**Homomorphism Indistinguishability Beyond Graphs: Relational Weisfeiler--Leman and Hypertree Width**|Panagiotis Aivasiliotis et.al.|[2607.07934](http://arxiv.org/abs/2607.07934)|null|
+|**2026-07-08**|**A Graph Neural Network Model for Real-Time Gesture Recognition Based on sEMG Signals**|Pragatheeswaran Vipulanandan et.al.|[2607.07850](http://arxiv.org/abs/2607.07850)|null|
+|**2026-07-08**|**Graph-Regularized Deep Learning for EEG-Based Emotion Recognition with Psychologically-Grounded Label Structure**|Dongyang Kuang et.al.|[2607.07773](http://arxiv.org/abs/2607.07773)|null|
 |**2026-07-08**|**Any-Dimensional Learning by Sampling**|Eitan Levin et.al.|[2607.07680](http://arxiv.org/abs/2607.07680)|null|
 |**2026-07-08**|**Asymmetric Focal Loss Improves Graph Neural Network Prediction of Drug-Drug Interactions**|Faranak Hatami et.al.|[2607.07611](http://arxiv.org/abs/2607.07611)|null|
 |**2026-07-08**|**Stability of Flow Models for Graph Signals**|Martin Schmidt et.al.|[2607.07510](http://arxiv.org/abs/2607.07510)|null|
@@ -383,18 +390,13 @@ layout: default
 |**2026-06-29**|**T3R: Deeper Test-Time Adaptation for Graph Neural Networks via Gradient Rotation**|Huy Truong et.al.|[2606.30011](http://arxiv.org/abs/2606.30011)|null|
 |**2026-06-30**|**Data-Driven Modeling and Control for Tethered Space Systems with Koopman-Informed Graphs**|Ao Jin et.al.|[2606.29825](http://arxiv.org/abs/2606.29825)|null|
 |**2026-06-29**|**GLIP: Graph and LLM Joint Pretraining for Graph-Level Tasks**|Haoxin Sun et.al.|[2606.29773](http://arxiv.org/abs/2606.29773)|null|
-|**2026-06-29**|**Rethinking Generative Reconstruction Attacks against Graph Neural Network Models**|Adebayo Keji et.al.|[2606.29748](http://arxiv.org/abs/2606.29748)|null|
-|**2026-06-28**|**Blackknife: Hard-Label Query-Limited Black-Box Attacks on Heterogeneous Graph Neural Networks**|Honglin Gao et.al.|[2606.29240](http://arxiv.org/abs/2606.29240)|null|
-|**2026-06-28**|**CORDEX-ML-Bench: A Benchmark for Data-Driven Regional Climate Downscaling -Experiment Design and Overview**|Neelesh Rampal et.al.|[2606.29172](http://arxiv.org/abs/2606.29172)|null|
-|**2026-06-27**|**On Surrogate Modeling of Static Response of AM Short-Fiber Thermoplastics Using Graph Neural Networks**|Pharindra Pathak et.al.|[2606.28996](http://arxiv.org/abs/2606.28996)|null|
-|**2026-06-27**|**Towards Improved Anomaly Detection for Cloud Cybersecurity via Graph Neural Networks**|Manu Nandan et.al.|[2606.28923](http://arxiv.org/abs/2606.28923)|null|
-|**2026-06-26**|**mCGCNN: A Dual-Stream Crystal Graph Convolutional Neural Network for the Efficient Prediction of Magnetic Properties of Crystalline Materials**|Sourav Mal et.al.|[2606.28458](http://arxiv.org/abs/2606.28458)|null|
-|**2026-06-26**|**Beyond Sparse Supervision: Diffusion-Guided Learning for Few-Shot Graph Fraud Detection**|Liming Liu et.al.|[2606.28134](http://arxiv.org/abs/2606.28134)|null|
 
 ## <a id=event-camera>Event-Camera</a>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**TVTA: Trajectory-Aware Viseme-Guided Temporal Aggregation for Event-Based Lip Reading**|Jingrong Zheng et.al.|[2607.08236](http://arxiv.org/abs/2607.08236)|null|
+|**2026-07-09**|**EVIS: A Physics-Grounded Event Camera Plugin for NVIDIA Isaac Sim**|Linli Shi et.al.|[2607.08098](http://arxiv.org/abs/2607.08098)|null|
 |**2026-07-08**|**PLED-VINS: A Point-Line Event-Based Visual Inertial SLAM for Dynamic Environments**|Seunghun Lee et.al.|[2607.07374](http://arxiv.org/abs/2607.07374)|null|
 |**2026-07-06**|**An event-driven framework for fly-inspired visual motion detection**|Qinbing Fu et.al.|[2607.05205](http://arxiv.org/abs/2607.05205)|null|
 |**2026-07-06**|**Characterization of Event-Based Vision Sensors for High-Speed Optical Instrumentation**|Tomás Lopes et.al.|[2607.04741](http://arxiv.org/abs/2607.04741)|null|
@@ -443,13 +445,15 @@ layout: default
 |**2025-07-15**|**mmE-Loc: Facilitating Accurate Drone Landing with Ultra-High-Frequency Localization**|Haoyang Wang et.al.|[2507.09469](http://arxiv.org/abs/2507.09469)|null|
 |**2025-07-09**|**EA: An Event Autoencoder for High-Speed Vision Sensing**|Riadul Islam et.al.|[2507.06459](http://arxiv.org/abs/2507.06459)|null|
 |**2025-07-06**|**Hardware-Free Event Cameras Temporal Synchronization Based on Event Density Alignment**|Wenxuan Li et.al.|[2507.04314](http://arxiv.org/abs/2507.04314)|null|
-|**2025-07-04**|**Efficient Event-Based Semantic Segmentation via Exploiting Frame-Event Fusion: A Hybrid Neural Network Approach**|Hebei Li et.al.|[2507.03765](http://arxiv.org/abs/2507.03765)|null|
-|**2025-07-01**|**EvRWKV: A RWKV Framework for Effective Event-guided Low-Light Image Enhancement**|WenJie Cai et.al.|[2507.03184](http://arxiv.org/abs/2507.03184)|null|
 
 ## <a id=snns>SNNs</a>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**Joint estimation of high-dimensional spiked covariance matrices via a partially shared subspace**|Changwon Yoon et.al.|[2607.08123](http://arxiv.org/abs/2607.08123)|null|
+|**2026-07-09**|**Bias-Corrected Multiplier Bootstrap Inference for Spectral Edges of Large Covariance Matrices**|Xiucai Ding et.al.|[2607.08089](http://arxiv.org/abs/2607.08089)|null|
+|**2026-07-08**|**Evaluating the Generalizability of Foundation Models for Extreme Environmental Events: Case Study of California Wildfire PM2.5**|Yongcan Huang et.al.|[2607.07951](http://arxiv.org/abs/2607.07951)|null|
+|**2026-07-08**|**The Memory Wall of Green Software: Empirical Energy Evaluation of Memento Design Pattern**|Imane Jriri et.al.|[2607.07944](http://arxiv.org/abs/2607.07944)|null|
 |**2026-07-08**|**Single-Entity Spiking Neuron Models: Survey**|Leon Parepko et.al.|[2607.07429](http://arxiv.org/abs/2607.07429)|null|
 |**2026-07-08**|**Dynamic neural manifolds for flexible closed-loop control on neuromorphic hardware**|Oskar von Seeler et.al.|[2607.07373](http://arxiv.org/abs/2607.07373)|null|
 |**2026-07-08**|**Observation of Self-Similarity in the Magnetic Fields Generated by the Ablative Nonlinear Rayleigh-Taylor Instability**|L. Gao et.al.|[2607.07356](http://arxiv.org/abs/2607.07356)|null|
@@ -496,10 +500,6 @@ layout: default
 |**2026-06-29**|**Mega: A 22 nm Convolutional Spiking Neural Network Accelerator Achieving 0.375 pJ/SOP for Efficient Edge Vision**|Rick Luiken et.al.|[2606.30039](http://arxiv.org/abs/2606.30039)|null|
 |**2026-06-29**|**See Only When Needed: Context-Aware Attention Intervention for Mitigating Hallucinations in LVLMs**|Yuqing Lei et.al.|[2606.29847](http://arxiv.org/abs/2606.29847)|null|
 |**2026-06-27**|**Unified Complex-valued Neural Network: A Magnitude-Phase Computational Model for Event-Driven Neuromorphic Learning**|Reza Ahmadvand et.al.|[2606.29099](http://arxiv.org/abs/2606.29099)|null|
-|**2026-06-27**|**Road to scalability for efficient graph search on massively parallel neuromorphic hardware**|Oskar von Seeler et.al.|[2606.28907](http://arxiv.org/abs/2606.28907)|null|
-|**2026-06-26**|**Neuromorphic Energy-Aware Learning for Adaptive Deep Brain Stimulation**|Binh Nguyen et.al.|[2606.28600](http://arxiv.org/abs/2606.28600)|null|
-|**2026-06-26**|**UV artefacts in ultra-slow-roll models of inflation**|Gerald Barnert et.al.|[2606.28005](http://arxiv.org/abs/2606.28005)|null|
-|**2026-06-26**|**SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks**|Ruiqi Song et.al.|[2606.27807](http://arxiv.org/abs/2606.27807)|null|
 
 ## <a id=neuronss>neuronss</a>
 
