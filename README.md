@@ -136,6 +136,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-14**|**Breaking Déjà Vu: Independent Auditing of Visual Place Recognition through Vision-Language Reasoning**|Sania Waheed et.al.|[2607.12818](http://arxiv.org/abs/2607.12818)|null|
+|**2026-07-14**|**Towards Vision-Free CIR: Attribute-Augmented Scoring and LLM-Based Reranking for Zero-Shot Composed Image Retrieval**|Ryotaro Shimada et.al.|[2607.12621](http://arxiv.org/abs/2607.12621)|null|
 |**2026-07-13**|**GeoGS-SLAM: Online Monocular Reconstruction Using Gaussian Splatting with Geometric Priors**|Ruilan Gao et.al.|[2607.11184](http://arxiv.org/abs/2607.11184)|null|
 |**2026-07-08**|**GReFEM: Multimodal LLMs as Zero-Shot Semantic Assistants for Physics-Guided 3D Mesh Refinement**|Kartik Bali et.al.|[2607.08798](http://arxiv.org/abs/2607.08798)|null|
 |**2026-07-07**|**SASGeo: Stability-Aware Semantic Map Localization for GNSS-Denied UAVs -- A Framework and Synthetic Proof of Concept**|Natalia Trukhina et.al.|[2607.07737](http://arxiv.org/abs/2607.07737)|null|
@@ -184,8 +186,6 @@
 |**2026-06-03**|**CIPER: A Unified Framework for Cross-view Image-retrieval and Pose-estimation**|Yurim Jeon et.al.|[2606.05011](http://arxiv.org/abs/2606.05011)|null|
 |**2026-06-03**|**Z-FLoc: Zero-Shot Floorplan Localization via Geometric Primitives**|Ayumi Umemura et.al.|[2606.04788](http://arxiv.org/abs/2606.04788)|null|
 |**2026-06-03**|**COMBINER: Composed Image Retrieval Guided by Attribute-based Neighbor Relations**|Zixu Li et.al.|[2606.04604](http://arxiv.org/abs/2606.04604)|null|
-|**2026-06-02**|**Mixed-Modality Dual Face-Hair Retrieval**|Quoc-Anh Bui-Huynh et.al.|[2606.03470](http://arxiv.org/abs/2606.03470)|null|
-|**2026-06-02**|**SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching**|Xu Pan et.al.|[2606.03406](http://arxiv.org/abs/2606.03406)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -250,6 +250,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-14**|**Breaking Déjà Vu: Independent Auditing of Visual Place Recognition through Vision-Language Reasoning**|Sania Waheed et.al.|[2607.12818](http://arxiv.org/abs/2607.12818)|null|
 |**2026-07-07**|**MiLSD: A Micro Line-Segment Detector for Resource-Constrained Devices**|Parsa Hassani Shariat Panahi et.al.|[2607.06600](http://arxiv.org/abs/2607.06600)|null|
 |**2026-07-06**|**Hybrid Deep Learning for Traceability and Classification of Industrial Slate Tiles**|Soren Antebi et.al.|[2607.04811](http://arxiv.org/abs/2607.04811)|null|
 |**2026-07-03**|**A Vision Based System for Guided and Collaborative Reconstruction of Fragmented Documents**|Oliver Krumpek et.al.|[2607.03621](http://arxiv.org/abs/2607.03621)|null|
@@ -299,7 +300,6 @@
 |**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
 |**2025-05-04**|**Focus What Matters: Matchability-Based Reweighting for Local Feature Matching**|Dongyue Li et.al.|[2505.02161](http://arxiv.org/abs/2505.02161)|null|
 |**2025-05-15**|**Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective**|Taoyu Su et.al.|[2504.19458](http://arxiv.org/abs/2504.19458)|**[link](https://github.com/sutaoyu/CDMEA)**|
-|**2025-04-28**|**Dynamic Arthroscopic Navigation System for Anterior Cruciate Ligament Reconstruction Based on Multi-level Memory Architecture**|Shuo Wang et.al.|[2504.19398](http://arxiv.org/abs/2504.19398)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -364,6 +364,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-14**|**Positional Attention-based Graph Neural Network for Learning Permutation Non-equivariant Wireless Policies**|Baichuan Zhao et.al.|[2607.12744](http://arxiv.org/abs/2607.12744)|null|
+|**2026-07-14**|**Learning-Based Beamforming for Energy Efficiency of Continuous Aperture Array Systems**|Shiyong Chen et.al.|[2607.12321](http://arxiv.org/abs/2607.12321)|null|
+|**2026-07-14**|**Quantum Port-Hamiltonian Neural Networks: Learning Conservative and Dissipative Dynamics via Measurement-Induced Nonlinearity**|Dibakar Sigdel et.al.|[2607.12269](http://arxiv.org/abs/2607.12269)|null|
+|**2026-07-13**|**Learning from Complementary Ultrasound Representations for Liver Disease Classification**|Sabahattin Mert Daloglu et.al.|[2607.12062](http://arxiv.org/abs/2607.12062)|null|
+|**2026-07-13**|**Analyzing Image Encoder Choices and Graph Homophily in GCN Frameworks for Breast Ultrasound Classification**|Sabahattin Mert Daloglu et.al.|[2607.12054](http://arxiv.org/abs/2607.12054)|null|
+|**2026-07-13**|**Learning the Graphical Nature of Symmetries**|Rashid Barket et.al.|[2607.12026](http://arxiv.org/abs/2607.12026)|null|
 |**2026-07-13**|**Higher-Order Cell Tracking Transformer**|Jordão Bragantini et.al.|[2607.11754](http://arxiv.org/abs/2607.11754)|null|
 |**2026-07-13**|**Scalable Rate-Splitting Precoding via Recurrent Structure-Preserving Graph Neural Networks**|Wonseok Choi et.al.|[2607.11740](http://arxiv.org/abs/2607.11740)|null|
 |**2026-07-13**|**A multi-scale feature enhanced graph neural network for fluid dynamics prediction in complex geometries**|Li Xiao et.al.|[2607.11672](http://arxiv.org/abs/2607.11672)|null|
@@ -408,12 +414,6 @@
 |**2026-07-06**|**FAST: A Holistic Framework for Optimizing Memory-I/O, Computation, and Sampling in Temporal GNN Training**|Yushu Cai et.al.|[2607.05095](http://arxiv.org/abs/2607.05095)|null|
 |**2026-07-06**|**Hyperparameter Transfer in Graph Neural Networks**|Gage DeZoort et.al.|[2607.05017](http://arxiv.org/abs/2607.05017)|null|
 |**2026-07-06**|**Multi-Robot Open Adaptive Teaming Across Unseen Environments, Partners, and Scales**|Yang Li et.al.|[2607.04972](http://arxiv.org/abs/2607.04972)|null|
-|**2026-07-06**|**Graph Representation Learning of Longitudinal Medical Imaging Trajectories for Treatment Response Prediction**|Johannes Kiechle et.al.|[2607.04912](http://arxiv.org/abs/2607.04912)|null|
-|**2026-07-06**|**Mapping open quantum dynamics onto graphs**|Kyuho Kim et.al.|[2607.04721](http://arxiv.org/abs/2607.04721)|null|
-|**2026-07-06**|**Measuring What Matters: A Unified Evaluation Framework for GNN Explainability**|Francesco Paolo Nerini et.al.|[2607.04600](http://arxiv.org/abs/2607.04600)|null|
-|**2026-07-05**|**On Preserving Geometrical Invariance for Superpixel Image Classification using Graph Transformer**|Sarabeshwar Balaji et.al.|[2607.04262](http://arxiv.org/abs/2607.04262)|null|
-|**2026-07-05**|**Target-Aware Interaction-Guided Reinforcement Learning for Black-Box Node Injection Attacks on Graph Neural Networks**|Yi Lan et.al.|[2607.04091](http://arxiv.org/abs/2607.04091)|null|
-|**2026-07-02**|**An Additive MLP-GNN Framework for Characterizing Chemical and Structural Contributions to Aqueous Solubility**|Sampreeti Bhattacharya et.al.|[2607.02212](http://arxiv.org/abs/2607.02212)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -478,6 +478,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-14**|**A 32-channel event-based bio-signal analog front-end with adaptive delta and pulse frequency encoding**|Narayanan Shyam et.al.|[2607.12901](http://arxiv.org/abs/2607.12901)|null|
+|**2026-07-14**|**Perturber-Driven Dynamics of Supermassive Black Hole Binaries in Galaxy Merger**|Julian Chan et.al.|[2607.12708](http://arxiv.org/abs/2607.12708)|null|
+|**2026-07-14**|**Phase Transition of Eigenvalues of Covariances from the Spiked Mixture Model in High-dimensional Regimes**|Paul-Louis Delacour et.al.|[2607.12667](http://arxiv.org/abs/2607.12667)|null|
+|**2026-07-13**|**Quantum-classical neurons upgraded with optical spin qubits for advanced computing and networking architectures**|Osama M. Nayfeh et.al.|[2607.11992](http://arxiv.org/abs/2607.11992)|null|
+|**2026-07-13**|**SpikeDS: Dual Sparsity Spikformer for Perineural Invasion Prediction in 3D MRI**|Induk Um et.al.|[2607.11986](http://arxiv.org/abs/2607.11986)|null|
+|**2026-07-13**|**Contraction Certification from Streaming Data: Wasserstein Robustness and Compositional Stability for Interconnected Nonlinear System**|Faegheh K Moazeni et.al.|[2607.11982](http://arxiv.org/abs/2607.11982)|null|
 |**2026-07-13**|**A stochastic Fokker--Planck equation for the mean-field limit of a population of noisy integrate-and-fire neurons**|Ben Hambly et.al.|[2607.11685](http://arxiv.org/abs/2607.11685)|null|
 |**2026-07-13**|**Event-based Neural Decoding for Neuroprosthetic Motor Control**|Khaleelulla Khan Nazeer et.al.|[2607.11445](http://arxiv.org/abs/2607.11445)|null|
 |**2026-07-13**|**From Wireless SNNs to SN P Systems: A Low-Energy Rule-Based Conversion**|Pietro Savazzi et.al.|[2607.11428](http://arxiv.org/abs/2607.11428)|null|
@@ -522,12 +528,6 @@
 |**2026-07-02**|**A note on "The volume of random simplices from elliptical distributions in high dimension"**|Shan Xizheng et.al.|[2607.02169](http://arxiv.org/abs/2607.02169)|null|
 |**2026-07-02**|**Electronic Bursting Neuron: design, equations and hardware implementation**|Lev V. Takaishvili et.al.|[2607.02122](http://arxiv.org/abs/2607.02122)|null|
 |**2026-07-02**|**Continuous-Time Bayesian Networks with Structured Shrinkage Priors for Modelling Multimorbidity Trajectories in Large-Scale Electronic Health Records**|Oyebayo R. Olaniran et.al.|[2607.01549](http://arxiv.org/abs/2607.01549)|null|
-|**2026-07-01**|**Near-Term Emission Targets Need Immediate Attention in the USA**|Trevor Barnes et.al.|[2607.01471](http://arxiv.org/abs/2607.01471)|null|
-|**2026-07-01**|**Fixed-Set Robustness in Programming by Example: Example Corruption and Semantic Partition Recovery**|Yuan Si et.al.|[2607.01280](http://arxiv.org/abs/2607.01280)|null|
-|**2026-07-01**|**DRIADA: A Python Toolkit for Cross-Scale Analysis of Single-Neuron Selectivity and Population Dynamics**|Nikita Pospelov et.al.|[2607.00851](http://arxiv.org/abs/2607.00851)|null|
-|**2026-07-01**|**Dark matter energy exchange in stars orbiting supermassive black holes**|Stephan A. Meighen-Berger et.al.|[2607.00840](http://arxiv.org/abs/2607.00840)|null|
-|**2026-07-01**|**X-ray Coherent Attosecond Pulse Pair Spectroscopy**|Zain Abhari et.al.|[2607.00285](http://arxiv.org/abs/2607.00285)|null|
-|**2026-06-30**|**Grid-Interactive Thermal Management of AI Data Centers via Contextual Distributionally Robust Optimization**|Jiachen Shen et.al.|[2607.00099](http://arxiv.org/abs/2607.00099)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -535,6 +535,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-13**|**Lie Meets Network Dynamics: Exact Macroscopic Reductions (Finite Systems)**|Erik Andreas Martens et.al.|[2607.12210](http://arxiv.org/abs/2607.12210)|null|
 |**2026-07-08**|**Single-Entity Spiking Neuron Models: Survey**|Leon Parepko et.al.|[2607.07429](http://arxiv.org/abs/2607.07429)|null|
 |**2026-07-11**|**A Hardware-Aware Open-Source Framework for Design Space Exploration of Mixed-Signal Spiking Neural Networks**|Sayma Nowshin Chowdhury et.al.|[2607.06456](http://arxiv.org/abs/2607.06456)|null|
 |**2026-07-04**|**Diffusion learning reveals viable parameter manifolds and compensation geometry in biological dynamical systems**|Ruilin Zhang et.al.|[2607.03671](http://arxiv.org/abs/2607.03671)|null|
@@ -584,7 +585,6 @@
 |**2025-06-06**|**Integrating Complexity and Biological Realism: High-Performance Spiking Neural Networks for Breast Cancer Detection**|Zofia Rudnicka et.al.|[2506.06265](http://arxiv.org/abs/2506.06265)|null|
 |**2025-06-12**|**NOBLE -- Neural Operator with Biologically-informed Latent Embeddings to Capture Experimental Variability in Biological Neuron Models**|Luca Ghafourpour et.al.|[2506.04536](http://arxiv.org/abs/2506.04536)|null|
 |**2025-06-03**|**Improving Performance of Spike-based Deep Q-Learning using Ternary Neurons**|Aref Ghoreishee et.al.|[2506.03392](http://arxiv.org/abs/2506.03392)|null|
-|**2025-05-30**|**A Novel Discrete Memristor-Coupled Heterogeneous Dual-Neuron Model and Its Application in Multi-Scenario Image Encryption**|Yi Zou et.al.|[2505.24294](http://arxiv.org/abs/2505.24294)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
