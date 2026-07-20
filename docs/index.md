@@ -366,7 +366,7 @@ layout: default
 |**2026-07-13**|**Learning Subgroup Relations Using Siamese Graph Neural Networks**|Tal Weissblat et.al.|[2607.11140](http://arxiv.org/abs/2607.11140)|null|
 |**2026-07-13**|**A Novel Graph Fraud Detector via Grouped Attribute Completion and Confidence-Aware Contrastive Learning**|Junpeng Wu et.al.|[2607.11107](http://arxiv.org/abs/2607.11107)|null|
 |**2026-07-13**|**NVAITC AI Scientist: A Governed End-to-End Research System -- A Hypertension GWAS Case Study**|Eddie Huang et.al.|[2607.11084](http://arxiv.org/abs/2607.11084)|null|
-|**2026-07-13**|**Search for dark matter in a signature with a four-prong large-radius jet in proton-proton collisions at $\sqrt{s}$ = 13 TeV**| CMS Collaboration et.al.|[2607.11016](http://arxiv.org/abs/2607.11016)|null|
+|**2026-07-13**|**Search for dark matter in a signature with a four-prong large-radius jet in proton-proton collisions at $\sqrt{s}$ = 13 TeV**|CMS Collaboration et.al.|[2607.11016](http://arxiv.org/abs/2607.11016)|null|
 |**2026-07-10**|**TSAI-MetaFraud: A Benchmark Dataset for Financial Fraud Transaction and Behavioral Risk Detection in Metaverse Ecosystems**|Refat Ishrak Hemel et.al.|[2607.09528](http://arxiv.org/abs/2607.09528)|null|
 |**2026-07-10**|**Graph Neural Networks for Scalable and Transferable Node Centrality Approximation**|Samra Sana et.al.|[2607.09372](http://arxiv.org/abs/2607.09372)|null|
 |**2026-07-10**|**Commissioning and Low Latency Operation of the Graph Neural Network Electromagnetic Calorimeter Trigger at the Belle II Experiment**|M. Neu et.al.|[2607.09347](http://arxiv.org/abs/2607.09347)|null|
