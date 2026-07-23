@@ -120,13 +120,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**Diverse-Intent Multi-Turn Fashion Image Retrieval**|Mingqiang Tang et.al.|[2607.20291](http://arxiv.org/abs/2607.20291)|null|
+|**2026-07-22**|**RIM: A Retrieval-In-Matching Framework for Cross-Domain Global Visual Localization of UAVs**|Xin Li et.al.|[2607.20116](http://arxiv.org/abs/2607.20116)|null|
+|**2026-07-22**|**Using Hierarchical Controlled Vocabularies to Understand CLIP Retrieval Failures in Historical Photo Collections**|Ratan Sebastian et.al.|[2607.19836](http://arxiv.org/abs/2607.19836)|null|
 |**2026-07-21**|**PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image**|Dankai Liao et.al.|[2607.19261](http://arxiv.org/abs/2607.19261)|null|
 |**2026-07-21**|**CR-Refiner: An Object-Centric Optimal Transport Reranker for Edit-Conditioned 3D Scene Retrieval**|Hao Wu et.al.|[2607.19115](http://arxiv.org/abs/2607.19115)|null|
 |**2026-07-21**|**TAP-RAG: Task-Aware Policy Control for Long-Document Multimodal Question Answering**|Zhong Ji et.al.|[2607.18917](http://arxiv.org/abs/2607.18917)|null|
 |**2026-07-21**|**In-Context Learning for Wound Classification with Small Multimodal Language Models**|George Martvel et.al.|[2607.18819](http://arxiv.org/abs/2607.18819)|null|
 |**2026-07-21**|**Weakly Supervised Pathology-Informed Representation Learning for PET-Based Content Retrieval of Intra-Tumour Heterogeneity**|Rajat Vashistha et.al.|[2607.18762](http://arxiv.org/abs/2607.18762)|null|
 |**2026-07-21**|**Fusion Embedding: A Unified Embedding Space for Text, Image, Video, and Audio**|Abdul Basit Tonmoy et.al.|[2607.18666](http://arxiv.org/abs/2607.18666)|null|
-|**2026-07-20**|**FSDBN: Foreground-Aware EEG--Visual Alignment via Dynamic Brain Networks**|Yiheng Liu et.al.|[2607.18344](http://arxiv.org/abs/2607.18344)|null|
+|**2026-07-22**|**FSDBN: Foreground-Aware EEG-Visual Alignment via Dynamic Brain Networks**|Yiheng Liu et.al.|[2607.18344](http://arxiv.org/abs/2607.18344)|null|
 |**2026-07-18**|**C3DIR: A Deep Learning 3-Dimensional Cloud Property Retrieval Scheme for Passive Satellite Imagers**|Charles H. White et.al.|[2607.16929](http://arxiv.org/abs/2607.16929)|null|
 |**2026-07-18**|**When Do Multimodal and Graph-Augmented RAG Help? A Controlled Evaluation for Document Question Answering**|Sokipriala Jonah et.al.|[2607.16604](http://arxiv.org/abs/2607.16604)|null|
 |**2026-07-17**|**Are All Tokens Necessary for Visual Place Recognition? An Empirical Study of Token Reduction for Efficient Inference**|Tong Jin et.al.|[2607.15563](http://arxiv.org/abs/2607.15563)|null|
@@ -167,14 +170,12 @@ layout: default
 |**2026-06-18**|**Multimodal Concept Bottleneck Models**|Tongqing Shi et.al.|[2606.19882](http://arxiv.org/abs/2606.19882)|null|
 |**2026-06-18**|**Exploring Multi-Modal Large Language Models and Two-Stage Fine-Tuning for Fashion Image Retrieval**|Nguyen Cao Hoang et.al.|[2606.19684](http://arxiv.org/abs/2606.19684)|null|
 |**2026-06-17**|**Show, Don't Ask: Generative Visual Disambiguation for Composed Image Retrieval with Turn-Valid Coverage**|Amsisan Tran et.al.|[2606.18992](http://arxiv.org/abs/2606.18992)|null|
-|**2026-06-17**|**LARE: Low-Attention Region Encoding for Text-Image Retrieval**|Abdulmalik Alquwayfili et.al.|[2606.18885](http://arxiv.org/abs/2606.18885)|null|
-|**2026-06-14**|**VL2Spike: Spike-driven Distillation from VLMs for Low-Power Visual Perception in Embodied AI**|Zinan Liu et.al.|[2606.15898](http://arxiv.org/abs/2606.15898)|null|
-|**2026-06-13**|**FD-SLAM: Fast Dense Radar-Inertial SLAM with Frequency-Domain Loop Closure and Pose Graph Optimization**|Nader J. Abu-Alrub et.al.|[2606.15491](http://arxiv.org/abs/2606.15491)|null|
 
 ## <a id=keypoint-detection>Keypoint Detection</a>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**Black-Box Optimization for Identifying and Inverting Audio Dynamic Range Control Effects**|Haoran Sun et.al.|[2607.19645](http://arxiv.org/abs/2607.19645)|null|
 |**2026-07-20**|**UMCP: A Unified Multi-Task Collaborative Perception Network for Luggage Trolley Pose Estimation**|Zhirui Sun et.al.|[2607.17950](http://arxiv.org/abs/2607.17950)|null|
 |**2026-06-19**|**An Empirical Study of Handcrafted Feature Learning and Convolutional Neural Networks for Facial Expression Recognition**|Chethiya Galkaduwa et.al.|[2607.15288](http://arxiv.org/abs/2607.15288)|null|
 |**2026-07-01**|**GKDT: General Keypoint Detection Transformer**|Changsheng Lu et.al.|[2607.00752](http://arxiv.org/abs/2607.00752)|null|
@@ -224,7 +225,6 @@ layout: default
 |**2025-04-11**|**Stereophotoclinometry Revisited**|Travis Driver et.al.|[2504.08252](http://arxiv.org/abs/2504.08252)|null|
 |**2025-03-31**|**SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection**|Yannick Burkhardt et.al.|[2504.00139](http://arxiv.org/abs/2504.00139)|null|
 |**2025-03-29**|**Deep Visual Servoing of an Aerial Robot Using Keypoint Feature Extraction**|Shayan Sepahvand et.al.|[2503.23171](http://arxiv.org/abs/2503.23171)|null|
-|**2025-03-25**|**Multiscale Feature Importance-based Bit Allocation for End-to-End Feature Coding for Machines**|Junle Liu et.al.|[2503.19278](http://arxiv.org/abs/2503.19278)|null|
 
 ## <a id=image-matching>Image Matching</a>
 
@@ -340,6 +340,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**Label-Free Finite-Volume-Residual Training of Attention Graph Neural Networks for Coupled Thermo-Fluid Fields**|Tianyu Li et.al.|[2607.20321](http://arxiv.org/abs/2607.20321)|null|
+|**2026-07-22**|**Physics-Informed Graph Neural Networks for Surface Code Decoding via Discrete Exterior Calculus**|P. E. Trevisanutto et.al.|[2607.20060](http://arxiv.org/abs/2607.20060)|null|
+|**2026-07-22**|**Coordinating from Memory: Graph-Structured Experience Reuse for Multi-Agent Adaptation in Dynamic Manufacturing**|Chengxiao Dai et.al.|[2607.19985](http://arxiv.org/abs/2607.19985)|null|
+|**2026-07-22**|**FedLSG: LLM-Enhanced Semantic Calibration for Federated Graph Backdoor Defense**|Chenyu Zhou et.al.|[2607.19674](http://arxiv.org/abs/2607.19674)|null|
+|**2026-07-21**|**GAUGER: Generalized Regression Adjustment via Graph-Weighted Exposure-Level Residualization for Design-Based Inference Under Interference**|Lei Shi et.al.|[2607.19627](http://arxiv.org/abs/2607.19627)|null|
 |**2026-07-21**|**GUIDED Network-Agnostic Feature Initialization for Spatial Transferability in GNN-based Models**|Alessandro Scalese et.al.|[2607.19270](http://arxiv.org/abs/2607.19270)|null|
 |**2026-07-21**|**Sequential Learner Modeling Using Multi-Relational Graph Convolutional Networks**|Rawaa Alatrash et.al.|[2607.19253](http://arxiv.org/abs/2607.19253)|null|
 |**2026-07-21**|**ATLAS: A Foundation Neural Sampler for Amorphous Materials**|Mouyang Cheng et.al.|[2607.19198](http://arxiv.org/abs/2607.19198)|null|
@@ -385,11 +390,6 @@ layout: default
 |**2026-07-13**|**Scalable Rate-Splitting Precoding via Recurrent Structure-Preserving Graph Neural Networks**|Wonseok Choi et.al.|[2607.11740](http://arxiv.org/abs/2607.11740)|null|
 |**2026-07-13**|**A multi-scale feature enhanced graph neural network for fluid dynamics prediction in complex geometries**|Li Xiao et.al.|[2607.11672](http://arxiv.org/abs/2607.11672)|null|
 |**2026-07-13**|**Structure-Feature Aligned Graph Learning via Alternating Constrained Optimization**|Chengcheng Yan et.al.|[2607.11577](http://arxiv.org/abs/2607.11577)|null|
-|**2026-07-13**|**Surprisingly Simple and Effective Multi-Domain Graph Foundation Model through Graph-to-Table Alignment**|Chunyu Hu et.al.|[2607.11374](http://arxiv.org/abs/2607.11374)|null|
-|**2026-07-13**|**NGM-RAG: Neural Graph Matching based Retrieval-Augmented Generation**|Guo Chen et.al.|[2607.11159](http://arxiv.org/abs/2607.11159)|null|
-|**2026-07-13**|**Learning Subgroup Relations Using Siamese Graph Neural Networks**|Tal Weissblat et.al.|[2607.11140](http://arxiv.org/abs/2607.11140)|null|
-|**2026-07-13**|**A Novel Graph Fraud Detector via Grouped Attribute Completion and Confidence-Aware Contrastive Learning**|Junpeng Wu et.al.|[2607.11107](http://arxiv.org/abs/2607.11107)|null|
-|**2026-07-13**|**NVAITC AI Scientist: A Governed End-to-End Research System -- A Hypertension GWAS Case Study**|Eddie Huang et.al.|[2607.11084](http://arxiv.org/abs/2607.11084)|null|
 
 ## <a id=event-camera>Event-Camera</a>
 
@@ -450,6 +450,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**Black-Box Performance Evaluation of Elastic Block Storage: Contract, Rate-Limiting Model, and Software Exploration**|Yingjia Wang et.al.|[2607.20319](http://arxiv.org/abs/2607.20319)|null|
+|**2026-07-22**|**Current Injection Spiking Neural Network for Infrared and Visible Image Fusion**|Rui Zhao et.al.|[2607.19879](http://arxiv.org/abs/2607.19879)|null|
+|**2026-07-22**|**SpikingMOT: A Spike-Driven Multi-Object Tracker**|Yiding Sun et.al.|[2607.19875](http://arxiv.org/abs/2607.19875)|null|
+|**2026-07-22**|**Mens: Nonlinear shrinkage estimation in nonparanormal models for financial applications**|Hamid Karamikabir et.al.|[2607.19825](http://arxiv.org/abs/2607.19825)|null|
+|**2026-07-21**|**From Bit-Position Sensitivity to Unequal Error Protection for DNN Inference Memory**|Muhammad Husnain Mubarik et.al.|[2607.19623](http://arxiv.org/abs/2607.19623)|null|
 |**2026-07-21**|**Spiking Neural Networks for fMRI-Based Visual Semantic Decoding**|Jiahong Zhang et.al.|[2607.19170](http://arxiv.org/abs/2607.19170)|null|
 |**2026-07-21**|**A Two-Fluxes Stochastic Model of Traffic Waves**|Alberto Bressan et.al.|[2607.19106](http://arxiv.org/abs/2607.19106)|null|
 |**2026-07-21**|**How the fly holds a single goal: normalization, not selection, in Drosophila FC2**|Gioele Nanni et.al.|[2607.18969](http://arxiv.org/abs/2607.18969)|null|
@@ -495,11 +500,6 @@ layout: default
 |**2026-07-09**|**Flavorful Interactions of AGN Neutrinos with Dark Matter Spike**|S. Abbaslu et.al.|[2607.08833](http://arxiv.org/abs/2607.08833)|null|
 |**2026-07-09**|**Massive Perturbers and Transient Pickup Discs in Disc-Crossing Encounters in OJ 287-like Supermassive Black Hole Binaries**|Debojyoti Garain et.al.|[2607.08832](http://arxiv.org/abs/2607.08832)|null|
 |**2026-07-09**|**Joint estimation of high-dimensional spiked covariance matrices via a partially shared subspace**|Changwon Yoon et.al.|[2607.08123](http://arxiv.org/abs/2607.08123)|null|
-|**2026-07-09**|**Bias-Corrected Multiplier Bootstrap Inference for Spectral Edges of Large Covariance Matrices**|Xiucai Ding et.al.|[2607.08089](http://arxiv.org/abs/2607.08089)|null|
-|**2026-07-08**|**Evaluating the Generalizability of Foundation Models for Extreme Environmental Events: Case Study of California Wildfire PM2.5**|Yongcan Huang et.al.|[2607.07951](http://arxiv.org/abs/2607.07951)|null|
-|**2026-07-08**|**The Memory Wall of Green Software: Empirical Energy Evaluation of Memento Design Pattern**|Imane Jriri et.al.|[2607.07944](http://arxiv.org/abs/2607.07944)|null|
-|**2026-07-08**|**Single-Entity Spiking Neuron Models: Survey**|Leon Parepko et.al.|[2607.07429](http://arxiv.org/abs/2607.07429)|null|
-|**2026-07-08**|**Dynamic neural manifolds for flexible closed-loop control on neuromorphic hardware**|Oskar von Seeler et.al.|[2607.07373](http://arxiv.org/abs/2607.07373)|null|
 
 ## <a id=neuronss>neuronss</a>
 
