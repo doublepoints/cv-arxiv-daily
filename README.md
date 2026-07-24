@@ -136,6 +136,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-23**|**CRAG-MM-Diagnostics: Enabling Stage-Wise Analysis of Knowledge-Intensive VQA**|Hanseok Oh et.al.|[2607.21155](http://arxiv.org/abs/2607.21155)|null|
+|**2026-07-23**|**DTIF: Robust Loop Closure Detection via Delaunay Triangle Topology in Complex Forests**|Xin Zhao et.al.|[2607.21138](http://arxiv.org/abs/2607.21138)|null|
+|**2026-07-23**|**Webly Supervised Multi-Label Recognition: Evaluation Benchmark and Dual-Branch Multi-Label Contrastive Learning**|Zhihua Xu et.al.|[2607.20874](http://arxiv.org/abs/2607.20874)|null|
 |**2026-07-22**|**Diverse-Intent Multi-Turn Fashion Image Retrieval**|Mingqiang Tang et.al.|[2607.20291](http://arxiv.org/abs/2607.20291)|null|
 |**2026-07-22**|**RIM: A Retrieval-In-Matching Framework for Cross-Domain Global Visual Localization of UAVs**|Xin Li et.al.|[2607.20116](http://arxiv.org/abs/2607.20116)|null|
 |**2026-07-22**|**Using Hierarchical Controlled Vocabularies to Understand CLIP Retrieval Failures in Historical Photo Collections**|Ratan Sebastian et.al.|[2607.19836](http://arxiv.org/abs/2607.19836)|null|
@@ -183,9 +186,6 @@
 |**2026-06-26**|**PinNet: Keypoint-Aware Learned Local Descriptors with Geometric Embedding for Loop Closure in LiDAR SLAM**|Yanlong Ma et.al.|[2606.28637](http://arxiv.org/abs/2606.28637)|null|
 |**2026-06-23**|**From Open Waters to Enclosed Cabins: ProteusVPR for Cross-Scene Visual Place Recognition in Maritime Perception and Cabin Inspection**|Zexi Chena et.al.|[2606.24234](http://arxiv.org/abs/2606.24234)|null|
 |**2026-06-20**|**Lexical Consensus: Grounded Word Learning and Shared Meaning in Artificial Agents**|Patricio M. Vera et.al.|[2606.22207](http://arxiv.org/abs/2606.22207)|null|
-|**2026-06-18**|**Multimodal Concept Bottleneck Models**|Tongqing Shi et.al.|[2606.19882](http://arxiv.org/abs/2606.19882)|null|
-|**2026-06-18**|**Exploring Multi-Modal Large Language Models and Two-Stage Fine-Tuning for Fashion Image Retrieval**|Nguyen Cao Hoang et.al.|[2606.19684](http://arxiv.org/abs/2606.19684)|null|
-|**2026-06-17**|**Show, Don't Ask: Generative Visual Disambiguation for Composed Image Retrieval with Turn-Valid Coverage**|Amsisan Tran et.al.|[2606.18992](http://arxiv.org/abs/2606.18992)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -307,6 +307,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-23**|**Recurrent Sinusoidal INRs for Efficient High-Fidelity Representation**|Hyunmin Cho et.al.|[2607.21485](http://arxiv.org/abs/2607.21485)|null|
 |**2026-07-20**|**QIRF Quantum-Inspired Non-Orthogonal Function-Space Compression for 3D Gaussian Splatting**|Shizeng Jiang et.al.|[2607.18067](http://arxiv.org/abs/2607.18067)|null|
 |**2026-07-20**|**Packet-Loss Robust 3D Gaussian Compression via Atomic Packaging and GNN-based Error Concealment**|Yuxuan Tao et.al.|[2607.17916](http://arxiv.org/abs/2607.17916)|null|
 |**2026-07-11**|**Identity-Consistent Expression Fields: A Disentangled Neural Radiance Field Framework for Few-Shot Facial Expression Synthesis**|Minh Tran et.al.|[2607.16287](http://arxiv.org/abs/2607.16287)|null|
@@ -356,7 +357,6 @@
 |**2025-07-14**|**VoxelRF: Voxelized Radiance Field for Fast Wireless Channel Modeling**|Zihang Zeng et.al.|[2507.09987](http://arxiv.org/abs/2507.09987)|null|
 |**2025-07-12**|**Stable Score Distillation**|Haiming Zhu et.al.|[2507.09168](http://arxiv.org/abs/2507.09168)|null|
 |**2025-07-11**|**From images to properties: a NeRF-driven framework for granular material parameter inversion**|Cheng-Hsi Hsiao et.al.|[2507.09005](http://arxiv.org/abs/2507.09005)|null|
-|**2025-07-10**|**MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation**|Bangning Wei et.al.|[2507.07519](http://arxiv.org/abs/2507.07519)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -364,6 +364,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-23**|**Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling**|Aaron Feller et.al.|[2607.21561](http://arxiv.org/abs/2607.21561)|null|
+|**2026-07-23**|**Revisiting Degree-Corrected Spectral Clustering: a Condition-Free Spectral Analysis and Extension**|Wei Li et.al.|[2607.21435](http://arxiv.org/abs/2607.21435)|null|
+|**2026-07-23**|**Towards Faithful Graph Explanations with Synergistic Edge Effects via Granular Balls**|Jiancu Chen et.al.|[2607.21381](http://arxiv.org/abs/2607.21381)|null|
+|**2026-07-23**|**Graph Neural Network Force Fields (GPTFF-mol) for Organic Molecules from Optimization Trajectories (OpenGEM26)**|Yifan Huang et.al.|[2607.21369](http://arxiv.org/abs/2607.21369)|null|
+|**2026-07-23**|**ARGON: A GNN-Empowered Compilation Framework for Scalable Neutral Atom Computing**|Wenjie Sun et.al.|[2607.21216](http://arxiv.org/abs/2607.21216)|null|
+|**2026-07-23**|**Identifying Good Rules for Efficient SAT Encodings of Single-Constant Multiplication Using Machine Learning**|Chufeng Jiang et.al.|[2607.21188](http://arxiv.org/abs/2607.21188)|null|
+|**2026-07-23**|**Demographically-Informed Heat-Mortality Risk Curves via Risk Graph Neural Networks**|Alex O. Davies et.al.|[2607.21131](http://arxiv.org/abs/2607.21131)|null|
+|**2026-07-23**|**A Polynomial Architecture-Attribution Co-Design Framework for Exact Aumann-Shapley Attribution in GNNs**|Bizu Feng et.al.|[2607.21094](http://arxiv.org/abs/2607.21094)|null|
+|**2026-07-23**|**Multilevel Graph Wavelet Compressed Sensing with Scale-Aware Neural Recovery**|Amirhossein Nouranizadeh et.al.|[2607.20857](http://arxiv.org/abs/2607.20857)|null|
+|**2026-07-22**|**Cardinality-Decomposed Loss: Matching Training Objectives to Relation Structure in Heterogeneous Recommendation Graphs**|Parul Maheshwari et.al.|[2607.20737](http://arxiv.org/abs/2607.20737)|null|
 |**2026-07-22**|**Label-Free Finite-Volume-Residual Training of Attention Graph Neural Networks for Coupled Thermo-Fluid Fields**|Tianyu Li et.al.|[2607.20321](http://arxiv.org/abs/2607.20321)|null|
 |**2026-07-22**|**Physics-Informed Graph Neural Networks for Surface Code Decoding via Discrete Exterior Calculus**|P. E. Trevisanutto et.al.|[2607.20060](http://arxiv.org/abs/2607.20060)|null|
 |**2026-07-22**|**Coordinating from Memory: Graph-Structured Experience Reuse for Multi-Agent Adaptation in Dynamic Manufacturing**|Chengxiao Dai et.al.|[2607.19985](http://arxiv.org/abs/2607.19985)|null|
@@ -404,16 +414,6 @@
 |**2026-07-15**|**MxGPS: Multiplex Graph Transformers for a Power Grid Foundation Model**|Charilaos Papaioannou et.al.|[2607.13763](http://arxiv.org/abs/2607.13763)|null|
 |**2026-07-15**|**Accelerating gas-network feasibility screening with a physics-informed graph neural network surrogate**|Dongrui Jiang et.al.|[2607.13610](http://arxiv.org/abs/2607.13610)|null|
 |**2026-07-15**|**Gauge-Invariant, Parameter-Insensitive Regularization for Potential Recovery from Flow on Directed Graphs**|Mohammad Forouhesh et.al.|[2607.13609](http://arxiv.org/abs/2607.13609)|null|
-|**2026-07-14**|**Positional Attention-based Graph Neural Network for Learning Permutation Non-equivariant Wireless Policies**|Baichuan Zhao et.al.|[2607.12744](http://arxiv.org/abs/2607.12744)|null|
-|**2026-07-14**|**Learning-Based Beamforming for Energy Efficiency of Continuous Aperture Array Systems**|Shiyong Chen et.al.|[2607.12321](http://arxiv.org/abs/2607.12321)|null|
-|**2026-07-14**|**Quantum Port-Hamiltonian Neural Networks: Learning Conservative and Dissipative Dynamics via Measurement-Induced Nonlinearity**|Dibakar Sigdel et.al.|[2607.12269](http://arxiv.org/abs/2607.12269)|null|
-|**2026-07-15**|**Learning from Complementary Ultrasound Representations for Liver Disease Classification**|Sabahattin Mert Daloglu et.al.|[2607.12062](http://arxiv.org/abs/2607.12062)|null|
-|**2026-07-15**|**Analyzing Image Encoder Choices and Graph Homophily in GCN Frameworks for Breast Ultrasound Classification**|Sabahattin Mert Daloglu et.al.|[2607.12054](http://arxiv.org/abs/2607.12054)|null|
-|**2026-07-13**|**Learning the Graphical Nature of Symmetries**|Rashid Barket et.al.|[2607.12026](http://arxiv.org/abs/2607.12026)|null|
-|**2026-07-13**|**Higher-Order Cell Tracking Transformer**|Jordão Bragantini et.al.|[2607.11754](http://arxiv.org/abs/2607.11754)|null|
-|**2026-07-13**|**Scalable Rate-Splitting Precoding via Recurrent Structure-Preserving Graph Neural Networks**|Wonseok Choi et.al.|[2607.11740](http://arxiv.org/abs/2607.11740)|null|
-|**2026-07-13**|**A multi-scale feature enhanced graph neural network for fluid dynamics prediction in complex geometries**|Li Xiao et.al.|[2607.11672](http://arxiv.org/abs/2607.11672)|null|
-|**2026-07-13**|**Structure-Feature Aligned Graph Learning via Alternating Constrained Optimization**|Chengcheng Yan et.al.|[2607.11577](http://arxiv.org/abs/2607.11577)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -478,7 +478,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-07-22**|**Black-Box Performance Evaluation of Elastic Block Storage: Contract, Rate-Limiting Model, and Software Exploration**|Yingjia Wang et.al.|[2607.20319](http://arxiv.org/abs/2607.20319)|null|
+|**2026-07-23**|**What, Where, and How: Disentangling the Roles of Task, Language, and Model in Code Model Representations**|Piotr Wilam et.al.|[2607.21491](http://arxiv.org/abs/2607.21491)|null|
+|**2026-07-23**|**Spectral Transformation for Layer-wise Global Rank Discovery in Federated LoRA for Vision Transformers**|Hariharan Ramesh et.al.|[2607.21074](http://arxiv.org/abs/2607.21074)|null|
+|**2026-07-23**|**Weight-norm Criticality: A Mechanism for Loss Spikes Induced by the Normalization and Weight Decay**|Xiaolong Li et.al.|[2607.21005](http://arxiv.org/abs/2607.21005)|null|
+|**2026-07-22**|**Spectral theory for population density dynamics of spiking neurons with refractoriness**|Luca Falorsi et.al.|[2607.20699](http://arxiv.org/abs/2607.20699)|null|
+|**2026-07-22**|**Restricted nonlinear shrinkage of high-dimensional residual covariance matrices in multivariate regressions**|Hamid Karamikabir et.al.|[2607.20576](http://arxiv.org/abs/2607.20576)|null|
+|**2026-07-23**|**Black-Box Performance Evaluation of Elastic Block Storage: Contract, Rate-Limiting Model, and Software Exploration**|Yingjia Wang et.al.|[2607.20319](http://arxiv.org/abs/2607.20319)|null|
 |**2026-07-22**|**Current Injection Spiking Neural Network for Infrared and Visible Image Fusion**|Rui Zhao et.al.|[2607.19879](http://arxiv.org/abs/2607.19879)|null|
 |**2026-07-22**|**SpikingMOT: A Spike-Driven Multi-Object Tracker**|Yiding Sun et.al.|[2607.19875](http://arxiv.org/abs/2607.19875)|null|
 |**2026-07-22**|**Mens: Nonlinear shrinkage estimation in nonparanormal models for financial applications**|Hamid Karamikabir et.al.|[2607.19825](http://arxiv.org/abs/2607.19825)|null|
@@ -523,11 +528,6 @@
 |**2026-07-10**|**Characterization of the basin of convexity for multi-snapshot spike deconvolution via variable projection**|Meghna Kalra et.al.|[2607.09593](http://arxiv.org/abs/2607.09593)|null|
 |**2026-07-10**|**Weaving Light and Time: Unified Harmonic-Geometric Representation Learning for Dense RGB-Event Parsing**|Chenxu Peng et.al.|[2607.09143](http://arxiv.org/abs/2607.09143)|null|
 |**2026-07-10**|**Event Burst Trigger: An Availability Backdoor Attack on Event-Based SNN Object Detection**|Jaesun Baek et.al.|[2607.09115](http://arxiv.org/abs/2607.09115)|null|
-|**2026-07-09**|**Revisiting bounds on neutrino dark matter interaction at spikes**|Yasaman Farzan et.al.|[2607.08904](http://arxiv.org/abs/2607.08904)|null|
-|**2026-07-09**|**Breaking Local-Minimum Traps in Spiking Neural Network-Based Solvers for CSPs via Parallel Tempering**|Recep Bugra Uludag et.al.|[2607.08897](http://arxiv.org/abs/2607.08897)|null|
-|**2026-07-09**|**Flavorful Interactions of AGN Neutrinos with Dark Matter Spike**|S. Abbaslu et.al.|[2607.08833](http://arxiv.org/abs/2607.08833)|null|
-|**2026-07-09**|**Massive Perturbers and Transient Pickup Discs in Disc-Crossing Encounters in OJ 287-like Supermassive Black Hole Binaries**|Debojyoti Garain et.al.|[2607.08832](http://arxiv.org/abs/2607.08832)|null|
-|**2026-07-09**|**Joint estimation of high-dimensional spiked covariance matrices via a partially shared subspace**|Changwon Yoon et.al.|[2607.08123](http://arxiv.org/abs/2607.08123)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
