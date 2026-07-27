@@ -136,6 +136,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-24**|**Visual Relocalization from Sparse Views in Aliased and Low-Texture Environments via Novel View Synthesis**|Maria Peribañez et.al.|[2607.22147](http://arxiv.org/abs/2607.22147)|null|
 |**2026-07-23**|**CRAG-MM-Diagnostics: Enabling Stage-Wise Analysis of Knowledge-Intensive VQA**|Hanseok Oh et.al.|[2607.21155](http://arxiv.org/abs/2607.21155)|null|
 |**2026-07-23**|**DTIF: Robust Loop Closure Detection via Delaunay Triangle Topology in Complex Forests**|Xin Zhao et.al.|[2607.21138](http://arxiv.org/abs/2607.21138)|null|
 |**2026-07-23**|**Webly Supervised Multi-Label Recognition: Evaluation Benchmark and Dual-Branch Multi-Label Contrastive Learning**|Zhihua Xu et.al.|[2607.20874](http://arxiv.org/abs/2607.20874)|null|
@@ -185,7 +186,6 @@
 |**2026-06-29**|**Cross-Resolution Semantic Transfer for Robust Text-to-Image Retrieval in Low-Resolution Surveillance**|Wenjie Qian et.al.|[2606.30458](http://arxiv.org/abs/2606.30458)|null|
 |**2026-06-26**|**PinNet: Keypoint-Aware Learned Local Descriptors with Geometric Embedding for Loop Closure in LiDAR SLAM**|Yanlong Ma et.al.|[2606.28637](http://arxiv.org/abs/2606.28637)|null|
 |**2026-06-23**|**From Open Waters to Enclosed Cabins: ProteusVPR for Cross-Scene Visual Place Recognition in Maritime Perception and Cabin Inspection**|Zexi Chena et.al.|[2606.24234](http://arxiv.org/abs/2606.24234)|null|
-|**2026-06-20**|**Lexical Consensus: Grounded Word Learning and Shared Meaning in Artificial Agents**|Patricio M. Vera et.al.|[2606.22207](http://arxiv.org/abs/2606.22207)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -307,6 +307,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-23**|**Hash-QNeRF: Multiresolution Hash Encoding for Quantum Neural Radiance Fields**|Digonto Biswas et.al.|[2607.21675](http://arxiv.org/abs/2607.21675)|null|
 |**2026-07-23**|**Recurrent Sinusoidal INRs for Efficient High-Fidelity Representation**|Hyunmin Cho et.al.|[2607.21485](http://arxiv.org/abs/2607.21485)|null|
 |**2026-07-20**|**QIRF Quantum-Inspired Non-Orthogonal Function-Space Compression for 3D Gaussian Splatting**|Shizeng Jiang et.al.|[2607.18067](http://arxiv.org/abs/2607.18067)|null|
 |**2026-07-20**|**Packet-Loss Robust 3D Gaussian Compression via Atomic Packaging and GNN-based Error Concealment**|Yuxuan Tao et.al.|[2607.17916](http://arxiv.org/abs/2607.17916)|null|
@@ -356,7 +357,6 @@
 |**2025-07-16**|**HPR3D: Hierarchical Proxy Representation for High-Fidelity 3D Reconstruction and Controllable Editing**|Tielong Wang et.al.|[2507.11971](http://arxiv.org/abs/2507.11971)|null|
 |**2025-07-14**|**VoxelRF: Voxelized Radiance Field for Fast Wireless Channel Modeling**|Zihang Zeng et.al.|[2507.09987](http://arxiv.org/abs/2507.09987)|null|
 |**2025-07-12**|**Stable Score Distillation**|Haiming Zhu et.al.|[2507.09168](http://arxiv.org/abs/2507.09168)|null|
-|**2025-07-11**|**From images to properties: a NeRF-driven framework for granular material parameter inversion**|Cheng-Hsi Hsiao et.al.|[2507.09005](http://arxiv.org/abs/2507.09005)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -364,6 +364,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-24**|**Local-Global Geometric Insights for Graph Neural Networks via Entropic Curvature**|Rachid Caich et.al.|[2607.22381](http://arxiv.org/abs/2607.22381)|null|
+|**2026-07-24**|**Geometric 2D Scene Graph Generation**|Christoph Jahn et.al.|[2607.22325](http://arxiv.org/abs/2607.22325)|null|
+|**2026-07-24**|**Efficient Recommendations via Graph Coarsening and Label Propagation**|Alessandro Sbandi et.al.|[2607.22287](http://arxiv.org/abs/2607.22287)|null|
+|**2026-07-24**|**SAGE-Net: Semantics-Augmented Geometric Encoder for Material Property Prediction**|Guanghui Zhang et.al.|[2607.22271](http://arxiv.org/abs/2607.22271)|null|
+|**2026-07-24**|**LatentFlow: Visual Analytics for Latent Space Analysis in Molecular Graph Neural Networks**|Shiyi Liu et.al.|[2607.21941](http://arxiv.org/abs/2607.21941)|null|
+|**2026-07-24**|**Remedying Coarsening-Based GNN Training under Heterophily via Adaptive Complementary Enhancement**|Guoming Li et.al.|[2607.21885](http://arxiv.org/abs/2607.21885)|null|
+|**2026-07-23**|**A Graph-Based Control Interface for Traffic Signals on Heterogeneous Road Networks**|Bertil Braun et.al.|[2607.21831](http://arxiv.org/abs/2607.21831)|null|
+|**2026-07-23**|**Ionic Diffusion Properties of Rare-Earth High-Entropy Oxides from a Machine-Learned Interatomic Potential**|Mary Kathleen Caucci et.al.|[2607.21726](http://arxiv.org/abs/2607.21726)|null|
 |**2026-07-23**|**Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling**|Aaron Feller et.al.|[2607.21561](http://arxiv.org/abs/2607.21561)|null|
 |**2026-07-23**|**Revisiting Degree-Corrected Spectral Clustering: a Condition-Free Spectral Analysis and Extension**|Wei Li et.al.|[2607.21435](http://arxiv.org/abs/2607.21435)|null|
 |**2026-07-23**|**Towards Faithful Graph Explanations with Synergistic Edge Effects via Granular Balls**|Jiancu Chen et.al.|[2607.21381](http://arxiv.org/abs/2607.21381)|null|
@@ -406,14 +414,6 @@
 |**2026-07-16**|**Accelerated descriptor-free path sampling for protein-ligand binding kinetics**|Simon M. Lichtinger et.al.|[2607.15101](http://arxiv.org/abs/2607.15101)|null|
 |**2026-07-16**|**Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution**|Zlata Kikteva et.al.|[2607.14905](http://arxiv.org/abs/2607.14905)|null|
 |**2026-07-17**|**SevenNet-Polar for MultiTask Prediction of Energy, Forces, Stress, and Born Effective Charges: Development and Application to ZrO $_2$, Li$_3$PO$_4$ , and Perovskites**|Anh Khoa Augustin Lu et.al.|[2607.14827](http://arxiv.org/abs/2607.14827)|null|
-|**2026-07-16**|**Grad2Fair: A Gradient-driven Approach for Graph Fairness without Demographics**|Yuchang Zhu et.al.|[2607.14705](http://arxiv.org/abs/2607.14705)|null|
-|**2026-07-15**|**CausalGraphX: A Counterfactual Graph Neural Network Framework for Explainable Systemic Risk Assessment**|Rabimba Karanjai et.al.|[2607.14416](http://arxiv.org/abs/2607.14416)|null|
-|**2026-07-15**|**NeuroGRIP: Retrieval-Augmented Graph Refinement for Knowledge-Grounded EEG Seizure Diagnosis**|Lincan Li et.al.|[2607.14314](http://arxiv.org/abs/2607.14314)|null|
-|**2026-07-15**|**OCELOT: Direct Atmospheric Forecasting from Heterogeneous Earth Observations Using a Graph-Transformer Hybrid Model**|Azadeh Gholoubi et.al.|[2607.14196](http://arxiv.org/abs/2607.14196)|null|
-|**2026-07-15**|**Evaluation of State-of-the-Art Deep Learning Architectures for Aerodynamical Predictions**|Jan Scherz et.al.|[2607.13866](http://arxiv.org/abs/2607.13866)|null|
-|**2026-07-15**|**MxGPS: Multiplex Graph Transformers for a Power Grid Foundation Model**|Charilaos Papaioannou et.al.|[2607.13763](http://arxiv.org/abs/2607.13763)|null|
-|**2026-07-15**|**Accelerating gas-network feasibility screening with a physics-informed graph neural network surrogate**|Dongrui Jiang et.al.|[2607.13610](http://arxiv.org/abs/2607.13610)|null|
-|**2026-07-15**|**Gauge-Invariant, Parameter-Insensitive Regularization for Potential Recovery from Flow on Directed Graphs**|Mohammad Forouhesh et.al.|[2607.13609](http://arxiv.org/abs/2607.13609)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -478,6 +478,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-24**|**Beyond Negative-Ridge Endpoints: Mixed-Sign Spectral Regularization via Negative-Shifted Gradient Descent**|Peng Zhao et.al.|[2607.22474](http://arxiv.org/abs/2607.22474)|null|
+|**2026-07-24**|**NUMA balancing hampering performance of spiking network simulations**|Melissa Lober et.al.|[2607.22275](http://arxiv.org/abs/2607.22275)|null|
+|**2026-07-24**|**Neuromorphic Non-Orthogonal Multiple Access for Parallel Remote Inference via Vector Symbolic Architecture**|Jiechen Chen et.al.|[2607.22155](http://arxiv.org/abs/2607.22155)|null|
+|**2026-07-24**|**Inertial Asynchronous Computation**|Doruk Efe Gökmen et.al.|[2607.21965](http://arxiv.org/abs/2607.21965)|null|
+|**2026-07-23**|**Neural Feature Governance: Extending Atom Prevalence**|Idris Karel Seunda Ekwe et.al.|[2607.21671](http://arxiv.org/abs/2607.21671)|null|
 |**2026-07-23**|**What, Where, and How: Disentangling the Roles of Task, Language, and Model in Code Model Representations**|Piotr Wilam et.al.|[2607.21491](http://arxiv.org/abs/2607.21491)|null|
 |**2026-07-23**|**Spectral Transformation for Layer-wise Global Rank Discovery in Federated LoRA for Vision Transformers**|Hariharan Ramesh et.al.|[2607.21074](http://arxiv.org/abs/2607.21074)|null|
 |**2026-07-23**|**Weight-norm Criticality: A Mechanism for Loss Spikes Induced by the Normalization and Weight Decay**|Xiaolong Li et.al.|[2607.21005](http://arxiv.org/abs/2607.21005)|null|
@@ -523,11 +528,6 @@
 |**2026-07-13**|**SAIL: Perceptual Quality-Aware Rate Control for Cloud Gaming**|Houde Qian et.al.|[2607.11231](http://arxiv.org/abs/2607.11231)|null|
 |**2026-07-13**|**Efficient and Robust Spiking Neural Networks for sEMG-Based Muscle Fatigue Detection**|Kaiwen Tang et.al.|[2607.11065](http://arxiv.org/abs/2607.11065)|null|
 |**2026-07-12**|**Demixing Sparse Signals from Nonlinear Observations using Generalized Non-convex Regularization**|Raziyeh Takbiri et.al.|[2607.10618](http://arxiv.org/abs/2607.10618)|null|
-|**2026-07-11**|**PIER-Flow: Physics-Informed Efficient Rectified Flow for Real-Time Mobile Robot Navigation**|Shibo Li et.al.|[2607.10288](http://arxiv.org/abs/2607.10288)|null|
-|**2026-07-10**|**Silicon-Germanium Heterostructures with Enhanced Valley Splitting for Spin Qubits**|David W. Kanaar et.al.|[2607.09652](http://arxiv.org/abs/2607.09652)|null|
-|**2026-07-10**|**Characterization of the basin of convexity for multi-snapshot spike deconvolution via variable projection**|Meghna Kalra et.al.|[2607.09593](http://arxiv.org/abs/2607.09593)|null|
-|**2026-07-10**|**Weaving Light and Time: Unified Harmonic-Geometric Representation Learning for Dense RGB-Event Parsing**|Chenxu Peng et.al.|[2607.09143](http://arxiv.org/abs/2607.09143)|null|
-|**2026-07-10**|**Event Burst Trigger: An Availability Backdoor Attack on Event-Based SNN Object Detection**|Jaesun Baek et.al.|[2607.09115](http://arxiv.org/abs/2607.09115)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
