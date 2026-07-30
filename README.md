@@ -79,6 +79,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-29**|**VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion**|Zador Pataki et.al.|[2607.27194](http://arxiv.org/abs/2607.27194)|null|
 |**2026-07-27**|**Accuracy potential of visual localization exploiting high-end street-level imagery**|Jonas Meyer et.al.|[2607.24409](http://arxiv.org/abs/2607.24409)|null|
 |**2026-07-17**|**HETA++: Global Structure-from-Motion with Hybrid Explicit Translation Averaging**|Peilin Tao et.al.|[2607.15912](http://arxiv.org/abs/2607.15912)|null|
 |**2026-07-16**|**Immediate 3D Gaussian Splat Reconstruction of Unordered Input with Global Consistency**|Andreas Meuleman et.al.|[2607.14481](http://arxiv.org/abs/2607.14481)|null|
@@ -128,7 +129,6 @@
 |**2025-06-05**|**SupeRANSAC: One RANSAC to Rule Them All**|Daniel Barath et.al.|[2506.04803](http://arxiv.org/abs/2506.04803)|**[link](https://github.com/danini/superansac)**|
 |**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225](http://arxiv.org/abs/2506.04225)|null|
 |**2025-06-04**|**Accelerating SfM-based Pose Estimation with Dominating Set**|Joji Joseph et.al.|[2506.03667](http://arxiv.org/abs/2506.03667)|null|
-|**2025-06-02**|**Fast and Robust Rotation Averaging with Anisotropic Coordinate Descent**|Yaroslava Lochman et.al.|[2506.01940](http://arxiv.org/abs/2506.01940)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -250,6 +250,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-29**|**VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion**|Zador Pataki et.al.|[2607.27194](http://arxiv.org/abs/2607.27194)|null|
+|**2026-07-29**|**Robust RPC Bundle Adjustment for Multi-Date Satellite Imagery with Season-Invariant Correspondences**|Roger Marí et.al.|[2607.26973](http://arxiv.org/abs/2607.26973)|null|
 |**2026-07-26**|**Robust 6-DoF Object Pose Tracking with Built-In Recovery under Occlusions and Rapid Object Motions**|Balázs Opra et.al.|[2607.23468](http://arxiv.org/abs/2607.23468)|null|
 |**2026-07-21**|**NGPS: GPS-Denied Aerial Geo-Localization and 2.5D Reconstruction via Deep Satellite Image Matching and Multi-Rate Sensor Fusion**|Sanket Sharma et.al.|[2607.18936](http://arxiv.org/abs/2607.18936)|null|
 |**2026-07-15**|**Breaking Déjà Vu: Independent Auditing of Visual Place Recognition through Vision-Language Reasoning**|Sania Waheed et.al.|[2607.12818](http://arxiv.org/abs/2607.12818)|null|
@@ -298,8 +300,6 @@
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|**[link](https://github.com/simbauer/to_glue_or_not_to_glue)**|
 |**2025-05-16**|**Multi-view dense image matching with similarity learning and geometry priors**|Mohamed Ali Chebbi et.al.|[2505.11264](http://arxiv.org/abs/2505.11264)|null|
 |**2025-05-12**|**Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection**|Yuqi Cheng et.al.|[2505.07375](http://arxiv.org/abs/2505.07375)|**[link](https://github.com/hustCYQ/GLFM-Multi-class-3DAD)**|
-|**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|**[link](https://github.com/cszhanglmu/obd-finder)**|
-|**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -364,6 +364,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-29**|**Universality and Approximation Rates of Graph Neural Networks with Random Features**|Lukas Gonon et.al.|[2607.26699](http://arxiv.org/abs/2607.26699)|null|
+|**2026-07-29**|**Multi-User Localization via Active Sensing with Electromagnetically Reconfigurable Antennas**|Ruizhi Zhang et.al.|[2607.26605](http://arxiv.org/abs/2607.26605)|null|
+|**2026-07-29**|**Neural Architecture Search for Traffic Prediction: A Survey of Methods, Challenges, and Future Directions**|Truong Giang Vu et.al.|[2607.26467](http://arxiv.org/abs/2607.26467)|null|
+|**2026-07-29**|**Examining the Efficacy of Graph Neural Network Message-Passing in Regression Contexts**|Keith G. Mills et.al.|[2607.26404](http://arxiv.org/abs/2607.26404)|null|
+|**2026-07-29**|**Embedding Items at Scale: Comparing GNN-Based and ID-Based Item Embeddings in the Yandex Ecosystem**|Sergei Makeev et.al.|[2607.26365](http://arxiv.org/abs/2607.26365)|null|
+|**2026-07-28**|**Automorphism-Induced Non-Canonicity in Top-k Explanations of Graph Neural Networks**|Xin Xu et.al.|[2607.26344](http://arxiv.org/abs/2607.26344)|null|
+|**2026-07-28**|**Learning the Word Problem: Geodesic Lengths and Cryptographic Applications**|Elisabeth Fink et.al.|[2607.26241](http://arxiv.org/abs/2607.26241)|null|
 |**2026-07-28**|**FLASH: Efficient Impact Fall Detection with Unified Hypergraph State-Space Model**|Tresor Y. Koffi et.al.|[2607.25791](http://arxiv.org/abs/2607.25791)|null|
 |**2026-07-28**|**Impact Detection in Fall Events: Leveraging Spatio-Temporal Graph Convolutional Networks and Recurrent Neural Networks Using 3D Skeletons Data**|Tresor Y. Koffi et.al.|[2607.25710](http://arxiv.org/abs/2607.25710)|null|
 |**2026-07-28**|**Contrastive Representation Learning of Longitudinal Disease Trajectories on Temporal Graphs**|Bastian Pfeifer et.al.|[2607.25609](http://arxiv.org/abs/2607.25609)|null|
@@ -407,13 +414,6 @@
 |**2026-07-21**|**ATLAS: A Foundation Neural Sampler for Amorphous Materials**|Mouyang Cheng et.al.|[2607.19198](http://arxiv.org/abs/2607.19198)|null|
 |**2026-07-21**|**Parallel Noising in Neural Markov Logic Networks**|Peter Jung et.al.|[2607.19126](http://arxiv.org/abs/2607.19126)|null|
 |**2026-07-21**|**GEqTrain: A Configuration-Driven Framework for Retargeting Equivariant Graph Neural Networks Across 3D Scientific Tasks**|Daniele Angioletti et.al.|[2607.19083](http://arxiv.org/abs/2607.19083)|null|
-|**2026-07-21**|**Graph Neural Network-based Algorithm Selection for the Traveling Salesman Problem: A Systematic Study of Cost and Rank Losses under Distinct Budget Regimes**|Zhaoxuan Li et.al.|[2607.18632](http://arxiv.org/abs/2607.18632)|null|
-|**2026-07-20**|**GQD-AdsNet: Graph Neural Networks Unlock Rapid Exploration of Transition Metal Adsorption on Graphene Quantum Dots**|Lara Goncebat et.al.|[2607.18591](http://arxiv.org/abs/2607.18591)|null|
-|**2026-07-20**|**Attacking Graph Foundation Models Through Their Shared Representation**|Pankaj Kumar et.al.|[2607.18567](http://arxiv.org/abs/2607.18567)|null|
-|**2026-07-20**|**AGENTS4GEOS: agentic platform for open-source multi-physics simulation**|Adriano M. A. Côrtes et.al.|[2607.18557](http://arxiv.org/abs/2607.18557)|null|
-|**2026-07-20**|**Long-Horizon Wireless Link Scheduling with State-Augmented Graph Neural Networks**|Romina Garcia Camargo et.al.|[2607.18480](http://arxiv.org/abs/2607.18480)|null|
-|**2026-07-20**|**ClouDens: Operational Context-Aware Anomaly Detection for Large-scale Cloud System Monitoring**|Thu T. H. Doan et.al.|[2607.18127](http://arxiv.org/abs/2607.18127)|null|
-|**2026-07-20**|**Sobek: Streaming Equivariant Tensor Product Convolutions**|Vladimir Chorošajev et.al.|[2607.18074](http://arxiv.org/abs/2607.18074)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -421,6 +421,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-29**|**Sequence-SOD: Bio-inspired Sequence-aware Spiking ObjectDetection for Event Cameras**|Katharina Bendig et.al.|[2607.26703](http://arxiv.org/abs/2607.26703)|null|
 |**2026-07-26**|**Towards Ultrafast Depth Sensing Via Active Event-based Stereo Vision**|Jianing Li et.al.|[2607.23684](http://arxiv.org/abs/2607.23684)|null|
 |**2026-07-17**|**Event3R: Asynchronous-to-Global 3D Reconstruction from Event Camera via Spatial-Temporal Feature Aggregation**|Jian Huang et.al.|[2607.15727](http://arxiv.org/abs/2607.15727)|null|
 |**2026-07-17**|**GoStop: Reinforcement Learning for Adaptive Temporal Aggregation in Event-Based Feature Tracking**|Youngho Kim et.al.|[2607.15699](http://arxiv.org/abs/2607.15699)|null|
@@ -470,7 +471,6 @@
 |**2026-05-26**|**Can We Hear from Events? Generating Speech from Event Camera**|Jingping Fang et.al.|[2605.26672](http://arxiv.org/abs/2605.26672)|null|
 |**2026-05-25**|**NightSight: Passive Computation for Navigation in Dark Using Events**|Deepak Singh et.al.|[2605.26330](http://arxiv.org/abs/2605.26330)|null|
 |**2026-05-25**|**Event-to-Video Reconstruction using Spatio-Temporal and Frequency-Enhanced Deep Neural Networks**|Ramna Maqsood et.al.|[2605.25804](http://arxiv.org/abs/2605.25804)|null|
-|**2026-05-23**|**AdaFuse-Det: Adaptive Cross-Modal Fusion of Event Cameras for Robust Object Detection in Low-Light RGB Imagery**|Raju Imandi et.al.|[2605.24691](http://arxiv.org/abs/2605.24691)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -478,6 +478,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-29**|**Spiking Photonic Neurons Based on Two-Section InP Quantum-Well Lasers Integrated on Silicon**|Menelaos Skontranis et.al.|[2607.26950](http://arxiv.org/abs/2607.26950)|null|
+|**2026-07-29**|**Sequence-SOD: Bio-inspired Sequence-aware Spiking ObjectDetection for Event Cameras**|Katharina Bendig et.al.|[2607.26703](http://arxiv.org/abs/2607.26703)|null|
+|**2026-07-29**|**The Sparsity Ceiling: Where Spiking Networks Can and Cannot Trade Activity for Energy**|Zeyu Wang et.al.|[2607.26648](http://arxiv.org/abs/2607.26648)|null|
+|**2026-07-29**|**Chaotic Imprints in Gravitational Waves from Conformal-Anomaly-Corrected Extreme-Mass-Ratio Inspirals**|Wei-Hao Zhang et.al.|[2607.26493](http://arxiv.org/abs/2607.26493)|null|
+|**2026-07-29**|**Reconstructing Backpropagation from Forward Fluctuations in Noise-modulated Neural Networks**|Shuhei Ikemoto et.al.|[2607.26483](http://arxiv.org/abs/2607.26483)|null|
+|**2026-07-29**|**Bayesian Graphical Models under Positivity Constraints: A Scalable generalized likelihood Approach**|Swarnali Raha et.al.|[2607.26469](http://arxiv.org/abs/2607.26469)|null|
 |**2026-07-28**|**C-RE-ACT: Causal RE-ACTing Agent for O-RAN Forensic Triage**|Pau Baguer et.al.|[2607.25828](http://arxiv.org/abs/2607.25828)|null|
 |**2026-07-28**|**Contextual Deconvolution for Variance-Stable Demand Sensing: Kernel-Modulated Operators in Promotional Retail**|Mohammad Forouhesh et.al.|[2607.25664](http://arxiv.org/abs/2607.25664)|null|
 |**2026-07-27**|**Ultra-Low-Energy Open-Circuit Fault Diagnosis for Three-Phase Inverters**|Xiaoyi Lei et.al.|[2607.25037](http://arxiv.org/abs/2607.25037)|null|
@@ -522,12 +528,6 @@
 |**2026-07-16**|**Asymmetric Peak-Aware Loss for Peak-Critical Time Series Forecasting**|Theivaprakasham Hari et.al.|[2607.14871](http://arxiv.org/abs/2607.14871)|null|
 |**2026-07-16**|**Scalable Training of Continuous-Time Spiking Neural Networks with Differentiable Spike-Time Discretization**|Yusuke Sakemi et.al.|[2607.14672](http://arxiv.org/abs/2607.14672)|null|
 |**2026-07-15**|**Leveraging unlabelled data for generalizable neural population decoding**|Ximeng Mao et.al.|[2607.14086](http://arxiv.org/abs/2607.14086)|null|
-|**2026-07-15**|**Transforming Rank: How Architecture Navigates the Spectral Pathologies of Depth**|Katie Everett et.al.|[2607.14018](http://arxiv.org/abs/2607.14018)|null|
-|**2026-07-15**|**RainDancer: RGB-Event Video Deraining with Rain-Oriented Spiking Dynamics**|Kui Jiang et.al.|[2607.13802](http://arxiv.org/abs/2607.13802)|null|
-|**2026-07-15**|**Evaluating Encoding Strategies for Closed-Loop Classification in Biological Neural Networks**|Martin Schottlender et.al.|[2607.13644](http://arxiv.org/abs/2607.13644)|null|
-|**2026-07-15**|**Visual Place Recognition Using Rate-Encoded Spiking Neural Networks with Discrete STDP Learning**|Altzi Tsanko et.al.|[2607.13584](http://arxiv.org/abs/2607.13584)|null|
-|**2026-07-14**|**A 32-channel event-based bio-signal analog front-end with adaptive delta and pulse frequency encoding**|Narayanan Shyam et.al.|[2607.12901](http://arxiv.org/abs/2607.12901)|null|
-|**2026-07-14**|**Perturber-Driven Dynamics of Supermassive Black Hole Binaries in Galaxy Merger**|Julian Chan et.al.|[2607.12708](http://arxiv.org/abs/2607.12708)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
