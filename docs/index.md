@@ -120,6 +120,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**SGFormer: Structure-Guided Transformer for Robust Local Feature Matching**|Runyu Zhu et.al.|[2608.03423](http://arxiv.org/abs/2608.03423)|null|
+|**2026-08-04**|**SeCo-SBIR: Semantically Consistent Prompt Learning for Zero-Shot Sketch-Based Image Retrieval**|Long Hoang Dang et.al.|[2608.03120](http://arxiv.org/abs/2608.03120)|null|
 |**2026-08-02**|**CORTIVA: Candidate-Score Fusion of Complementary Visual Teachers for EEG- and MEG-to-Image Retrieval**|Junhan Wang et.al.|[2608.01355](http://arxiv.org/abs/2608.01355)|null|
 |**2026-07-31**|**Visual Distribution Anchoring for Efficient Prompt Tuning**|Pouya Parsa et.al.|[2607.28967](http://arxiv.org/abs/2607.28967)|null|
 |**2026-07-30**|**FiRE: Enhancing MLLMs with Fine-Grained Context Learning for Complex Image Retrieval**|Bohan Hou et.al.|[2607.27959](http://arxiv.org/abs/2607.27959)|null|
@@ -168,8 +170,6 @@ layout: default
 |**2026-07-03**|**RADIO1D: Elastic Representations for Condensed Vision Modeling**|Greg Heinrich et.al.|[2607.03624](http://arxiv.org/abs/2607.03624)|null|
 |**2026-07-03**|**Beyond Post-Quantization: Native Hash Learning with a Dedicated HASH Token**|Xinze Liu et.al.|[2607.03328](http://arxiv.org/abs/2607.03328)|null|
 |**2026-07-03**|**Rethinking Brain Decoding with CLIP: The Role of Adversarial Robustness**|Byeongseo Bok et.al.|[2607.03165](http://arxiv.org/abs/2607.03165)|null|
-|**2026-07-02**|**GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training**|Yejun Zhang et.al.|[2607.02486](http://arxiv.org/abs/2607.02486)|null|
-|**2026-07-02**|**FlowCIR: Semantic Transport via Flow Matching for Zero-Shot Composed Image Retrieval**|Zhenqi He et.al.|[2607.02284](http://arxiv.org/abs/2607.02284)|null|
 
 ## <a id=keypoint-detection>Keypoint Detection</a>
 
@@ -230,6 +230,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**SGFormer: Structure-Guided Transformer for Robust Local Feature Matching**|Runyu Zhu et.al.|[2608.03423](http://arxiv.org/abs/2608.03423)|null|
+|**2026-08-04**|**Double Down on Defense: Strengthening Deep Perceptual Hashes against Evasion Attacks without Retraining**|Bangjie Sun et.al.|[2608.03101](http://arxiv.org/abs/2608.03101)|null|
 |**2026-07-30**|**Can Synthetic Data Overcome the Generalization Limits of AI-Based Flower and Pod Detection Across Cowpea Breeding Genotypes and Environments?**|Hamid Kamangir et.al.|[2607.28796](http://arxiv.org/abs/2607.28796)|null|
 |**2026-07-30**|**CXR-Retrieve: Compositional Text-to-Image Retrieval in Chest Radiography**|Tomer Erez et.al.|[2607.27779](http://arxiv.org/abs/2607.27779)|null|
 |**2026-07-29**|**VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion**|Zador Pataki et.al.|[2607.27194](http://arxiv.org/abs/2607.27194)|null|
@@ -278,8 +280,6 @@ layout: default
 |**2025-06-05**|**Vanishing arcs for isolated plane curve singularities**|Hanwool Bae et.al.|[2506.04917](http://arxiv.org/abs/2506.04917)|null|
 |**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|null|
 |**2025-06-20**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305](http://arxiv.org/abs/2505.24305)|null|
-|**2025-06-05**|**Universal Domain Adaptation for Semantic Segmentation**|Seun-An Choe et.al.|[2505.22458](http://arxiv.org/abs/2505.22458)|null|
-|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|**[link](https://github.com/simbauer/to_glue_or_not_to_glue)**|
 
 ## <a id=nerf>NeRF</a>
 
@@ -340,6 +340,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**GORDON: Graph-based Object-centric Rewards for Decomposition of Long-Horizon Manipulation**|Andrea Protopapa et.al.|[2608.03753](http://arxiv.org/abs/2608.03753)|null|
+|**2026-08-04**|**Learning and Clustering on Temporal Graphs: Principles, Primitives, and Pooling**|Nelson Aloysio Reis de Almeida Passos et.al.|[2608.03696](http://arxiv.org/abs/2608.03696)|null|
+|**2026-08-04**|**A Unified Graph Neural Network Framework for Non-Equilibrium Carrier and Lattice Dynamics Driven by Electric Fields**|Jia-Wen Li et.al.|[2608.03287](http://arxiv.org/abs/2608.03287)|null|
 |**2026-08-03**|**Benchmarking Sheaf Neural Networks for Inductive Tasks**|Stefano Fiorini et.al.|[2608.02558](http://arxiv.org/abs/2608.02558)|null|
 |**2026-08-03**|**Network Information Enhances Unreliable News Domain Detection**|Raphaela Keßler et.al.|[2608.02399](http://arxiv.org/abs/2608.02399)|null|
 |**2026-08-03**|**Empowering Credit Risk Detection in Weixin Pay with Billion-Scale Deep Graph Learning**|Xin Liu et.al.|[2608.02168](http://arxiv.org/abs/2608.02168)|null|
@@ -387,14 +390,13 @@ layout: default
 |**2026-07-27**|**Aligning Heterogeneous DFT Datasets: A Graph Neural Network Approach to Cross-Functional Formation Energies**|Yidong Huang et.al.|[2607.24327](http://arxiv.org/abs/2607.24327)|null|
 |**2026-07-27**|**MEGA-CL: A Molecular Foundation Model for Generalizable ADMET Prediction through Graph External Attention and Contrastive Learning**|Tinghui Jin et.al.|[2607.24314](http://arxiv.org/abs/2607.24314)|null|
 |**2026-07-26**|**GNN-based Multi-Agent Control of Traffic Shockwaves in Sparse Vehicular Ad-hoc Networks**|Prachi Nandi et.al.|[2607.23792](http://arxiv.org/abs/2607.23792)|null|
-|**2026-07-26**|**Cross-System Neural Precoder: Exploiting Structural Consistency for Fast Adaptation**|Jia Guo et.al.|[2607.23738](http://arxiv.org/abs/2607.23738)|null|
-|**2026-07-24**|**Local-Global Geometric Insights for Graph Neural Networks via Entropic Curvature**|Rachid Caich et.al.|[2607.22381](http://arxiv.org/abs/2607.22381)|null|
-|**2026-07-24**|**Geometric 2D Scene Graph Generation**|Christoph Jahn et.al.|[2607.22325](http://arxiv.org/abs/2607.22325)|null|
 
 ## <a id=event-camera>Event-Camera</a>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**Event-Based Spatial-Carrier Interferometry for Surface-Normal Vibration-Waveform Reconstruction**|Ryogo Niwa et.al.|[2608.03343](http://arxiv.org/abs/2608.03343)|null|
+|**2026-08-04**|**PLS-Calib: A Partial Least Squares Framework for Event Camera and Odometry Calibration under Ground Motion Constraints**|Guangyu Li et.al.|[2608.03296](http://arxiv.org/abs/2608.03296)|null|
 |**2026-08-02**|**VGER: Voxel-Guided Global Event Ranking for Event Cloud Attribution**|Youxin Jiang et.al.|[2608.01470](http://arxiv.org/abs/2608.01470)|null|
 |**2026-08-01**|**E2Pano: Learning Event-to-Panorama Image Reconstruction**|Zhenyang Li et.al.|[2608.00694](http://arxiv.org/abs/2608.00694)|null|
 |**2026-07-31**|**Event-Based Upper-Body Humanoid Teleoperation Under Challenging Illumination**|Haoyu Fu et.al.|[2607.29227](http://arxiv.org/abs/2607.29227)|null|
@@ -443,13 +445,19 @@ layout: default
 |**2026-06-08**|**A Geometric Framework for Absolute Pose and Velocity Estimation with Event Cameras**|Zibin Liu et.al.|[2606.09139](http://arxiv.org/abs/2606.09139)|null|
 |**2026-06-01**|**TIDES: Time-Derivative Event Simulation via Deformable Reconstruction**|Christopher Thirgood et.al.|[2606.02058](http://arxiv.org/abs/2606.02058)|null|
 |**2026-05-27**|**CLANE: Continual Learning of Actions on Neuromorphic Hardware from Event Cameras**|Elvin Hajizada et.al.|[2605.28387](http://arxiv.org/abs/2605.28387)|null|
-|**2026-05-27**|**EventShiftFlow: Towards Hardware-efficient FPGA-based Flow Estimation**|Arianna Alonso Bizzi et.al.|[2605.28312](http://arxiv.org/abs/2605.28312)|null|
-|**2026-05-27**|**Automated Estimation of Impact Time, Impact Location, and Shuttlecock Speed in Badminton Smashes Using Event Cameras**|Yudai Washida et.al.|[2605.28011](http://arxiv.org/abs/2605.28011)|null|
 
 ## <a id=snns>SNNs</a>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**Resolution-Adaptive Compact-Support Priors for Bayesian Wavelet Denoising**|Nilotpal Sanyal et.al.|[2608.03946](http://arxiv.org/abs/2608.03946)|null|
+|**2026-08-04**|**Sensitivity, Causality, and Repair Dissociate: A Layer-Wise Analysis of Perturbation Robustness and Its Scaling**|Nathan Labiosa et.al.|[2608.03842](http://arxiv.org/abs/2608.03842)|null|
+|**2026-08-04**|**Efficient Knowledge Distillation for LLMs: Offline Top-K Logits and a Fused Chunked KL Loss**|Bakbergen Ryskulov et.al.|[2608.03796](http://arxiv.org/abs/2608.03796)|null|
+|**2026-08-04**|**Measuring the engine of a liquidation cascade: subcritical branching inside a first-order transition**|Ramon Marc Garcia Seuma et.al.|[2608.03616](http://arxiv.org/abs/2608.03616)|null|
+|**2026-08-04**|**Analysis of inverse stochastic resonance: Effects of neural excitability and timescale separation**|Marius E. Yamakou et.al.|[2608.03454](http://arxiv.org/abs/2608.03454)|null|
+|**2026-08-04**|**AS-FedBridge: Pseudo-Spike Bridge Distillation for Heterogeneous ANN-SNN Federated Learning**|Shengyang Li et.al.|[2608.03324](http://arxiv.org/abs/2608.03324)|null|
+|**2026-08-04**|**From Wearable Data to Personalized and Actionable Health Insights**|Esther Brown et.al.|[2608.03251](http://arxiv.org/abs/2608.03251)|null|
+|**2026-08-03**|**A Blind Spot in Alignment: Quantifying Biosecurity Risks in Large Language Models**|Shu Quan et.al.|[2608.02684](http://arxiv.org/abs/2608.02684)|null|
 |**2026-08-03**|**SpikeRestormer: Towards Energy-Efficient All-in-One Image Restoration via Unified Event Reasoning**|Shengkai Hu et.al.|[2608.02290](http://arxiv.org/abs/2608.02290)|null|
 |**2026-08-03**|**Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition**|Xiubo Liang et.al.|[2608.01646](http://arxiv.org/abs/2608.01646)|null|
 |**2026-08-03**|**SMM Transformer: Leveraging Spiking Neural Networks for Multimodal Tasks**|Xiubo Liang et.al.|[2608.01622](http://arxiv.org/abs/2608.01622)|null|
@@ -492,14 +500,6 @@ layout: default
 |**2026-07-24**|**Inertial Asynchronous Computation**|Doruk Efe Gökmen et.al.|[2607.21965](http://arxiv.org/abs/2607.21965)|null|
 |**2026-07-23**|**Neural Feature Governance: Extending Atom Prevalence**|Idris Karel Seunda Ekwe et.al.|[2607.21671](http://arxiv.org/abs/2607.21671)|null|
 |**2026-07-23**|**What, Where, and How: Disentangling the Roles of Task, Language, and Model in Code Model Representations**|Piotr Wilam et.al.|[2607.21491](http://arxiv.org/abs/2607.21491)|null|
-|**2026-07-23**|**Spectral Transformation for Layer-wise Global Rank Discovery in Federated LoRA for Vision Transformers**|Hariharan Ramesh et.al.|[2607.21074](http://arxiv.org/abs/2607.21074)|null|
-|**2026-07-23**|**Weight-norm Criticality: A Mechanism for Loss Spikes Induced by the Normalization and Weight Decay**|Xiaolong Li et.al.|[2607.21005](http://arxiv.org/abs/2607.21005)|null|
-|**2026-07-22**|**Spectral theory for population density dynamics of spiking neurons with refractoriness**|Luca Falorsi et.al.|[2607.20699](http://arxiv.org/abs/2607.20699)|null|
-|**2026-07-22**|**Restricted nonlinear shrinkage of high-dimensional residual covariance matrices in multivariate regressions**|Hamid Karamikabir et.al.|[2607.20576](http://arxiv.org/abs/2607.20576)|null|
-|**2026-07-23**|**Black-Box Performance Evaluation of Elastic Block Storage: Contract, Rate-Limiting Model, and Software Exploration**|Yingjia Wang et.al.|[2607.20319](http://arxiv.org/abs/2607.20319)|null|
-|**2026-07-22**|**Current Injection Spiking Neural Network for Infrared and Visible Image Fusion**|Rui Zhao et.al.|[2607.19879](http://arxiv.org/abs/2607.19879)|null|
-|**2026-07-22**|**SpikingMOT: A Spike-Driven Multi-Object Tracker**|Yiding Sun et.al.|[2607.19875](http://arxiv.org/abs/2607.19875)|null|
-|**2026-07-22**|**Mens: Nonlinear shrinkage estimation in nonparanormal models for financial applications**|Hamid Karamikabir et.al.|[2607.19825](http://arxiv.org/abs/2607.19825)|null|
 
 ## <a id=neuronss>neuronss</a>
 
