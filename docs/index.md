@@ -505,6 +505,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**An open-source framework for predicting ultrasound neuromodulation: bridging tissue elastomechanics and neuron firing dynamics**|Gianmarco Pinton et.al.|[2608.06321](http://arxiv.org/abs/2608.06321)|null|
 |**2026-08-01**|**A Time-Multiplexed Spiking Neural Network Accelerator with Pipelined Readout for FPGA Inference**|Reza Ansari et.al.|[2608.00595](http://arxiv.org/abs/2608.00595)|null|
 |**2026-07-13**|**Lie Meets Network Dynamics: Exact Macroscopic Reductions (Finite Systems)**|Erik Andreas Martens et.al.|[2607.12210](http://arxiv.org/abs/2607.12210)|null|
 |**2026-07-08**|**Single-Entity Spiking Neuron Models: Survey**|Leon Parepko et.al.|[2607.07429](http://arxiv.org/abs/2607.07429)|null|
@@ -554,5 +555,4 @@ layout: default
 |**2025-06-08**|**A Neuronal Model at the Edge of Criticality: An Ising-Inspired Approach to Brain Dynamics**|Sajedeh Sarmastani et.al.|[2506.07027](http://arxiv.org/abs/2506.07027)|null|
 |**2025-06-13**|**Structured State Space Model Dynamics and Parametrization for Spiking Neural Networks**|Maxime Fabre et.al.|[2506.06374](http://arxiv.org/abs/2506.06374)|**[link](https://github.com/maxtimer97/ssm-inspired-lif)**|
 |**2025-06-06**|**Integrating Complexity and Biological Realism: High-Performance Spiking Neural Networks for Breast Cancer Detection**|Zofia Rudnicka et.al.|[2506.06265](http://arxiv.org/abs/2506.06265)|null|
-|**2025-06-12**|**NOBLE -- Neural Operator with Biologically-informed Latent Embeddings to Capture Experimental Variability in Biological Neuron Models**|Luca Ghafourpour et.al.|[2506.04536](http://arxiv.org/abs/2506.04536)|null|
 
