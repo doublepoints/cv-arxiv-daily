@@ -367,7 +367,7 @@
 |**2026-08-06**|**Joint Access Point Selection and Precoder Design under Statistical CSI**|Tim N. Faisst et.al.|[2608.06251](http://arxiv.org/abs/2608.06251)|null|
 |**2026-08-06**|**ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment**|Abdulkadir Külçe et.al.|[2608.06110](http://arxiv.org/abs/2608.06110)|null|
 |**2026-08-06**|**Closed-Loop Decision-Focused Learning for User-Aware Cloud Orchestration under Uncertainty**|Dongbin Jiao et.al.|[2608.05735](http://arxiv.org/abs/2608.05735)|null|
-|**2026-08-05**|**Search for resonant production of lepton-enriched semivisible jets in proton-proton collisions at $\sqrt{s}$ = 13 TeV**| CMS Collaboration et.al.|[2608.05323](http://arxiv.org/abs/2608.05323)|null|
+|**2026-08-05**|**Search for resonant production of lepton-enriched semivisible jets in proton-proton collisions at $\sqrt{s}$ = 13 TeV**|CMS Collaboration et.al.|[2608.05323](http://arxiv.org/abs/2608.05323)|null|
 |**2026-08-05**|**High energy probes of Higgs self-coupling via $W$ boson fusion at future lepton colliders**|Amir Subba et.al.|[2608.05096](http://arxiv.org/abs/2608.05096)|null|
 |**2026-08-05**|**Tropical Algebraic Geometry for Neuronal Representations: An Arakelov-Green Measure Based Descriptor for Graph Learning**|Yuyang Zhang et.al.|[2608.04460](http://arxiv.org/abs/2608.04460)|null|
 |**2026-08-05**|**Taming Treewidth DP with Modulators: A General Booster for Graph Heuristics**|Jialiang Li et.al.|[2608.04446](http://arxiv.org/abs/2608.04446)|null|
