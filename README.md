@@ -364,6 +364,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**IRGNN: Efficient Invariant Radar Graph Neural Network for Radar Point Cloud Object Detection**|Xiao Guo et.al.|[2608.14394](http://arxiv.org/abs/2608.14394)|null|
+|**2026-08-14**|**Structure-Guided Spatiotemporal Attention Graph Neural Network for Traffic Flow Prediction**|Xuanmian He et.al.|[2608.14177](http://arxiv.org/abs/2608.14177)|null|
+|**2026-08-14**|**Overcoming Shortcut Learning in Graph Neural Networks through Active Explanation Guidance**|Taraneh Younesian et.al.|[2608.14121](http://arxiv.org/abs/2608.14121)|null|
+|**2026-08-13**|**HI-MeshGraphNets: Efficient and Accurate Mesh-based Physics Learning with Hierarchical Multi-scale Graph Neural Networks**|SiHun Lee et.al.|[2608.13827](http://arxiv.org/abs/2608.13827)|null|
 |**2026-08-13**|**Jointly Predicting Courses and Grades Using a Transformer-Based Model**|Paul Savala et.al.|[2608.13409](http://arxiv.org/abs/2608.13409)|null|
 |**2026-08-13**|**Causal Mediation Analysis for Network Data with Graph Neural Network**|Peikai Wu et.al.|[2608.13274](http://arxiv.org/abs/2608.13274)|null|
 |**2026-08-13**|**Novel Knowledge-Guided Generative Methods for Synthetic Transcriptomic Data**|Francesca Pia Panaccione et.al.|[2608.13256](http://arxiv.org/abs/2608.13256)|null|
@@ -410,10 +414,6 @@
 |**2026-08-03**|**CoRe-GNN: Multilevel Message passing on Coarsened graphs**|Antonin Joly et.al.|[2608.02128](http://arxiv.org/abs/2608.02128)|null|
 |**2026-08-03**|**TBSG-Net: Temporal Bipartite Scene Graph Network for Fine-Grained Video Moment Retrieval**|Ji Huang et.al.|[2608.02056](http://arxiv.org/abs/2608.02056)|null|
 |**2026-08-02**|**KING: Embodiment-Aware Kinematic Graph Neural Network for Unified Motion Representation of Legged and Wheeled Robots**|Taku Okawara et.al.|[2608.01015](http://arxiv.org/abs/2608.01015)|null|
-|**2026-08-01**|**Nonlinear Laplacians Improve Signed-Directed Graph Learning**|Ali Parviz et.al.|[2608.00836](http://arxiv.org/abs/2608.00836)|null|
-|**2026-08-01**|**Conditional grain-graph diffusion for property-guided inverse design of polycrystalline microstructures**|Yuheng Zhou et.al.|[2608.00707](http://arxiv.org/abs/2608.00707)|null|
-|**2026-08-01**|**GNN-RSMA: An Interference Management Framework for a Large-Scale HAPS Network**|Afsoon Alidadi Shamsabadi et.al.|[2608.00380](http://arxiv.org/abs/2608.00380)|null|
-|**2026-07-31**|**Ordered-to-disordered transfer learning with graph neural networks for formation-energy and HOMO-LUMO gap prediction in high-entropy perovskite oxides**|Panupol Untarabut et.al.|[2607.29510](http://arxiv.org/abs/2607.29510)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -421,6 +421,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**E-S2Feat:Semantic-Guided Spiking Local Feature Detection and Description for Event Cameras**|Yang Yi et.al.|[2608.14027](http://arxiv.org/abs/2608.14027)|null|
 |**2026-08-11**|**Static in Frames, Dynamic in Events: Rethinking Features in Event Cameras as Motion Cues**|Hesam Araghi et.al.|[2608.11075](http://arxiv.org/abs/2608.11075)|null|
 |**2026-08-12**|**Bridging Event Streams and DiT: Event-Guided Video Frame Interpolation**|Guixu Lin et.al.|[2608.10479](http://arxiv.org/abs/2608.10479)|null|
 |**2026-08-10**|**A Height-Constrained 2-Point Minimal Solver for Pose Estimation from Active LED Markers with Event Cameras**|Runze Yuan et.al.|[2608.09520](http://arxiv.org/abs/2608.09520)|null|
@@ -470,7 +471,6 @@
 |**2026-06-14**|**Fusion-E2Pulse: A Multimodal Event-RGB Fusion Network for Non-contact Pulse Wave Reconstruction**|Qian Feng et.al.|[2606.15597](http://arxiv.org/abs/2606.15597)|null|
 |**2026-06-12**|**SED:Lightweight Saliency prediction for Event-based data via Distillation**|Romaric Mazna et.al.|[2606.14631](http://arxiv.org/abs/2606.14631)|null|
 |**2026-06-12**|**FEMOT: Multi-Object Tracking using Frame and Event Cameras**|Shiao Wang et.al.|[2606.14094](http://arxiv.org/abs/2606.14094)|null|
-|**2026-06-16**|**CineOrchestra: Unified Entity-Centric Conditioning for Cinematic Video Generation**|Sharath Girish et.al.|[2606.13768](http://arxiv.org/abs/2606.13768)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -478,6 +478,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**Blazar Boosted Dark Matter in IceCube**|Alberto M. Gago et.al.|[2608.14549](http://arxiv.org/abs/2608.14549)|null|
+|**2026-08-14**|**E-S2Feat:Semantic-Guided Spiking Local Feature Detection and Description for Event Cameras**|Yang Yi et.al.|[2608.14027](http://arxiv.org/abs/2608.14027)|null|
+|**2026-08-14**|**Standard-Compliant Neuromorphic Integrated Sensing and Communications Aided by an Intelligent Reflecting Surface**|Jiho Park et.al.|[2608.13985](http://arxiv.org/abs/2608.13985)|null|
+|**2026-08-14**|**Reducing ANN-SNN Conversion Error via Residual Membrane Potential Alignment**|Zirui Chen et.al.|[2608.13952](http://arxiv.org/abs/2608.13952)|null|
+|**2026-08-13**|**SAGE: Surrogate-gradient Adaptation via Attention-Guided Entropy for Spiking Transformers**|Kiran Nair et.al.|[2608.13702](http://arxiv.org/abs/2608.13702)|null|
+|**2026-08-13**|**Consistent Model Chasing Is Minimax Optimal: The Exact Value of Scalar Adversarial Adaptive Control under Large Parametric Uncertainty**|Dimitar Ho et.al.|[2608.13651](http://arxiv.org/abs/2608.13651)|null|
 |**2026-08-13**|**Spiking Neural Networks with Elephant Reinforcement**|Fernando A. Najman et.al.|[2608.12839](http://arxiv.org/abs/2608.12839)|null|
 |**2026-08-12**|**Lonic: Algorithm-Hardware Co-Design for Energy-Efficient Fully Local Online SNN Training with INT4 Precision**|Peilin Chen et.al.|[2608.12500](http://arxiv.org/abs/2608.12500)|null|
 |**2026-08-12**|**Massive Activations in Hybrid Linear Attention Large Language Models: Pre-Attention Spikes and Inter-Spike Plateaus**|Zunhai Su et.al.|[2608.12149](http://arxiv.org/abs/2608.12149)|null|
@@ -522,12 +528,6 @@
 |**2026-08-03**|**Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition**|Xiubo Liang et.al.|[2608.01646](http://arxiv.org/abs/2608.01646)|null|
 |**2026-08-03**|**SMM Transformer: Leveraging Spiking Neural Networks for Multimodal Tasks**|Xiubo Liang et.al.|[2608.01622](http://arxiv.org/abs/2608.01622)|null|
 |**2026-08-02**|**Multilevel limits of spiked random matrix minors**|Benjamin Landon et.al.|[2608.01531](http://arxiv.org/abs/2608.01531)|null|
-|**2026-08-02**|**Smoothing the Ramp, Not the Peak: Scheduling-Induced Power Dynamics of LLM Inference and Their Grid-Scale Consequences**|Pan Li et.al.|[2608.01250](http://arxiv.org/abs/2608.01250)|null|
-|**2026-08-02**|**Breaking Diversity Collapse in Spiking Pseudo-Ensembles for Efficient OOD Detection in Remote Sensing**|Srinivas Anumasa et.al.|[2608.01090](http://arxiv.org/abs/2608.01090)|null|
-|**2026-08-02**|**The Fourth Quadrant: A Stylized View of Benign Misfitting**|Gireeja Ranade et.al.|[2608.01032](http://arxiv.org/abs/2608.01032)|null|
-|**2026-08-01**|**Can Perplexity Serve as a Cognitive Signal for Code Understandability?**|Xiaokai Rong et.al.|[2608.00624](http://arxiv.org/abs/2608.00624)|null|
-|**2026-08-01**|**A Time-Multiplexed Spiking Neural Network Accelerator with Pipelined Readout for FPGA Inference**|Reza Ansari et.al.|[2608.00595](http://arxiv.org/abs/2608.00595)|null|
-|**2026-08-01**|**Recursive Gaussian Processes and the Bayesian Brain**|Moumita Das et.al.|[2608.00503](http://arxiv.org/abs/2608.00503)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
