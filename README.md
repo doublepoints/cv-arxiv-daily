@@ -79,6 +79,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-20**|**RIPE++: Reinforced Keypoint Learning from Positive Pairs Only**|Johannes Künzel et.al.|[2608.19693](http://arxiv.org/abs/2608.19693)|null|
 |**2026-08-19**|**CoMVS-GS: Collaborative Multi-View Stereo and 3D Gaussian Splatting for Surface Reconstruction**|Shihan Chen et.al.|[2608.18413](http://arxiv.org/abs/2608.18413)|null|
 |**2026-08-18**|**Initialization-Free Bundle Adjustment Revisited: A Controlled Experimental Study**|Simon Weber et.al.|[2608.18028](http://arxiv.org/abs/2608.18028)|null|
 |**2026-08-15**|**Robust structure from motion for aerial-ground images via detector-free feature matching and multi-view track refinement**|San Jiang et.al.|[2608.15251](http://arxiv.org/abs/2608.15251)|null|
@@ -128,7 +129,6 @@
 |**2025-07-04**|**MGSfM: Multi-Camera Geometry Driven Global Structure-from-Motion**|Peilin Tao et.al.|[2507.03306](http://arxiv.org/abs/2507.03306)|null|
 |**2025-06-30**|**AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention**|Ziao Liu et.al.|[2506.23611](http://arxiv.org/abs/2506.23611)|null|
 |**2025-06-27**|**Single-Scanline Relative Pose Estimation for Rolling Shutter Cameras**|Petr Hruby et.al.|[2506.22069](http://arxiv.org/abs/2506.22069)|null|
-|**2025-06-24**|**ICP-3DGS: SfM-free 3D Gaussian Splatting for Large-scale Unbounded Scenes**|Chenhao Zhang et.al.|[2506.21629](http://arxiv.org/abs/2506.21629)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -136,6 +136,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-20**|**A Non-Hermitian Biorthogonal Encoding Paradigm for Physical-Layer Secure Computational Imaging**|Xi-Hao Chen et.al.|[2608.19878](http://arxiv.org/abs/2608.19878)|null|
 |**2026-08-19**|**SCORE: Subject Coordinate Recovery for Label-Free Cross-Subject EEG-to-Image Retrieval**|Zhenyao Cui et.al.|[2608.19134](http://arxiv.org/abs/2608.19134)|null|
 |**2026-08-19**|**Beyond Trial Averaging: Anchoring Neural and Visual Representations for Few-Repetition Brain-to-Image Retrieval**|Zhenyao Cui et.al.|[2608.19128](http://arxiv.org/abs/2608.19128)|null|
 |**2026-08-19**|**Composed Historical Image Retrieval by Modeling Temporal Representations**|Adrià Molina Rodríguez et.al.|[2608.18694](http://arxiv.org/abs/2608.18694)|null|
@@ -185,7 +186,6 @@
 |**2026-07-22**|**FSDBN: Foreground-Aware EEG-Visual Alignment via Dynamic Brain Networks**|Yiheng Liu et.al.|[2607.18344](http://arxiv.org/abs/2607.18344)|null|
 |**2026-07-18**|**C3DIR: A Deep Learning 3-Dimensional Cloud Property Retrieval Scheme for Passive Satellite Imagers**|Charles H. White et.al.|[2607.16929](http://arxiv.org/abs/2607.16929)|null|
 |**2026-07-18**|**When Do Multimodal and Graph-Augmented RAG Help? A Controlled Evaluation for Document Question Answering**|Sokipriala Jonah et.al.|[2607.16604](http://arxiv.org/abs/2607.16604)|null|
-|**2026-07-17**|**Are All Tokens Necessary for Visual Place Recognition? An Empirical Study of Token Reduction for Efficient Inference**|Tong Jin et.al.|[2607.15563](http://arxiv.org/abs/2607.15563)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -193,6 +193,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-20**|**Gravity-aware partially calibrated absolute pose estimation from affine- or rotation-covariant features**|Marcus Valtonen Örnhag et.al.|[2608.20056](http://arxiv.org/abs/2608.20056)|null|
+|**2026-08-20**|**Unified and Efficient Point-Line Local Features**|François Costa et.al.|[2608.19894](http://arxiv.org/abs/2608.19894)|null|
 |**2026-08-18**|**Force-Based Offset Estimation for Keyed Peg-in-Hole Assembly Using Local Gaussian Process Regression**|Chandra Yuvesh Aubeeluck et.al.|[2608.17691](http://arxiv.org/abs/2608.17691)|null|
 |**2026-08-17**|**Calibration-Free Vehicle Speed Estimation: A Monocular Keypoint-Template Approach**|Gaofeng Su et.al.|[2608.16785](http://arxiv.org/abs/2608.16785)|null|
 |**2026-08-13**|**Point Feature Descriptor via Directional Partition of Unity on Maps**|Phan Thanh An et.al.|[2608.12794](http://arxiv.org/abs/2608.12794)|null|
@@ -241,8 +243,6 @@
 |**2025-04-29**|**Emotion Recognition in Contemporary Dance Performances Using Laban Movement Analysis**|Muhammad Turab et.al.|[2504.21154](http://arxiv.org/abs/2504.21154)|null|
 |**2025-04-29**|**Learning a General Model: Folding Clothing with Topological Dynamics**|Yiming Liu et.al.|[2504.20720](http://arxiv.org/abs/2504.20720)|null|
 |**2025-04-26**|**VISUALCENT: Visual Human Analysis using Dynamic Centroid Representation**|Niaz Ahmad et.al.|[2504.19032](http://arxiv.org/abs/2504.19032)|null|
-|**2025-04-24**|**EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy**|Haodi Yao et.al.|[2504.17280](http://arxiv.org/abs/2504.17280)|null|
-|**2025-04-15**|**UKDM: Underwater keypoint detection and matching using underwater image enhancement techniques**|Pedro Diaz-Garcia et.al.|[2504.11063](http://arxiv.org/abs/2504.11063)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -364,6 +364,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-19**|**Fairness-Aware Network Embeddings: Methods, Applications, and Challenges**|Ella Has et.al.|[2608.19381](http://arxiv.org/abs/2608.19381)|null|
 |**2026-08-19**|**JANUS: A Multi-modal Foundation Neural Sampler for Disordered Materials**|Denis Blessing et.al.|[2608.19116](http://arxiv.org/abs/2608.19116)|null|
 |**2026-08-19**|**A Unifying Relational Perspective on Expressive Lottery Tickets**|Lorenz Kummer et.al.|[2608.18819](http://arxiv.org/abs/2608.18819)|null|
 |**2026-08-19**|**Enhancing Distance-Based Graph Autoencoders with Structural Penalties for Dynamic Graph Embedding**|Aleksandar Tomčić et.al.|[2608.18762](http://arxiv.org/abs/2608.18762)|null|
@@ -413,7 +414,6 @@
 |**2026-08-10**|**HOPPER: Learnable Hop Extraction for Linearized Graph Sequence Models**|Isuru Herath et.al.|[2608.09031](http://arxiv.org/abs/2608.09031)|null|
 |**2026-08-09**|**ML-Based Hierarchical Prediction for Practical Energy Scheduling in Dynamic NTN-WPT Systems**|Zhanyu Ju et.al.|[2608.08804](http://arxiv.org/abs/2608.08804)|null|
 |**2026-08-09**|**Neural Message Passing on Structural Interaction Graphs for Fully-Inductive Graph Neural Networks**|Omer Yom Tov et.al.|[2608.08567](http://arxiv.org/abs/2608.08567)|null|
-|**2026-08-09**|**Can Graph Learning Learn Circuits?**|Chester Tan et.al.|[2608.08536](http://arxiv.org/abs/2608.08536)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -478,6 +478,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-20**|**Petri Net Description of Biological Neural Circuits for Fast Hardware Prototyping**|Carlo daCunha et.al.|[2608.20147](http://arxiv.org/abs/2608.20147)|null|
+|**2026-08-20**|**The Forward-Backward Disconnect: State Dynamics, Credit Assignment, and Biological Grounding in Neural Computation**|Hadi Al Mubasher et.al.|[2608.19995](http://arxiv.org/abs/2608.19995)|null|
+|**2026-08-20**|**Spike-based Belief Propagation in Nonlinear Dynamical Systems**|Sepideh Adamiat et.al.|[2608.19907](http://arxiv.org/abs/2608.19907)|null|
+|**2026-08-20**|**Mesoscopic Rectangular Spikes under Subspace Local Laws: Outlier Values and Singular Subspaces**|Yitzchak Shmalo et.al.|[2608.19594](http://arxiv.org/abs/2608.19594)|null|
 |**2026-08-19**|**Robust and Efficient Feature Extraction for Spike Sorting via the Walsh-Hadamard Transform**|Emily Yang et.al.|[2608.19048](http://arxiv.org/abs/2608.19048)|null|
 |**2026-08-19**|**APEX: A Dual-Sparsity Accelerator for Precise and Efficient SNN Inference**|Devgokul Bawa Venkatesh et.al.|[2608.19046](http://arxiv.org/abs/2608.19046)|null|
 |**2026-08-19**|**Distributed Online Estimation of Spiked Eigenvalues with Adaptive Weighting under Persistent Aspect Ratio Heterogeneity**|Lu Yan et.al.|[2608.19045](http://arxiv.org/abs/2608.19045)|null|
@@ -524,10 +528,6 @@
 |**2026-08-07**|**SpikeWorld: Fast-State Adaptation for Frozen Spiking World Models**|Ziqiao Yu et.al.|[2608.07712](http://arxiv.org/abs/2608.07712)|null|
 |**2026-08-07**|**High-dimensional ridgeless least squares interpolation under spiked covariance structures**|Zhijun Liu et.al.|[2608.07281](http://arxiv.org/abs/2608.07281)|null|
 |**2026-08-07**|**PTQ4SNN: Membrane-Aware Post-Training Quantization for Spiking Neural Networks**|Hui Xie et.al.|[2608.07066](http://arxiv.org/abs/2608.07066)|null|
-|**2026-08-07**|**BONSAI: Evolvability-Guided Tree Search over Skills**|Yash Priya Shastri et.al.|[2608.07056](http://arxiv.org/abs/2608.07056)|null|
-|**2026-08-07**|**HazeSpikeMamba: Coupling Spiking-Inspired and State-Space Features for Self-Supervised Real-World Dehazing**|Haoran Liu et.al.|[2608.06886](http://arxiv.org/abs/2608.06886)|null|
-|**2026-08-07**|**LoRAScan: Detecting Backdoor Prompts in Low-Rank Adapters for Large Language Models via Down-Projection Activation Spikes**|Doniyorkhon Obidov et.al.|[2608.06795](http://arxiv.org/abs/2608.06795)|null|
-|**2026-08-07**|**Implementation of Split Deadlines in a Large CS1 Course**|Hongxuan Chen et.al.|[2608.06753](http://arxiv.org/abs/2608.06753)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
