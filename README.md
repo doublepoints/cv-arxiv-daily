@@ -136,6 +136,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**EviRank: Structured Relevance Evidence for Multimodal Image Re-ranking**|Enjun Du et.al.|[2608.20886](http://arxiv.org/abs/2608.20886)|null|
 |**2026-08-20**|**A Non-Hermitian Biorthogonal Encoding Paradigm for Physical-Layer Secure Computational Imaging**|Xi-Hao Chen et.al.|[2608.19878](http://arxiv.org/abs/2608.19878)|null|
 |**2026-08-19**|**SCORE: Subject Coordinate Recovery for Label-Free Cross-Subject EEG-to-Image Retrieval**|Zhenyao Cui et.al.|[2608.19134](http://arxiv.org/abs/2608.19134)|null|
 |**2026-08-19**|**Beyond Trial Averaging: Anchoring Neural and Visual Representations for Few-Repetition Brain-to-Image Retrieval**|Zhenyao Cui et.al.|[2608.19128](http://arxiv.org/abs/2608.19128)|null|
@@ -185,7 +186,6 @@
 |**2026-07-21**|**Fusion Embedding: A Unified Embedding Space for Text, Image, Video, and Audio**|Abdul Basit Tonmoy et.al.|[2607.18666](http://arxiv.org/abs/2607.18666)|null|
 |**2026-07-22**|**FSDBN: Foreground-Aware EEG-Visual Alignment via Dynamic Brain Networks**|Yiheng Liu et.al.|[2607.18344](http://arxiv.org/abs/2607.18344)|null|
 |**2026-07-18**|**C3DIR: A Deep Learning 3-Dimensional Cloud Property Retrieval Scheme for Passive Satellite Imagers**|Charles H. White et.al.|[2607.16929](http://arxiv.org/abs/2607.16929)|null|
-|**2026-07-18**|**When Do Multimodal and Graph-Augmented RAG Help? A Controlled Evaluation for Document Question Answering**|Sokipriala Jonah et.al.|[2607.16604](http://arxiv.org/abs/2607.16604)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -364,6 +364,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**A Critical Audit of Spatiotemporal Forecasting Benchmark Datasets and Baselines**|Kenneth Martin et.al.|[2608.20980](http://arxiv.org/abs/2608.20980)|null|
+|**2026-08-21**|**Generalizing Soft Tissue Deformation and Force Prediction Across Material Stiffness and Geometry**|Madina Kojanazarova et.al.|[2608.20967](http://arxiv.org/abs/2608.20967)|null|
+|**2026-08-21**|**A Graph Neural Network Framework for Characterizing Rainfall Variability Regimes across India**|Pradyumnan Raghuveeran et.al.|[2608.20947](http://arxiv.org/abs/2608.20947)|null|
+|**2026-08-21**|**Hidden Axis of Uncertainty: Latent-Posterior Alignment in Graph Neural Networks with Bayesian Output Layers**|Suk Hoon Choi et.al.|[2608.20758](http://arxiv.org/abs/2608.20758)|null|
+|**2026-08-21**|**Continuous-Time Quantum Walks based Graph Neural Network**|Yuliang Zhan et.al.|[2608.20738](http://arxiv.org/abs/2608.20738)|null|
 |**2026-08-19**|**Fairness-Aware Network Embeddings: Methods, Applications, and Challenges**|Ella Has et.al.|[2608.19381](http://arxiv.org/abs/2608.19381)|null|
 |**2026-08-19**|**JANUS: A Multi-modal Foundation Neural Sampler for Disordered Materials**|Denis Blessing et.al.|[2608.19116](http://arxiv.org/abs/2608.19116)|null|
 |**2026-08-19**|**A Unifying Relational Perspective on Expressive Lottery Tickets**|Lorenz Kummer et.al.|[2608.18819](http://arxiv.org/abs/2608.18819)|null|
@@ -409,11 +414,6 @@
 |**2026-08-10**|**A Graph Neural Network--Guided Genetic Algorithm for Physical Internet Supply Chain Optimization under Cost Uncertainty**|Faezeh Ardali et.al.|[2608.10245](http://arxiv.org/abs/2608.10245)|null|
 |**2026-08-10**|**N2NMatcher: Towards Inlining-Resilient Binary Decomposition and Module Matching**|Ang Jia et.al.|[2608.10043](http://arxiv.org/abs/2608.10043)|null|
 |**2026-08-10**|**LEED: Local Embedding Evolution Distance for over-smoothing estimation and virtual node selection in GNN**|Killian Cressant et.al.|[2608.09596](http://arxiv.org/abs/2608.09596)|null|
-|**2026-08-10**|**An Explainable GNN Framework for Component-Level Anomaly Diagnosis**|Sena Ozgunay et.al.|[2608.09246](http://arxiv.org/abs/2608.09246)|null|
-|**2026-08-10**|**SLAC: Access-Driven CPU-to-GPU Side-channel Attacks via System-Level Cache on Apple Silicon**|Tianhong Xu et.al.|[2608.09075](http://arxiv.org/abs/2608.09075)|null|
-|**2026-08-10**|**HOPPER: Learnable Hop Extraction for Linearized Graph Sequence Models**|Isuru Herath et.al.|[2608.09031](http://arxiv.org/abs/2608.09031)|null|
-|**2026-08-09**|**ML-Based Hierarchical Prediction for Practical Energy Scheduling in Dynamic NTN-WPT Systems**|Zhanyu Ju et.al.|[2608.08804](http://arxiv.org/abs/2608.08804)|null|
-|**2026-08-09**|**Neural Message Passing on Structural Interaction Graphs for Fully-Inductive Graph Neural Networks**|Omer Yom Tov et.al.|[2608.08567](http://arxiv.org/abs/2608.08567)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -478,6 +478,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**Event-triggered Implicit Perturbation for Zeroth-Order Fine-Tuning of Spiking Transformers**|Tengteng Lei et.al.|[2608.21223](http://arxiv.org/abs/2608.21223)|null|
+|**2026-08-21**|**Quantum Fisher information in a quenched $p + ip$ superfluid**|Stelio Varrone et.al.|[2608.21164](http://arxiv.org/abs/2608.21164)|null|
+|**2026-08-21**|**Neuromorphic Infrared Fibre-Optic Event-Based Sensing with Fast and Efficient Photonic-Electronic Spiking Neurons**|Dylan Black et.al.|[2608.21124](http://arxiv.org/abs/2608.21124)|null|
+|**2026-08-21**|**Spike-Killer: Evidence-Gated LLM Assistance for Safe Performance Diagnosis on a Real Windows Workstation**|Baocheng Zeng et.al.|[2608.21069](http://arxiv.org/abs/2608.21069)|null|
+|**2026-08-21**|**Parameters Overshadowed by Price Lags: Load, Climate, and Calendar Effects in ERCOT Day-Ahead Price Formation**|Yunus Bicen et.al.|[2608.20865](http://arxiv.org/abs/2608.20865)|null|
+|**2026-08-20**|**One-point fluctuations for exponential last passage percolation under upper-tail conditioning**|Jinho Baik et.al.|[2608.20552](http://arxiv.org/abs/2608.20552)|null|
 |**2026-08-20**|**Petri Net Description of Biological Neural Circuits for Fast Hardware Prototyping**|Carlo daCunha et.al.|[2608.20147](http://arxiv.org/abs/2608.20147)|null|
 |**2026-08-20**|**The Forward-Backward Disconnect: State Dynamics, Credit Assignment, and Biological Grounding in Neural Computation**|Hadi Al Mubasher et.al.|[2608.19995](http://arxiv.org/abs/2608.19995)|null|
 |**2026-08-20**|**Spike-based Belief Propagation in Nonlinear Dynamical Systems**|Sepideh Adamiat et.al.|[2608.19907](http://arxiv.org/abs/2608.19907)|null|
@@ -522,12 +528,6 @@
 |**2026-08-09**|**SuperNeuroMAT: An Efficient Matrix-based Simulator for Spiking Neural Networks**|Prasanna Date et.al.|[2608.08479](http://arxiv.org/abs/2608.08479)|null|
 |**2026-08-08**|**Real-time anomaly detection in base station testbeds via scalable kernel density estimation framework**|Justyna Witulska et.al.|[2608.08373](http://arxiv.org/abs/2608.08373)|null|
 |**2026-08-08**|**The Neural Division of Labor: Biologically-Inspired Modular Architectures for Robust Neuromorphic Computing**|Maksim Bazhenov et.al.|[2608.08317](http://arxiv.org/abs/2608.08317)|null|
-|**2026-08-08**|**High-Capacity Generalized Hopfield Networks**|Victor Galitski et.al.|[2608.08226](http://arxiv.org/abs/2608.08226)|null|
-|**2026-08-07**|**Linear Spectral Statistics for Entrywise-Transformed Spiked Wigner Matrices under Shifted $L^4$ Profile Admissibility**|Tsz-Kin Chan et.al.|[2608.07820](http://arxiv.org/abs/2608.07820)|null|
-|**2026-08-07**|**Phase State Space Models: Parallel, Surrogate-Free Training of Spiking Networks**|Wilkie Olin-Ammentorp et.al.|[2608.07754](http://arxiv.org/abs/2608.07754)|null|
-|**2026-08-07**|**SpikeWorld: Fast-State Adaptation for Frozen Spiking World Models**|Ziqiao Yu et.al.|[2608.07712](http://arxiv.org/abs/2608.07712)|null|
-|**2026-08-07**|**High-dimensional ridgeless least squares interpolation under spiked covariance structures**|Zhijun Liu et.al.|[2608.07281](http://arxiv.org/abs/2608.07281)|null|
-|**2026-08-07**|**PTQ4SNN: Membrane-Aware Post-Training Quantization for Spiking Neural Networks**|Hui Xie et.al.|[2608.07066](http://arxiv.org/abs/2608.07066)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
