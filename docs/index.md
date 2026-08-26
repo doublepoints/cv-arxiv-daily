@@ -1,9 +1,9 @@
-## <a id=top></a>Updated on 2026.08.25
+## <a id=top></a>Updated on 2026.08.26
 ---
 layout: default
 ---
 
-## Updated on 2026.08.25
+## Updated on 2026.08.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## <a id=slam>SLAM</a>
@@ -340,6 +340,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-25**|**AICON: An operational global machine learning weather forecasting model**|Tobias Goecke et.al.|[2608.24651](http://arxiv.org/abs/2608.24651)|null|
+|**2026-08-24**|**Conditional GraphGANFed: Optimizing Graph-Structured Molecule Generation in Federated Generative Adversarial Networks**|Daniel Manu et.al.|[2608.24610](http://arxiv.org/abs/2608.24610)|null|
+|**2026-08-25**|**Defending Network Intrusion Detection Systems Based on Graph Neural Networks Against Structural Adversarial Attacks**|Dimitri Galli et.al.|[2608.24454](http://arxiv.org/abs/2608.24454)|null|
+|**2026-08-24**|**GATNextHop: A GAT for Shortest Path Routing with Cross-Topology Generalization**|Chia-Hong Chou et.al.|[2608.23917](http://arxiv.org/abs/2608.23917)|null|
+|**2026-08-24**|**Differential Learning for Robust Prediction of Thermal Stability with Application to Energetic Materials**|Megan C. Davis et.al.|[2608.23874](http://arxiv.org/abs/2608.23874)|null|
+|**2026-08-24**|**Generating Intervention Hypotheses using Explainable Explanations on Graphs: G2I, a Two-Stage Greedy Framework**|Mulin Tian et.al.|[2608.23835](http://arxiv.org/abs/2608.23835)|null|
+|**2026-08-24**|**Exploring ESS $ν$ SB Near Water Cherenkov Detector Designs Through Graph Neural Network Flavour Identification**|J. Aguilar et.al.|[2608.23773](http://arxiv.org/abs/2608.23773)|null|
 |**2026-08-24**|**Hierarchy-Aware Semantic Losses for Knowledge Graph Link Prediction**|Filip Kronström et.al.|[2608.22981](http://arxiv.org/abs/2608.22981)|null|
 |**2026-08-24**|**Beyond Observed Auxiliary Relations: Environment-Conditioned Modeling for Multi-Behavior Recommendation**|Seunghan Lee et.al.|[2608.22920](http://arxiv.org/abs/2608.22920)|null|
 |**2026-08-24**|**ReCoG: Reciprocal Co-Evolution for Multimodal Graph Learning**|Rui Xue et.al.|[2608.22786](http://arxiv.org/abs/2608.22786)|null|
@@ -383,18 +390,12 @@ layout: default
 |**2026-08-16**|**Graph neural network prediction of temperature-dependent hydrogen diffusion and thermal conductivity tensors of tungsten containing helium bubbles and grain boundaries**|S. Saito et.al.|[2608.15609](http://arxiv.org/abs/2608.15609)|null|
 |**2026-08-14**|**IRGNN: Efficient Invariant Radar Graph Neural Network for Radar Point Cloud Object Detection**|Xiao Guo et.al.|[2608.14394](http://arxiv.org/abs/2608.14394)|null|
 |**2026-08-14**|**Structure-Guided Spatiotemporal Attention Graph Neural Network for Traffic Flow Prediction**|Xuanmian He et.al.|[2608.14177](http://arxiv.org/abs/2608.14177)|null|
-|**2026-08-14**|**Overcoming Shortcut Learning in Graph Neural Networks through Active Explanation Guidance**|Taraneh Younesian et.al.|[2608.14121](http://arxiv.org/abs/2608.14121)|null|
-|**2026-08-13**|**HI-MeshGraphNets: Efficient and Accurate Mesh-based Physics Learning with Hierarchical Multi-scale Graph Neural Networks**|SiHun Lee et.al.|[2608.13827](http://arxiv.org/abs/2608.13827)|null|
-|**2026-08-13**|**Jointly Predicting Courses and Grades Using a Transformer-Based Model**|Paul Savala et.al.|[2608.13409](http://arxiv.org/abs/2608.13409)|null|
-|**2026-08-13**|**Causal Mediation Analysis for Network Data with Graph Neural Network**|Peikai Wu et.al.|[2608.13274](http://arxiv.org/abs/2608.13274)|null|
-|**2026-08-13**|**Novel Knowledge-Guided Generative Methods for Synthetic Transcriptomic Data**|Francesca Pia Panaccione et.al.|[2608.13256](http://arxiv.org/abs/2608.13256)|null|
-|**2026-08-13**|**TANGCO: Learning Topology-Aware Capacity Allocation for Overload-driven Cascading Failures**|Orkun Irsoy et.al.|[2608.13212](http://arxiv.org/abs/2608.13212)|null|
-|**2026-08-13**|**EGRL: Edge generation-guided relation-aware learning for RNA-protein interaction prediction**|Danyu Li et.al.|[2608.12906](http://arxiv.org/abs/2608.12906)|null|
 
 ## <a id=event-camera>Event-Camera</a>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-25**|**ECO-COMM: An Ultra Low-Latency Event Camera based Optical Communication System**|Chengling Xu et.al.|[2608.24705](http://arxiv.org/abs/2608.24705)|null|
 |**2026-08-17**|**ECO-ID: Event-Camera based Optical System for Secure Multi-User Ultra-Low Latency Identification**|Subham Sabud et.al.|[2608.16858](http://arxiv.org/abs/2608.16858)|null|
 |**2026-08-17**|**FLEET: Token-Based Feature Extraction for Event Camera-based Reinforcement Learning**|Tristan Gottwald et.al.|[2608.16523](http://arxiv.org/abs/2608.16523)|null|
 |**2026-08-15**|**MotionGS-SLAM: Event-Modulated Gaussian Splatting for Motion-Blur Robust SLAM**|Zhiqiang Hu et.al.|[2608.15024](http://arxiv.org/abs/2608.15024)|null|
@@ -444,12 +445,16 @@ layout: default
 |**2026-06-18**|**Neural Events: Discrete Asynchronous Autoencoders for Event-Based Vision**|Roberto Pellerito et.al.|[2606.19835](http://arxiv.org/abs/2606.19835)|null|
 |**2026-06-18**|**A High-accuracy Event-based Underwater SLAM System**|Yifan Peng et.al.|[2606.18951](http://arxiv.org/abs/2606.18951)|null|
 |**2026-06-16**|**EventDrive: Event Cameras for Vision-Language Driving Intelligence**|Dongyue Lu et.al.|[2606.18242](http://arxiv.org/abs/2606.18242)|null|
-|**2026-06-15**|**FATE: Pillar Encoding and Frequency-Aware Training for Event-Based Object Detection**|Md Tawheedul Islam Bhuian et.al.|[2606.17334](http://arxiv.org/abs/2606.17334)|null|
 
 ## <a id=snns>SNNs</a>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-25**|**Imaging atomic scale stochasticity: noise in the nearly commensurate charge density wave of 1T-TaS $_2$ for leaky-integrator-and-fire neuromorphic emulator**|Michael Verhage et.al.|[2608.24693](http://arxiv.org/abs/2608.24693)|null|
+|**2026-08-25**|**A latent space network model for dynamic neural latent embedding**|Riccardo Rastelli et.al.|[2608.24452](http://arxiv.org/abs/2608.24452)|null|
+|**2026-08-25**|**Sensor Drift Compensation via Olfactory system and Reservoir Computing**|ZhengChen Dong et.al.|[2608.24288](http://arxiv.org/abs/2608.24288)|null|
+|**2026-08-25**|**ORBITALIF: An Efficient Spiking Federated Learning Framework for Onboard Cloud Removal**|Bohan Zhang et.al.|[2608.24073](http://arxiv.org/abs/2608.24073)|null|
+|**2026-08-25**|**Low-Latency Activation-Regularized Sparse Neural Operators with Distillation Assistance Towards Real-Time Edge-Deployable Virtual Sensing**|William Howes et.al.|[2608.23987](http://arxiv.org/abs/2608.23987)|null|
 |**2026-08-24**|**Closed-Form Predicate-Level Shapley Attribution for Sliding-Window Aggregates**|Pouya Khani et.al.|[2608.23087](http://arxiv.org/abs/2608.23087)|null|
 |**2026-08-24**|**Spiking Neural Networks for Continuous Control: Neuromorphic Reinforcement Learning in Conventional Computing**|Jessica Hunter et.al.|[2608.22729](http://arxiv.org/abs/2608.22729)|null|
 |**2026-08-23**|**Quantum-Inspired Hybrid Neural Networks for Neural Decoding: A Controlled Ablation Study of Learnable Quantum Sidecar Integration**|Diana Legziel Levy et.al.|[2608.22475](http://arxiv.org/abs/2608.22475)|null|
@@ -495,11 +500,6 @@ layout: default
 |**2026-08-12**|**GCPO: Diagnosing and Constraining Subspace Geometry in Rollout RL for LLMs**|Kai Yang et.al.|[2608.11674](http://arxiv.org/abs/2608.11674)|null|
 |**2026-08-12**|**DLESyM-Ocean: A Deep Learning Probabilistic Global Model for Simulating Present-Day Upper Ocean and Sea Ice**|Zachary I Espinosa et.al.|[2608.11545](http://arxiv.org/abs/2608.11545)|null|
 |**2026-08-11**|**Predictive Allostatic Organization in Recurrent and Spiking Agents Under Partial Observability**|Frederick Hayes et.al.|[2608.11506](http://arxiv.org/abs/2608.11506)|null|
-|**2026-08-11**|**Threshold-Based Spiking Neural Networks for Event-Driven Status Update Systems**|Marco Fries et.al.|[2608.10640](http://arxiv.org/abs/2608.10640)|null|
-|**2026-08-10**|**What Actually Serializes GPU LZ77 Decode: Three Decoders, Three Mechanisms, and an Encode-Time Lever That Removes the Last One**|Yakiv Shavidze et.al.|[2608.10188](http://arxiv.org/abs/2608.10188)|null|
-|**2026-08-10**|**Decoding the jet of BL Lacertae using relativistic magneto-hydrodynamics**|G. F. Paraschos et.al.|[2608.10067](http://arxiv.org/abs/2608.10067)|null|
-|**2026-08-10**|**The Last Crossing in Excursion-Set Theory of Cosmic Reionization**|Hanjue Zhu et.al.|[2608.10066](http://arxiv.org/abs/2608.10066)|null|
-|**2026-08-10**|**Online Learning of Scale Parameters in Score-Driven Filters**|Fabrizio Lillo et.al.|[2608.09218](http://arxiv.org/abs/2608.09218)|null|
 
 ## <a id=neuronss>neuronss</a>
 
