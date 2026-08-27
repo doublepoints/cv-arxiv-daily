@@ -340,6 +340,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-26**|**Imitation Learning for Connection-Tableau Construction**|Fredrik Rømming et.al.|[2608.26009](http://arxiv.org/abs/2608.26009)|null|
 |**2026-08-26**|**MetaSieve: Faster Relational Deep Learning through SQL-Based Metapath Selection**|Fahim Shahriar Khan et.al.|[2608.25903](http://arxiv.org/abs/2608.25903)|null|
 |**2026-08-26**|**Why Does Graph Learning Fail to Fully Benefit from a Text Teacher?**|Fumiaki Kimino et.al.|[2608.25741](http://arxiv.org/abs/2608.25741)|null|
 |**2026-08-26**|**Are LLM-Enhanced GNNs Privacy-Safe?**|Longzhu He et.al.|[2608.25727](http://arxiv.org/abs/2608.25727)|null|
@@ -389,7 +390,6 @@ layout: default
 |**2026-08-17**|**Demystifying Oversmoothing in Sheaf Neural Networks: An Index-Theoretic Criterion**|Junwen Dong et.al.|[2608.16180](http://arxiv.org/abs/2608.16180)|null|
 |**2026-08-17**|**Unifying Graph Neural Networks Through a Common Layer Equation**|Sai Karthik Navuluru et.al.|[2608.16097](http://arxiv.org/abs/2608.16097)|null|
 |**2026-08-17**|**OceanLight: Efficient Global Ocean Forecasting via Geometry-Adaptive Unstructured Mesh Representation**|Wei Wu et.al.|[2608.16070](http://arxiv.org/abs/2608.16070)|null|
-|**2026-08-17**|**NICE: Scale-Stable Perturbations for Graph Neural Network Explanations via Noise Corruption**|Ziluowen Luo et.al.|[2608.16038](http://arxiv.org/abs/2608.16038)|null|
 
 ## <a id=event-camera>Event-Camera</a>
 
