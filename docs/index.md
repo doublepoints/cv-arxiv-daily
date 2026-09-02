@@ -120,6 +120,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**AutoConcept: Training-Free Concept-Guided Reranking for Metadata-Available Composed Image Retrieval**|Tianyu Wang et.al.|[2609.01456](http://arxiv.org/abs/2609.01456)|null|
+|**2026-09-01**|**ViTAMINS: An Empirical Study of Training Self-Supervised Vision Transformers with Synthetic Hard Negatives**|Nikos Giakoumoglou et.al.|[2609.01041](http://arxiv.org/abs/2609.01041)|null|
 |**2026-08-31**|**A Composition-Aware Pretraining Framework for Geospatial Foundation Models**|Aryan Kashyap Naveen et.al.|[2608.30817](http://arxiv.org/abs/2608.30817)|null|
 |**2026-08-29**|**Context-Aware Interpretable Representations for Retrieval and Graph Convolutional Network Classification**|Thiago César Castilho Almeida et.al.|[2608.29004](http://arxiv.org/abs/2608.29004)|null|
 |**2026-08-27**|**Weaving Visual Narratives: Agentic Image Bundle Composition Beyond Atomic Visual Matching**|Rong Shan et.al.|[2608.28695](http://arxiv.org/abs/2608.28695)|null|
@@ -168,13 +170,12 @@ layout: default
 |**2026-07-30**|**EEG-EditBench: Probing Visual Information in EEG-Image Retrieval Models with Controlled Image Edits**|Kaifan Zhang et.al.|[2607.27857](http://arxiv.org/abs/2607.27857)|null|
 |**2026-07-30**|**CXR-Retrieve: Compositional Text-to-Image Retrieval in Chest Radiography**|Tomer Erez et.al.|[2607.27779](http://arxiv.org/abs/2607.27779)|null|
 |**2026-07-29**|**PanDent: Toward Comprehensive Tooth-Level Structure-Language Consistency in Dental Radiology**|Xiaohan Li et.al.|[2607.27378](http://arxiv.org/abs/2607.27378)|null|
-|**2026-07-27**|**KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability**|Krithi Shailya et.al.|[2607.24730](http://arxiv.org/abs/2607.24730)|null|
-|**2026-07-27**|**Experimental Observation of Ghost Image Revivals via Structured Coherence**|Weining Wang et.al.|[2607.24486](http://arxiv.org/abs/2607.24486)|null|
 
 ## <a id=keypoint-detection>Keypoint Detection</a>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-31**|**CrossFeat: Bridging Imaging Modalities in Feature Descriptor Space**|Paul Schneider et.al.|[2609.00272](http://arxiv.org/abs/2609.00272)|null|
 |**2026-08-29**|**Effective Graph and Rank-based Contextual Embeddings for Textual and Multimedia Data**|Thiago César Castilho Almeida et.al.|[2608.29001](http://arxiv.org/abs/2608.29001)|null|
 |**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181](http://arxiv.org/abs/2608.27181)|null|
 |**2026-08-20**|**Gravity-aware partially calibrated absolute pose estimation from affine- or rotation-covariant features**|Marcus Valtonen Örnhag et.al.|[2608.20056](http://arxiv.org/abs/2608.20056)|null|
@@ -224,7 +225,6 @@ layout: default
 |**2025-05-05**|**Unsupervised Deep Learning-based Keypoint Localization Estimating Descriptor Matching Performance**|David Rivas-Villar et.al.|[2505.02779](http://arxiv.org/abs/2505.02779)|null|
 |**2025-05-04**|**Focus What Matters: Matchability-Based Reweighting for Local Feature Matching**|Dongyue Li et.al.|[2505.02161](http://arxiv.org/abs/2505.02161)|null|
 |**2025-05-04**|**Enhancing Lidar Point Cloud Sampling via Colorization and Super-Resolution of Lidar Imagery**|Sier Ha et.al.|[2505.02049](http://arxiv.org/abs/2505.02049)|null|
-|**2025-04-29**|**Emotion Recognition in Contemporary Dance Performances Using Laban Movement Analysis**|Muhammad Turab et.al.|[2504.21154](http://arxiv.org/abs/2504.21154)|null|
 
 ## <a id=image-matching>Image Matching</a>
 
@@ -340,6 +340,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**Edge-Girth as a Structural Edge Feature for Graph Neural Networks**|Lilian Marey et.al.|[2609.01441](http://arxiv.org/abs/2609.01441)|null|
+|**2026-09-01**|**Element priors and target support shape chemical transfer in materials graph networks**|Ran Zhao et.al.|[2609.00915](http://arxiv.org/abs/2609.00915)|null|
+|**2026-09-01**|**Why Multi-Layer Message Passing Works: Completeness Theory for Graph Neural Network Interatomic Potentials**|Pingbing Ming et.al.|[2609.00528](http://arxiv.org/abs/2609.00528)|null|
 |**2026-08-31**|**CoMPASS: Collaborative Molecular Property Prediction via Adaptive Small-Large Model Synergy**|Wentao Li et.al.|[2608.30674](http://arxiv.org/abs/2608.30674)|null|
 |**2026-08-31**|**MolLedger: An Additive Graph Neural Network with Chemically Grounded ADME Attributions**|Christina X. Ji et.al.|[2608.30636](http://arxiv.org/abs/2608.30636)|null|
 |**2026-08-31**|**Beamforming Design Via GNN in mmWave Cell-Free Massive MIMO Using Sub-6 GHz CSI**|Sina Tavakolian et.al.|[2608.30524](http://arxiv.org/abs/2608.30524)|null|
@@ -387,14 +390,12 @@ layout: default
 |**2026-08-22**|**Beyond Similarity: Heterogeneous Graph Learning for Multi-Objective Food Substitution in Charitable Food Agencies**|Naimur Rahman Chowdhury et.al.|[2608.21979](http://arxiv.org/abs/2608.21979)|null|
 |**2026-08-22**|**LMP-GNN: Probabilistic Reconstruction of Missing Lane Counts for Signed Max-Pressure Traffic Signal Control**|Zhihao Wan et.al.|[2608.21734](http://arxiv.org/abs/2608.21734)|null|
 |**2026-08-21**|**Congruence Decomposition with Neural Block Solvers for Large-Scale PCI Assignment**|Yeqing Qiu et.al.|[2608.21485](http://arxiv.org/abs/2608.21485)|null|
-|**2026-08-21**|**A Critical Audit of Spatiotemporal Forecasting Benchmark Datasets and Baselines**|Kenneth Martin et.al.|[2608.20980](http://arxiv.org/abs/2608.20980)|null|
-|**2026-08-21**|**Generalizing Soft Tissue Deformation and Force Prediction Across Material Stiffness and Geometry**|Madina Kojanazarova et.al.|[2608.20967](http://arxiv.org/abs/2608.20967)|null|
-|**2026-08-21**|**A Graph Neural Network Framework for Characterizing Rainfall Variability Regimes across India**|Pradyumnan Raghuveeran et.al.|[2608.20947](http://arxiv.org/abs/2608.20947)|null|
 
 ## <a id=event-camera>Event-Camera</a>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**Residual Kalman Dynamics for Event-Based UAV Forecasting**|Per Nyblom et.al.|[2609.00839](http://arxiv.org/abs/2609.00839)|null|
 |**2026-08-28**|**Lossy Event Compression: From Event Stream Distortion to Task Performance**|Zahra Rezaee et.al.|[2608.28429](http://arxiv.org/abs/2608.28429)|null|
 |**2026-08-27**|**Quanta Perception as Probabilistic Events**|Varun Sundar et.al.|[2608.27584](http://arxiv.org/abs/2608.27584)|null|
 |**2026-08-27**|**Real-time Unsupervised Object Discovery from Asynchronous Event Streams**|Pratham G. Shenwai et.al.|[2608.26644](http://arxiv.org/abs/2608.26644)|null|
@@ -444,12 +445,16 @@ layout: default
 |**2026-06-23**|**GeoIMO: Geometry-Driven Independent Motion Classification for Event Cameras**|Anil Bayram Gogebakan et.al.|[2606.24499](http://arxiv.org/abs/2606.24499)|null|
 |**2026-06-23**|**UniRED: Unified RGB-D Video Frame Interpolation with Event Guidance**|Yinuo Zhang et.al.|[2606.24282](http://arxiv.org/abs/2606.24282)|null|
 |**2026-06-22**|**A Systematic Survey on Event Camera Representation Learning**|Hongwei Ren et.al.|[2606.23078](http://arxiv.org/abs/2606.23078)|null|
-|**2026-06-21**|**Following the Flow: Advection-Consistent Modeling for Event-based Small Object Detection**|Wen Guo et.al.|[2606.22378](http://arxiv.org/abs/2606.22378)|null|
 
 ## <a id=snns>SNNs</a>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**Connectome-Based Modelling Reveals Orientation Maps in the Drosophila Optic Lobe**|Jia-Nuo Liew et.al.|[2609.01330](http://arxiv.org/abs/2609.01330)|null|
+|**2026-09-01**|**Don't You Know, Pump it Up! Investigating Cryptocurrency Manipulation in Telegram-Driven Activity**|Filipe Moura et.al.|[2609.01176](http://arxiv.org/abs/2609.01176)|null|
+|**2026-09-01**|**Real-Time Neuromorphic Spectrum Intelligence Simulator**|Navaneetha Krishnan Kamalakannan et.al.|[2609.00585](http://arxiv.org/abs/2609.00585)|null|
+|**2026-08-31**|**A convolutional framework for detecting event-driven dynamics in energy price series**|Caixia Xu et.al.|[2609.00402](http://arxiv.org/abs/2609.00402)|null|
+|**2026-08-31**|**Magnetic field-induced enhancement and quenching of Urca emission in quark matter**|William Gyory et.al.|[2609.00157](http://arxiv.org/abs/2609.00157)|null|
 |**2026-08-31**|**Conjoint Audio-to-Spikes Encoding and Processing for Efficient Neuromorphic Speech Recognition**|Valentin M. Meunier et.al.|[2608.30792](http://arxiv.org/abs/2608.30792)|null|
 |**2026-08-31**|**When the Martingale Never Stops Firing: Anytime-Valid Gating on Real Forecast Streams**|Weijia Han et.al.|[2608.30502](http://arxiv.org/abs/2608.30502)|null|
 |**2026-08-31**|**Non-uniform Memory Partitioning For Low-Power Spiking Neural Networks**|Simon Richter et.al.|[2608.30444](http://arxiv.org/abs/2608.30444)|null|
@@ -495,16 +500,13 @@ layout: default
 |**2026-08-20**|**Petri Net Description of Biological Neural Circuits for Fast Hardware Prototyping**|Carlo daCunha et.al.|[2608.20147](http://arxiv.org/abs/2608.20147)|null|
 |**2026-08-20**|**The Forward-Backward Disconnect: State Dynamics, Credit Assignment, and Biological Grounding in Neural Computation**|Hadi Al Mubasher et.al.|[2608.19995](http://arxiv.org/abs/2608.19995)|null|
 |**2026-08-20**|**Spike-based Belief Propagation in Nonlinear Dynamical Systems**|Sepideh Adamiat et.al.|[2608.19907](http://arxiv.org/abs/2608.19907)|null|
-|**2026-08-20**|**Mesoscopic Rectangular Spikes under Subspace Local Laws: Outlier Values and Singular Subspaces**|Yitzchak Shmalo et.al.|[2608.19594](http://arxiv.org/abs/2608.19594)|null|
-|**2026-08-19**|**Robust and Efficient Feature Extraction for Spike Sorting via the Walsh-Hadamard Transform**|Emily Yang et.al.|[2608.19048](http://arxiv.org/abs/2608.19048)|null|
-|**2026-08-19**|**APEX: A Dual-Sparsity Accelerator for Precise and Efficient SNN Inference**|Devgokul Bawa Venkatesh et.al.|[2608.19046](http://arxiv.org/abs/2608.19046)|null|
-|**2026-08-19**|**Distributed Online Estimation of Spiked Eigenvalues with Adaptive Weighting under Persistent Aspect Ratio Heterogeneity**|Lu Yan et.al.|[2608.19045](http://arxiv.org/abs/2608.19045)|null|
-|**2026-08-18**|**SLO-Scaler: Uncertainty-Aware SLO-Driven Autoscaling for Microservices**|Shuo Wang et.al.|[2608.18390](http://arxiv.org/abs/2608.18390)|null|
 
 ## <a id=neuronss>neuronss</a>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**Connectome-Based Modelling Reveals Orientation Maps in the Drosophila Optic Lobe**|Jia-Nuo Liew et.al.|[2609.01330](http://arxiv.org/abs/2609.01330)|null|
+|**2026-08-27**|**Benchmarking spiking neural networks across sensing modalities on edge devices**|Xin Du et.al.|[2609.00026](http://arxiv.org/abs/2609.00026)|null|
 |**2026-08-28**|**Neuromorphic architectures as numerical solvers for computational neuroscience**|Jakob Jordan et.al.|[2608.28387](http://arxiv.org/abs/2608.28387)|null|
 |**2026-08-18**|**scDNM-VAE enables directly inspectable deep clustering of single-cell RNA-seq data through signed dendritic gating**|Melih Agraz et.al.|[2608.17228](http://arxiv.org/abs/2608.17228)|null|
 |**2026-08-06**|**An open-source framework for predicting ultrasound neuromodulation: bridging tissue elastomechanics and neuron firing dynamics**|Gianmarco Pinton et.al.|[2608.06321](http://arxiv.org/abs/2608.06321)|null|
@@ -553,6 +555,4 @@ layout: default
 |**2025-06-16**|**Energy-Efficient Digital Design: A Comparative Study of Event-Driven and Clock-Driven Spiking Neurons**|Filippo Marostica et.al.|[2506.13268](http://arxiv.org/abs/2506.13268)|null|
 |**2025-06-13**|**Stable Synchronous Propagation in Feedforward Networks for Biped Locomotion**|Ian Stewart et.al.|[2506.11780](http://arxiv.org/abs/2506.11780)|null|
 |**2025-06-13**|**Synchronous Propagation of Periodic Signals in Feedforward Networks of Standard Model Neurons**|Ian Stewart et.al.|[2506.11776](http://arxiv.org/abs/2506.11776)|null|
-|**2025-06-08**|**RBA-FE: A Robust Brain-Inspired Audio Feature Extractor for Depression Diagnosis**|Yu-Xuan Wu et.al.|[2506.07118](http://arxiv.org/abs/2506.07118)|null|
-|**2025-06-08**|**A Neuronal Model at the Edge of Criticality: An Ising-Inspired Approach to Brain Dynamics**|Sajedeh Sarmastani et.al.|[2506.07027](http://arxiv.org/abs/2506.07027)|null|
 
