@@ -136,6 +136,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-08**|**Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps**|Panagiotis Kiousis et.al.|[2610.11967](http://arxiv.org/abs/2610.11967)|null|
+|**2026-10-08**|**SatFix: Absolute Visual Localization of UAVs in Satellite Maps from a Single Oblique Image**|Jiarui Zeng et.al.|[2610.11049](http://arxiv.org/abs/2610.11049)|null|
+|**2026-10-07**|**Region-Aware CLS Token Augmentation for Fine-Grained Image Retrieval**|Ian de Holanda Cavalcanti Bezerra et.al.|[2610.10991](http://arxiv.org/abs/2610.10991)|null|
 |**2026-10-07**|**Fast and Robust Teach-and-Repeat Navigation Using MixVPR Visual Place Recognition***|Václav Truhlařík et.al.|[2610.09631](http://arxiv.org/abs/2610.09631)|null|
 |**2026-10-05**|**What Words Keep of a Place: Zero-Shot Language Reasoning for Cross-View Geo-Localization**|Ayesh Abu Lehyeh et.al.|[2610.07269](http://arxiv.org/abs/2610.07269)|null|
 |**2026-10-05**|**Conditional Flow Matching for Transport Between Markov Processes**|Syamantak Kumar et.al.|[2610.07229](http://arxiv.org/abs/2610.07229)|null|
@@ -183,9 +186,6 @@
 |**2026-09-02**|**Aggregating Neighbor Embedding Projection and Rank-Based Manifold Learning for Image Retrieval**|Vinicius Atsushi Sato Kawai et.al.|[2609.01963](http://arxiv.org/abs/2609.01963)|null|
 |**2026-09-01**|**From Visual Cues to Spoken Narration: Rethinking Audio Description**|Akshita Gupta et.al.|[2609.01725](http://arxiv.org/abs/2609.01725)|null|
 |**2026-09-01**|**AutoConcept: Training-Free Concept-Guided Reranking for Metadata-Available Composed Image Retrieval**|Tianyu Wang et.al.|[2609.01456](http://arxiv.org/abs/2609.01456)|null|
-|**2026-09-01**|**ViTAMINS: An Empirical Study of Training Self-Supervised Vision Transformers with Synthetic Hard Negatives**|Nikos Giakoumoglou et.al.|[2609.01041](http://arxiv.org/abs/2609.01041)|null|
-|**2026-08-31**|**A Composition-Aware Pretraining Framework for Geospatial Foundation Models**|Aryan Kashyap Naveen et.al.|[2608.30817](http://arxiv.org/abs/2608.30817)|null|
-|**2026-08-29**|**Context-Aware Interpretable Representations for Retrieval and Graph Convolutional Network Classification**|Thiago César Castilho Almeida et.al.|[2608.29004](http://arxiv.org/abs/2608.29004)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -307,6 +307,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-08**|**OX-NeRF: 3D X-ray Tomography Reconstruction from Sparse Views Using Implicit Neural Representation**|Thomas Welsch et.al.|[2610.11547](http://arxiv.org/abs/2610.11547)|null|
+|**2026-10-08**|**3DTexMOR: 3D Gaussian Multi-Object Removal via Texture-Space Inpainting**|Kunxin Guang et.al.|[2610.11198](http://arxiv.org/abs/2610.11198)|null|
+|**2026-10-07**|**PCAsplat: Gaussian Splatting with Local PCA Regularization**|Vitor Matias et.al.|[2610.11011](http://arxiv.org/abs/2610.11011)|null|
 |**2026-10-07**|**NeRFifyMesh: Optimizing Neural Radiance Fields from Textured Meshes for Robotics Scene Building**|Nillan Nimal et.al.|[2610.10387](http://arxiv.org/abs/2610.10387)|null|
 |**2026-10-07**|**TileSkipper: Region-Adaptive Tile Pruning for 3D Gaussian Splatting**|Jingxing Li et.al.|[2610.09343](http://arxiv.org/abs/2610.09343)|null|
 |**2026-10-05**|**When the Rule-Maker Runs the World Championship: Late Patches and Procedural Accountability in League of Legends**|Haewoon Kwak et.al.|[2610.07427](http://arxiv.org/abs/2610.07427)|null|
@@ -354,9 +357,6 @@
 |**2026-08-18**|**QuARC-GS: Quantized Anchored Residual Coding for Compact Dynamic Scene Streaming with Gaussian Splatting**|Vu Trung Nghia Nguyen et.al.|[2608.18285](http://arxiv.org/abs/2608.18285)|null|
 |**2026-08-18**|**GenRec: Knowing Where to Reconstruct and Where to Generate**|Ata Çelen et.al.|[2608.17832](http://arxiv.org/abs/2608.17832)|null|
 |**2026-08-18**|**Differentiable Voronoi Ray Tracing Beyond Rasterization Speeds**|Bernardo Taveira et.al.|[2608.17682](http://arxiv.org/abs/2608.17682)|null|
-|**2026-08-18**|**3D Gaussian Accelerated Ray Tracing: Fast training through particle-based backward propagation**|Laurent Vit et.al.|[2608.17298](http://arxiv.org/abs/2608.17298)|null|
-|**2026-08-17**|**SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis**|Yejun Zhang et.al.|[2608.16863](http://arxiv.org/abs/2608.16863)|null|
-|**2026-08-17**|**LaGSplat: Inferring Physics-Governed Interactive Simulation from Monocular Video Using Latent Lagrangian Gaussian Splatting**|Louen Pottier et.al.|[2608.16324](http://arxiv.org/abs/2608.16324)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -364,6 +364,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-08**|**Specialized machine learning force fields for materials dynamics**|Yue Wu et.al.|[2610.12151](http://arxiv.org/abs/2610.12151)|null|
+|**2026-10-08**|**Using Weisfeiler-Leman Features for Algorithm Selection in Constraint Optimisation**|Alessio Pellegrino et.al.|[2610.12119](http://arxiv.org/abs/2610.12119)|null|
+|**2026-10-08**|**Optimising Geometric Deep Learning for Varied Reconstruction Tasks in High Granularity Calorimeters**|Matthieu Melennec et.al.|[2610.12058](http://arxiv.org/abs/2610.12058)|null|
+|**2026-10-08**|**Using Geometric Deep Learning for the Detection of the Diffuse Supernova Neutrino Background in Water-Cherenkov Detectors**|Matthieu Melennec et.al.|[2610.12042](http://arxiv.org/abs/2610.12042)|null|
+|**2026-10-08**|**MPGE: A Multi-Perspective Graph Explainer for Molecular Classification Explanation**|Mahtab Sarvmaili et.al.|[2610.12039](http://arxiv.org/abs/2610.12039)|null|
+|**2026-10-08**|**Evi-VN: Hard Region Guided Virtual Node Evidence Injection for GNN-Based Fraud Detection**|Jiran Tao et.al.|[2610.11665](http://arxiv.org/abs/2610.11665)|null|
+|**2026-10-08**|**Automated Detection of Match Phases in Football from Spatio-Temporal Tracking Data Using Graph Neural Networks**|Vincent Renner et.al.|[2610.11571](http://arxiv.org/abs/2610.11571)|null|
+|**2026-10-08**|**$C_4$ -Equivariant Flow Matching on Anisotropic Power-Diagram Graphs for Microstructure Generation**|Dawid Lipinski et.al.|[2610.11549](http://arxiv.org/abs/2610.11549)|null|
+|**2026-10-08**|**Compactness and Consistency: A Conjoint Framework for Deep Graph Clustering**|Wei Ju et.al.|[2610.11506](http://arxiv.org/abs/2610.11506)|null|
+|**2026-10-08**|**Observation of single top-quark production in the $s$-channel in proton--proton collisions at $\sqrt{s}=13$ TeV with the ATLAS detector**| ATLAS Collaboration et.al.|[2610.11465](http://arxiv.org/abs/2610.11465)|null|
 |**2026-10-07**|**Oscillatory Neural Dynamics over Sheaves**|Jan-Willem Van Looy et.al.|[2610.10018](http://arxiv.org/abs/2610.10018)|null|
 |**2026-10-07**|**Accelerating dynamic polarizability calculations of organic molecules using equivariant graph neural networks**|Houssam Metni et.al.|[2610.09389](http://arxiv.org/abs/2610.09389)|null|
 |**2026-10-07**|**Node-level Graph Neural Architecture Search Framework**|Lintao Yanga et.al.|[2610.09297](http://arxiv.org/abs/2610.09297)|null|
@@ -404,16 +414,6 @@
 |**2026-09-29**|**Behavior-Centric Malware Classification with Fine-Grained Malicious Logic Localization**|Prakriti Baral et.al.|[2609.38390](http://arxiv.org/abs/2609.38390)|null|
 |**2026-09-29**|**Dagger: Decoupling-based Model Stealing Attack against Graph Neural Networks**|Ying Song et.al.|[2609.37972](http://arxiv.org/abs/2609.37972)|null|
 |**2026-09-29**|**BrainNet Studio: A Unified Toolkit for Brain Network Construction, Intelligent Analysis, and Visualization**|Xiwei Zeng et.al.|[2609.37956](http://arxiv.org/abs/2609.37956)|null|
-|**2026-09-29**|**Spatiotemporal Hyperedges for EEG Seizure Detection and Prediction**|Hyunju Kim et.al.|[2609.37730](http://arxiv.org/abs/2609.37730)|null|
-|**2026-09-29**|**Where Privacy Belongs: Placement Diagnosis and Certified Selection for Private Counterfactual Explanations on Graphs**|Yuxiang Yao et.al.|[2609.37667](http://arxiv.org/abs/2609.37667)|null|
-|**2026-09-29**|**RACE: Relation-Level Counterfactual Explanations for Heterogeneous Graph Neural Networks**|Yuxiang Yao et.al.|[2609.37650](http://arxiv.org/abs/2609.37650)|null|
-|**2026-09-29**|**ScaGNN: a Graph Neural Network for Multiple Scattering Simulations**|Rémi Marsal et.al.|[2609.37509](http://arxiv.org/abs/2609.37509)|null|
-|**2026-09-29**|**BandPC: Learning Residual-Band Preconditioner Combinations for Flexible Conjugate Gradient Solvers**|D. M. Li et.al.|[2609.37140](http://arxiv.org/abs/2609.37140)|null|
-|**2026-09-29**|**Linear-Scaling Quantum Transport from Machine-Learning Density Functional Theory Hamiltonians**|Bang Liu et.al.|[2609.37058](http://arxiv.org/abs/2609.37058)|null|
-|**2026-09-29**|**Message Passing Does More with Less for In-Context Learning on Graphs**|Dooho Lee et.al.|[2609.37057](http://arxiv.org/abs/2609.37057)|null|
-|**2026-09-29**|**RBF-GNN: Rational Basis Functions for Pseudo-Coordinate based Graph Convolutions**|Paweł Batorski et.al.|[2609.37015](http://arxiv.org/abs/2609.37015)|null|
-|**2026-09-28**|**A Unified Uncertainty Representation for Graph Neural Networks via Doubly-Spectral Stochastic Expansion**|Fred Xu et.al.|[2609.35703](http://arxiv.org/abs/2609.35703)|null|
-|**2026-09-28**|**Detecting False Data Injection and Unstable Operation in Smart Grid via System-Aware Graph Boundary Learning**|Emad Efatinasab et.al.|[2609.35506](http://arxiv.org/abs/2609.35506)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -421,6 +421,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-08**|**Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps**|Panagiotis Kiousis et.al.|[2610.11967](http://arxiv.org/abs/2610.11967)|null|
 |**2026-10-07**|**Bringing BNNs to Fast Event Processing**|Paul Longour et.al.|[2610.09873](http://arxiv.org/abs/2610.09873)|null|
 |**2026-10-06**|**PIE-PS: Photometric Stereo from Physical Irradiance Event Streams**|Xiangze Meng et.al.|[2610.08188](http://arxiv.org/abs/2610.08188)|null|
 |**2026-10-03**|**Event Cameras for Melt-Pool Monitoring in Additive Manufacturing: A Benchmark and a Cross-Machine Transfer Analysis**|Mohamad Yazan Sadoun et.al.|[2610.06973](http://arxiv.org/abs/2610.06973)|null|
@@ -470,7 +471,6 @@
 |**2026-08-06**|**EvReflection: Event-Driven Micro-Dynamics for Reflection Removal**|Jiaxiao Wang et.al.|[2608.06184](http://arxiv.org/abs/2608.06184)|null|
 |**2026-08-05**|**Cooking beyond Frames: A Stereo Event Camera Dataset in the Kitchen**|Chengming Feng et.al.|[2608.04865](http://arxiv.org/abs/2608.04865)|null|
 |**2026-08-04**|**Event-Based Spatial-Carrier Interferometry for Surface-Normal Vibration-Waveform Reconstruction**|Ryogo Niwa et.al.|[2608.03343](http://arxiv.org/abs/2608.03343)|null|
-|**2026-08-04**|**PLS-Calib: A Partial Least Squares Framework for Event Camera and Odometry Calibration under Ground Motion Constraints**|Guangyu Li et.al.|[2608.03296](http://arxiv.org/abs/2608.03296)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -478,6 +478,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-08**|**Neural Networks for Temporal Pattern Recognition and Dynamic Arm Gesture Speed Estimation for Robot Control**|Milán Zsolt Bagladi et.al.|[2610.11631](http://arxiv.org/abs/2610.11631)|null|
+|**2026-10-08**|**SDPAD: A Fully Spike-Driven Pipeline for End-to-End Autonomous Driving**|Chengjun Zhang et.al.|[2610.11583](http://arxiv.org/abs/2610.11583)|null|
+|**2026-10-08**|**MSGAT: Multi-Head Spiking Graph Attention with Similarity-Space Fusion for Image-Text Retrieval**|Xintao Zong et.al.|[2610.11526](http://arxiv.org/abs/2610.11526)|null|
+|**2026-10-08**|**SpikeSSL: A Universal Spike Inference Framework with Dynamics-Informed State-Space Layers**|Chenghao Yue et.al.|[2610.11456](http://arxiv.org/abs/2610.11456)|null|
+|**2026-10-07**|**Mean Field Theory Based on the Spike Time Response Curve for Synchronization Within and Between Two Alternating Populations of Neural Oscillators with Delays**|Ananth Vedururu Srinivas et.al.|[2610.10977](http://arxiv.org/abs/2610.10977)|null|
+|**2026-10-07**|**Rethinking the Tradeoff Between Temporal Encoding and Nonlinear Computation in Spiking Language Models**|Hanfei Liu et.al.|[2610.10933](http://arxiv.org/abs/2610.10933)|null|
 |**2026-10-07**|**Reasoning-Token Spikes Under Prompted Untruthful Responding in Large Language Models**|Maverick Morales et.al.|[2610.10405](http://arxiv.org/abs/2610.10405)|null|
 |**2026-10-07**|**A Nonlocal Stochastic Optimal Control with Elliptic-Type Smoothing**|Stefana-Lucia Anita et.al.|[2610.10029](http://arxiv.org/abs/2610.10029)|null|
 |**2026-10-07**|**Stochastic Optimal Control of Decoupled Reflected FBSDEs: A Variational Approach with Residual Reflection Terms**|Hanane Ben-Gherbal et.al.|[2610.09867](http://arxiv.org/abs/2610.09867)|null|
@@ -522,12 +528,6 @@
 |**2026-09-29**|**Detection of fine-structured radio bursts during a superflare on EQ Peg**|Zhanhao Zhao et.al.|[2609.37909](http://arxiv.org/abs/2609.37909)|null|
 |**2026-09-29**|**Zephyr: An Efficient Audio Denoising System Using Spiking Neural Networks Enabled With A Sparsity-Aware Flexible FPGA PE Array**|Cheng-En Chang et.al.|[2609.37711](http://arxiv.org/abs/2609.37711)|null|
 |**2026-09-29**|**The Irreversible Depletion of Dark Matter Spikes by Extreme-Mass-Ratio Inspirals**|Charlie Sharpe et.al.|[2609.37234](http://arxiv.org/abs/2609.37234)|null|
-|**2026-09-29**|**Multi-Depth Temporal Fusion for Feedforward, Locally Trained Spiking Neural Networks**|Aidin Attar et.al.|[2609.37047](http://arxiv.org/abs/2609.37047)|null|
-|**2026-09-29**|**Population search for dark matter spikes in megamaser rotation curves**|Gonzalo Herrera et.al.|[2609.36729](http://arxiv.org/abs/2609.36729)|null|
-|**2026-09-28**|**Bayesian Selection of Edge Spectral Modes for Crash Counts on Urban Road Networks with Applications in Barcelona and Bogotá**|Danna L. Cruz-Reyes et.al.|[2609.36268](http://arxiv.org/abs/2609.36268)|null|
-|**2026-09-28**|**Spiking Neural Network-based Equalization and Demapping in IM/DD Systems: A Comparison**|Eike-Manuel Edelmann et.al.|[2609.36103](http://arxiv.org/abs/2609.36103)|null|
-|**2026-09-28**|**From Weak to Strong Testing in Gaussian Models**|Ansh Nagda et.al.|[2609.36050](http://arxiv.org/abs/2609.36050)|null|
-|**2026-09-28**|**TRACE: Single-Pass Decoding-Trace Risk Localization for Generation Calibration**|Yuebin Xu et.al.|[2609.35387](http://arxiv.org/abs/2609.35387)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
