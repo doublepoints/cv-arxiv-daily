@@ -373,7 +373,7 @@
 |**2026-10-08**|**Automated Detection of Match Phases in Football from Spatio-Temporal Tracking Data Using Graph Neural Networks**|Vincent Renner et.al.|[2610.11571](http://arxiv.org/abs/2610.11571)|null|
 |**2026-10-08**|**$C_4$ -Equivariant Flow Matching on Anisotropic Power-Diagram Graphs for Microstructure Generation**|Dawid Lipinski et.al.|[2610.11549](http://arxiv.org/abs/2610.11549)|null|
 |**2026-10-08**|**Compactness and Consistency: A Conjoint Framework for Deep Graph Clustering**|Wei Ju et.al.|[2610.11506](http://arxiv.org/abs/2610.11506)|null|
-|**2026-10-08**|**Observation of single top-quark production in the $s$-channel in proton--proton collisions at $\sqrt{s}=13$ TeV with the ATLAS detector**| ATLAS Collaboration et.al.|[2610.11465](http://arxiv.org/abs/2610.11465)|null|
+|**2026-10-08**|**Observation of single top-quark production in the $s$-channel in proton--proton collisions at $\sqrt{s}=13$ TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2610.11465](http://arxiv.org/abs/2610.11465)|null|
 |**2026-10-07**|**Oscillatory Neural Dynamics over Sheaves**|Jan-Willem Van Looy et.al.|[2610.10018](http://arxiv.org/abs/2610.10018)|null|
 |**2026-10-07**|**Accelerating dynamic polarizability calculations of organic molecules using equivariant graph neural networks**|Houssam Metni et.al.|[2610.09389](http://arxiv.org/abs/2610.09389)|null|
 |**2026-10-07**|**Node-level Graph Neural Architecture Search Framework**|Lintao Yanga et.al.|[2610.09297](http://arxiv.org/abs/2610.09297)|null|
