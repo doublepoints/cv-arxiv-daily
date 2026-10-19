@@ -10,6 +10,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**F-LIVO: A Feature-Level Geometric Measurement Framework for LiDAR-Inertial-Visual Odometry**|Xinye Dai et.al.|[2610.23595](http://arxiv.org/abs/2610.23595)|null|
 |**2026-10-14**|**Line-Augmented cuVSLAM: Robust Visual Odometry in Low-Texture Environments**|Dara Molloy et.al.|[2610.20958](http://arxiv.org/abs/2610.20958)|null|
 |**2026-10-06**|**VOMMI: Collecting and Leveraging Portable Demonstrations for Mobile Manipulation**|Yutian Zhang et.al.|[2610.08220](http://arxiv.org/abs/2610.08220)|null|
 |**2026-10-01**|**Real-time Event-camera Stereo Visual Odometry via Keytime Gaussian Process Regression**|Nikan Nobari et.al.|[2610.02601](http://arxiv.org/abs/2610.02601)|null|
@@ -59,7 +60,6 @@ layout: default
 |**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari et.al.|[2507.13145](http://arxiv.org/abs/2507.13145)|null|
 |**2025-07-10**|**Hardware-Aware Feature Extraction Quantisation for Real-Time Visual Odometry on FPGA Platforms**|Mateusz Wasala et.al.|[2507.07903](http://arxiv.org/abs/2507.07903)|null|
 |**2025-06-30**|**VOCAL: Visual Odometry via ContrAstive Learning**|Chi-Yao Huang et.al.|[2507.00243](http://arxiv.org/abs/2507.00243)|null|
-|**2025-06-29**|**Event-based Stereo Visual-Inertial Odometry with Voxel Map**|Zhaoxing Zhang et.al.|[2506.23078](http://arxiv.org/abs/2506.23078)|null|
 
 ## <a id=sfm>SFM</a>
 
@@ -120,6 +120,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**Semantic-Critical Regions for Video-to-Audio Generation**|Yun Fang et.al.|[2610.23021](http://arxiv.org/abs/2610.23021)|null|
+|**2026-10-15**|**Stuck on Shuffle: On Attribute-Object Binding in Vision-Language Models**|Netanel Y. Tamir et.al.|[2610.22602](http://arxiv.org/abs/2610.22602)|null|
 |**2026-10-15**|**Vision-Guided Closed-Loop Autonomous Navigation of Light-Driven Janus Microbots**|Kanhu Charan Andia et.al.|[2610.21222](http://arxiv.org/abs/2610.21222)|null|
 |**2026-10-14**|**HyperLoop: Hyperspectral-Assisted Loop Closure Detection in 3D-SLAM for Planetary Exploration**|Annie Bhalla et.al.|[2610.19742](http://arxiv.org/abs/2610.19742)|null|
 |**2026-10-13**|**MicroCLIP: Connecting Text and Microscopy Images via Contrastive Language--Image Pretraining**|Yanran Ruan et.al.|[2610.17866](http://arxiv.org/abs/2610.17866)|null|
@@ -168,8 +170,6 @@ layout: default
 |**2026-09-17**|**SlugTrails: An Egocentric Benchmark for Floor Plan Localization in Large Buildings**|Yunqian Cheng et.al.|[2609.19876](http://arxiv.org/abs/2609.19876)|null|
 |**2026-09-16**|**PIVOT: Perception-aware Independent Viewpoint Online Optimization**|Yuyang Chen et.al.|[2609.19510](http://arxiv.org/abs/2609.19510)|null|
 |**2026-09-16**|**Less Is More: Graph-free Multimodal RAG via Multi-signal Late Fusion**|Tithi Rakshit et.al.|[2609.19417](http://arxiv.org/abs/2609.19417)|null|
-|**2026-09-15**|**HuMemSLAM: Efficient Human-Inspired Semantic Place Recognition for Robust Visual SLAM**|Mayowa Adebambo et.al.|[2609.17168](http://arxiv.org/abs/2609.17168)|null|
-|**2026-09-15**|**G-ray: Ray-Level Relative Geometric Position Encoding in Multi-View Vision Transformers under Camera Heterogeneity**|Shuo Zhang et.al.|[2609.15018](http://arxiv.org/abs/2609.15018)|null|
 
 ## <a id=keypoint-detection>Keypoint Detection</a>
 
@@ -285,6 +285,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**DriveWorld3D Evidence Constrained 3D World Modeling and Generative Simulation for Real-World Autonomous Driving**|Wei Wang et.al.|[2610.22450](http://arxiv.org/abs/2610.22450)|null|
 |**2026-10-14**|**VisibilitySplat: Ray-Traced Occlusion for Relighting with 3D Gaussian Splatting**|Sven Kluge et.al.|[2610.19847](http://arxiv.org/abs/2610.19847)|null|
 |**2026-10-14**|**MicroSDF: Microfacet-Driven Hybrid Neural SDFs for Mixed-Reflectance Surface Reconstruction**|Lejia Ye et.al.|[2610.19681](http://arxiv.org/abs/2610.19681)|null|
 |**2026-10-09**|**Gaussian Splatting with Reflections Guided by What is Seen**|Yiming Liang et.al.|[2610.13757](http://arxiv.org/abs/2610.13757)|null|
@@ -334,12 +335,15 @@ layout: default
 |**2026-08-26**|**PIVOT: A Multi-Trajectory Dataset and Testbed for Pose, Intrinsics, and Novel Viewpoint Evaluation in Real-World 3D Reconstruction**|Mary Raymond et.al.|[2608.25401](http://arxiv.org/abs/2608.25401)|null|
 |**2026-08-24**|**FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors**|Khiem Vuong et.al.|[2608.23549](http://arxiv.org/abs/2608.23549)|null|
 |**2026-08-22**|**Towards Alias-Free 4D Gaussian Representations with Motion-Aware Filtering**|Ankit Dhiman et.al.|[2608.21828](http://arxiv.org/abs/2608.21828)|null|
-|**2026-08-18**|**DesignAgent3D: Interactive 3D Scene Editing via Designer-like Multimodal Reasoning**|Xiujin Liu et.al.|[2608.21438](http://arxiv.org/abs/2608.21438)|null|
 
 ## <a id=gnn,gcn>GNN,GCN</a>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**A Label Noise Robust Algorithm for Graph Data using Neighborhood Label Distribution**|Pintu Kumar et.al.|[2610.22998](http://arxiv.org/abs/2610.22998)|null|
+|**2026-10-16**|**MailRail: Mitigating Incast Congestion with User-Space, Node-Based Flow Control**|Noel Gomillion et.al.|[2610.22890](http://arxiv.org/abs/2610.22890)|null|
+|**2026-10-15**|**LEMON: Equivariant Learning over Attention Maps for Zero-Shot Misbehavior Monitoring on New LLMs**|Guy Bar-Shalom et.al.|[2610.22723](http://arxiv.org/abs/2610.22723)|null|
+|**2026-10-15**|**Diagnosing GNN Failure Modes with Layer-Wise Probe Entropy**|Shanzi Bao et.al.|[2610.22595](http://arxiv.org/abs/2610.22595)|null|
 |**2026-10-15**|**GNN-Guided Local Refinement for Efficient Layout Decomposition with DSA-MP**|Yu Feng et.al.|[2610.22214](http://arxiv.org/abs/2610.22214)|null|
 |**2026-10-15**|**GraphBEAT: Graph-based Bucketized Event Aggregation Over Time for Early Risk Stratification of Gastrointestinal Cancers**|Leo Y. Li-Han et.al.|[2610.22014](http://arxiv.org/abs/2610.22014)|null|
 |**2026-10-15**|**ChronoSheaf: Joint Spatio-Temporal Spectral Filtering on Cellular Sheaves**|Abeer Mostafa et.al.|[2610.21958](http://arxiv.org/abs/2610.21958)|null|
@@ -386,15 +390,12 @@ layout: default
 |**2026-10-07**|**Oscillatory Neural Dynamics over Sheaves**|Jan-Willem Van Looy et.al.|[2610.10018](http://arxiv.org/abs/2610.10018)|null|
 |**2026-10-07**|**Accelerating dynamic polarizability calculations of organic molecules using equivariant graph neural networks**|Houssam Metni et.al.|[2610.09389](http://arxiv.org/abs/2610.09389)|null|
 |**2026-10-07**|**Node-level Graph Neural Architecture Search Framework**|Lintao Yanga et.al.|[2610.09297](http://arxiv.org/abs/2610.09297)|null|
-|**2026-10-06**|**EDiS: Edge Disjoint Subgraph Sparsification Framework for Graph Neural Networks**|Sai Karthik Navuluru et.al.|[2610.09059](http://arxiv.org/abs/2610.09059)|null|
-|**2026-10-06**|**Shared-Roadmap Generation and Evaluator for Multi-Agent Path Planning Using Heterogeneous Graph Neural Network**|Brandon Ho et.al.|[2610.09034](http://arxiv.org/abs/2610.09034)|null|
-|**2026-10-06**|**Learning to Explain Solutions of Optimal Control Problems**|Jiyong Lee et.al.|[2610.08493](http://arxiv.org/abs/2610.08493)|null|
-|**2026-10-06**|**Uncertainty Quantification Is Indispensable for Reliable Connectome-Based Graph Learning: A Narrative Review and Case Study**|Mansooreh Pakravan et.al.|[2610.08353](http://arxiv.org/abs/2610.08353)|null|
 
 ## <a id=event-camera>Event-Camera</a>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**Foundation Models for Autonomous Space Robotics: Architectures, Physical Adaptation, and Validation**|Zizhe Wang et.al.|[2610.23068](http://arxiv.org/abs/2610.23068)|null|
 |**2026-10-14**|**Event Cameras versus Frame Cameras for Synthetic-Aperture Imaging: A Simulation Study**|Jakob Hinterholzer et.al.|[2610.20309](http://arxiv.org/abs/2610.20309)|null|
 |**2026-10-09**|**Event-based Action Recognition by Pre-Training on Multi-Frame Representations**|Emma Norrby et.al.|[2610.13856](http://arxiv.org/abs/2610.13856)|null|
 |**2026-10-08**|**Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps**|Panagiotis Kiousis et.al.|[2610.11967](http://arxiv.org/abs/2610.11967)|null|
@@ -444,12 +445,18 @@ layout: default
 |**2026-08-09**|**EvTrajGS: Accurate and Efficient 3D Gaussian Splatting from Unposed Event Streams**|Zixuan Chen et.al.|[2608.08585](http://arxiv.org/abs/2608.08585)|null|
 |**2026-08-11**|**EsaacSim: A Multimodal Event Camera Add-on for NVIDIA Isaac Sim**|Ignacio Bugueno-Cordova et.al.|[2608.08522](http://arxiv.org/abs/2608.08522)|null|
 |**2026-08-08**|**EvBS: Event-guided Blur Synthesis for Domain-adaptive Motion Deblurring**|Junsik Jung et.al.|[2608.08066](http://arxiv.org/abs/2608.08066)|null|
-|**2026-08-06**|**EvReflection: Event-Driven Micro-Dynamics for Reflection Removal**|Jiaxiao Wang et.al.|[2608.06184](http://arxiv.org/abs/2608.06184)|null|
 
 ## <a id=snns>SNNs</a>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**Foundation Models for Autonomous Space Robotics: Architectures, Physical Adaptation, and Validation**|Zizhe Wang et.al.|[2610.23068](http://arxiv.org/abs/2610.23068)|null|
+|**2026-10-16**|**BaGuaLu-2: Taming Dynamic Memory Fluctuation for Efficient MoE Model Training over 10,000 GPUs**|Mingshu Zhai et.al.|[2610.23064](http://arxiv.org/abs/2610.23064)|null|
+|**2026-10-16**|**SpikeQ: Spike-Guided Post-Training Quantization for Spiking Neural Networks**|Kai Sun et.al.|[2610.23046](http://arxiv.org/abs/2610.23046)|null|
+|**2026-10-16**|**Distinguishability and Recovery for a Doubly Sparse Spiked Wigner Model**|Ioana Dumitriu et.al.|[2610.23033](http://arxiv.org/abs/2610.23033)|null|
+|**2026-10-16**|**A Minimal ReLU Classifier on Non-Linearly Separable Data: Convergence and Implicit Bias at and beyond the Edge of Stability**|Quan Nguyen et.al.|[2610.23007](http://arxiv.org/abs/2610.23007)|null|
+|**2026-10-15**|**Sparking Dynamic, Relativistic Magnetic Reconnection in a Twisted Flux Tube**|Michael P. Grehan et.al.|[2610.22653](http://arxiv.org/abs/2610.22653)|null|
+|**2026-10-15**|**Upper bounds on the number of causal pieces in spiking neural networks**|Dominik Dold et.al.|[2610.22484](http://arxiv.org/abs/2610.22484)|null|
 |**2026-10-15**|**Beyond the Hamming Cliff: Compact Spatial Encodings Preserving Semantic Distance in Spiking Neural Networks**|Sergio Davies et.al.|[2610.22083](http://arxiv.org/abs/2610.22083)|null|
 |**2026-10-15**|**Towards bio-inspired visual navigation: a neuromorphic navigation paradigm for MAVs**|Junjie Jiang et.al.|[2610.21978](http://arxiv.org/abs/2610.21978)|null|
 |**2026-10-15**|**SelectPFN: Amortized Bayesian Variable Selection for Sparse Nonlinear Regression with Prior-Data Fitted Networks**|Bin Luo et.al.|[2610.21950](http://arxiv.org/abs/2610.21950)|null|
@@ -493,18 +500,12 @@ layout: default
 |**2026-10-07**|**A Nonlocal Stochastic Optimal Control with Elliptic-Type Smoothing**|Stefana-Lucia Anita et.al.|[2610.10029](http://arxiv.org/abs/2610.10029)|null|
 |**2026-10-07**|**Stochastic Optimal Control of Decoupled Reflected FBSDEs: A Variational Approach with Residual Reflection Terms**|Hanane Ben-Gherbal et.al.|[2610.09867](http://arxiv.org/abs/2610.09867)|null|
 |**2026-10-07**|**SpikingVLA: Asynchronous Spiking Vision-Language-Action Models**|Jingya Wang et.al.|[2610.09710](http://arxiv.org/abs/2610.09710)|null|
-|**2026-10-07**|**EM-SNN: Efficiently Modulated Spiking Neural Network for Remote Sensing Image Dehazing**|Jie Shao et.al.|[2610.09275](http://arxiv.org/abs/2610.09275)|null|
-|**2026-10-06**|**Common-Mode Errors Limit Low-Timestep Deep Spiking Q-Networks**|Zijie Xu et.al.|[2610.07808](http://arxiv.org/abs/2610.07808)|null|
-|**2026-10-06**|**Massive Activation Gating Channel in Large Language Models**|Minjia Mao et.al.|[2610.07661](http://arxiv.org/abs/2610.07661)|null|
-|**2026-10-06**|**Seeing the Invisible: Physics-Guided Visual Prompting for Temperature- and Radiation-Aware VLA Navigation**|Hojoon Son et.al.|[2610.07558](http://arxiv.org/abs/2610.07558)|null|
-|**2026-10-05**|**Does Muon Need Fine-Grained Spectral Shaping?**|Meher Chaitanya et.al.|[2610.07497](http://arxiv.org/abs/2610.07497)|null|
-|**2026-10-05**|**Synapse Loss Estimation for the BrainScaleS Wafer-scale Neuromorphic System**|Bernhard Vogginger et.al.|[2610.07321](http://arxiv.org/abs/2610.07321)|null|
-|**2026-10-05**|**Interplay between Excitability and Noise in Analog Spiking Neurons**|Léopold Van Brandt et.al.|[2610.06720](http://arxiv.org/abs/2610.06720)|null|
 
 ## <a id=neuronss>neuronss</a>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**Upper bounds on the number of causal pieces in spiking neural networks**|Dominik Dold et.al.|[2610.22484](http://arxiv.org/abs/2610.22484)|null|
 |**2026-10-02**|**Stability of Phase-locked States of Weakly Coupled Izhikevich Neurons**|XinYe Cheng et.al.|[2610.04025](http://arxiv.org/abs/2610.04025)|null|
 |**2026-09-29**|**Simulating Synchrony Loop Networks in the Open Source RISP Neuroprocessor**|Jackson Mowry et.al.|[2609.38432](http://arxiv.org/abs/2609.38432)|null|
 |**2026-09-26**|**Subthreshold oscillations and spiking in hybrid neuron models with a dynamic threshold**|Piotr Bartłomiejczyk et.al.|[2609.32842](http://arxiv.org/abs/2609.32842)|null|
@@ -512,7 +513,7 @@ layout: default
 |**2026-09-16**|**A Non-Linear Neuron Based Detection of Isolated Pixels in Binary and Grayscale Images using Contrast Sensitive Receptive Fields**|Nassir Mohammad et.al.|[2609.18399](http://arxiv.org/abs/2609.18399)|null|
 |**2026-09-14**|**Propagation failure in heterogeneous FitzHugh--Nagumo systems via coupled upper and lower solutions**|Matías Courdurier et.al.|[2609.14944](http://arxiv.org/abs/2609.14944)|null|
 |**2026-09-11**|**Theoretical Guarantees for One-Shot Magnitude Pruning and Compute-Adaptive Early Exit**|Erdem Koyuncu et.al.|[2609.12337](http://arxiv.org/abs/2609.12337)|null|
-|**2026-09-21**|**Axonal delay dispersion decides whether a neuron detects an event or a sequence, and predicts cortical column diameter**|Cheng Bi et.al.|[2609.04195](http://arxiv.org/abs/2609.04195)|null|
+|**2026-10-15**|**From anatomy to computation: axonal delay dispersion shifts neurons from event to sequence detection**|Cheng Bi et.al.|[2609.04195](http://arxiv.org/abs/2609.04195)|null|
 |**2026-09-01**|**Connectome-Based Modelling Reveals Orientation Maps in the Drosophila Optic Lobe**|Jia-Nuo Liew et.al.|[2609.01330](http://arxiv.org/abs/2609.01330)|null|
 |**2026-08-27**|**Benchmarking spiking neural networks across sensing modalities on edge devices**|Xin Du et.al.|[2609.00026](http://arxiv.org/abs/2609.00026)|null|
 |**2026-08-28**|**Neuromorphic architectures as numerical solvers for computational neuroscience**|Jakob Jordan et.al.|[2608.28387](http://arxiv.org/abs/2608.28387)|null|
@@ -554,5 +555,4 @@ layout: default
 |**2025-07-17**|**Time series analysis of coupled slow-fast neuron models: From Hurst exponent to Granger causality**|Indranil Ghosh et.al.|[2507.13570](http://arxiv.org/abs/2507.13570)|null|
 |**2025-07-04**|**SFATTI: Spiking FPGA Accelerator for Temporal Task-driven Inference -- A Case Study on MNIST**|Alessio Caviglia et.al.|[2507.10561](http://arxiv.org/abs/2507.10561)|null|
 |**2025-07-03**|**Network structural change point detection and reconstruction for balanced neuronal networks**|Kai Chen et.al.|[2507.02450](http://arxiv.org/abs/2507.02450)|null|
-|**2025-06-30**|**Unsupervised Sparse Coding-based Spiking Neural Network for Real-time Spike Sorting**|Alexis Melot et.al.|[2506.24041](http://arxiv.org/abs/2506.24041)|null|
 
