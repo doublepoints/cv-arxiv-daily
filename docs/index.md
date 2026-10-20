@@ -1,9 +1,9 @@
-## <a id=top></a>Updated on 2026.10.19
+## <a id=top></a>Updated on 2026.10.20
 ---
 layout: default
 ---
 
-## Updated on 2026.10.19
+## Updated on 2026.10.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## <a id=slam>SLAM</a>
