@@ -285,6 +285,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-21**|**AutoPhyX: Automatic Text-Condition Physics Property Generation**|Bei Huang et.al.|[2610.29517](http://arxiv.org/abs/2610.29517)|null|
+|**2026-10-21**|**Progressive Permutation Alignment with Temperature-Controlled Spectral Sharpening**|Yuta Horioka et.al.|[2610.29396](http://arxiv.org/abs/2610.29396)|null|
+|**2026-10-21**|**DriftNeRF: Cross-Ray Density Drifting for Sparse-View Neural Radiance Fields**|Juntang Wang et.al.|[2610.29106](http://arxiv.org/abs/2610.29106)|null|
 |**2026-10-20**|**Geometry Regularization for Vanilla NeRF via Self-Supervised Cross-Ray Consistency**|Zongji Wang et.al.|[2610.27776](http://arxiv.org/abs/2610.27776)|null|
 |**2026-10-19**|**NeRF-Inspired Neural Fields for 3D Super-resolution of Reacting-Flows**|Dakshaka Vishwajith Amarathunga et.al.|[2610.27284](http://arxiv.org/abs/2610.27284)|null|
 |**2026-10-16**|**EGGHead: Efficient Generalizable Gaussian Heads from a Single Image**|Pilseo Park et.al.|[2610.26898](http://arxiv.org/abs/2610.26898)|null|
@@ -332,14 +335,18 @@ layout: default
 |**2026-09-04**|**Temporal Residual Neural Radiance Fields for Monocular Video Dynamic Human Body Reconstruction**|Tianle Du et.al.|[2609.04984](http://arxiv.org/abs/2609.04984)|null|
 |**2026-09-03**|**Rethinking 3D Noise: Learning 3D-Aware Video Priors via Optimization-Free Morphological Perturbations**|Onat Şahin et.al.|[2609.03657](http://arxiv.org/abs/2609.03657)|null|
 |**2026-09-03**|**P-CORE: Self-Supervised Surface Consistency for Point-Based Neural Editing**|Yanshu Zhang et.al.|[2609.03349](http://arxiv.org/abs/2609.03349)|null|
-|**2026-09-01**|**Automated Maize Ear Phenotyping Using 3D Reconstructions**|Ritwesh A. Kumar et.al.|[2609.01921](http://arxiv.org/abs/2609.01921)|null|
-|**2026-08-31**|**AI-enabled Low-Cost 3D Maize Ear Morphometry Platform at Breeding Scale**|Therin Young et.al.|[2608.30161](http://arxiv.org/abs/2608.30161)|null|
-|**2026-08-27**|**Stochastic Liquid Deformation Fields: An SDE Generalisation of Closed-Form Continuous-Time Cells for Dynamic 3D Gaussian Splatting**|Mingzhao Li et.al.|[2608.28702](http://arxiv.org/abs/2608.28702)|null|
 
 ## <a id=gnn,gcn>GNN,GCN</a>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-21**|**Structure-Aware Message Passing on Petri Nets through Directed Walks and Incidence Diffusion**|Geri Skenderi et.al.|[2610.29725](http://arxiv.org/abs/2610.29725)|null|
+|**2026-10-21**|**Leveraging Time-Series Foundation Models for Financial Crime Detection**|Danae Natalie Savvidi et.al.|[2610.29667](http://arxiv.org/abs/2610.29667)|null|
+|**2026-10-21**|**Space weather dependence of decameter-scale ionospheric irregularities spatial distribution**|Oleg I. Berngardt et.al.|[2610.29630](http://arxiv.org/abs/2610.29630)|null|
+|**2026-10-21**|**Fragment-Level Graph Encoding for Interpretable Molecular Property Prediction**|Rafael Lopes Almeida et.al.|[2610.29589](http://arxiv.org/abs/2610.29589)|null|
+|**2026-10-21**|**Implicit Feature Reweighting for Label-Free Graph Generalization**|Tianjun Yao et.al.|[2610.29571](http://arxiv.org/abs/2610.29571)|null|
+|**2026-10-21**|**SU(2)-Equivariant Spinor Message Passing for Molecular Magnetism**|Erh-Wei Sheng et.al.|[2610.29111](http://arxiv.org/abs/2610.29111)|null|
+|**2026-10-20**|**Data-Driven Glyph Positioning for Handwritten Music Synthesis**|Elona Shatri et.al.|[2610.28899](http://arxiv.org/abs/2610.28899)|null|
 |**2026-10-20**|**Reduced graph-based representations of detonation-containing flows**|Sinaendhran Pujali Elilarasan et.al.|[2610.28486](http://arxiv.org/abs/2610.28486)|null|
 |**2026-10-20**|**Topology-Adaptive Seismic Response Prediction of Interconnected Structural Systems Using Reduced Order Model Embedded Graph Neural Network**|Huangbin Liang et.al.|[2610.28378](http://arxiv.org/abs/2610.28378)|null|
 |**2026-10-20**|**Stabilizing Filters for Graph Signal Generation**|Martin Schmidt et.al.|[2610.28318](http://arxiv.org/abs/2610.28318)|null|
@@ -383,13 +390,6 @@ layout: default
 |**2026-10-13**|**Contactless gait-derived features as candidate digital biomarkers of depression severity in adolescents**|Shuai Liu et.al.|[2610.18510](http://arxiv.org/abs/2610.18510)|null|
 |**2026-10-13**|**PING: physics informed graph neural network for advection-diffusion processes with applications to solar power forecasting**|Jelena Simeunović et.al.|[2610.18280](http://arxiv.org/abs/2610.18280)|null|
 |**2026-10-13**|**Random Probing for Structural Self-Interactions in Graph Neural Networks**|Saku Peltonen et.al.|[2610.18164](http://arxiv.org/abs/2610.18164)|null|
-|**2026-10-13**|**When Missingness Follows the Graph: Beyond Feature Propagation for Missing Features**|Enrico Chialà et.al.|[2610.18113](http://arxiv.org/abs/2610.18113)|null|
-|**2026-10-13**|**Privacy-Preserving GNN Inference on Financial Transaction Graphs via Homomorphic Encryption**|H. Çağrı Bilgi et.al.|[2610.18054](http://arxiv.org/abs/2610.18054)|null|
-|**2026-10-13**|**Chasing Label Shifters: A Change-Aware Framework for Dynamic Graph Node Classification**|Junghoon Kim et.al.|[2610.17582](http://arxiv.org/abs/2610.17582)|null|
-|**2026-10-12**|**Assessing the Performance of AI Models in Misinformation Detection Using Predefined Social Noise Constructs**|Manar Alsaid et.al.|[2610.17469](http://arxiv.org/abs/2610.17469)|null|
-|**2026-10-12**|**Graph Learning with Multiplicative Aggregation for Solar Filament Fragment Association Modeling in Full-disk H $α$ Images**|GaoFei Zhu et.al.|[2610.17291](http://arxiv.org/abs/2610.17291)|null|
-|**2026-10-12**|**Colored Graph Signal Diffusion Models**|Yiğit Berkay Uslu et.al.|[2610.17282](http://arxiv.org/abs/2610.17282)|null|
-|**2026-10-09**|**Amortized Counterfactual Prediction with Graph Neural Networks**|Hendrik Stumpf et.al.|[2610.13724](http://arxiv.org/abs/2610.13724)|null|
 
 ## <a id=event-camera>Event-Camera</a>
 
@@ -450,6 +450,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-21**|**Why the Swing Parameters Are Sloppy**|M Parimi et.al.|[2610.30084](http://arxiv.org/abs/2610.30084)|null|
+|**2026-10-21**|**When Standardization Spreads Factor Variation Across the Spectrum**|Tanyang Zhou et.al.|[2610.30082](http://arxiv.org/abs/2610.30082)|null|
+|**2026-10-21**|**Bio-Inspired Auditory Processing: Coupling Parallel Resonate-and-Fire Dynamics with Ternary Recurrent Networks for Speech Recognition**|Pavlos Poulos et.al.|[2610.29720](http://arxiv.org/abs/2610.29720)|null|
+|**2026-10-21**|**SICAF: Time-Varying Focus Bottleneck for Self-Supervised Event-Based Optical Flow with Spiking Neural Network**|Shuangming Yang et.al.|[2610.29158](http://arxiv.org/abs/2610.29158)|null|
+|**2026-10-21**|**Free energy and fluctuations of generalized bipartite Sherrington-Kirkpatrick models and generalized Hopfield models**|Hyunsuk Choo et.al.|[2610.29055](http://arxiv.org/abs/2610.29055)|null|
+|**2026-10-20**|**Discretion at the Margin: Threshold Manipulation and Electoral Bans in Colombian Public Procurement**|Cristian Espinal Maya et.al.|[2610.28965](http://arxiv.org/abs/2610.28965)|null|
 |**2026-10-20**|**Birthday Estimators Are Uniformly Optimal for Renyi Entropy**|Maciej Skórski et.al.|[2610.28581](http://arxiv.org/abs/2610.28581)|null|
 |**2026-10-20**|**Model- and Layer-Level Closed-Loop Forecasting with SSM-Based Spiking Neural Networks**|Erik Stolt et.al.|[2610.28495](http://arxiv.org/abs/2610.28495)|null|
 |**2026-10-20**|**Turning-Point Impact Compromises the Biomechanical Integrity of Cortical Bone during Oscillating Sawing**|Han Wang et.al.|[2610.28234](http://arxiv.org/abs/2610.28234)|null|
@@ -494,12 +500,6 @@ layout: default
 |**2026-10-13**|**Fast and Flexible Spiking Network Simulations on Massively Distributed On-Chip Memory Accelerators**|Catherine Mia Schöfmann et.al.|[2610.18217](http://arxiv.org/abs/2610.18217)|null|
 |**2026-10-13**|**A new approach for estimating the number of spikes in high-dimensional Gaussian models**|Hugo Jeannin et.al.|[2610.18059](http://arxiv.org/abs/2610.18059)|null|
 |**2026-10-13**|**Saliency-Guided Replay for Continual Learning in Deep Spiking Neural Networks**|Francesco Panetta et.al.|[2610.17998](http://arxiv.org/abs/2610.17998)|null|
-|**2026-10-13**|**Stable Token-level Scheduling for Serverless LLM Inference**|Hardi Ashishbhai Desai et.al.|[2610.17689](http://arxiv.org/abs/2610.17689)|null|
-|**2026-10-12**|**An FPGA-Based Spiking Neural Network for Spatiotemporal Pattern Learning and Classification**|Jingang Jin et.al.|[2610.17463](http://arxiv.org/abs/2610.17463)|null|
-|**2026-10-12**|**Collision Cascade Morphology and Defect Nucleation in Pure Tungsten and an Equimolar Refractory W-Ta-Cr-V Alloy**|Mark Fedorov et.al.|[2610.17361](http://arxiv.org/abs/2610.17361)|null|
-|**2026-10-12**|**Neuromorphic Decoding and Dynamical Image Reconstruction from Populations of Spiking Retinal Ganglion Cells**|Ning Zhang et.al.|[2610.17154](http://arxiv.org/abs/2610.17154)|null|
-|**2026-10-12**|**FlashT2S: GPU-Accelerated Tensor-to-Spike Conversion Operators for Heterogeneous Neuromorphic LLM Backends**|Rongyuan Guo et.al.|[2610.17035](http://arxiv.org/abs/2610.17035)|null|
-|**2026-10-09**|**DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness**|Daniel Szelogowski et.al.|[2610.13918](http://arxiv.org/abs/2610.13918)|null|
 
 ## <a id=neuronss>neuronss</a>
 
