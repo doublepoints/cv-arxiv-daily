@@ -79,6 +79,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-23**|**FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation**|Philipp Lindenberger et.al.|[2610.32976](http://arxiv.org/abs/2610.32976)|null|
 |**2026-10-22**|**MVLoMa: Multi-View Local Feature Matching with Any Geometry Foundation Model**|Xinyang Lu et.al.|[2610.31321](http://arxiv.org/abs/2610.31321)|null|
 |**2026-10-20**|**CrossFit-GS: Out-of-Fold Pose Estimation for COLMAP-Free 3D Gaussian Splatting**|Zijian Wu et.al.|[2610.28190](http://arxiv.org/abs/2610.28190)|null|
 |**2026-10-19**|**RoboCloth: A Large-Scale Real Cloth Material Dataset for Neural Reflectance Reconstruction**|Zhen Li et.al.|[2610.21090](http://arxiv.org/abs/2610.21090)|null|
@@ -128,7 +129,6 @@
 |**2026-07-12**|**Mapping Pamir: Multi-Session Visual-Inertial SLAM and 3D Reconstruction of an Underwater Shipwreck**|Michalis Chatzispyrou et.al.|[2607.10925](http://arxiv.org/abs/2607.10925)|null|
 |**2026-07-10**|**DGSfM: Depth-Guided Scale-Aware Global Structure-from-Motion**|Sithu Aung et.al.|[2607.09507](http://arxiv.org/abs/2607.09507)|null|
 |**2026-07-10**|**Glob3R: Global Structure-from-Motion with 3D Foundation Models**|Junyuan Deng et.al.|[2607.09225](http://arxiv.org/abs/2607.09225)|null|
-|**2026-07-04**|**PRISM3D: Probabilistic Refinement and Robust Initialization for Physically Consistent Scene Modeling under Extreme Motion Blur**|Gopi Raju Matta et.al.|[2607.03855](http://arxiv.org/abs/2607.03855)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -136,6 +136,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-23**|**FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation**|Philipp Lindenberger et.al.|[2610.32976](http://arxiv.org/abs/2610.32976)|null|
+|**2026-10-23**|**From Perception to Pixels: Human-Derived Visually Distinct Colors for Improved Dominant Color Extraction**|Uldana Shyndali et.al.|[2610.32473](http://arxiv.org/abs/2610.32473)|null|
+|**2026-10-23**|**GeoLEON-CLIP: Graph-Anchored Multimodal Contrastive Learning for Geographic Region Representation**|Radoslaw Malek et.al.|[2610.32311](http://arxiv.org/abs/2610.32311)|null|
+|**2026-10-23**|**Guided Zero-Shot Anomaly Explanation for Anonymized Crowd Video Monitoring: Context, Categorization, and Spatial Localization**|Mulugeta Weldezgina Asres et.al.|[2610.32073](http://arxiv.org/abs/2610.32073)|null|
 |**2026-10-22**|**MVLoMa: Multi-View Local Feature Matching with Any Geometry Foundation Model**|Xinyang Lu et.al.|[2610.31321](http://arxiv.org/abs/2610.31321)|null|
 |**2026-10-22**|**WovenAnchor Matcher: Specialized Intra- and Inter-Image Context Modeling for Feature Matching**|Zhiyang Li et.al.|[2610.30799](http://arxiv.org/abs/2610.30799)|null|
 |**2026-10-20**|**Copyright Leakage Detection in AI Generated Videos**|Shaif Chowdhury et.al.|[2610.28524](http://arxiv.org/abs/2610.28524)|null|
@@ -182,10 +186,6 @@
 |**2026-09-23**|**Large-Scale Geometric Map-Based Localization of UAVs in GNSS-Denied Urban Environments**|Garth Terlizzi et.al.|[2609.28225](http://arxiv.org/abs/2609.28225)|null|
 |**2026-09-23**|**SGDet3D++: Geometry-Grounded Semantics for 4D Radar and Camera 3D Object Detection**|Xiaokai Bai et.al.|[2609.27671](http://arxiv.org/abs/2609.27671)|null|
 |**2026-09-23**|**Geometry-Conditioned Visual Place Recognition in Natural Environments**|Walter Nedov et.al.|[2609.27370](http://arxiv.org/abs/2609.27370)|null|
-|**2026-09-23**|**From LiDAR Maps to Visual Localization: Unified Visual Association for Robust Point-Line-Plane Pose Estimation**|Wentao Zhao et.al.|[2609.27363](http://arxiv.org/abs/2609.27363)|null|
-|**2026-09-22**|**MINER: Multi-crop INference-time Enhancement for Rare-Object Retrieval with Frozen Dual Encoders**|Abdulmalik Alquwayfili et.al.|[2609.27142](http://arxiv.org/abs/2609.27142)|null|
-|**2026-09-22**|**nnFoundation: 3D Foundation Models for Radiology**|Constantin Ulrich Harsy et.al.|[2609.26924](http://arxiv.org/abs/2609.26924)|null|
-|**2026-09-22**|**TM-APR: Thermal Temporal-Memory Localization via Analytic Online Adaptation**|Yanshuo Bai et.al.|[2609.26766](http://arxiv.org/abs/2609.26766)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -250,6 +250,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-23**|**ACVA-Bench: Beyond Prompt Following in Abstract Concept Visualization Ability for Text-to-Image Models**|Mengyan Wang et.al.|[2610.32058](http://arxiv.org/abs/2610.32058)|null|
 |**2026-10-22**|**MVLoMa: Multi-View Local Feature Matching with Any Geometry Foundation Model**|Xinyang Lu et.al.|[2610.31321](http://arxiv.org/abs/2610.31321)|null|
 |**2026-10-22**|**HimmBO: High-Dimensional Interactive Model-Merging Bayesian Optimization for Image Generation**|Jinyuan Mao et.al.|[2610.30875](http://arxiv.org/abs/2610.30875)|null|
 |**2026-10-22**|**WovenAnchor Matcher: Specialized Intra- and Inter-Image Context Modeling for Feature Matching**|Zhiyang Li et.al.|[2610.30799](http://arxiv.org/abs/2610.30799)|null|
@@ -299,7 +300,6 @@
 |**2026-06-18**|**Evaluation of Image Matching for Art Skills Assessment**|Asaad Alghamdi et.al.|[2606.20199](http://arxiv.org/abs/2606.20199)|null|
 |**2026-06-10**|**SalArt-VQA: Diagnosing Whether VLMs Understand Salient Artifacts in Generated Images**|Xiaoxiao Sun et.al.|[2606.12671](http://arxiv.org/abs/2606.12671)|null|
 |**2026-06-02**|**SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching**|Xu Pan et.al.|[2606.03406](http://arxiv.org/abs/2606.03406)|null|
-|**2026-05-30**|**BEVIO: Efficient Bird's-Eye-View based Sparse-Update Visual-Inertial Odometry for Lunar Day-Night Navigation**|Mohit Singh et.al.|[2606.00709](http://arxiv.org/abs/2606.00709)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -364,6 +364,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-23**|**Foundation Models Meet Power Grid Topology for Cascade Prediction**|Soumav Biswas et.al.|[2610.32696](http://arxiv.org/abs/2610.32696)|null|
+|**2026-10-23**|**Spatial Heuristic Strategy based Diffusion Reinforcement Learning for Online 3D Bin Packing**|Tong Li et.al.|[2610.32241](http://arxiv.org/abs/2610.32241)|null|
+|**2026-10-22**|**CBTV: Colour Bean Tracking Velocimetry for Dense Granular Flows**|Kaveeshan Thurairajah et.al.|[2610.31883](http://arxiv.org/abs/2610.31883)|null|
+|**2026-10-22**|**StackGen3D: Stable 3D Block Stack Generation from Multiview Silhouettes**|Xiaopeng Zhang et.al.|[2610.31803](http://arxiv.org/abs/2610.31803)|null|
 |**2026-10-22**|**On the Token Collapse Phenomenon in Textual Graph Soft Prompting**|Andrea Giuseppe Di Francesco et.al.|[2610.31572](http://arxiv.org/abs/2610.31572)|null|
 |**2026-10-22**|**Unconstrained learning of equivariant atomistic properties**|Joseph W. Abbott et.al.|[2610.31183](http://arxiv.org/abs/2610.31183)|null|
 |**2026-10-22**|**Visualizing and Interpreting Temporal Care Team Dynamics for Cancer Survival Risk Analysis**|Yuhua Huang et.al.|[2610.30748](http://arxiv.org/abs/2610.30748)|null|
@@ -410,10 +414,6 @@
 |**2026-10-14**|**Design Space Exploration of Reinforcement Learning Configurations for Post-Legalization Placement**|Foteini Oikonomou et.al.|[2610.20224](http://arxiv.org/abs/2610.20224)|null|
 |**2026-10-14**|**HGRP: Heterogeneous Graph Neural Network for Routability Prediction**|Yule Sheng et.al.|[2610.20209](http://arxiv.org/abs/2610.20209)|null|
 |**2026-10-14**|**When Does the Dependency Graph Help Code-to-Architecture Mapping?**|Rakhshanda Jabeen et.al.|[2610.19769](http://arxiv.org/abs/2610.19769)|null|
-|**2026-10-14**|**Energy Efficiency Maximization for Integrated Sensing and Communication in IoT C-RAN**|Le Tung Giang et.al.|[2610.19612](http://arxiv.org/abs/2610.19612)|null|
-|**2026-10-14**|**xLightGCN: Explainable Graph Neural Network Based Recommendation Systems with Most Influential Peers**|Calder Johnson et.al.|[2610.19446](http://arxiv.org/abs/2610.19446)|null|
-|**2026-10-13**|**FireGraphNet: Sub-daily wildfire spread prediction with directed graph neural networks**|Aiyshwariya Paulvannan Kanmani et.al.|[2610.19191](http://arxiv.org/abs/2610.19191)|null|
-|**2026-10-13**|**Towards Training and Inference of Graph Neural Networks in Graph Databases**|Victor Pekkari et.al.|[2610.19142](http://arxiv.org/abs/2610.19142)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -478,6 +478,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-23**|**Sparse Bayesian Neural Networks via Sticky Piecewise Deterministic Markov Processes**|August Arnstad et.al.|[2610.32753](http://arxiv.org/abs/2610.32753)|null|
+|**2026-10-23**|**PAFS: Perturbation-Aware Firing Scaffolds for Robust Event-Based SNNs**|Ning Liu et.al.|[2610.32409](http://arxiv.org/abs/2610.32409)|null|
+|**2026-10-23**|**A Resource-Efficient and Precision-Scalable FPGA Accelerator for Spiking Neural Networks Using Minifloat Arithmetic**|Ali Mehrabi et.al.|[2610.32052](http://arxiv.org/abs/2610.32052)|null|
 |**2026-10-22**|**On the Calibration of Isotonic Distributional Regression**|Tobias Biegert et.al.|[2610.31258](http://arxiv.org/abs/2610.31258)|null|
 |**2026-10-22**|**Ultra-hard-edge universality under deterministic preconditioning**|Christian E. Häggblom et.al.|[2610.31143](http://arxiv.org/abs/2610.31143)|null|
 |**2026-10-22**|**Diagnostic Loss: Asymmetric Supervision for Radiology Report Generation**|Ignacy Kolton et.al.|[2610.30980](http://arxiv.org/abs/2610.30980)|null|
@@ -525,9 +528,6 @@
 |**2026-10-14**|**STISA: A 0.16 GOPS/W/PE Single-Shot Inference FPGA-based SNN Accelerator with Algorithm and Hardware Co-Design**|Kainan Wang et.al.|[2610.19973](http://arxiv.org/abs/2610.19973)|null|
 |**2026-10-14**|**The Cost of Context: Profiling the Energy Footprint of Input Tokens in Large Language Models**|Boris Ruf et.al.|[2610.19819](http://arxiv.org/abs/2610.19819)|null|
 |**2026-10-14**|**CAST: History-Adaptive Spectral Clipping for LLM Pretraining**|Jiacheng Li et.al.|[2610.19761](http://arxiv.org/abs/2610.19761)|null|
-|**2026-10-14**|**Controlling the latency in temporal coded spiking models for neuromorphic datasets**|Alban Gattepaille et.al.|[2610.19732](http://arxiv.org/abs/2610.19732)|null|
-|**2026-10-14**|**Design and Analysis of Temporal Representations in Neural Networks**|Alban Colas-Gattepaille et.al.|[2610.19730](http://arxiv.org/abs/2610.19730)|null|
-|**2026-10-14**|**Which Text Matters: Handling Model Uncertainty in Text-as-Data Regressions, with an Application to Central Bank Communication**|Martin Feldkircher et.al.|[2610.19720](http://arxiv.org/abs/2610.19720)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
