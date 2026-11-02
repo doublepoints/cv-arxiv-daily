@@ -120,6 +120,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-30**|**PGGT-Loc: Primitive-Grounded Geometry Transformer for Feed-Forward Camera Localization**|Hanqiao Ye et.al.|[2610.41833](http://arxiv.org/abs/2610.41833)|null|
+|**2026-10-30**|**Queryable Gaussian View Index: Text Retrieval and Selective Camera Localization**|Tianyu Xiong et.al.|[2610.41373](http://arxiv.org/abs/2610.41373)|null|
+|**2026-10-29**|**Coupled or Independent? Fault Coupling in Agentic Medical Vision Systems**|Nishi Kanta Paul et.al.|[2610.40913](http://arxiv.org/abs/2610.40913)|null|
 |**2026-10-29**|**FDSML: Formula-Driven Supervised Metric Learning with Parameter-Aware Triplet Loss**|Hina Otake et.al.|[2610.39423](http://arxiv.org/abs/2610.39423)|null|
 |**2026-10-27**|**What Constitutes Food Similarity? Visual Representations and Retrieval in Indian Cuisine**|Saransh Kumar Gupta et.al.|[2610.37867](http://arxiv.org/abs/2610.37867)|null|
 |**2026-10-27**|**RAVEN: A Unified Active SLAM System for Rapid Autonomous Visual Exploration with Aerial Robots under Localization Uncertainty**|Xinyi Chen et.al.|[2610.37111](http://arxiv.org/abs/2610.37111)|null|
@@ -167,9 +170,6 @@ layout: default
 |**2026-09-29**|**Seeing Is Not Addressing: Auditing Linguistic Access to Frozen Visual Geometry**|Woosang Jeon et.al.|[2609.37230](http://arxiv.org/abs/2609.37230)|null|
 |**2026-09-29**|**Structured Visual Target Learning For Cross-Subject eeg-to-image retrieval**|Salini Yadav et.al.|[2609.36971](http://arxiv.org/abs/2609.36971)|null|
 |**2026-09-29**|**Optimizing VLP-aligned Multimodal Intent Representation with Correct Visual Instantiation for Zero-Shot Composed Image Retrieval**|Xuri Ge et.al.|[2609.36946](http://arxiv.org/abs/2609.36946)|null|
-|**2026-09-28**|**Structured Interaction, Visual Localization, and Robust Execution for Complex Web Tasks: A Technical Report on the WebRetriever Challenge**|Ziqi Zhang et.al.|[2609.35904](http://arxiv.org/abs/2609.35904)|null|
-|**2026-09-28**|**MarsLab: A Martian Rover Simulator for Planetary Rover Autonomous Navigation**|Hoyun Kim et.al.|[2609.34702](http://arxiv.org/abs/2609.34702)|null|
-|**2026-09-26**|**Concepts Complement Dense Semantics: Learning Compact Sparse Spaces for Text-Image Retrieval**|Yoonseo Kim et.al.|[2609.32671](http://arxiv.org/abs/2609.32671)|null|
 
 ## <a id=keypoint-detection>Keypoint Detection</a>
 
@@ -340,6 +340,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-30**|**Generative Design and Graph Neural Network Screening of Novel Bimetallic Alloy Catalysts for the Hydrogen Evolution Reaction**|Vipin Kurian Elavunkel et.al.|[2610.41932](http://arxiv.org/abs/2610.41932)|null|
+|**2026-10-30**|**Accurate and Auditable ECG Classification via Visibility Graph Neural Networks**|Artur Xavier et.al.|[2610.41795](http://arxiv.org/abs/2610.41795)|null|
+|**2026-10-30**|**From WSIs to Bulk, Spatial and Single-Cell Transcriptomics via Multi-Scale Graph Neural Networks**|Miguel Andrade et.al.|[2610.41692](http://arxiv.org/abs/2610.41692)|null|
+|**2026-10-30**|**What Carries Architectural Signal? A Code-to-Architecture Mapping Study**|Rakhshanda Jabeen et.al.|[2610.41628](http://arxiv.org/abs/2610.41628)|null|
+|**2026-10-30**|**When Links Mislead: Label-Free Structural Polarity for Zero-Shot Classification of Web Pages**|Hanshuai Cui et.al.|[2610.41464](http://arxiv.org/abs/2610.41464)|null|
+|**2026-10-29**|**Payroll Fraud Detection in Synthetic HR/ERP Graphs: An Inductive Comparison of Rules, Path Features, and Graph Neural Networks**|Xiaobo Chen et.al.|[2610.41085](http://arxiv.org/abs/2610.41085)|null|
+|**2026-10-29**|**Nonlinear Maps Between Irreducible Representations in Graph Neural Networks**|Mani Shayestehfar et.al.|[2610.41059](http://arxiv.org/abs/2610.41059)|null|
 |**2026-10-29**|**Bridging Semantics and Structure: A Theoretically Grounded Framework for Link Prediction on TAGs**|Chen Shao et.al.|[2610.40192](http://arxiv.org/abs/2610.40192)|null|
 |**2026-10-29**|**Deciding two-variable logic with global and local Presburger quantification**|Michael Benedikt et.al.|[2610.39108](http://arxiv.org/abs/2610.39108)|null|
 |**2026-10-28**|**Open-World Object Motion Anticipation via Meta-Learned Semantic Adaptation**|Mason Peterson et.al.|[2610.38993](http://arxiv.org/abs/2610.38993)|null|
@@ -383,13 +390,6 @@ layout: default
 |**2026-10-21**|**Fragment-Level Graph Encoding for Interpretable Molecular Property Prediction**|Rafael Lopes Almeida et.al.|[2610.29589](http://arxiv.org/abs/2610.29589)|null|
 |**2026-10-21**|**Implicit Feature Reweighting for Label-Free Graph Generalization**|Tianjun Yao et.al.|[2610.29571](http://arxiv.org/abs/2610.29571)|null|
 |**2026-10-21**|**SU(2)-Equivariant Spinor Message Passing for Molecular Magnetism**|Erh-Wei Sheng et.al.|[2610.29111](http://arxiv.org/abs/2610.29111)|null|
-|**2026-10-20**|**Data-Driven Glyph Positioning for Handwritten Music Synthesis**|Elona Shatri et.al.|[2610.28899](http://arxiv.org/abs/2610.28899)|null|
-|**2026-10-20**|**Reduced graph-based representations of detonation-containing flows**|Sinaendhran Pujali Elilarasan et.al.|[2610.28486](http://arxiv.org/abs/2610.28486)|null|
-|**2026-10-20**|**Topology-Adaptive Seismic Response Prediction of Interconnected Structural Systems Using Reduced Order Model Embedded Graph Neural Network**|Huangbin Liang et.al.|[2610.28378](http://arxiv.org/abs/2610.28378)|null|
-|**2026-10-20**|**Stabilizing Filters for Graph Signal Generation**|Martin Schmidt et.al.|[2610.28318](http://arxiv.org/abs/2610.28318)|null|
-|**2026-10-20**|**Physics-constrained graph closures and working-point conditioning for a fast surrogate of linac beam dynamics**|Bowen Zhang et.al.|[2610.28250](http://arxiv.org/abs/2610.28250)|null|
-|**2026-10-20**|**Learning Inter-Graph Interactions Between Heterogeneous Substructures of Chemical Systems**|Gyoung S. Na et.al.|[2610.27614](http://arxiv.org/abs/2610.27614)|null|
-|**2026-10-20**|**AnchorRM: Parallel Intra-Batch State Reconstruction with Anchor-Based Residual Memory for Temporal Graph Neural Networks**|Haroon Gharwi et.al.|[2610.27558](http://arxiv.org/abs/2610.27558)|null|
 
 ## <a id=event-camera>Event-Camera</a>
 
@@ -450,6 +450,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-30**|**First and second order firing statistics of large neuronal networks with community structure**|Thiago H. N. Coelho et.al.|[2610.41706](http://arxiv.org/abs/2610.41706)|null|
+|**2026-10-30**|**Koopman Greedy Spiking Control for Nonlinear Systems under Firing-Rate Limits**|Nader Meskin et.al.|[2610.41530](http://arxiv.org/abs/2610.41530)|null|
+|**2026-10-30**|**From prediction error to sparse events: Biologically inspired signed-dyadic coding for Mandarin keyword spotting**|Zijian Zhou et.al.|[2610.41381](http://arxiv.org/abs/2610.41381)|null|
+|**2026-10-30**|**Input-dependent Neuromodulation Enhances Mixed-Signal Neuromorphic Hardware**|Aashman Mehta et.al.|[2610.41265](http://arxiv.org/abs/2610.41265)|null|
 |**2026-10-29**|**AI at a Turning Point: From ChatGPT through Neural Networks to Neuromorphic AI**|Volker Kempe et.al.|[2610.39796](http://arxiv.org/abs/2610.39796)|null|
 |**2026-10-29**|**Hardware-Aware Model Inversion in Memristive Spiking Neural Networks**|Pablo Sorrentino et.al.|[2610.39688](http://arxiv.org/abs/2610.39688)|null|
 |**2026-10-29**|**GC-LIF: Spiking Group-Equivariant Neural Network With Group-Coupled Membrane Dynamics**|Nhan Trong Luu et.al.|[2610.39601](http://arxiv.org/abs/2610.39601)|null|
@@ -496,10 +500,6 @@ layout: default
 |**2026-10-21**|**Bio-Inspired Auditory Processing: Coupling Parallel Resonate-and-Fire Dynamics with Ternary Recurrent Networks for Speech Recognition**|Pavlos Poulos et.al.|[2610.29720](http://arxiv.org/abs/2610.29720)|null|
 |**2026-10-21**|**SICAF: Time-Varying Focus Bottleneck for Self-Supervised Event-Based Optical Flow with Spiking Neural Network**|Shuangming Yang et.al.|[2610.29158](http://arxiv.org/abs/2610.29158)|null|
 |**2026-10-21**|**Free energy and fluctuations of generalized bipartite Sherrington-Kirkpatrick models and generalized Hopfield models**|Hyunsuk Choo et.al.|[2610.29055](http://arxiv.org/abs/2610.29055)|null|
-|**2026-10-20**|**Discretion at the Margin: Threshold Manipulation and Electoral Bans in Colombian Public Procurement**|Cristian Espinal Maya et.al.|[2610.28965](http://arxiv.org/abs/2610.28965)|null|
-|**2026-10-20**|**Birthday Estimators Are Uniformly Optimal for Renyi Entropy**|Maciej Skórski et.al.|[2610.28581](http://arxiv.org/abs/2610.28581)|null|
-|**2026-10-20**|**Model- and Layer-Level Closed-Loop Forecasting with SSM-Based Spiking Neural Networks**|Erik Stolt et.al.|[2610.28495](http://arxiv.org/abs/2610.28495)|null|
-|**2026-10-20**|**Turning-Point Impact Compromises the Biomechanical Integrity of Cortical Bone during Oscillating Sawing**|Han Wang et.al.|[2610.28234](http://arxiv.org/abs/2610.28234)|null|
 
 ## <a id=neuronss>neuronss</a>
 
