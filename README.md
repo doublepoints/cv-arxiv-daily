@@ -364,6 +364,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-13**|**Validating Graph Neural Network Feature Attribution Through Local Perturbations: A Study on CoMoFeNiCu Decomposition Enthalpy**|Miguel Tenorio et.al.|[2611.18430](http://arxiv.org/abs/2611.18430)|null|
+|**2026-11-13**|**Color Refinement Distinguishes Connected Rooted Outerplanar Graphs**|Louann Coste et.al.|[2611.18391](http://arxiv.org/abs/2611.18391)|null|
+|**2026-11-13**|**Deep Bundle Adjustment**|Pak Hong Chui et.al.|[2611.18256](http://arxiv.org/abs/2611.18256)|null|
+|**2026-11-13**|**Quantum Graph Neural Networks: Architectures, Trainability, and Applications**|Zeinab Sharifi et.al.|[2611.17886](http://arxiv.org/abs/2611.17886)|null|
+|**2026-11-13**|**Graph Neural Network Prediction of Frequency Nadir and RoCoF Under Topology Variations**|Linhan Fang et.al.|[2611.17757](http://arxiv.org/abs/2611.17757)|null|
+|**2026-11-13**|**Machine-learning charge density for electronic materials and devices simulation**|Qingyun Zhang et.al.|[2611.17627](http://arxiv.org/abs/2611.17627)|null|
+|**2026-11-12**|**ERGo: Energy-Efficient Hybrid Graph Neural Network Training on Processing-In-Memory Architectures**|Pratyush Dhingra et.al.|[2611.17478](http://arxiv.org/abs/2611.17478)|null|
 |**2026-11-12**|**MALNISI-Infused Graph Construction and Weighted Contrastive Loss based GAT for Unsupervised Representation Learning in HSI**|Soumi Sarkar et.al.|[2611.17199](http://arxiv.org/abs/2611.17199)|null|
 |**2026-11-12**|**A hierarchical graph neural network for efficient particle-resolved prediction of granular flow dynamics**|Kuang Shi et.al.|[2611.17156](http://arxiv.org/abs/2611.17156)|null|
 |**2026-11-12**|**GNN-Enhanced TCN Algorithms for ECG Anomaly Detection**|Angelica Simonetti et.al.|[2611.16648](http://arxiv.org/abs/2611.16648)|null|
@@ -407,13 +414,6 @@
 |**2026-11-05**|**Graph learning-assisted logic-based Benders decomposition for distributionally robust in-station train rescheduling under disruptions**|Xiaobin Li et.al.|[2611.07520](http://arxiv.org/abs/2611.07520)|null|
 |**2026-11-05**|**Spectral symmetry fingerprints in equivariant representations**|Jiacheng Cen et.al.|[2611.07410](http://arxiv.org/abs/2611.07410)|null|
 |**2026-11-05**|**Graph Neural Networks for Resource Allocation in Integrated Sensing and Communication**|Junyu Liao et.al.|[2611.07277](http://arxiv.org/abs/2611.07277)|null|
-|**2026-11-04**|**Message-passing graph persistence**|Jorge Luiz Franco et.al.|[2611.06801](http://arxiv.org/abs/2611.06801)|null|
-|**2026-11-04**|**Learning Pseudo-Riemannian Manifolds for Heterophilic Graphs via Graph Signature**|Yun Young Choi et.al.|[2611.06265](http://arxiv.org/abs/2611.06265)|null|
-|**2026-11-04**|**Homology Features for X-Ray Hyperspectral Images Segmentation**|Fethi Harkat et.al.|[2611.06230](http://arxiv.org/abs/2611.06230)|null|
-|**2026-11-03**|**SO(3)-Equivariant Learning on CAD Boundary Representations**|Matteo Ballegeer et.al.|[2611.05449](http://arxiv.org/abs/2611.05449)|null|
-|**2026-11-03**|**Exploring the World of Lipids with Machine-Learned Coarse-Grained Models**|Aldo S. Pasos-Trejo et.al.|[2611.05100](http://arxiv.org/abs/2611.05100)|null|
-|**2026-11-03**|**What Does It Mean to Remove an Edge? Intervention-Aware Fidelity for Graph Neural Network Explanations**|Rocco Mattia Di Mauro et.al.|[2611.04751](http://arxiv.org/abs/2611.04751)|null|
-|**2026-11-03**|**Sheaf-MPNN: A Library for Sheaf Neural Networks as Message Passing**|Alessio Borgi et.al.|[2611.04670](http://arxiv.org/abs/2611.04670)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -421,6 +421,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-13**|**EventSpikeSeg: Memory-Aware Mixed-Signal Architecture for Event-Camera Spiking Segmentation**|Amir Mohammad Khadem Hosseini et.al.|[2611.18524](http://arxiv.org/abs/2611.18524)|null|
+|**2026-11-13**|**In Situ Monitoring and Predictive Modeling of Harmful Algal Blooms with Autonomous Surface Vehicles**|Nenyi Kweku Nkensen Dadson et.al.|[2611.18501](http://arxiv.org/abs/2611.18501)|null|
 |**2026-11-11**|**How Far Can Frozen Vision-Language Models Go on Event Data? A Training-Free Study on EventBench**|Md Kamrujjaman Mobin et.al.|[2611.15756](http://arxiv.org/abs/2611.15756)|null|
 |**2026-11-10**|**Information-Theoretic Threshold Design for Sparse Event Encoding in Learning Systems**|Pratishtha Shukla et.al.|[2611.14249](http://arxiv.org/abs/2611.14249)|null|
 |**2026-11-10**|**When Reconstruction Helps Event-Camera Person Triggers**|Yifan Shuai et.al.|[2611.13488](http://arxiv.org/abs/2611.13488)|null|
@@ -469,8 +471,6 @@
 |**2026-09-18**|**Event-Frame Fusion for Inter-Frame Segmentation via Event-Guided Motion**|Dalia Hareb et.al.|[2609.22500](http://arxiv.org/abs/2609.22500)|null|
 |**2026-09-18**|**Field Tracking of Insects Using a Stereoscopic Event-Based Camera Setup**|Pratham G. Shenwai et.al.|[2609.21354](http://arxiv.org/abs/2609.21354)|null|
 |**2026-09-18**|**The EventCV Library for Event-Based Robotic Vision**|Adam D. Hines et.al.|[2609.21330](http://arxiv.org/abs/2609.21330)|null|
-|**2026-09-18**|**Multi-viewpoint Geo-localization with Event Cameras**|Adam D. Hines et.al.|[2609.21219](http://arxiv.org/abs/2609.21219)|null|
-|**2026-09-17**|**PointEvent: Rethinking Event-based Tiny Object Detection via Serialized Motion Evidence Accumulation**|Zongze Wu et.al.|[2609.20066](http://arxiv.org/abs/2609.20066)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -478,6 +478,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-13**|**EventSpikeSeg: Memory-Aware Mixed-Signal Architecture for Event-Camera Spiking Segmentation**|Amir Mohammad Khadem Hosseini et.al.|[2611.18524](http://arxiv.org/abs/2611.18524)|null|
+|**2026-11-13**|**BPU-SpikeMM:Exact Matrix Multiplication via Spatio-Temporal Spike Encoding on Real Neuromorphic Hardware**|Rongyuan Guo et.al.|[2611.18275](http://arxiv.org/abs/2611.18275)|null|
+|**2026-11-13**|**Channel Prediction Using Deep Recurrent Neural Network with EVT-based Adaptive Quantile Loss Function**|Niloofar Mehrnia et.al.|[2611.18171](http://arxiv.org/abs/2611.18171)|null|
+|**2026-11-13**|**Brain-inspired Beam Selection for mmWave RIS Communication**|Aris Karampelas Timotijevic et.al.|[2611.17666](http://arxiv.org/abs/2611.17666)|null|
+|**2026-11-12**|**Excitable mechanical lattice: from single-unit bifurcations to boundary-driven pulse propagation**|K Prabith et.al.|[2611.17535](http://arxiv.org/abs/2611.17535)|null|
+|**2026-11-12**|**Mean-field theory of neural networks: from spikes to firing rates**|Tawan T. A. Carvalho et.al.|[2611.17512](http://arxiv.org/abs/2611.17512)|null|
+|**2026-11-12**|**Baryon and lepton asymmetries across the cosmic QCD transition: effects of a 3D first-order surface**|Lorenzo Formaggio et.al.|[2611.17401](http://arxiv.org/abs/2611.17401)|null|
 |**2026-11-12**|**Structure-Preserving Leaky Integrate-and-Fire Dynamics on Arbitrary Time Scales**|Billur Kaymakçalan et.al.|[2611.17219](http://arxiv.org/abs/2611.17219)|null|
 |**2026-11-12**|**On the minimum energy required to trigger a spike**|Guanchun Tong et.al.|[2611.16915](http://arxiv.org/abs/2611.16915)|null|
 |**2026-11-12**|**Fluctuations of sample eigenvalues in a spiked covariance model with Haar-rotated spikes: a transition at $p^2 \asymp n$**|Noriyoshi Sakuma et.al.|[2611.16739](http://arxiv.org/abs/2611.16739)|null|
@@ -521,13 +528,6 @@
 |**2026-11-04**|**Excitability of High-Frequency Positive Feedback**|Gustave Bainier et.al.|[2611.06822](http://arxiv.org/abs/2611.06822)|null|
 |**2026-11-04**|**Data Center Agglomeration and Power Infrastructure Capacity in the United States**|Yutong Ma et.al.|[2611.06737](http://arxiv.org/abs/2611.06737)|null|
 |**2026-11-04**|**Synchronized Hearts, Desynchronized Brains: A Nonlinear Dynamics Perspective for Function and Failure**|Irene Pellini et.al.|[2611.06618](http://arxiv.org/abs/2611.06618)|null|
-|**2026-11-04**|**SpikePose: Lightweight Video Human Pose Estimation**|Yunhao Huang et.al.|[2611.06594](http://arxiv.org/abs/2611.06594)|null|
-|**2026-11-05**|**The Alignment Tax Is Graded: Task-Selective Capability Loss Under Length-Normalized DPO with SFT Retention**|Ye Yuan et.al.|[2611.06476](http://arxiv.org/abs/2611.06476)|null|
-|**2026-11-04**|**When Does Risk-Controlled Throughput Forecasting Actually Control Risk? A Reproduction Study on LEO Satellite Link**|Mayan Sharma et.al.|[2611.06307](http://arxiv.org/abs/2611.06307)|null|
-|**2026-11-03**|**Energy-efficient End-to-End Communication System with Spiking Neural Networks**|Pooja Plavilayil Anil et.al.|[2611.05550](http://arxiv.org/abs/2611.05550)|null|
-|**2026-11-03**|**Shapiro spikes in driven quantum fluids**|Vijay Pal Singh et.al.|[2611.05477](http://arxiv.org/abs/2611.05477)|null|
-|**2026-11-03**|**Higher-order interactions renormalize the thermodynamic signature of neural population codes**|Narendra N. Hegade et.al.|[2611.05336](http://arxiv.org/abs/2611.05336)|null|
-|**2026-11-03**|**Learning Behaviorally Relevant Dynamics in Multimodal Neural Recordings**|Parastoo Azizeddin et.al.|[2611.05167](http://arxiv.org/abs/2611.05167)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
