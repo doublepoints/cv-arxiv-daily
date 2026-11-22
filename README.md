@@ -1,5 +1,5 @@
-## <a id=top></a>Updated on 2026.11.21
-## Updated on 2026.11.21
+## <a id=top></a>Updated on 2026.11.22
+## Updated on 2026.11.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
