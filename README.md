@@ -1,5 +1,5 @@
-## <a id=top></a>Updated on 2026.11.23
-## Updated on 2026.11.23
+## <a id=top></a>Updated on 2026.11.24
+## Updated on 2026.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-20**|**Instant-LIVO: Efficient LiDAR-Inertial-Visual Odometry with Compact Geometry and a Bounded Single-Reference-Frame Map**|Xinrui Wang et.al.|[2611.27633](http://arxiv.org/abs/2611.27633)|null|
 |**2026-11-19**|**Stereo Visual Odometry with In-the-Loop Geometric Feed-Forward Models Towards Dense Metric Mapping**|Fahira Afzal Maken et.al.|[2611.25445](http://arxiv.org/abs/2611.25445)|null|
 |**2026-11-17**|**DGV-DLIVO: Degeneracy-Guided Visual Fusion for Direct LiDAR-Inertial-Visual Odometry in Degenerate Tunnel Environments**|Junrui Zhang et.al.|[2611.22385](http://arxiv.org/abs/2611.22385)|null|
 |**2026-11-17**|**SE(3)-LIVOM: Adaptive Multi-LiDAR-Inertial-Visual Odometry and Mapping**|Gunhee Shin et.al.|[2611.22047](http://arxiv.org/abs/2611.22047)|null|
@@ -71,7 +72,6 @@
 |**2026-05-23**|**LC-Flow: Learning Local Continuous Optical Flow and Confidence from events**|Gunwoo Jeon et.al.|[2605.24604](http://arxiv.org/abs/2605.24604)|null|
 |**2026-05-21**|**Extending Deep Event Visual Odometry with Sparse Point-Cloud Export**|Alireza Safdari et.al.|[2605.22890](http://arxiv.org/abs/2605.22890)|null|
 |**2026-05-19**|**EpiDiffVO: Geometry-Aware Epipolar Diffusion for Robust Visual Odometry**|Prateeth Rao et.al.|[2605.19556](http://arxiv.org/abs/2605.19556)|null|
-|**2026-05-08**|**AERO-VIS: Asynchronous Event-based Real-time Onboard Visual-Inertial SLAM**|Yannick Burkhardt et.al.|[2605.07885](http://arxiv.org/abs/2605.07885)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -136,11 +136,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-20**|**PaMuk-Bench: A Parallel Multilingual Multitask Benchmark for Vision-Language Tasks**|Silviu-Florin Gheorghe et.al.|[2611.27521](http://arxiv.org/abs/2611.27521)|null|
 |**2026-11-19**|**A Task-Level Bias Taxonomy for Historical Image Retrieval**|Omkar Gavali et.al.|[2611.26019](http://arxiv.org/abs/2611.26019)|null|
 |**2026-11-18**|**CHORUS: Cross-Subject Harmonization via Population Relay for Unseen Subjects in Brain Visual Decoding**|Jiayu Zuo et.al.|[2611.24364](http://arxiv.org/abs/2611.24364)|null|
 |**2026-11-18**|**Stabilizing Neural-to-Image Retrieval with Frequency-Domain Priors and Adaptive Supervision**|YaoYang Liu et.al.|[2611.24163](http://arxiv.org/abs/2611.24163)|null|
 |**2026-11-18**|**Benchmarking Reasoning Reliability,Prior_Evidence Contrast,and Spectral Discrimination in Remote-Sensing Geological Image Interpretation**|Jun Wang et.al.|[2611.24068](http://arxiv.org/abs/2611.24068)|null|
-|**2026-11-18**|**SIRAZ: Sparse Inter-Layer Residual Aggregation for Zero-Shot Visual Neural Decoding**|Neha et.al.|[2611.23991](http://arxiv.org/abs/2611.23991)|null|
+|**2026-11-18**|**SIRAZ: Sparse Inter-Layer Residual Aggregation for Zero-Shot Visual Neural Decoding**| Neha et.al.|[2611.23991](http://arxiv.org/abs/2611.23991)|null|
 |**2026-11-17**|**Bits, Not Boxes: Label-Free Layer Selection for Visual Localization in VLMs**|Haisheng Fu et.al.|[2611.23432](http://arxiv.org/abs/2611.23432)|null|
 |**2026-11-17**|**PeriaTrace: Tooth-Level Grounding Diagnosis and Patient-Facing Explanations from Periapical Radiographs**|Zhenhuan Zhou et.al.|[2611.23012](http://arxiv.org/abs/2611.23012)|null|
 |**2026-11-17**|**EfficientVPR: Toward Efficient Visual Place Recognition via Scene-Aware Prompt Tuning and Adaptive Feature Enhancement**|Wenjing Tang et.al.|[2611.22506](http://arxiv.org/abs/2611.22506)|null|
@@ -185,7 +186,6 @@
 |**2026-10-22**|**WovenAnchor Matcher: Specialized Intra- and Inter-Image Context Modeling for Feature Matching**|Zhiyang Li et.al.|[2610.30799](http://arxiv.org/abs/2610.30799)|null|
 |**2026-10-20**|**Copyright Leakage Detection in AI Generated Videos**|Shaif Chowdhury et.al.|[2610.28524](http://arxiv.org/abs/2610.28524)|null|
 |**2026-10-20**|**Multimodal Reranking Is a System One Decision**|Zhuchenyang Liu et.al.|[2610.28435](http://arxiv.org/abs/2610.28435)|null|
-|**2026-10-20**|**Less is More: Concise Retrieval and Critic-based Re-ranking for Composed Image Retrieval**|Yuqian Zheng et.al.|[2610.27538](http://arxiv.org/abs/2610.27538)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -193,6 +193,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-20**|**HumanoidPose: Monocular 3D Pose Estimation for Humanoid Robots**|Jinlin Gan et.al.|[2611.27181](http://arxiv.org/abs/2611.27181)|null|
 |**2026-11-06**|**Direct Regression and Geometric Recovery for Event-based Spacecraft Pose Estimation**|Pruthvi Nandan Janga et.al.|[2611.09717](http://arxiv.org/abs/2611.09717)|null|
 |**2026-11-05**|**GEKey: Learning Geodesic Eccentric 3D Keypoints via Self-Supervision**|Pierre Onghena et.al.|[2611.07677](http://arxiv.org/abs/2611.07677)|null|
 |**2026-10-29**|**InfantNet: A Large Scale Dataset for Infant Body Pose and Shape Estimation**|Zhipeng Hui et.al.|[2610.40467](http://arxiv.org/abs/2610.40467)|null|
@@ -242,7 +243,6 @@
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336](http://arxiv.org/abs/2506.22336)|null|
 |**2025-06-27**|**SDRNET: Stacked Deep Residual Network for Accurate Semantic Segmentation of Fine-Resolution Remotely Sensed Images**|Naftaly Wambugu et.al.|[2506.21945](http://arxiv.org/abs/2506.21945)|null|
 |**2025-05-29**|**TimePoint: Accelerated Time Series Alignment via Self-Supervised Keypoint and Descriptor Learning**|Ron Shapira Weber et.al.|[2505.23475](http://arxiv.org/abs/2505.23475)|**[link](https://github.com/bgu-cs-vil/timepoint)**|
-|**2025-05-24**|**Why Not Replace? Sustaining Long-Term Visual Localization via Handcrafted-Learned Feature Collaboration on CPU**|Yicheng Lin et.al.|[2505.18652](http://arxiv.org/abs/2505.18652)|**[link](https://github.com/linyicheng1/orb_slam3_localization)**|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -250,6 +250,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-20**|**Which Dwarf Is This? Doppeldwarf-306 and Near-Identical Instance Retrieval**|Turhan Can Kargin et.al.|[2611.27490](http://arxiv.org/abs/2611.27490)|null|
 |**2026-11-19**|**LBW-NPS: A Local Band-Weighted Noise Power Spectrum Loss for Texture-Preserving Low-Dose CT Denoising**|Fatma Elif Yalçındağ et.al.|[2611.25548](http://arxiv.org/abs/2611.25548)|null|
 |**2026-11-15**|**Mock Observations: Morphological Analysis of Galactic Bars in IllustrisTNG Simulations**|Jun-Yu Gong et.al.|[2611.19884](http://arxiv.org/abs/2611.19884)|null|
 |**2026-11-06**|**OfficeTwin: Realizing 3D Reconstruction of Redundant Scenes through Partial Viewpoint Perception**|Quanyun Wu et.al.|[2611.10241](http://arxiv.org/abs/2611.10241)|null|
@@ -299,7 +300,6 @@
 |**2026-07-30**|**Can Synthetic Data Overcome the Generalization Limits of AI-Based Flower and Pod Detection Across Cowpea Breeding Genotypes and Environments?**|Hamid Kamangir et.al.|[2607.28796](http://arxiv.org/abs/2607.28796)|null|
 |**2026-07-30**|**CXR-Retrieve: Compositional Text-to-Image Retrieval in Chest Radiography**|Tomer Erez et.al.|[2607.27779](http://arxiv.org/abs/2607.27779)|null|
 |**2026-07-29**|**VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion**|Zador Pataki et.al.|[2607.27194](http://arxiv.org/abs/2607.27194)|null|
-|**2026-07-29**|**Robust RPC Bundle Adjustment for Multi-Date Satellite Imagery with Season-Invariant Correspondences**|Roger Marí et.al.|[2607.26973](http://arxiv.org/abs/2607.26973)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -307,6 +307,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-20**|**PennyGS: Full Resolution 3DGS Training in Minutes on Consumer GPUs**|Nicholas Jing Shou Nge et.al.|[2611.27525](http://arxiv.org/abs/2611.27525)|null|
+|**2026-11-20**|**EAST: Event-Anchored Surface Transport for Event-Based Gaussian Reconstruction**|Ke Luo et.al.|[2611.27224](http://arxiv.org/abs/2611.27224)|null|
 |**2026-11-19**|**FirstCross: Convex Single-Photon 3D Reconstruction from Sparse Views**|Chi-Wei Lee et.al.|[2611.26321](http://arxiv.org/abs/2611.26321)|null|
 |**2026-11-19**|**AGSR: Aperture-Guided Super-Resolution for Gaussian Splatting**|Ayman Alkhateeb et.al.|[2611.25934](http://arxiv.org/abs/2611.25934)|null|
 |**2026-11-19**|**Multi-View Relighting with Mergeable Radiance Fields**|Yinan Wang et.al.|[2611.25523](http://arxiv.org/abs/2611.25523)|null|
@@ -355,8 +357,6 @@
 |**2026-09-30**|**UGOD: Uncertainty-Guided Opacity and Dropout for Sparse-View 3D Gaussian Splatting**|Zhihao Guo et.al.|[2609.39089](http://arxiv.org/abs/2609.39089)|null|
 |**2026-09-29**|**Single-Voxel Wireless NeRF for Spatial Spectrum Prediction**|Raj Bakhunchhe et.al.|[2609.36547](http://arxiv.org/abs/2609.36547)|null|
 |**2026-09-28**|**Remote Sensing Sparse-View 3D Gaussian Splatting via Depth Image-Based Rendering**|Jiaming Kang et.al.|[2609.35612](http://arxiv.org/abs/2609.35612)|null|
-|**2026-09-28**|**Less Is More: Genetic Frame Selection for Efficient Novel View Synthesis**|Diego E. Farchione et.al.|[2609.35573](http://arxiv.org/abs/2609.35573)|null|
-|**2026-09-24**|**LiTe-GS: Oracle-Efficient Next Best View Selection for 3D Gaussian Splatting**|Vivek Pandey et.al.|[2609.30393](http://arxiv.org/abs/2609.30393)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -364,6 +364,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-20**|**DOiT: Better Money-Flow Ranking Can Coexist with Worse Account Selection in Anti-Money Laundering Review**|Gwangui Hong et.al.|[2611.27809](http://arxiv.org/abs/2611.27809)|null|
+|**2026-11-20**|**Spatiotemporal Graph Neural Networks for Fault Detection and Structural Learning in Chemical Processes: Use Case on the Tennessee Eastman Process**|Rayane Ammar Khodja et.al.|[2611.27698](http://arxiv.org/abs/2611.27698)|null|
+|**2026-11-20**|**Learned Network Dynamics for Model Predictive Traffic Signal Control under Incidents**|Dang Viet Anh Nguyen et.al.|[2611.27435](http://arxiv.org/abs/2611.27435)|null|
+|**2026-11-20**|**DermKG: A Concept-Centric Knowledge Graph for Interpretable Skin Disease Diagnosis from Dermatological Morphology**|Cheng Huang et.al.|[2611.27283](http://arxiv.org/abs/2611.27283)|null|
+|**2026-11-20**|**Revealing the growth of structural length in glass-forming liquids without using dynamical information**|Min Liu et.al.|[2611.27231](http://arxiv.org/abs/2611.27231)|null|
+|**2026-11-20**|**Measuring and predicting plasma blob influence on downstream transport through paired simulations**|J. C. Huang et.al.|[2611.27039](http://arxiv.org/abs/2611.27039)|null|
+|**2026-11-19**|**A Sparsity Analysis of Traffic Forecasting Architectures: How Much Missing Data is Too Much?**|Mohamed Hamad et.al.|[2611.26847](http://arxiv.org/abs/2611.26847)|null|
 |**2026-11-19**|**Perfumer: A Large Language Model-based Agentic Framework Accelerating Structural Relaxation and Electronic Band Prediction for First-Principle Calculation**|Zhiwei Li et.al.|[2611.26349](http://arxiv.org/abs/2611.26349)|null|
 |**2026-11-19**|**Predicting Surface Displacement Fields of Laser Powder Bed Fusion Parts Using STL-Derived Graphs and Part-Level Descriptors**|Saima Ahmed Suhi et.al.|[2611.26323](http://arxiv.org/abs/2611.26323)|null|
 |**2026-11-19**|**Phantom of the Masquerade: Graph Neural Network-Based Detection of Masquerade Attacks in Controller Area Networks**|Nehal Ameen et.al.|[2611.26094](http://arxiv.org/abs/2611.26094)|null|
@@ -407,13 +414,6 @@
 |**2026-11-12**|**Machine Learning for Scalable Multi-AP Coordination in IEEE 802.11bn Networks**|Maksymilian Wojnar et.al.|[2611.16634](http://arxiv.org/abs/2611.16634)|null|
 |**2026-11-12**|**DySR-GNN: Dynamic Sensor-Relationship Graph Neural Network for Root Cause Analysis in Automotive HiL Multivariate Time Series**|Hamza Ouarrad et.al.|[2611.16623](http://arxiv.org/abs/2611.16623)|null|
 |**2026-11-12**|**Feature-Aware Edge Sampling for Approximate One-Step Laplacian Propagation**|Jonathan Z. Sun et.al.|[2611.16169](http://arxiv.org/abs/2611.16169)|null|
-|**2026-11-11**|**Machine learning and high accuracy: Neural preconditioners for computational gravity**|Thomas Osburn et.al.|[2611.16106](http://arxiv.org/abs/2611.16106)|null|
-|**2026-11-11**|**From Link Prediction to Linear Community Detection: A Finite-Sample Guarantee for Graph Pretraining**|Ying Chen et.al.|[2611.15778](http://arxiv.org/abs/2611.15778)|null|
-|**2026-11-11**|**Materials research with a general-purpose agent**|Paulo R. Pires et.al.|[2611.15451](http://arxiv.org/abs/2611.15451)|null|
-|**2026-11-11**|**DGPExplainer: Generating Prototype Sequence Explanations for Dynamic Graph Neural Networks**|Jinlong Hu et.al.|[2611.15224](http://arxiv.org/abs/2611.15224)|null|
-|**2026-11-10**|**Hierarchical Graph Representation Learning with Pooling-Induced Substructures**|Luca Sbicego et.al.|[2611.14126](http://arxiv.org/abs/2611.14126)|null|
-|**2026-11-10**|**Resilient Integrated Access and Backhaul Network Planning via Graph Neural Network Curriculum Learning**|Jie Zhang et.al.|[2611.14042](http://arxiv.org/abs/2611.14042)|null|
-|**2026-11-10**|**Analog quantum approximate optimization algorithm for solving the weighted MaxCut problem on three-dimensional single-atom Rydberg array**|Junxi Chen et.al.|[2611.13796](http://arxiv.org/abs/2611.13796)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -421,10 +421,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-20**|**Real-time neuromorphic audio and vision perception for autonomous robotic applications: Integration and experimental evaluation on a rover platform**|Guillem Fustier-Castillo et.al.|[2611.27953](http://arxiv.org/abs/2611.27953)|null|
+|**2026-11-20**|**Self-Supervised Continuous-Time Depth Learning and Ego-Motion Estimation from Asynchronous Events**|Sadiq O. Macaulay et.al.|[2611.27509](http://arxiv.org/abs/2611.27509)|null|
+|**2026-11-20**|**EAST: Event-Anchored Surface Transport for Event-Based Gaussian Reconstruction**|Ke Luo et.al.|[2611.27224](http://arxiv.org/abs/2611.27224)|null|
 |**2026-11-19**|**High-Speed Widefield Hyperspectral Imaging**|Joana M. Teixeira et.al.|[2611.26097](http://arxiv.org/abs/2611.26097)|null|
 |**2026-11-19**|**Reference-Twist-Based Velocity-Domain Spatiotemporal Calibration for mmWave Radar, Event Camera, and IMU**|Zhenghao Zou et.al.|[2611.26083](http://arxiv.org/abs/2611.26083)|null|
 |**2026-11-17**|**Event-Based Dynamic Lip Region Estimation During Speech**|Hamze Hammami et.al.|[2611.23111](http://arxiv.org/abs/2611.23111)|null|
-|**2026-11-17**|**Event-Based Person Detection for Maritime UAV Search**|Zijie Ning et.al.|[2611.23088](http://arxiv.org/abs/2611.23088)|null|
+|**2026-11-20**|**Event-Based Person Detection for Maritime UAV Search**|Zijie Ning et.al.|[2611.23088](http://arxiv.org/abs/2611.23088)|null|
 |**2026-11-17**|**EM-SDTrack: Efficient Multi-Scale Spike-driven Tracking for Event Cameras**|Yimeng Shan et.al.|[2611.22700](http://arxiv.org/abs/2611.22700)|null|
 |**2026-11-16**|**Déjà-Events: Multi-view 3D Geometry with Event Cameras via Sparsity-Aware Adaptive Gating**|Arda Cinar Demirtas et.al.|[2611.21302](http://arxiv.org/abs/2611.21302)|null|
 |**2026-11-16**|**Event-Guided Stereo Video Super-Resolution**|Hanyu Xuan et.al.|[2611.20629](http://arxiv.org/abs/2611.20629)|null|
@@ -468,9 +471,6 @@
 |**2026-09-29**|**Vmem- $\varphi$ : Low-Compute Out-of-Distribution Detection in Spiking Neural Networks from Membrane-Potential Statistics**|Arul Rana et.al.|[2610.00350](http://arxiv.org/abs/2610.00350)|null|
 |**2026-09-29**|**SFE-VGGT: Source-Free VGGT Distillation for Event-Based Monocular Depth Estimation**|Thai Duy Nguyen et.al.|[2609.36929](http://arxiv.org/abs/2609.36929)|null|
 |**2026-09-28**|**Stealth Is a Relation, Not a Property: How Event Representations Create Blind Spots for Timing Attacks in Event-Based Perception**|Shoaib Ahmed Dipu et.al.|[2609.36386](http://arxiv.org/abs/2609.36386)|null|
-|**2026-09-28**|**ECHO: Event-Augmented Context with Hindsight and Outlook for Wrist-Only Manipulation**|Xinyue Wang et.al.|[2609.34893](http://arxiv.org/abs/2609.34893)|null|
-|**2026-09-28**|**E-WAVE: Event-based Continuous Optical Flow via Warping-Aligned Visual Encoding**|Jiale Wu et.al.|[2609.34346](http://arxiv.org/abs/2609.34346)|null|
-|**2026-09-30**|**Unifying Video Tasks via Spatiotemporal Analogy**|Chia-Hsiang Kao et.al.|[2609.33935](http://arxiv.org/abs/2609.33935)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
@@ -478,6 +478,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-20**|**Real-time neuromorphic audio and vision perception for autonomous robotic applications: Integration and experimental evaluation on a rover platform**|Guillem Fustier-Castillo et.al.|[2611.27953](http://arxiv.org/abs/2611.27953)|null|
+|**2026-11-20**|**Learning in Symbiosis: Heterogeneous Federated Learning with ANNs and SNNs**|Manh V. Nguyen et.al.|[2611.27686](http://arxiv.org/abs/2611.27686)|null|
+|**2026-11-20**|**Spiking Neural Networks Incrementally Track Firing-Rate Networks**|Hyunseok Oh et.al.|[2611.27322](http://arxiv.org/abs/2611.27322)|null|
+|**2026-11-20**|**Stratum: A Hardware-Software Co-Design Framework for SNN Inference on RISC-V**|Wajahat Riaz et.al.|[2611.27277](http://arxiv.org/abs/2611.27277)|null|
+|**2026-11-20**|**AceVLN: Asynchronous Cloud Edge Deployment of VLNs via Latent Scheduling and Compensation**|Zihao Zheng et.al.|[2611.27255](http://arxiv.org/abs/2611.27255)|null|
+|**2026-11-20**|**More Bits Won't Fix It: Diagnosing and Treating an Ill-Conditioned Backward Pass (A Case Study on Gemma-4)**|Jeong Hyun Lee et.al.|[2611.27243](http://arxiv.org/abs/2611.27243)|null|
+|**2026-11-20**|**Opto-Electronic Hybrid Reinforcement Learning Based on MZI for Robotic Manipulator Control**|Mengting Yu et.al.|[2611.27129](http://arxiv.org/abs/2611.27129)|null|
+|**2026-11-20**|**Acceleration of Sparse and Irregular Workloads through Energy-Efficient Stream Extensions**|Paul Scheffler et.al.|[2611.26939](http://arxiv.org/abs/2611.26939)|null|
 |**2026-11-19**|**FEA solver integration of a composite World Model with a Spiking Neural Network memory Block for computationally efficient modelling of defects and variabilities**|Bassam El Said et.al.|[2611.26419](http://arxiv.org/abs/2611.26419)|null|
 |**2026-11-19**|**Controlling the Humanoid Robot H1-2 With a Simulated Biologically Plausible Network**|Fatima Atwi et.al.|[2611.26074](http://arxiv.org/abs/2611.26074)|null|
 |**2026-11-19**|**Recursive extrema extraction tracks temporal organization through progressive data reduction**|Vadim Shlyonsky et.al.|[2611.25957](http://arxiv.org/abs/2611.25957)|null|
@@ -520,14 +528,6 @@
 |**2026-11-12**|**What Does It Cost to Force-Close a Lightning Channel? Evidence from 974,000 Channel Closes, 2018-2026**|Saurabh Kumar et.al.|[2611.16311](http://arxiv.org/abs/2611.16311)|null|
 |**2026-11-11**|**An Open-Architecture Dual-Core STM32-Based Neural Interface with Low-Latency On-Device AI for Neuromodulation Applications**|Sipeng Liang et.al.|[2611.15942](http://arxiv.org/abs/2611.15942)|null|
 |**2026-11-11**|**Eigenvalue Crossings and Discontinuous BBP Transitions in Spiked Euclidean Random Matrices**|Pasquale Casaburi et.al.|[2611.15927](http://arxiv.org/abs/2611.15927)|null|
-|**2026-11-10**|**Recurrent Modular Structure in Spiking Neural Network Reinforcement Learning**|Vikram Ramavarapu et.al.|[2611.14262](http://arxiv.org/abs/2611.14262)|null|
-|**2026-11-10**|**Excitable Behaviours of a First-Order High-Pass Neuron Model**|Jérôme Adriaens et.al.|[2611.13985](http://arxiv.org/abs/2611.13985)|null|
-|**2026-11-10**|**Towards Design of Efficient Neuromorphic Controllers**|Koen Scheres et.al.|[2611.13874](http://arxiv.org/abs/2611.13874)|null|
-|**2026-11-10**|**Neuromodulation Through Intrinsic Noise**|Sunghyun Koo et.al.|[2611.13780](http://arxiv.org/abs/2611.13780)|null|
-|**2026-11-10**|**Similar visual tuning conceals different recovery dynamics in a model of macaque V1**|Xialei Huang et.al.|[2611.13692](http://arxiv.org/abs/2611.13692)|null|
-|**2026-11-09**|**Network-Co-Designed Dynamic Sparsification for Dependable Distributed Robot Learning over 3GPP Networks**|Géza Szabó et.al.|[2611.13282](http://arxiv.org/abs/2611.13282)|null|
-|**2026-11-09**|**Depletion of Dark Matter Spikes by Massive Black Hole Mergers**|Charlie Sharpe et.al.|[2611.13170](http://arxiv.org/abs/2611.13170)|null|
-|**2026-11-09**|**Input and Horizon Dependent Structural Fidelity in Chunk Coupled Spiking Networks**|Xinjun Li et.al.|[2611.12813](http://arxiv.org/abs/2611.12813)|null|
 
 <p align=right>(<a href=#top>back to top</a>)</p>
 
